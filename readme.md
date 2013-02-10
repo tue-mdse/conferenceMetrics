@@ -1,5 +1,5 @@
 # Bibliometrics for software engineering conferences
-===
+---
 
 ### Contents
 
