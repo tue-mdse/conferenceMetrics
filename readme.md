@@ -32,7 +32,6 @@ Alternatively, the database can be recreated (hence easily extended) from CSV fi
 In some cases the DBLP data also contains the session title(s) for a given paper. For example, for [papers published at ICSE 2012](http://www.informatik.uni-trier.de/~ley/db/conf/icse/icse2012.html), a session title (such as `Technical Research`, originally encoded as an HTML `h2` header and recorded in the `session_h2` column) and a session subtitle (such as `Fault Handling`, originally encoded as an HTML `h3` header and recorded in the `session_h3` column) is available. When available, such titles could be used to automatically filter papers if so desired for a certain bibliometric analysis.
 
 ## Using the database
----
 
 Most simply, you can import the [SQL dump](https://github.com/tue-mdse/conferenceMetrics/blob/master/data/conferences_dblp.sql.gz) into your favourite database management system (tested on MySQL) and start querying.
 
