@@ -15,5 +15,6 @@ This is a database of papers and programme committee members for software engine
 - **ICPC**, IEEE International Conference on Program Comprehension
 - **SCAM**, International Working Conference on Source Code Analysis & Manipulation
 
+![alt text](https://github.com/tue-mdse/conferenceMetrics/blob/master/model.png "DB schema")
 
 
