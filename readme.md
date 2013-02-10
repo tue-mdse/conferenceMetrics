@@ -23,9 +23,12 @@ Alternatively, the database can be recreated (hence easily extended) from CSV fi
 
 Data provenance:
 
-- Papers and authors: the [DBLP](http://www.dblp.org/db/) data dump. Papers which were part of the main (research) track have been (manually) marked as such in the `main_track` column.
+- Papers and authors: the [DBLP](http://www.dblp.org/db/) data dump. Papers which were part of the main (research) track have been (manually) marked as such in the `main_track` column. 
 - Number of submssions: Tao Xie's [software engineering conference statistics](http://people.engr.ncsu.edu/txie/seconferences.htm); foreword to proceedings.
 - Composition of programme committee: conference websites (disambiguation was performed to align the spelling used on the different websites to that found in DBLP).
+
+In some cases the DBLP data also contains the session title(s) for a given paper. For example, for [papers published at ICSE 2012](http://www.informatik.uni-trier.de/~ley/db/conf/icse/icse2012.html), a session title (such as `Technical Research`, originally encoded as an HTML `h2` header and recorded in the `session_h2` column) and a session subtitle (such as `Fault Handling`, originally encoded as an HTML `h3` header and recorded in the `session_h3` column) is available. When available, such titles could be used to automatically filter out papers if so desired for a certain bibliometric analysis.
+
 
 
 
