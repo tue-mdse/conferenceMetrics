@@ -47,7 +47,7 @@ Python scripts:
 	- programme committee turnover *RNC(c,y,k)*: fraction of PC of *c* in year *y* that have not served on the PC between *y-k* and *y-1*.
 	- *inbreeding* ratio *RAC(c,y,k)*: fraction of papers published at *c* in year *y* co-authored by PC members from *y-k* to *y*.
   
-   For a complete list of metrics see [this preprint](http://www.win.tue.nl/mdse/conferences/SCP13.pdf).
-- `queryDB.py`: queries the database, computes the metrics defined in the metrics model, and outputs the results to CSV files. For an example of a visualisation of these results, we include the `visualisation.r` R script that produces the following plot for *RAC(c,y,0)*
+   For a complete list of metrics check the source code, or see [this preprint](http://www.win.tue.nl/mdse/conferences/SCP13.pdf).
+- `queryDB.py`: queries the database, computes the metrics defined in the metrics model, and outputs the results to CSV files. For an example of a visualisation of these results, we include the `visualisation.r` R script that produces the following plot for *RAC(c,y,0)*, the fraction of papers each year co-authored by PC members from that year.
 
 <img align="center" width="100%" src="https://raw.github.com/tue-mdse/conferenceMetrics/master/visualisation/RAC0.png">
