@@ -1,0 +1,257 @@
+2012;Dongmei Zhang;MSR 2012 keynote: Software analytics in practice - Approaches and experiences.;1;1;Keynote I;;
+2012;Krzysztof Czarnecki,Leonardo Teixeira Passos,Rafael Lotufo;Towards improving bug tracking systems with game mechanisms.;2-11;10;Software Repositories;;selected
+2012;Georgios Gousios,Diomidis Spinellis;GHTorrent: Github's data from a firehose.;12-21;10;Software Repositories;;selected
+2012;Premkumar T. Devanbu,Vladimir Filkov,Daryl Posnett;MIC check: A correlation tactic for ESE data.;22-31;10;Software Repositories;;selected
+2012;Mostafa Erfani,George Peristerakis,Juergen Rilling,Aseel Hmood,Iman Keivanloo,Christopher Neal,Christopher Forbes;A Linked Data platform for mining software repositories.;32-35;4;Software Repositories;;selected
+2012;Jairo Aponte,Christian Rodriguez-Bustos;How Distributed Version Control Systems impact open source software projects.;36-39;4;Software Repositories;;selected
+2012;Baishakhi Ray,Jihun Park,Miryung Kim,Doo-Hwan Bae;An empirical study of supplementary bug fixes.;40-49;10;Bug Fixing and Prediction;;selected
+2012;Bunyamin Sisman,Avinash C. Kak;Incorporating version histories in Information Retrieval based bug localization.;50-59;10;Bug Fixing and Prediction;;selected
+2012;Meiyappan Nagappan,Ahmed E. Hassan,Nicolas Bettenburg;Think locally, act globally: Improving defect and effort prediction models.;60-69;10;Bug Fixing and Prediction;;selected
+2012;Rodrigo Souza,Christina von Flach G. Chavez;Characterizing verification of bug fixes in two open source IDEs.;70-73;4;Bug Fixing and Prediction;;selected
+2012;Lingxiao Jiang,Ferdian Thung,David Lo,Lucia;Are faults localizable?;74-77;4;Bug Fixing and Prediction;;selected
+2012;Abram Hindle;Green mining: A methodology of relating software change to power consumption.;78-87;10;New MSR Trends;;selected
+2012;Sunita Chulani,Pete Rotella;Analysis of customer satisfaction survey data.;88-97;10;New MSR Trends;;selected
+2012;Olga Baysal,Reid Holmes,Michael W. Godfrey;Mining usage data and development artifacts.;98-107;10;New MSR Trends;;selected
+2012;Yuanyuan Zhang,Yue Jia,Mark Harman;App store mining and analysis: MSR for app stores.;108-111;4;New MSR Trends;;selected
+2012;Yasutaka Kamei,Pamela Bhattacharya,Emad Shihab;Mining challenge 2012: The Android platform.;112-115;4;Mining Challenge;;
+2012;Muhammad Asaduzzaman,Chanchal Kumar Roy,Michael C. Bullock,Kevin A. Schneider;Bug introducing changes: A case study with Android.;116-119;4;Mining Challenge;;
+2012;Lee Martie,Vijay Krishna Palepu,Hitesh Sajnani,Cristina Videira Lopes;Trendy bugs: Topic trends in the Android bug reports.;120-123;4;Mining Challenge;;
+2012;Abram Hindle,Fabio Rocha,Victor Guana,Eleni Stroulia;Do the stars align? Multidimensional analysis of Android's layered architecture.;124-127;4;Mining Challenge;;
+2012;Wei Hu,Abram Hindle,Kenny Wong,Dan Han;The build dependency perspective of Android's concrete architecture.;128-131;4;Mining Challenge;;
+2012;Vibha Sinha,Senthil Mani,Monika Gupta;MINCE: Mining change history of Android project.;132-135;4;Mining Challenge;;
+2012;Laura Arjona Reina,Gregorio Robles;Mining for localization in Android.;136-139;4;Mining Challenge;;
+2012;Margaret-Anne D. Storey;MSR 2012 keynote: The evolution of the social programmer.;140;1;Keynote II;;
+2012;Roberto Di Cosmo,Ralf Treinen,Cyrille Valentin Artho,Stefano Zacchiroli,Kuniyasu Suzaki;Why do software packages conflict?;141-150;10;Software Analysis;;selected
+2012;Anh Cuong Nguyen,Siau-Cheng Khoo;Discovering complete API rules with mutation testing.;151-160;10;Software Analysis;;selected
+2012;Jinqiu Yang,Lin Tan;Inferring semantically related words from software context.;161-170;10;Software Analysis;;selected
+2012;Sunghun Kim,Caitlin Sadowski,Jaeheon Yi;The evolution of data races.;171-174;4;Software Analysis;;selected
+2012;Alexander Breckel;Error mining: Bug detection through comparison with large code databases.;175-178;4;Software Analysis;;selected
+2012;Foutse Khomh,Tejinder Dhaliwal,Bram Adams,Ying Zou;Do faster releases improve software quality? An empirical case study of Mozilla Firefox.;179-188;10;Quality and Performance;;selected
+2012;Meiyappan Nagappan,Ahmed E. Hassan,Tse-Hsun Chen,Stephen W. Thomas;Explaining software defects using topic models.;189-198;10;Quality and Performance;;selected
+2012;Shahed Zaman,Ahmed E. Hassan,Bram Adams;A qualitative study on performance bugs.;199-208;10;Quality and Performance;;selected
+2012;Aigerim Issabayeva,Joost Visser,Ariadi Nugroho;Issue handling performance in proprietary software projects.;209-212;4;Quality and Performance;;selected
+2012;Barbara Russo,Maximilian Steff;Co-evolution of logical couplings and commits for defect estimation.;213-216;4;Quality and Performance;;selected
+2012;Emanuel Giger,Harald Gall,Martin Pinzger;Can we predict types of code changes? An empirical analysis.;217-226;10;Evolution and Process;;selected
+2012;Maayan Goldstein,Dany Moshkovich,Yossi Gil;An empirical investigation of changes in some software properties over time.;227-236;10;Evolution and Process;;selected
+2012;Christian Bird,Nachiappan Nagappan;Who? Where? What? Examining distributed development in two large open source projects.;237-246;10;Evolution and Process;;selected
+2012;Palakorn Achananuparp,Nelman Lubis Ibrahim,Yuan Tian,David Lo,Ee-Peng Lim;What does software engineering community microblog about?;247-250;4;Evolution and Process;;selected
+2012;Andrea Capiluppi,Alexander Serebrenik,Ahmmad Youssef;Developing an h-index for OSS developers.;251-254;4;Evolution and Process;;selected
+2011;Jim Whitehead;Fantasy, farms, and freemium: what game data mining teaches us about retention, conversion, and virality (keynote abstract).;1;1;Keynotes;;
+2011;Yuanyuan Zhou;Connecting technology with real-world problems - from copy-paste detection to detecting known bugs: (keynote abstract).;2;1;Keynotes;;
+2011;Christian Bird,Chris Parnin,Emerson R. Murphy-Hill;Java generics adoption: how new features are introduced, championed, or ignored.;3-12;10;Language evolution;;selected
+2011;Harald Gall,Siim Karus;A study of language usage evolution in open source software.;13-22;10;Language evolution;;selected
+2011;David Rothlisberger,Romain Robbes,Eric Tanter,Oscar Callau;How developers use the dynamic features of programming languages: the case of smalltalk.;23-32;10;Language evolution;;selected
+2011;Giuliano Antoniol,Massimiliano Di Penta,Yann-Gael Gueheneuc,Venera Arnaoudova,Laleh Mousavi Eshkevari,Rocco Oliveto;An exploratory study of identifier renamings.;33-42;10;Language evolution;;selected
+2011;Shivani Rao,Avinash C. Kak;Retrieval from software libraries for bug localization: a comparative study of generic and composite text models.;43-52;10;Retrieval, refactoring, clones, readability;;selected
+2011;Quinten David Soetens,Willi Hornig,Stephan Diehl,Benjamin Biegel,Serge Demeyer;Comparison of similarity metrics for refactoring detection.;53-62;10;Retrieval, refactoring, clones, readability;;selected
+2011;Eelco Dolstra,Rob Vermaas,Karl Trygve Kalleberg,Armijn Hemel;Finding software license violations through binary code clone detection.;63-72;10;Retrieval, refactoring, clones, readability;;selected
+2011;Premkumar T. Devanbu,Abram Hindle,Daryl Posnett;A simpler model of software readability.;73-82;10;Retrieval, refactoring, clones, readability;;selected
+2011;Emanuel Giger,Harald Gall,Martin Pinzger;Comparing fine-grained source code changes and code churn for bug prediction.;83-92;10;Software quality;;selected
+2011;Shahed Zaman,Ahmed E. Hassan,Bram Adams;Security versus performance bugs: a case study on Firefox.;93-102;10;Software quality;;selected
+2011;Katerina Goseva-Popstojanova,Robyn R. Lutz,Sandeep Krishnan;Empirical evaluation of reliability improvement in an evolving software product line.;103-112;10;Software quality;;selected
+2011;Sunita Chulani,Pete Rotella;Implementing quality metrics and goals at the corporate level.;113-122;10;Software quality;;selected
+2011;Walid Maalej,Dennis Pagano;How do developers blog?: an exploratory study.;123-132;10;Developers;;selected
+2011;Vibha Sinha,Senthil Mani,Saurabh Sinha;Entering the circle of trust: developer initiation as committers in open-source projects.;133-142;10;Developers;;selected
+2011;Luigi Cerulo,Gerardo Canfora,Massimiliano Di Penta,Marta Cimitile;Social interactions around cross-system bug fixings: the case of FreeBSD and OpenBSD.;143-152;10;Developers;;selected
+2011;Patrick Lam,Lin Tan,Jon Eyolfson;Do time of day and developer experience affect commit bugginess.;153-162;10;Developers;;selected
+2011;Neil A. Ernst,Michael W. Godfrey,Abram Hindle,John Mylopoulos;Automated topic naming to support cross-project analysis of software maintenance activities.;163-172;10;Development support;;selected
+2011;Ahmed E. Hassan,Bram Adams,Dorothea Blostein,Stephen W. Thomas;Modeling the evolution of topics in source code histories.;173-182;10;Development support;;selected
+2011;Michael W. Godfrey,Julius Davies,Abram Hindle,Daniel M. German;Software bertillonage: finding the provenance of an entity.;183-192;10;Development support;;selected
+2011;Gail C. Murphy,Alexander W. J. Bradley;Supporting software history exploration.;193-202;10;Development support;;selected
+2011;Matthew Hearn,Dawn Lawrie,David M. Binkley;Improving identifier informativeness using part of speech information.;203-206;4;Short papers;;selected
+2011;Pamela Bhattacharya,Iulian Neamtiu;Bug-fix time prediction models: can we do better?;207-210;4;Short papers;;selected
+2011;Hongyu Zhang,Yuan-Fang Li;Integrating software engineering data using semantic web technologies.;211-214;4;Short papers;;selected
+2011;Murray Cantor,Robert Delmonico,Segev Wasserkrug,Sateesh Kannegala,Sergey Zeltyn,Mila Keren,Ashok Pon Kumar,Perri Tarr;Improving efficiency in software maintenance.;215-218;4;Short papers;;selected
+2011;Caitlin Sadowski,Xiaoyan Zhu,Zhongpeng Lin,Jim Whitehead,Chris Lewis 0002;An empirical analysis of the FixCache algorithm.;219-222;4;Short papers;;selected
+2011;Evan Rosenfeld,Brandon Heller,Eli Marschner,Jeffrey Heer;Visualizing collaboration and influence in the open-source software community.;223-226;4;Short papers;;selected
+2011;Adrian Schroter;MSR Challenge 2011: Eclipse, Netbeans, Firefox, and Chrome.;227-229;3;Mining challenge;;
+2011;Eilwoo Baik,Xinlei (Oscar) Wang,Premkumar T. Devanbu;System compatibility analysis of Eclipse and Netbeans based on bug data.;230-233;4;Mining challenge;;
+2011;Carmine Sementa,Damiano Distante,Quirino Zagarese,Massimiliano Di Penta,Mario Luca Bernardi;What topics do Firefox and Chrome contributors discuss?;234-237;4;Mining challenge;;
+2011;Olga Baysal,Ian J. Davis,Michael W. Godfrey;A Tale of Two Browsers.;238-241;4;Mining challenge;;
+2011;Osamu Mizuno,Yukinao Hirata;Do comments explain codes adequately?: investigation by text filtering.;242-245;4;Mining challenge;;
+2011;Julius Davies,Daniel M. German;Apples vs. oranges?: an exploration of the challenges of comparing the source code of two software systems.;246-249;4;Mining challenge;;
+2010;James D. Herbsleb;MSR: Mining for scientific results?;;0;Keynotes;;
+2010;Michele Lanza;The visual terminator.;;0;Keynotes;;
+2010;Sira Vegas,Natalia Juristo Juzgado;Using differences among replications of software engineering experiments to gain knowledge.;;0;Invited Talk from ESEM 2009;;
+2010;Ahmed Lamkanfi,Bart Goethals,Serge Demeyer,Emanuel Giger;Predicting the severity of a reported bug.;1-10;10;Bugs, Bugs, Bugs;;selected
+2010;Tao Xie,Michael Gegick,Pete Rotella;Identifying security bug reports via text mining: An industrial case study.;11-20;10;Bugs, Bugs, Bugs;;selected
+2010;Ariadi Nugroho,Erik Arisholm,Michel R. V. Chaudron;Assessing UML design metrics for predicting fault-prone classes in a Java system.;21-30;10;Bugs, Bugs, Bugs;;selected
+2010;Michele Lanza,Romain Robbes,Marco D'Ambros;An extensive comparison of bug prediction approaches.;31-41;11;Bugs, Bugs, Bugs;;selected
+2010;Ahmed E. Hassan,Shane McIntosh,Bram Adams;The evolution of ANT build systems.;42-51;10;Evolution & Quality;;selected
+2010;Lucas Nussbaum,Stefano Zacchiroli;The Ultimate Debian Database: Consolidating bazaar metadata for Quality Assurance and data mining.;52-61;10;Evolution & Quality;;selected
+2010;Adrian Bachmann,Abraham Bernstein;When process data quality affects the number of bugs: Correlations in software engineering datasets.;62-71;10;Evolution & Quality;;selected
+2010;Christian Bird,Premkumar T. Devanbu,Foyzur Rahman;Clones: What is that smell?;72-81;10;Evolution & Quality;;selected
+2010;Zhen Ming Jiang,Israel Herraiz,Abram Hindle,Emad Shihab;Mining Challenge 2010: FreeBSD, GNOME Desktop and Debian/Ubuntu.;82-85;4;Mining Challenge;;
+2010;Julius Davies,Hanyu Zhang,Daniel M. German,Lucas Nussbaum;Perspectives on bugs in the Debian bug tracking system.;86-89;4;Mining Challenge;;
+2010;Florian Fankhauser,Andreas Mauczka,Thomas Grechenig,Mario Bernhart,Christian Schanes;Mining security changes in FreeBSD.;90-93;4;Mining Challenge;;
+2010;Bart Luijten,Andy Zaidman,Joost Visser;Assessment of issue handling efficiency.;94-97;4;Mining Challenge;;
+2010;Jens Krinke,Yue Jia,Nicolas Gold,David M. Binkley;Cloning and copying between GNOME projects.;98-101;4;Mining Challenge;;
+2010;Yasuhiro Hayase,Yusuke Sasaki,Katsuro Inoue,Tetsuo Yamamoto;Finding file clones in FreeBSD Ports Collection.;102-105;4;Mining Challenge;;
+2010;Gargi Bougie,Daniel M. German,Margaret-Anne D. Storey,Christoph Treude;A comparative exploration of FreeBSD bug lifetimes.;106-109;4;Mining Challenge;;
+2010;Marco Torchiano,Antonio Vetro,Maurizio Morisio;Assessing the precision of FindBugs by mining Java projects developed at a university.;110-113;4;Short Papers;;selected
+2010;Meiyappan Nagappan,Mladen A. Vouk;Abstracting log lines to log event types for mining software system logs.;114-117;4;Short Papers;;selected
+2010;Rahul Premraj,Nicolas Bettenburg,Adrian Schroter;Do stack traces help developers fix bugs?;118-121;4;Short Papers;;selected
+2010;Christian Bird,Premkumar T. Devanbu,Daryl Posnett;THEX: Mining metapatterns from java.;122-125;4;Short Papers;;selected
+2010;Manoel Gomes de Mendonca Neto,Mario Farias,Paulo Henrique,Methanias Colaco Jr.;OSS developers context-specific Preferred Representational systems: A initial Neurolinguistic text analysis of the Apache mailing list.;126-129;4;Short Papers;;selected
+2010;Joel Ossher,Sushil Krishna Bajracharya,Cristina Videira Lopes;Automated dependency resolution for open source software.;130-140;11;Search & Recommendation;;selected
+2010;Mira Mezini,Marcel Bruch,Martin Monperrus;Mining subclassing directives to improve framework reuse.;141-150;10;Search & Recommendation;;selected
+2010;Giuliano Antoniol,Massimiliano Di Penta,Daniel M. German;Identifying licensing of jar archives using a code-search approach.;151-160;10;Search & Recommendation;;selected
+2010;Romain Robbes,Michele Lanza,Damien Pollet;Replaying IDE interactions to evaluate and improve change prediction approaches.;161-170;10;Search & Recommendation;;selected
+2010;Gregorio Robles;Replicating MSR: A study of the potential replicability of papers published in the Mining Software Repositories proceedings.;171-180;10;Replication;;selected
+2010;Bram Adams,Ahmed E. Hassan,Nicolas Bettenburg,Walid M. Ibrahim,Emad Shihab;Should I contribute to this discussion?;181-190;10;People & Collaboration;;selected
+2010;Walid Maalej,Hans-Jorg Happel;Can development work describe itself?;191-200;10;People & Collaboration;;selected
+2010;Christian Bird,Premkumar T. Devanbu,Roozbeh Nia,Vladimir Filkov;Validity of network analyses in Open Source Projects.;201-209;9;People & Collaboration;;selected
+2009;Michael McAllister;Success factors of Business Intelligence.;;0;Keynotes;;
+2009;Thomas A. Ball;A brief history of software - from Bell Labs to Microsoft Research.;;0;Keynotes;;
+2009;Daniel M. German,David J. Hamilton,Christian Bird,Earl T. Barr,Premkumar T. Devanbu,Peter C. Rigby;The promises and perils of mining git.;1-10;10;Version Control and Infrastructure;;selected
+2009;Audris Mockus;Amassing and indexing a large sample of version control systems: Towards the census of public source code history.;11-20;10;Version Control and Infrastructure;;selected
+2009;Zhen Ming Jiang,Ahmed E. Hassan,Bram Adams,Weiyi Shang;MapReduce as a general framework to support research in Mining Software Repositories (MSR).;21-30;10;Version Control and Infrastructure;;selected
+2009;Georgios Gousios,Diomidis Spinellis;A platform for software engineering research.;31-40;10;Version Control and Infrastructure;;selected
+2009;Leon Moonen,Cathal Boogerd;Evaluating the relation between coding standard violations and faultswithin and across software versions.;41-50;10;Defect Prediction;;selected
+2009;Abraham Bernstein,Jonas Tappolet,Jayalath Ekanayake,Harald Gall;Tracking concept drift of software projects using defect prediction quality.;51-60;10;Defect Prediction;;selected
+2009;Yonghee Shin,Elaine J. Weyuker,Thomas J. Ostrand,Robert M. Bell;Does calling structure information improve the accuracy of fault prediction?;61-70;10;Defect Prediction;;selected
+2009;Eric Enslen,K. Vijay-Shanker,Emily Hill,Lori L. Pollock;Mining source code to automatically split identifiers for software analysis.;71-80;10;Text Analysis;;selected
+2009;Yann-Gael Gueheneuc,Massimiliano Di Penta,Daniel M. German,Giuliano Antoniol;Code siblings: Technical and legal implications of copying code between applications.;81-90;10;Text Analysis;;selected
+2009;Alexander C. MacLean,Charles D. Knutson,Daniel P. Delorey,Jason R. Casebolt,Jonathan L. Krein;Author entropy vs. file size in the gnome suite of applications.;91-94;4;MSR Chellenge;;
+2009;Holger Schackmann,Horst Lichter;Evaluating process quality in GNOME based on change request data.;95-98;4;MSR Chellenge;;
+2009;Erik Linstead,Pierre Baldi;Mining the coherence of GNOME bug reports with statistical topic models.;99-102;4;MSR Chellenge;;
+2009;Mircea Lungu,Jacopo Malnati,Michele Lanza;Visualizing Gnome with the Small Project Observatory.;103-106;4;MSR Chellenge;;
+2009;Zhen Ming Jiang,Ahmed E. Hassan,Emad Shihab;On the use of Internet Relay Chat (IRC) meetings by developers of the GNOME GTK+ project.;107-110;4;MSR Chellenge;;
+2009;Sushil Krishna Bajracharya,Cristina Videira Lopes;Mining search topics from a code search engine usage log.;111-120;10;Topic Mining;;selected
+2009;Walid Maalej,Hans-Jorg Happel;From work to word: How do software developers describe their work?;121-130;10;Developers;;selected
+2009;Dominique Matter,Oscar Nierstrasz,Adrian Kuhn;Assigning bug reports using a vocabulary-based expertise model of developers.;131-140;10;Developers;;selected
+2009;Michele Lanza,Lile Hattori;Mining the history of synchronous changes to refine code ownership.;141-150;10;Developers;;selected
+2009;Andy Zaidman,Zeeger Lubsen,Martin Pinzger;Using association rules to study the co-evolution of production & test code.;151-154;4;Poster Papers;;
+2009;Sarah Rastkar,Gail C. Murphy;On what basis to recommend: Changesets or interactions?;155-158;4;Poster Papers;;
+2009;Kim Sebastian Herzig,Andreas Zeller;Mining the Jazz repository: Challenges and opportunities.;159-162;4;Poster Papers;;
+2009;Denys Poshyvanyk,Meghan Revelle,Kai Tian;Using Latent Dirichlet Allocation for automatic categorization of software.;163-166;4;Poster Papers;;
+2009;Jesus M. Gonzalez-Barahona,Gregorio Robles,Israel Herraiz;Evolution of the core team of developers in libre software projects.;167-170;4;Poster Papers;;
+2009;Mladen A. Vouk,Prasanth Anbalagan;On mining data across software repositories.;171-174;4;Poster Papers;;
+2009;Adrian Kuhn;Automatic labeling of software components and their evolution using log-likelihood ratio of word frequencies in source code.;175-178;4;Poster Papers;;
+2009;William W. Pugh,Nathaniel Ayewah;Learning from defect removals.;179-182;4;Poster Papers;;
+2009;Erik Linstead,Joel Ossher,Sushil Krishna Bajracharya,Cristina Videira Lopes,Pierre Baldi;SourcererDB: An aggregated repository of statically analyzed and cross-linked open source Java projects.;183-186;4;Poster Papers;;
+2009;Pierre van de Laar;On the transfer of evolutionary couplings to industry.;187-190;4;Poster Papers;;
+2008;Israel Herraiz,Jesus M. Gonzalez-Barahona,Gregorio Robles;Determinism and evolution.;1-10;10;Mining 1;;selected
+2008;Koji Hashimoto,Kentaro Yoshimura,Fumio Narisawa,Tohru Kikuno;FAVE: factor analysis based approach for detecting product line variability from change history.;11-18;8;Mining 1;;selected
+2008;Jaime Spacco,Chadd C. Williams;Branching and merging in the repository.;19-22;4;Mining 1;;selected
+2008;Reid Holmes,Andrew Begel;Deep intellisense: a tool for rehydrating evaporated information.;23-26;4;Mining 1;;selected
+2008;Sunghun Kim,Thomas Zimmermann,Nicolas Bettenburg,Rahul Premraj;Extracting structural information from bug reports.;27-30;4;Bugs and changes;;selected
+2008;Katsuhisa Maruyama,Takayuki Omori;A change-aware development environment by recording editing operations of source code.;31-34;4;Bugs and changes;;selected
+2008;Jacek Ratzinger,Thomas Sigmund,Harald Gall;On the relation of refactorings and software defect prediction.;35-38;4;Bugs and changes;;selected
+2008;Jim Whitehead,Janaki T. Madhavan,Sangeetha Sudhakrishnan,Jose Renau;Understanding bug fix patterns in verilog.;39-42;4;Understanding and infrastructure;;selected
+2008;Andrew Begel,Jeff Beehler,Nachiappan Nagappan,Sam Guckenheimer,Lucas Layman;Mining software effort data: preliminary analysis of visual studio team system data.;43-46;4;Understanding and infrastructure;;selected
+2008;Robert Gobeille;The FOSSology project.;47-50;4;Understanding and infrastructure;;selected
+2008;Chris Parnin,Carsten Gorg;Improving change descriptions with change contexts.;51-60;10;Changes and clones;;selected
+2008;Hung-Fu Chang,Audris Mockus;Evaluation of source code copy detection methods on freebsd.;61-66;6;Changes and clones;;selected
+2008;Stephan Diehl,Daniel Neu,Peter Weissgerber;Small patches get in!;67-76;10;Changes and clones;;selected
+2008;Abraham Bernstein;How to learn enough data mining to be dangerous in 60 minutes.;77-78;2;How to learn enough data mining to be dangerous in 60 minutes;;selected
+2008;Yana Novikova,Giriprasad Sridhara,Lori L. Pollock,Zachary P. Fry,K. Vijay-Shanker,Emily Hill,Haley Boyd;AMAP: automatically mining abbreviation expansions in programs to enhance software maintenance tools.;79-88;10;Mining 2;;selected
+2008;Tohru Kikuno,Hideaki Hata,Osamu Mizuno;An extension of fault-prone filtering using precise training and a dynamic threshold.;89-98;10;Mining 2;;selected
+2008;Richard C. Holt,Abram Hindle,Daniel M. German;What do large commits tell us?: a taxonomical study of large commits.;99-108;10;Mining 2;;selected
+2008;Suresh Thummalapenta,Tao Xie;SpotWeb: detecting framework hotspots via mining open source repositories on the web.;109-112;4;Mining 3;;selected
+2008;Christian Bird,Premkumar T. Devanbu,David S. Pattison;Talk and work: a preliminary report.;113-116;4;Mining 3;;selected
+2008;Christopher Thomson,Mike Holcombe;Correctness of data mined from CVS.;117-120;4;Mining 3;;selected
+2008;Thomas Zimmermann,David Schuler;Mining usage expertise from version archives.;121-124;4;People are people, so ...;;selected
+2008;Premkumar T. Devanbu,Michael Gertz,Omar Alonso;Expertise identification and visualization from CVS.;125-128;4;People are people, so ...;;selected
+2008;Georgios Gousios,Diomidis Spinellis,Eirini Kalliamvakou;Measuring developer contribution from software repository data.;129-132;4;People are people, so ...;;selected
+2008;Yijun Yu,Michel Wermelinger;Analyzing the evolution of eclipse plugins.;133-136;4;Mining challenge results;;
+2008;Mahadevan Subramaniam,Parvathi Chundi,Harvey P. Siy;Summarizing developer work history using time series segmentation: challenge report.;137-140;4;Mining challenge results;;
+2008;Hongyu Zhang;An initial study of the growth of eclipse defects.;141-144;4;Mining challenge results;;
+2008;Israel Herraiz,Daniel M. German,Gregorio Robles,Jesus M. Gonzalez-Barahona;Towards a simplification of the bug report form in eclipse.;145-148;4;Mining challenge results;;
+2008;Reid Holmes,Robert J. Walker;A newbie's guide to eclipse APIs.;149-152;4;Mining challenge results;;
+2007;Andreas Zeller,Thomas Zimmermann,Rahul Premraj,Cathrin Weiss;How Long Will It Take to Fix This Bug?;1;1;Bugs;;selected
+2007;John Anvik,Gail C. Murphy;Determining Implementation Expertise from Bug Reports.;2;1;Bugs;;selected
+2007;Akito Monden,Tomoko Matsumura,Shuuji Morisaki,Haruaki Tamada,Ken-ichi Matsumoto;Defect Data Analysis Based on Extended Association Rule Mining.;3;1;Bugs;;selected
+2007;Shuya Nakaichi,Osamu Mizuno,Tohru Kikuno,Shiro Ikami;Spam Filter Based Approach for Finding Fault-Prone Software Modules.;4;1;Bugs;;selected
+2007;Shawn Minto,Gail C. Murphy;Recommending Emergent Teams.;5;1;Teams;;selected
+2007;Christian Bird,Premkumar T. Devanbu,Alex Gourley,Greta Hsu,Anand Swaminathan;Open Borders? Immigration in Open Source Projects.;6;1;Teams;;selected
+2007;Olga Baysal,Andrew J. Malton;Correlating Social Interactions to Release History during Software Evolution.;7;1;Teams;;selected
+2007;Srini Ramaswamy,Liguo Yu;Mining CVS Repositories to Understand Open-Source Project Developer Roles.;8;1;Teams;;selected
+2007;Mathias Pohl,Michael Burch,Peter Weissgerber;Visual Data Mining in Software Archives to Detect How Developers Work Together.;9;1;Mining;;selected
+2007;Jonas Tappolet,Christoph Kiefer,Abraham Bernstein;Mining Software Repositories with iSPAROL and a Software Evolution Ontology.;10;1;Mining;;selected
+2007;Thomas Zimmermann;Mining Workspace Updates in CVS.;11;1;Mining;;selected
+2007;Katharina Probst,Mark Grechanik,Kevin M. Conroy;Finding Relevant Applications for Prototyping.;12;1;Mining;;selected
+2007;Stephen P. Masticola;Lightweight Risk Mitigation for Software Development Projects Using Repository Mining.;13;1;Mining;;selected
+2007;Luigi Cerulo,Gerardo Canfora,Massimiliano Di Penta;Identifying Changed Source Code Lines from Version Repositories.;14;1;Changes;;selected
+2007;Romain Robbes;Mining a Change-Based Software Repository.;15;1;Changes;;selected
+2007;Filip Van Rysselberghe,Serge Demeyer;Studying Versioning Information to Understand Inheritance Hierarchy Changes.;16;1;Changes;;selected
+2007;Huzefa H. Kagdi,Jonathan I. Maletic;Combining Single-Version and Evolutionary Dependencies for Software-Change Prediction.;17;1;Changes;;selected
+2007;Angela Lozano,Bashar Nuseibeh,Michel Wermelinger;Evaluating the Harmfulness of Cloning: A Change Based Experiment.;18;1;Changes;;selected
+2007;Michael W. Godfrey,Richard C. Holt,Abram Hindle;Release Pattern Discovery via Partitioning: Methodology and Case Study.;19;1;Patterns and Models;;selected
+2007;Michael L. Collard,Huzefa H. Kagdi,Jonathan I. Maletic;Comparing Approaches to Mining Source Code for Call-Usage Patterns.;20;1;Patterns and Models;;selected
+2007;Israel Herraiz,Jesus M. Gonzalez-Barahona,Gregorio Robles;Towards a Theoretical Model for Software Growth.;21;1;Patterns and Models;;selected
+2007;Makoto Matsushita,Simone Livieri,Katsuro Inoue,Yoshiki Higo;Analysis of the Linux Kernel Evolution Using Code Clone Coverage.;22;1;Patterns and Models;;selected
+2007;Ahmed E. Hassan,Peter C. Rigby;What Can OSS Mailing Lists Tell Us? A Preliminary Psychometric Text Analysis of the Apache Developer Mailing List.;23;1;Developers, Developers, Developers;;selected
+2007;Daniel M. German;Using Software Distributions to Understand the Relationship among Free and Open Source Software Projects.;24;1;Developers, Developers, Developers;;selected
+2007;Mark N. Wegman,Kate Ehrlich,Clay Williams,Sunita Chulani,Giuseppe Valetto,Mary E. Helander;Using Software Repositories to Investigate Socio-technical Congruence in Development Projects.;25;1;Developers, Developers, Developers;;selected
+2007;Christian Bird,Premkumar T. Devanbu,Alex Gourley;Detecting Patch Submission and Acceptance in OSS Projects.;26;1;Developers, Developers, Developers;;selected
+2007;Sunghun Kim,Michael D. Ernst;Prioritizing Warning Categories by Analyzing Software History.;27;1;Developers, Developers, Developers;;selected
+2007;Gregorio Robles,Jesus M. Gonzalez-Barahona,Israel Herraiz;Impact of the Creation of the Mozilla Foundation in the Activity of Developers.;28;1;Mining Challenge;;
+2007;Lucas D. Panjer;Predicting Eclipse Bug Lifetimes.;29;1;Mining Challenge;;
+2007;Erik Linstead,Pierre Baldi,Sushil Krishna Bajracharya,Paul Rigor,Cristina Videira Lopes;Mining Eclipse Developer Contributions via Author-Topic Models.;30;1;Mining Challenge;;
+2007;Adrian Schroter;Predicting Defects and Changes with Import Relations.;31;1;Mining Challenge;;
+2007;Israel Herraiz,Jesus M. Gonzalez-Barahona,Gregorio Robles;Forecasting the Number of Changes in Eclipse Using Time Series Analysis.;32;1;Mining Challenge;;
+2007;Hemant Joshi,Coskun Bayrak,Srini Ramaswamy,Chuanlei Zhang;Local and Global Recency Weighting Approach to Bug Prediction.;33;1;Mining Challenge;;
+2006;Stephan Diehl,Ahmed E. Hassan,Harald Gall,Martin Pinzger;Introduction to MSR 2006.;1-2;2;;;selected
+2006;Jesus M. Gonzalez-Barahona,Martin Michlmayr,Gregorio Robles,Juan Jose Amor;Mining large software compilations over time: another perspective of software evolution.;3-9;7;Repositories;;selected
+2006;Yaojin Yang,Claudio Riva;Scenarios for mining the software architecture evolution.;10-13;4;Repositories;;selected
+2006;Akito Monden,Hiroshi Yadohisa,Masateru Tsunoda,Nahomi Kikuchi,Ken-ichi Matsumoto;Productivity analysis of Japanese enterprise software development projects.;14-17;4;Repositories;;selected
+2006;Gui Gui,Paul D. Scott;Coupling and cohesion measures for evaluation of component reusability.;18-21;4;Repositories;;selected
+2006;Audris Mockus,Jim Whitehead,Ahmed E. Hassan,Andreas Zeller,Tudor Girba,Sunghun Kim,Thomas Zimmermann,Miryung Kim,Martin Pinzger;TA-RE: an exchange language for mining software repositories.;22-25;4;Repositories;;selected
+2006;Mircea Lungu,Michele Lanza,Marco D'Ambros;The evolution radar: visualizing integrated logical coupling information.;26-32;7;Visualization;;selected
+2006;Alexandru Telea,Lucian Voinea;An open framework for CVS repository querying, analysis and visualization.;33-39;7;Visualization;;selected
+2006;Sunghun Kim,Jim Whitehead,Kai Pan;Micro pattern evolution.;40-46;7;Patterns;;selected
+2006;Huzefa H. Kagdi,Jonathan I. Maletic,Shehnaaz Yusuf;Mining sequences of changed-files from version histories.;47-53;7;Patterns;;selected
+2006;Jian Pei,Tao Xie;MAPO: mining API usages from open source repositories.;54-57;4;Patterns;;selected
+2006;Miryung Kim,David Notkin;Program element matching for multi-version program analyses.;58-64;7;Matching;;selected
+2006;Christoph Kiefer,Martin Pinzger,Tobias Sager,Abraham Bernstein;Detecting similar Java classes using tree algorithms.;65-71;7;Matching;;selected
+2006;Sunghun Kim,Jim Whitehead,Thomas Zimmermann,Andreas Zeller;Mining version archives for co-changed lines.;72-75;4;Matching;;selected
+2006;Hung-Fu Chang,Audris Mockus;Constructing universal version history.;76-79;4;Matching;;selected
+2006;Kai Koskimies,Imed Hammouda;Concern based mining of heterogeneous software repositories.;80-86;7;Concerns;;selected
+2006;Benjamin Sigonneau,Olivier Ridoux;Software engineering applications of logic file system: application to automated multi-criteria indexation of software components.;87-93;7;Concerns;;selected
+2006;Christian Lindig,Silvia Breu,Thomas Zimmermann;Mining eclipse for cross-cutting concerns.;94-97;4;Concerns;;selected
+2006;Puneet Kapur,Reid Holmes,Robert J. Walker,Andrew Smith,Ian Hedgeland;A lightweight approach to technical risk estimation via probabilistic impact analysis.;98-104;7;Impact analysis;;selected
+2006;Luigi Cerulo,Gerardo Canfora;Fine grained indexing of software repositories to support impact analysis.;105-111;7;Impact analysis;;selected
+2006;Stephan Diehl,Peter Weissgerber;Are refactorings less error-prone than other changes?;112-118;7;Defects;;selected
+2006;Patrick Knab,Martin Pinzger,Abraham Bernstein;Predicting defect densities in source code files with decision tree learners.;119-125;7;Defects;;selected
+2006;Richard C. Holt,Mina Askari;Information theoretic evaluation of change prediction models for large-scale software.;126-132;7;Defects;;selected
+2006;Jaime Spacco,David Hovemeyer,William W. Pugh;Tracking defect warnings across versions.;133-136;4;Defects;;selected
+2006;Christian Bird,Premkumar T. Devanbu,Michael Gertz,Alex Gourley,Anand Swaminathan;Mining email social networks.;137-143;7;Beyond source code;;selected
+2006;Jesus M. Gonzalez-Barahona,Gregorio Robles;Geographic location of developers at SourceForge.;144-150;7;Beyond source code;;selected
+2006;Gina Venolia;Textual alusions to artifacts in software-related repositories.;151-154;4;Beyond source code;;selected
+2006;Chris Parnin,Carsten Gorg,Spencer Rugaber;Enriching revision history with interactions.;155-158;4;Beyond source code;;selected
+2006;Margaret-Anne D. Storey,Peter C. Rigby,Daniel M. German;Using evolutionary annotations from change logs to enhance program comprehension.;159-162;4;Beyond source code;;selected
+2006;Daniel M. German;A study of the contributors of PostgreSQL.;163-164;2;MSR-challenge report;;
+2006;Dirk Beyer;Co-change visualization applied to PostgreSQL and ArgoUML: (MSR challenge report).;165-166;2;MSR-challenge report;;
+2006;Alexandru Telea,Lucian Voinea;Mining software repositories with CVSgrab.;167-168;2;MSR-challenge report;;
+2006;Christian Lindig,Silvia Breu,Thomas Zimmermann,V. Benjamin Livshits;Mining additions of method calls in ArgoUML.;169-170;2;MSR-challenge report;;
+2006;Ken-ichi Matsumoto,Takeshi Kakimoto,Haruaki Tamada,Yasutaka Kamei,Masateru Tsunoda,Akito Monden;Using software birthmarks to identify similar classes and major functionalities.;171-172;2;MSR-challenge report;;
+2006;Sunghun Kim,Jim Whitehead;How long did it take to fix bugs?;173-174;2;MSR-challenge report;;
+2006;Stephan Diehl,Peter Weissgerber,Carsten Gorg;Mining refactorings in ARGOUML.;175-176;2;MSR-challenge report;;
+2006;Michele Lanza,Marco D'Ambros;Applying the evolution radar to PostgreSQL.;177-178;2;MSR-challenge report;;
+2006;Zhen Ming Jiang,Ahmed E. Hassan;Examining the evolution of code comments in PostgreSQL.;179-180;2;MSR-challenge report;;
+2006;Takeshi Kakimoto,Akito Monden,Yasutaka Kamei,Masateru Tsunoda,Ken-ichi Matsumoto;Analyzing OSS developers' working time using mailing lists archives.;181-182;2;MSR-challenge report;;
+2006;Luigi Cerulo,Gerardo Canfora;Where is bug resolution knowledge stored?;183-184;2;MSR-challenge report;;
+2006;Christian Bird,Premkumar T. Devanbu,Michael Gertz,Alex Gourley,Anand Swaminathan;Mining email social networks in Postgres.;185-186;2;MSR-challenge report;;
+2005;Jeffrey S. Foster,Michael W. Hicks,Iulian Neamtiu;Understanding source code evolution using abstract syntax tree matching.;;0;Understanding Evolution and Change Patterns;;selected
+2005;Jeffrey K. Hollingsworth,Chadd C. Williams;Recovering system specific rules from software repositories.;;0;Understanding Evolution and Change Patterns;;selected
+2005;Michael Fischer,Jacek Ratzinger,Johann Oberleitner,Harald Gall;Mining evolution data of a product family.;;0;Understanding Evolution and Change Patterns;;selected
+2005;Miryung Kim,David Notkin;Using a clone genealogy extractor for understanding and supporting evolution of code clones.;;0;Understanding Evolution and Change Patterns;;selected
+2005;Jacek Sliwerski,Thomas Zimmermann,Andreas Zeller;When do changes induce fixes?;;0;Defect Analysis;;selected
+2005;Carsten Gorg,Peter Weissgerber;Error detection by refactoring reconstruction.;;0;Defect Analysis;;selected
+2005;Jaime Spacco,William W. Pugh,David Hovemeyer,Jaymie Strecker;Software repository mining with Marmoset: an automated programming project snapshot and testing system.;;0;Education;;selected
+2005;Keir Mierle,Kevin Laven,Greg Wilson,Sam T. Roweis;Mining student CVS repositories for performance indicators.;;0;Education;;selected
+2005;Masaru Ohba,Katsuhiko Gondow;"Toward mining ""concept keywords"" from identifiers in large software projects.";;0;Text Mining;;selected
+2005;Steven Abrams,James L. Wright,Annie T. T. Ying;Source code that talks: an exploration of Eclipse task comments and their implication to repository mining.;;0;Text Mining;;selected
+2005;Alexander Dekhtyar,Senthil Karthikeyan Sundaram,Jane Huffman Hayes;Text mining for software engineering: how analyst feedback impacts final results.;;0;Text Mining;;selected
+2005;Sunghun Kim,Jennifer Bevan,Jim Whitehead;Analysis of signature change patterns.;;0;Software Changes and Evolution;;selected
+2005;Michael Fischer,Jacek Ratzinger,Harald Gall;Improving evolvability through refactoring.;;0;Software Changes and Evolution;;selected
+2005;Giuliano Antoniol,Gabriele Venturi,Vincenzo Fabio Rollo;Linear predictive coding and cepstrum coefficients for mining time variant information from software repositories.;;0;Software Changes and Evolution;;selected
+2005;Christopher Lo,Michael VanHilst,Pankaj K. Garg;Repository mining and Six Sigma for process improvement.;1-4;4;Process and Collaboration;;selected
+2005;Shih-Kun Huang,Kang-min Liu;Mining version histories to verify the learning process of Legitimate Peripheral Participants.;;0;Process and Collaboration;;selected
+2005;Michael L. Collard,Huzefa H. Kagdi,Jonathan I. Maletic;Towards a taxonomy of approaches for mining of source code repositories.;;0;Taxonomies & Formal Representations;;selected
+2005;Davor Cubranic,Daniel M. German,Margaret-Anne D. Storey;A framework for describing and understanding mining tools in software development.;;0;Taxonomies & Formal Representations;;selected
+2005;Abram Hindle,Daniel M. German;SCQL: a formal model and a query language for source control repositories.;;0;Taxonomies & Formal Representations;;selected
+2005;Jesus M. Gonzalez-Barahona,Gregorio Robles;Developer identification methods for integrated data from various sources.;;0;Integration and Collaboration;;selected
+2005;Tetsuya Ohoka,Naoki Ohsugi,Ken-ichi Matsumoto,Masao Ohira;Accelerating cross-project knowledge collaboration using collaborative filtering and social networks.;;0;Integration and Collaboration;;selected
+2005;James Howison,Kevin Crowston,Megan Conklin;Collaboration using OSSmole: a repository of FLOSS data and analyses.;;0;Integration and Collaboration;;selected

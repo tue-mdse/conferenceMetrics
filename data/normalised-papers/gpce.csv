@@ -1,0 +1,276 @@
+2012;Luca Padovani,Ina Schaefer,Ferruccio Damiani;A formal foundation for dynamic delta-oriented software product lines.;1-10;10;"Software product lines; features";;selected
+2012;Thomas Thum,Sven Apel,Martin Hentschel,Ina Schaefer;Family-based deductive verification of software product lines.;11-20;10;"Software product lines; features";;selected
+2012;Jorn Plonnigs,Uwe Ryssel,Klaus Kabitzsch;Reasoning of feature models from derived features.;21-30;10;"Software product lines; features";;selected
+2012;Kevin Xu,Daniel B. Jackson,Albert Yuen,Vajih Montaghami,Francesca Leung,Derek Rayside;Synthesizing iterators from abstraction functions.;31-40;10;Generation;;selected
+2012;Geoffrey C. Hulette,Allen D. Malony,Matthew J. Sottile;Composing typemaps in Twig.;41-49;9;Generation;;selected
+2012;Eyvind W. Axelsen,Stein Krogdahl;Package templates: a definition by semantics-preserving source-to-source transformations to efficient Java code.;50-59;10;Generation;;selected
+2012;Christophe Dony,Luc Fabresse,Chouki Tibermacine,Petr Spacek;An inheritance system for structural & behavioral reuse in component-based software programming.;60-69;10;"Software components; libraries";;selected
+2012;Marianne Huchard,Lei Zhang,Huaxi (Yulin) Zhang,Sylvain Vauttier,Christelle Urtado;A three-level component model in component based software development.;70-79;10;"Software components; libraries";;selected
+2012;Gabriel Foust,John Freeman,Jaakko Jarvi;HotDrink: a library for web user interfaces.;80-83;4;"Software components; libraries";;selected
+2012;Don S. Batory,Bryan Marker,Taylor L. Riche,R. Goncalves;Pushouts in software architecture design.;84-92;9;"Software architectures; adaptation";;selected
+2012;Kevin J. Sullivan,Hamid Bagheri;Pol: specification-driven synthesis of architectural code frameworks for platform-based applications.;93-102;10;"Software architectures; adaptation";;selected
+2012;Martin Erwig,Alan Fern,Jervis Pinto,Tim Bauer;Faster program adaptation through reward attribution inference.;103-111;9;"Software architectures; adaptation";;selected
+2012;Sven Efftinge,Moritz Eysholdt,Michael Hanus,Sebastian Zarnekow,Wilhelm Hasselbring,Robert von Massow,Jan Kohnlein;Xbase: implementing domain-specific languages for Java.;112-121;10;Languages and language theory;;selected
+2012;Matthew Flatt,Jon Rafkind;Honu: syntactic extension for algebraic notation through enforestation.;122-131;10;Languages and language theory;;selected
+2012;Martin Erwig,Eric Walkingshaw;A calculus for modeling and implementing variation.;132-140;9;Languages and language theory;;selected
+2011;Matthias Felleisen;Multilingual component programming in racket.;1-2;2;Keynote address 1;;
+2011;Sven Apel,Norbert Siegmund,Marko Rosenmuller,Mario Pukall;Tailoring dynamic software product lines.;3-12;10;Software product lines;;selected
+2011;Don S. Batory,Peter Hofner,Jongwook Kim;Feature interactions, products, and composition.;13-22;10;Software product lines;;selected
+2011;Paulo Borba,Tarsis Toledo,Sergio Soares,Claus Brabrand,Marcio de Medeiros Ribeiro,Felipe Queiroz;On the impact of feature dependencies when maintaining preprocessor-based software product lines.;23-32;10;Software product lines;;selected
+2011;Paulo Borba,Demostenes Sena,Leopoldo Teixeira,Vander Alves,Uira Kulesza,Lais Neves;Investigating the safe evolution of software product lines.;33-42;10;Software product lines;;selected
+2011;Remi Douence,Abdelhakim Hannousse,Gilles Ardourel;Static analysis of aspect interaction and composition in component models.;43-52;10;Software components;;selected
+2011;William Otte,Johnny Willemsen,Douglas C. Schmidt,Aniruddha S. Gokhale;Infrastructure for component-based DDS application development.;53-62;10;Software components;;selected
+2011;Yulin Li,Gordon S. Novak Jr.;Generation of geometric programs specified by diagrams.;63-72;10;Applications;;selected
+2011;Christian Schlegel,Alex Lotz,Andreas Steck;Model-driven engineering and run-time model-usage in service robotics.;73-82;10;Applications;;selected
+2011;Eelco Visser,Sander Vermolen,Guido Wachsmuth;Generating database migrations for evolving web applications.;83-92;10;Applications;;selected
+2011;Olivier Danvy;Pragmatics for formal semantics.;93-94;2;Tech talk 1;;
+2011;Gary J. Shubert;Application of model based development to flexible code generation.;95-96;2;Keynote address 2;;
+2011;Kenichi Asai;Reflection in direct style.;97-106;10;Runtime;;selected
+2011;Nathaniel Nystrom,Kishen Das,Derek White;Firepile: run-time compilation for GPUs in scala.;107-116;10;Runtime;;selected
+2011;Shahram Esmaeilsabzali,Joanne M. Atlee,Bernd M. Fischer;Monitoring aspects for the customization of automatically generated code for big-step models.;117-126;10;Runtime;;selected
+2011;Lennart C. L. Kats,Ricky T. Lindeman,Eelco Visser;Declaratively defining domain-specific language debuggers.;127-136;10;Runtime;;selected
+2011;Alexander Serebrenik,Mark van den Brand,Jeroen Arnoldus;Less is more: unparser-completeness of metalanguages for template engines.;137-146;10;Theory;;selected
+2011;Frank Alexander Kraemer,Vidar Slatten,Peter Herrmann;Towards automatic generation of formal specifications to validate and verify reliable distributed systems: a method exemplified by an industrial case study.;147-156;10;Theory;;selected
+2011;Patrick Gaubatz,Mark Strembeck,Uwe Zdun,Stefan Sobernig;Comparing complexity of API designs: an exploratory experiment on DSL-based framework integration.;157-166;10;Programming;;selected
+2011;Christian Kastner,Klaus Ostermann,Eelco Visser,Tillmann Rendel,Sebastian Thore Erdweg,Lennart C. L. Kats;Growing a language environment with editor libraries.;167-176;10;Programming;;selected
+2011;Wonseok Kim,John Freeman,Matthew A. Marcus,Sean Parent,Jaakko Jarvi;Helping programmers help users.;177-184;8;Programming;;selected
+2011;John Launchbury;Theorem-based circuit derivation in cryptol.;185-186;2;Tech talk 2;;
+2010;Ralf Lammel;The hitchhiker's guide to software languages.;1-2;2;;;
+2010;Martin Erwig;A language for software variation research.;3-12;10;;;
+2010;David G. Clarke,Ina Schaefer,Michiel Helvensteijn;Abstract delta modeling.;13-22;10;Separation of concerns 1;;selected
+2010;Jorn Plonnigs,Uwe Ryssel,Klaus Kabitzsch;Automatic variation-point identification in function-block-based models.;23-32;10;Separation of concerns 1;;selected
+2010;Daniel Lohmann,Wolfgang Schroder-Preikschat,Reinhard Tartler,Julio Sincero;Efficient extraction and analysis of preprocessor-based variability.;33-42;10;Separation of concerns 1;;selected
+2010;Arie Middelkoop,S. Doaitse Swierstra,Atze Dijkstra;Iterative type inference with attribute grammars.;43-52;10;Languages and language technology 1;;selected
+2010;Matthias P. Krieger,Alexander Knapp,Burkhart Wolff;Automatic and efficient simulation of operation contracts.;53-62;10;Languages and language technology 1;;selected
+2010;Hridesh Rajan,Tyler Sondag,Sean L. Mooney,Yuheng Long;Implicit invocation meets safe, implicit concurrency.;63-72;10;Languages and language technology 1;;selected
+2010;Jean-Philippe Babau,Jacques Pulou,Juan F. Navas;A component-based run-time evolution infrastructure for resource-constrained embedded systems.;73-82;10;Components;;selected
+2010;Christian Hofer,Klaus Ostermann;Modular domain-specific language components in scala.;83-92;10;Components;;selected
+2010;Markus Jahn,Reinhard Wolfinger,Markus Loberbauer,Hanspeter Mossenbock;Adding genericity to a plug-in framework.;93-102;10;Components;;selected
+2010;Sven Apel,Christian Kastner,Sandro Schulze;Code clones in feature-oriented software product lines.;103-112;10;Separation of concerns 2;;selected
+2010;Danilo Ansaloni,Walter Binder,Philippe Moret,Eric Tanter;Composition of dynamic analysis aspects.;113-122;10;Separation of concerns 2;;selected
+2010;Hanspeter Mossenbock,Danilo Ansaloni,Walter Binder,Philippe Moret,Thomas Wurthinger;Applications of enhanced dynamic code evolution for Java in GUI development and dynamic aspect-oriented programming.;123-126;4;Separation of concerns 2;;selected
+2010;Martin Odersky,Tiark Rompf;Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs.;127-136;10;Languages and language technology 2;;selected
+2010;Zoltan Porkolab,Abel Sinkovics;Domain-specific language integration with compile-time parser generator library.;137-146;10;Languages and language technology 2;;selected
+2010;Matthew Flatt,Gary Lindstrom,Kevin Atkinson;ABI compatibility through a customizable language.;147-156;10;Languages and language technology 2;;selected
+2010;Kasper Stoy,Ulrik Pagh Schultz,Mirko Bordignon;Model-based kinematics generation for modular mechatronic toolkits.;157-166;10;Generation;;selected
+2010;Weiyu Miao,Jeremy G. Siek;Incremental type-checking for type-reflective metaprograms.;167-176;10;Generation;;selected
+2010;Bernd M. Fischer,Neville Grech,Julian Rathke;JEqualityGen: generating equality and hashing methods.;177-186;10;Generation;;selected
+2009;Rishiyur S. Nikhil;Using GPCE principles for hardware systems and accelerators: (bridging the gap to HW design).;1-2;2;;;
+2009;James R. Cordy;Eating our own dog food: DSLs for generative and transformational engineering.;3-4;2;;;
+2009;Andrew Lumsdaine,Jeremiah Willcock,Daniel J. Quinlan;Reusable, generic program analyses and transformations.;5-14;10;Templates;;selected
+2009;Anya Helene Bagge,Magne Haveraaen,Valentin David;The axioms strike back: testing with concepts and axioms in C++.;15-24;10;Templates;;selected
+2009;Ronald Garcia,Andrew Lumsdaine;Toward foundations for type-reflective metaprogramming.;25-34;10;Templates;;selected
+2009;H. James Hoover,S. Hossein Sadat-Mohtasham;Transactional pointcuts: designation reification and advice of interrelated join points.;35-44;10;Aspects;;selected
+2009;Shigeru Chiba,Shumpei Akai;Extending AspectJ for separating regions.;45-54;10;Aspects;;selected
+2009;Scott D. Stoller,Michael Gorbovitski,Yanhong A. Liu;A language and framework for invariant-driven transformations.;55-64;10;Aspects;;selected
+2009;Peter Thiemann,Stefan Wehr;JavaGI in the battlefield: practical experience with generalized interfaces.;65-74;10;Components;;selected
+2009;J. Eliot B. Moss,Phil McGachey,Antony L. Hosking;Classifying Java class transformations for pervasive virtualized access.;75-84;10;Components;;selected
+2009;Alex Villazon,Danilo Ansaloni,Walter Binder,Philippe Moret;Advanced runtime adaptation for Java.;85-94;10;Components;;selected
+2009;Alex Villazon,Danilo Ansaloni,Walter Binder,Philippe Moret;HotWave: creating adaptive tools with dynamic aspect-oriented programming in Java.;95-98;4;Components;;
+2009;Florian Heidenreich,Christian Wende,Mirko Seifert,Marcel Bohme,Jendrik Johannes;Generating safe template languages.;99-108;10;Generation;;selected
+2009;Wontae Choi,Soonho Kong,Kwangkeun Yi;Abstract parsing for two-staged languages with concatenation.;109-116;8;Generation;;selected
+2009;William R. Cook,Srinivas Nedunuri;Synthesis of fast programs for maximum segment sum problems.;117-126;10;Generation;;selected
+2009;Ansgar Radermacher,Sebastien Gerard,Francois Terrier,Arnaud Cuccuru;Generating execution infrastructures for component-oriented specifications with a model driven toolchain: a case study for MARTE's GCM and real-time annotations.;127-136;10;Applications;;selected
+2009;Nicolas Loriant,Benjamin Bertran,Damien Cassou,Charles Consel;A generative programming approach to developing pervasive computing systems.;137-146;10;Applications;;selected
+2009;Sean Parent,Jaakko Jarvi,Matthew A. Marcus,Jacob N. Smith,John Freeman;Algorithms for user interfaces.;147-156;10;Applications;;selected
+2009;Martin Kuhlemann,Sven Apel,Christian Kastner;A model of refactoring physically and virtually separated features.;157-166;10;Features;;selected
+2009;Eddy Truyen,Frans Sanen,Wouter Joosen;Mapping problem-space to solution-space features: a feature interaction approach.;167-176;10;Features;;selected
+2009;Don S. Batory,Martin Kuhlemann,Christian Kastner;Safe composition of non-monotonic features.;177-186;10;Features;;selected
+2008;Andrew Fano;Emerging challenges for large scale systems integration.;1-2;2;Keynote address;;
+2008;Gunter Saake,Sven Apel,Norbert Siegmund,Marko Rosenmuller;Code generation to support static and dynamic composition of software product lines.;3-12;10;Technical papers 1;;selected
+2008;Krzysztof Czarnecki,Marcilio Mendonca,Andrzej Wasowski,Donald D. Cowan;Efficient compilation techniques for large scale feature models.;13-22;10;Technical papers 1;;selected
+2008;Chang Hwan Peter Kim,Don S. Batory,Christian Kastner;On the modularity of feature interactions.;23-34;12;Technical papers 1;;selected
+2008;Don S. Batory;Using modern mathematics as an FOSD modeling language.;35-44;10;Technical papers 2;;selected
+2008;Torben Amtoft Hansen,Flemming Nielson,Ye Zhang;From generic to specific: off-line optimization for a general constraint solver.;45-54;10;Technical papers 2;;selected
+2008;Tom Rothamel,Yanhong A. Liu;Generating incremental implementations of object-set queries.;55-66;12;Technical papers 2;;selected
+2008;Andrew Lumsdaine,Peter Gottschling;Integrating semantics and compilation: using c++ concepts to develop robust and efficient reusable libraries.;67-76;10;Technical papers 3;;selected
+2008;Bernd M. Fischer,Ewen Denney;Generating customized verifiers for automatically generated code.;77-88;12;Technical papers 3;;selected
+2008;Sean Parent,Jaakko Jarvi,Matthew A. Marcus,Jacob N. Smith,John Freeman;Property models: from incidental algorithms to reusable components.;89-98;10;Technical papers 3;;selected
+2008;Erik Meijer;Fundamentalist functional programming.;99-100;2;Keynote address;;
+2008;Sven Apel,Christian Kastner,Christian Lengauer;Feature featherweight java: a calculus for feature-oriented programming and stepwise refinement.;101-112;12;Technical papers 4;;selected
+2008;Tetsuo Tamai,Tetsuo Kamina;Lightweight dependent classes.;113-124;12;Technical papers 4;;selected
+2008;Alan Schmitt,Jean-Bernard Stefani,Michael Lienhardt;Typing communicating component assemblages.;125-136;12;Technical papers 4;;selected
+2008;Christian Hofer,Tillmann Rendel,Klaus Ostermann,Adriaan Moors;Polymorphic embedding of dsls.;137-148;12;Technical papers 5;;selected
+2008;Julien Mercadal,Charles Consel,Nicolas Palix,Julia L. Lawall;Pantaxou: a domain-specific language for developing safe coordination services.;149-160;12;Technical papers 5;;selected
+2008;Don S. Batory,Sven Apel,Christian Kastner;Program refactoring using functional aspects.;161-170;10;Technical papers 6;;selected
+2008;Sebastian Gotz,Ilie Savga,Uwe Assmann,Michael Rudolf;Practical refactoring-based framework upgrade.;171-180;10;Technical papers 6;;selected
+2008;Vinay Kulkarni,Sreedhar Reddy;An abstraction for reusable MDD components: model-based generation of model-based code generators.;181-184;4;Technical papers 6;;selected
+2007;Markus Puschel;Can we teach computers to write fast libraries?;1-2;2;Keynote address;;
+2007;Eelco Visser,Eelco Dolstra,Martin Bravenboer;Preventing injection attacks with syntax embeddings.;3-12;10;Session 1;;selected
+2007;Yossi Gil,Keren Lenz;Simple and safe SQL queries with c++ templates.;13-24;12;Session 1;;selected
+2007;Mark van den Brand,Jeanot Bijpost,Jeroen Arnoldus;Repleo: a syntax-safe template engine.;25-32;8;Session 1;;selected
+2007;Georg Jung,John Hatcliff;A type-centric framework for specifying heterogeneous, large-scale, component-oriented, architectures.;33-42;10;Session 2;;selected
+2007;Alan Schmitt,Jean-Bernard Stefani,Michael Lienhardt;Oz/K: a kernel language for component-based open programming.;43-52;10;Session 2;;selected
+2007;Florence Maraninchi,Tayeb Bouhadiba;42: programmable models of computation for a component-based approach to heterogeneous embedded systems.;53-62;10;Session 2;;selected
+2007;Eric Van Wyk,August Schwerdfeger;Context-aware scanning for parsing extensible languages.;63-72;10;Session 3;;selected
+2007;Jacob N. Smith,Jaakko Jarvi,Matthew A. Marcus;Library composition and adaptation using c++ concepts.;73-82;10;Session 3;;selected
+2007;Bran Selic;Challenges in generating qos-constrained software implementations.;83-84;2;Keynote session;;
+2007;Miguel A. Laguna,Bruno Gonzalez-Baixauli,Jose Manuel Marques Corral;Seamless development of software product lines.;85-94;10;Session 4;;selected
+2007;Sahil Thaker,Don S. Batory,William R. Cook,David Kitchin;Safe composition of product lines.;95-104;10;Session 4;;selected
+2007;Salvador Trujillo,Oscar Diaz,Maider Azanza;Generative metaprogramming.;105-114;10;Session 4;;selected
+2007;Todd L. Veldhuizen;Parsimony principles for software components and metalanguages.;115-122;8;Session 5;;selected
+2007;Peter Pirkelbauer,Yuriy Solodkyy,Bjarne Stroustrup;Open multi-methods for c++.;123-134;12;Session 5;;selected
+2007;Ryan Culpepper,Matthias Felleisen;Debugging macros.;135-144;10;Session 5;;selected
+2007;Tetsuo Tamai,Tetsuo Kamina;Lightweight scalable components.;145-154;10;Session 6;;selected
+2007;Garrin Kimmell,Nicolas Frisby,Perry Alexander,Philip Weaver;Constructing language processors with algebra combinators.;155-164;10;Session 6;;selected
+2007;Stephane Hong Tuan Ha,Pascal Fradet;Aspects of availability.;165-174;10;Session 7;;selected
+2007;Ilie Savga,Michael Rudolf;Refactoring-based support for binary compatibility in evolving frameworks.;175-184;10;Session 7;;selected
+2007;Victor L. Winter,Azamatbek Mametjanov;Generative programming techniques for Java library migration.;185-196;12;Session 7;;selected
+2006;Michael Katelman,Baris Aktemur,Samuel N. Kamin;Staging static analyses for program generation.;1-10;10;Staging;;selected
+2006;Alberto Pardo,Marcos Viera;A multi-stage language with intensional analysis.;11-20;10;Staging;;selected
+2006;Jonathan Riehl;Assimilating MetaBorg: : embedding language tools in languages.;21-28;8;Staging;;selected
+2006;Gabriel A. Moreno;Creating custom containers with generative techniques.;29-38;10;Components;;selected
+2006;Andre Osterloh,Alexander Stuckenholz;Safe component updates.;39-48;10;Components;;selected
+2006;Chunyan Song,John H. Reppy;Application-specific foreign-interface generation.;49-58;10;Components;;selected
+2006;Don S. Batory,Sven Apel;When to use features and aspects?: a case study.;59-68;10;Advanced aspects;;selected
+2006;Shigeru Chiba,Kenichi Kourai,Yoshisato Yanagisawa;A dynamic aspect-oriented system for OS kernels.;69-78;10;Advanced aspects;;selected
+2006;Jacques Noye,Remi Douence,Mario Sudholt,Didier Le Botlan;Concurrent aspects.;79-88;10;Advanced aspects;;selected
+2006;Yannis Smaragdakis,Eli Tilevich;Transparent program transformationsin the presence of opaque code.;89-94;6;Short papers;;
+2006;Silvio Romero de Lemos Meira,Eduardo Santana de Almeida,Jorge Claudio Cordeiro Pires Mascena,Vinicius Cardoso Garcia;Towards an effective integrated reuse environment.;95-100;6;Short papers;;
+2006;Frances Perry,David Walker,Limin Jia;Expressing heap-shape contracts in linear logic.;101-110;10;Safety and verification;;selected
+2006;Edwin Brady,Kevin Hammond;A verified staged interpreter is a verified compiler.;111-120;10;Safety and verification;;selected
+2006;Bernd M. Fischer,Ewen Denney;A generic annotation inference algorithm for the safety certification of automatically generated code.;121-130;10;Safety and verification;;selected
+2006;Robert Giegerich,Janina Reeder;A graphical programming system for molecular motif search.;131-140;10;Applications;;selected
+2006;Daniel Fontijne;Gaigen 2: a geometric algebra implementation generator.;141-150;10;Applications;;selected
+2006;David Broman,Kaj Nystrom,Peter Fritzson;Determining over- and under-constrained systems of equations using structural constraint delta.;151-160;10;Applications;;selected
+2006;Peter Barron,Vinny Cahill;YABS: a domain-specific language for pervasive computing based on stigmergy.;285-294;10;Applications;;selected
+2006;Klaus Ostermann,Ralf Lammel;Software extension and integration with type classes.;161-170;10;Measurement and evaluation;;selected
+2006;Walter Binder,Jarle Hulaas;Flexible and efficient measurement of dynamic bytecode metrics.;171-180;10;Measurement and evaluation;;selected
+2006;Westley Weimer;Patches as better bug reports.;181-190;10;Measurement and evaluation;;selected
+2006;Salvador Trujillo,Don S. Batory,Oscar Diaz;Feature refactoring a multi-representation program into a product line.;191-200;10;Program families;;selected
+2006;Paulo Borba,Tiago Massoni,Carlos Jose Pereira de Lucena,Rohit Gheyi,Uira Kulesza,Vander Alves;Refactoring product lines.;201-210;10;Program families;;selected
+2006;Krzysztof Czarnecki,Krzysztof Pietroszek;Verifying feature-based model templates against well-formedness OCL constraints.;211-220;10;Program families;;selected
+2006;Don S. Batory,Clifford B. Jones,Murali Sitaraman,Eric C. R. Hehner,Gary T. Leavens,Aaron Stump,Dale Miller,Kathi Fisler,Michael J. Butler,Alessandro Coglio,Jean-Raymond Abrial,Simon L. Peyton Jones,Douglas R. Smith;Roadmap for enhanced languages and methods to aid verification.;221-236;16;Panel discussion;;
+2006;Christian Prehofer;Semantic reasoning about feature composition via multiple aspect-weavings.;237-242;6;Short papers;;
+2006;Chiyan Chen,Rui Shi,Hongwei Xi;Distributed meta-programming.;243-248;6;Short papers;;
+2006;Jean Bezivin,Ivan Kurtev,Frederic Jouault;TCS: a DSL for the specification of textual concrete syntaxes in model engineering.;249-254;6;Short papers;;
+2006;Adam Sipos,Zoltan Porkolab,Jozsef Mihalicza;Debugging C++ template metaprograms.;255-264;10;Compilation;;selected
+2006;Anya Helene Bagge,Magne Haveraaen,Valentin David,Karl Trygve Kalleberg;Stayin' alert: : moulding failure and exceptions to your needs.;265-274;10;Compilation;;selected
+2006;James R. Larus,Michael Carbin,Manuel Fahndrich;Reflective program generation with patterns.;275-284;10;Compilation;;selected
+2005;Stephane Ducasse,Serge Demeyer,Oscar Nierstrasz;Object-Oriented Reengineering Patterns - An Overview.;1-9;9;Invited Talks;;
+2005;Pavel Avgustinov,Jennifer Lhotak,Ondrej Lhotak,Chris Allan,Damien Sereni,Laurie J. Hendren,Sascha Kuzins,Aske Simon Christensen,Ganesh Sittampalam,Julian Tibble,Oege de Moor;abc: The AspectBench Compiler for AspectJ.;10-16;7;Invited Talks;;
+2005;Bernd M. Fischer,Ewen Denney;Certifiable Program Generation.;17-28;12;Invited Talks;;
+2005;Laurent Reveillere,Pierre Cointe,Fabien Latry,Charles Consel;A Generative Programming Approach to Developing DSL Compilers.;29-46;18;Domain Specific Languages;;selected
+2005;Henk L. Muller,Andrew Moss;Efficient Code Generation for a Domain Specific Language.;47-62;16;Domain Specific Languages;;selected
+2005;Christophe Alias,Denis Barthou;On Domain-Specific Languages Reengineering.;63-77;15;Domain Specific Languages;;selected
+2005;Anne-Francoise Le Meur,Herve Duchesne,Gilles Muller,Julia L. Lawall;Bossa Nova: Introducing Modularity into the Bossa Domain-Specific Language.;78-93;16;Domain Specific Languages;;selected
+2005;Zhen Yao,Guoliang Chen,Qilong Zheng;AOP++: A Generic Aspect-Oriented Programming Framework in C++.;94-108;15;Aspect-Oriented Programming;;selected
+2005;Tetsuo Tamai,Yusaku Maeno,Satoshi Murakami,Naoyasu Ubayashi,Shinji Sano;Model Compiler Construction Based on Aspect-Oriented Mechanisms.;109-124;16;Aspect-Oriented Programming;;selected
+2005;Gunter Saake,Sven Apel,Marko Rosenmuller,Thomas Leich;FeatureC++: On the Symbiosis of Feature-Oriented and Aspect-Oriented Programming.;125-140;16;Aspect-Oriented Programming;;selected
+2005;Karl J. Lieberherr,Pengcheng Wu;Shadow Programming: Reasoning About Programs Using Lexical Join Point Information.;141-156;16;Aspect-Oriented Programming;;selected
+2005;Eelco Visser,Jurgen J. Vinju,Rob Vermaas,Martin Bravenboer;Generalized Type-Based Disambiguation of Meta Programs with Concrete Object Syntax.;157-172;16;Meta-programming and Transformation;;selected
+2005;Jacques Noye,Eric Tanter;A Versatile Kernel for Multi-language AOP.;173-188;16;Meta-programming and Transformation;;selected
+2005;Torben AE. Mogensen;Semi-inversion of Guarded Equations.;189-204;16;Meta-programming and Transformation;;selected
+2005;Saverio Perugini,Naren Ramakrishnan;A Generative Programming Approach to Interactive Information Retrieval: Insights and Experiences.;205-220;16;Generative Techniques;;selected
+2005;Baris Aktemur,Samuel N. Kamin,Lars Raeder Clausen,Joel Jones;Optimizing Marshalling by Run-Time Program Generation.;221-236;16;Generative Techniques;;selected
+2005;Yang Jun,Stanislaw Jarzabek;Applying a Generative Technique for Enhanced Genericity and Maintainability on the J2EE Platform.;237-255;19;Generative Techniques;;selected
+2005;Jacques Carette,Oleg Kiselyov;Multi-stage Programming with Functors and Monads: Eliminating Abstraction Overhead from Generic Code.;256-274;19;Multi-stage Programming;;selected
+2005;Jason Eckhardt,Walid Taha,Emir Pasalic,Roumen Kaiabachev,Kedar N. Swadi;Implicitly Heterogeneous Multi-stage Programming.;275-292;18;Multi-stage Programming;;selected
+2005;Baris Aktemur,Samuel N. Kamin,Philip Morton;Source-Level Optimization of Run-Time Program Generators.;293-308;16;Generative Techniques;;selected
+2005;Yannis Smaragdakis,Shan Shan Huang,David Zook;Statically Safe Program Generation with SafeGen.;309-326;18;Generative Techniques;;selected
+2005;Gerald Weber,Dirk Draheim,Christof Lutteroth;A Type System for Reflective Program Generators.;327-341;15;Generative Techniques;;selected
+2005;Krister Ahlander;Sorting Out the Relationships Between Pairs of Iterators, Values, and References.;342-356;15;Generative Techniques;;selected
+2005;Steffen Priebe;Preprocessing Eden with Template Haskell.;357-372;16;Components and Templates;;selected
+2005;Ryan Culpepper,Scott Owens,Matthew Flatt;Syntactic Abstraction in Component Interfaces.;373-388;16;Components and Templates;;selected
+2005;Daniel Hirschkoff,Alan Schmitt,Tom Hirschowitz,Damien Pous,Jean-Bernard Stefani;Component-Oriented Programming with Sharing: Containment is Not Ownership.;389-404;16;Components and Templates;;selected
+2005;Jeremy G. Siek,Andrew Lumsdaine;Language Requirements for Large-Scale Generic Libraries.;405-421;17;Generic Programming;;selected
+2005;Krzysztof Czarnecki,Michal Antkiewicz;Mapping Features to Models: A Template Approach Based on Superimposed Variants.;422-437;16;Generic Programming;;selected
+2005;Monica Pinto,Lidia Fuentes,Daniel Jimenez;Developing Dynamic and Adaptable Applications with CAM/DAOP: A Virtual Office Application.;438-441;4;Demonstrations;;
+2005;Risto Pohjonen;Metamodeling Made Easy - MetaEdit+ (Tool Demonstration).;442-446;5;Demonstrations;;
+2004;Yannis Smaragdakis,Shan Shan Huang,David Zook;Generating AspectJ Programs with Meta-AspectJ.;1-18;18;Aspect Orientation;;selected
+2004;Wilson C. Hsieh,Sean McDirmid;Splice: Aspects That Analyze Programs.;19-38;20;Aspect Orientation;;selected
+2004;Douglas R. Smith;A Generative Approach to Aspect-Oriented Programming.;39-54;16;Aspect Orientation;;selected
+2004;Daniel Lohmann,Olaf Spinczyk,Georg Blaschke;Generic Advice: On the Combination of AOP with Generative Programming in AspectC++.;55-74;20;Aspect Orientation;;selected
+2004;Nicholas A. Leidenfrost,Awais Rashid;Supporting Flexible Object Database Evolution with Aspects.;75-94;20;Aspect Orientation;;selected
+2004;Remi Douence,Luc Teboul;A Pointcut Language for Control-Flow.;95-114;20;Aspect Orientation;;selected
+2004;Siobhan Clarke,Andrew Jackson;SourceWeave.NET: Cross-Language Aspect-Oriented Programming.;115-135;21;Aspect Orientation;;selected
+2004;Emir Pasalic,Nathan Mishra-Linger;Meta-programming with Typed Object-Language Representations.;136-167;32;Staged Programming;;selected
+2004;Gregory Neverov,Paul Roe;Metaphor: A Multi-stage, Object-Oriented Programming Language.;168-185;18;Staged Programming;;selected
+2004;Gabriele Keller,Manuel M. T. Chakravarty,Sean Seefried;Optimising Embedded DSLs Using Template Haskell.;186-205;20;Staged Programming;;selected
+2004;Davide Ancona,Eugenio Moggi;A Fresh Calculus for Name Management.;206-224;19;Types of Meta-programming;;selected
+2004;Ryan Culpepper,Matthias Felleisen;Taming Macros.;225-243;19;Types of Meta-programming;;selected
+2004;Ulrik Pagh Schultz;A Unification of Inheritance and Automatic Program Specialization.;244-265;22;Types of Meta-programming;;selected
+2004;Istvan Zolyomi,Zoltan Porkolab;Towards a General Template Introspection Library.;266-282;17;Meta-programming;;selected
+2004;Mira Mezini,Vasian Cepa;Declaring and Enforcing Dependencies Between .NET Custom Attributes.;283-297;15;Meta-programming;;selected
+2004;Feng Shi,Aditya Agrawal,Attila Vizhanyo;Towards Generation of Efficient Transformations.;298-316;19;Meta-programming;;selected
+2004;Jana Kohler,Rainer Hauser;Compiling Process Graphs into Executable Code.;317-336;20;Model-Driven Approaches;;selected
+2004;Douglas C. Schmidt,Aniruddha S. Gokhale,Gan Deng,George T. Edwards,Balachandran Natarajan;Model-Driven Configuration and Deployment of Component Middleware Publish/Subscribe Services.;337-360;24;Model-Driven Approaches;;selected
+2004;Hui Wu,Yuehua Lin,Jing Zhang,Sandeep Neema,Feng Shi,Aniruddha S. Gokhale,Rajesh Sudarsan,Jeffrey G. Gray,Suman Roychoudhury,Ted Bapty;Model-Driven Program Transformation of a Large Avionics Framework.;361-378;18;Model-Driven Approaches;;selected
+2004;Don S. Batory,Jia Liu;Automatic Remodularization and Optimized Synthesis of Product-Families.;379-395;17;Product Lines;;selected
+2004;Christian Gebauer,Jernej Kovse;VS-Gen: A Case Study of a Product Line for Versioning Systems.;396-415;20;Product Lines;;selected
+2004;Raphael Marvie,Stephane Bonnet,Olivier Potonniee,Jean-Marc Geib;A Model-Driven Approach for Smart Card Configuration.;416-435;20;Product Lines;;selected
+2004;Anne-Francoise Le Meur,Gilles Muller,Julia L. Lawall;On Designing a Target-Independent DSL for Safe OS Process-Scheduling Components.;436-455;20;Domain-Specific Languages and Generation;;selected
+2004;Liam Peyton,Arif Rajwani;A Generative Framework for Managed Services.;456-468;13;Domain-Specific Languages and Generation;;selected
+2004;Luca Padovani,Claudio Sacerdoti Coen,Stefano Zacchiroli;A Generative Approach to the Implementation of Language Bindings for the Document Object Model.;469-487;19;Domain-Specific Languages and Generation;;selected
+2004;Jack Greenfield;Software Factories: Assembling Applications with Patterns, Models, Frameworks and Tools.;488;1;Invited Speakers;;
+2004;Peter D. Mosses;Modular Language Descriptions.;489;1;Invited Speakers;;
+2003;Calton Pu,Laurent Reveillere,Hedi Hamdi,Charles Consel,Lenin Singaravelu,Haiyan Yu;Spidle: A DSL Approach to Specifying Streaming Applications.;1-17;17;Domain-Specific Languages;;selected
+2003;Daniel Kastner;TDL: A Hardware Description Language for Retargetable Postpass Optimizations and Analyses.;18-36;19;Domain-Specific Languages;;selected
+2003;Kevin Hammond,Greg Michaelson;Hume: A Domain-Specific Language for Real-Time Embedded Systems.;37-56;20;Domain-Specific Languages;;selected
+2003;Liwen Huang,Xavier Leroy,Walid Taha,Cristiano Calcagno;Implementing Multi-stage Languages Using ASTs, Gensym, and Reflection.;57-76;20;Staged Programming;;selected
+2003;Richard R. Muntz,Zhenghao Wang;On Stage Ordering in Staged Computation.;77-96;20;Staged Programming;;selected
+2003;Walid Taha,Patricia Johann;Staged Notational Definitions.;97-116;20;Staged Programming;;selected
+2003;Olivier Danvy;A Journey from Interpreters to Compilers and Virtual Machines.;117;1;Invited Talk;;
+2003;Jose Maria Troya Linero,Monica Pinto,Lidia Fuentes;DAOP-ADL: An Architecture Description Language for Dynamic Component and Aspect-Based Development.;118-137;20;Modeling to Code;;selected
+2003;Kumar Gaurav Chhokra,Akos Ledeczi,Brandon K. Eames,Steven Nordstrom,Jonathan Sprinkle,Shweta Shetty;ANEMIC: Automatic Interface Enabler for Model Integrated Computing.;138-150;13;Modeling to Code;;selected
+2003;Aniruddha S. Gokhale,Balachandran Natarajan,Sandeep Neema,Douglas C. Schmidt,Jeffrey G. Gray,Ted Bapty;An Approach for Supporting Aspect-Oriented Domain Modeling.;151-168;18;Aspect-Orientation;;selected
+2003;Michael Haupt,Mira Mezini,Mariano Cilia,Alejandro P. Buchmann;The Convergence of AOP and Active Databases: Towards Reactive Middleware.;169-188;20;Aspect-Orientation;;selected
+2003;Shigeru Chiba,Yoshiki Sato,Michiaki Tatsubori;A Selective, Just-in-Time Aspect Weaver.;189-208;20;Aspect-Orientation;;selected
+2003;Istvan Zolyomi,Zoltan Porkolab,Tamas Kozsik;An Extension to the Subtype Relationship in C++ Implemented with Template Metaprogramming.;209-227;19;Meta-programming and Language Extension;;selected
+2003;Jaakko Jarvi,Andrew Lumsdaine,Jeremiah Willcock;Concept-Controlled Polymorphism.;228-244;17;Meta-programming and Language Extension;;selected
+2003;Thomas Cleenewerck;Component-Based DSL Development.;245-264;20;Meta-programming and Language Extension;;selected
+2003;Peri L. Tarr;Towards a More Piece-ful World.;265-266;2;Invited Talk;;
+2003;Vaclav Cechticky,Alessandro Pasetti,Walter Schaufelberger,Philippe Chevalley;A Genertative Approach to Framework Instantiation.;267-286;20;Automating Design-to-Code Transitions;;selected
+2003;Daniel von Dincklage;Making Patterns Explicit with Metaprogramming.;287-306;20;Automating Design-to-Code Transitions;;selected
+2003;S. Doaitse Swierstra,Joao Saraiva;Generating Spreadsheet-Like Tools from Strong Attribute Grammars.;307-323;17;Principled Domain-Specific Approaches;;selected
+2003;Reza Ziaei,Gul Agha;SynchNet: A Petri Net Based Coordination Language for Distributed Objects.;324-343;20;Principled Domain-Specific Approaches;;selected
+2003;Simon J. Cox,Daniel Elphick,Michael Leuschel;Partial Evaluation of MATLAB.;344-363;20;Principled Domain-Specific Approaches;;selected
+2003;Muga Nishizawa,Shigeru Chiba;An Easy-to-Use Toolkit for Efficient Java Bytecode Translators.;364-376;13;Generationn and Translation;;selected
+2003;Alexander L. Wolf,Matthew J. Rutherford;A Case for Test-Code Generation in Model-Driven Systems.;377-396;20;Generationn and Translation;;selected
+2002;Arne J. Glenstrup,Neil D. Jones;Program Generation, Termination, and Binding-Time Analysis.;1-31;31;Invited Papers;;
+2002;Gabor Karsai,Janos Sztipanovits;Generative Programming for Embedded Systems.;32-49;18;Invited Papers;;
+2002;Antonio Cisternino,Giuseppe Attardi;Self Reflection for Adaptive Programming.;50-65;16;Regular Papers;;selected
+2002;Godmar Back;DataScript - A Specification and Scripting Language for Binary Data.;66-77;12;Regular Papers;;selected
+2002;Vincent Balat,Olivier Danvy;Memoization in Type-Directed Partial Evaluation.;78-92;15;Regular Papers;;selected
+2002;Michel Barbeau,Francis Bordeleau;A Protocol Stack Development Tool Using Generative Programming.;93-109;17;Regular Papers;;selected
+2002;Kim Mens,Johan Brichau,Kris De Volder;Building Composable Aspect-Specific Languages with Logic Metaprogramming.;110-127;18;Regular Papers;;selected
+2002;Gregory Butler;Architectural Refactoring in Framework Evolution: A Case Study.;128-139;12;Regular Papers;;selected
+2002;Zhenjiang Hu,Wei-Ngan Chin;Towards a Modular Program Derivation via Fusion and Tupling.;140-155;16;Regular Papers;;selected
+2002;Peter Unger,Krzysztof Czarnecki,Ulrich W. Eisenecker,Thomas Bednasch;Generative Programming for Embedded Software: An Industrial Experience Report.;156-172;17;Regular Papers;;selected
+2002;Remi Douence,Pascal Fradet,Mario Sudholt;A Framework for the Detection and Resolution of Aspect Interactions.;173-188;16;Regular Papers;;selected
+2002;Tzilla Elrad,Omar Aldawud,Atef Bader;Aspect-Oriented Modeling: Bridging the Gap between Implementation and Design.;189-201;13;Regular Papers;;selected
+2002;Oleg Kiselyov;Macros That Compose: Systematic Macro Programming.;202-217;16;Regular Papers;;selected
+2002;Chin Soon Lee;Program Termination Analysis in Polynomial Time.;218-235;18;Regular Papers;;selected
+2002;Jeffrey G. Gray,Sandeep Neema,Aniruddha S. Gokhale,Ted Bapty;Generators for Synthesis of QoS Adaptation in Distributed Real-Time Embedded Systems.;236-251;16;Regular Papers;;selected
+2002;Florian Kruper,Markus L. Noga;Optimizing Content Management System Pipelines.;252-267;16;Regular Papers;;selected
+2002;Joao Saraiva;Component-Based Programming for Higher-Order Attribute Grammars.;268-282;15;Regular Papers;;selected
+2002;Marc Segura-Devillechaise,Jose M. Piquer,Jacques Noye,Eric Tanter;Altering Java Semantics via Bytecode Manipulation.;283-298;16;Regular Papers;;selected
+2002;Eelco Visser;Meta-programming with Concrete Object Syntax.;299-315;17;Regular Papers;;selected
+2002;Richard R. Muntz,Zhenghao Wang;Managing Dynamic Changes in Multi-stage Program Generation Systems.;316-334;19;Regular Papers;;selected
+2001;Krzysztof Czarnecki;Generative Programming and Software System Families.;1;1;;;
+2001;Tim Sheard;Accomplishments and Research Challenges in Meta-programming.;2-44;43;;;
+2001;Mitchell Wand;A Semantics for Advice and Dynamic Join Points in Aspect-Oriented Programming.;45-46;2;;;
+2001;Patricia Johann;Short Cut Fusion: Proved and Improved.;47-71;25;;;selected
+2001;Zhenjiang Hu,Isao Sasano,Masato Takeichi;Generation of Efficient Programs for Solving Maximum Multi-marking Problems.;72-91;20;;;selected
+2001;Daniel Damian,Olivier Danvy;Static Transition Compression.;92-107;16;;;selected
+2001;Olivier Danvy,Bernd Grobauer,Morten Rhiger;A Unifying Approach to Goal-Directed Evaluation.;108-125;18;;;selected
+2001;Kenichi Asai;Integrating Partial Evaluators into Interpreters.;126-145;20;;;selected
+2001;David Wakeling;A Design Methodology for Functional Programs.;146-162;17;;;selected
+2001;William L. Harrison,Tim Sheard;Dynamically Adaptable Software with Metacomputations in a Staged Language.;163-182;20;;;selected
+2001;Rosario Pugliese,Eugenio Moggi,GianLuigi Ferrari;MetaKlaim: Meta-programming for Global Computing.;183-198;16;;;selected
+2001;Christoph Armin Herrmann,Christian Lengauer;A Transformational Approach which Combines Size Inference and Program Optimization.;199-218;20;;;selected
+2000;Richard B. Kieburtz;Implementing Closed Domain-Specific Languages.;1-2;2;Invited Talks;;
+2000;Don S. Batory;Refinements and Product Line Architectures.;3-4;2;Invited Talks;;
+2000;Frank Pfenning;Reasoning about Staged Computation.;5-6;2;Invited Talks;;
+2000;Gilles Muller;Specialization of Systems Programs: Lessons and Perspectives.;7-8;2;Invited Talks;;
+2000;Conal M. Elliott,Sigbjorn Finne,Oege de Moor;Compiling Embedded Languages.;9-27;19;Technical Papers;;selected
+2000;Samuel N. Kamin,Lars Raeder Clausen,Miranda Callahan;Lightweight and Generative Components 2: Binary-Level Components.;28-50;23;Technical Papers;;selected
+2000;Peter Thiemann,Simon Helsen;Fragmental Specialization.;51-71;21;Technical Papers;;selected
+2000;Litong Song,Yoshihiko Futamura;A New Termination Approach for Specialization.;72-91;20;Technical Papers;;selected
+2000;Eugenio Moggi,Cristiano Calcagno;Multi-Stage Imperative Languages: A Conservative Extension Result.;92-107;16;Technical Papers;;selected
+2000;Adam Fischbach,John Hannan;Specification and Correctness of Lambda Lifting.;108-128;21;Technical Papers;;selected
+2000;Henning Makholm;On Jones-Optimal Specialization for Strongly Typed Languages.;129-148;20;Technical Papers;;selected
+2000;Norman Ramsey;Pragmatic Aspects of Reusable Program Generators.;149-171;23;Position Papers;;selected
+2000;Stefano Berardi,Paola Giannini,Mario Coppo,Ferruccio Damiani;Type-Based Useless-Code Elimination for Functional Programs.;172-189;18;Position Papers;;selected
+2000;James Demmel,Richard W. Vuduc;Code Generators for Automatic Tuning of Numerical Kernels: Experiences with FFTW.;190-211;22;Position Papers;;selected
+2000;Thomas Pressburger,Johann Schumann,Bernd M. Fischer;Generating Data Analysis Programs from Statistical Models.;212-229;18;Position Papers;;selected

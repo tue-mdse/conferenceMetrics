@@ -1,0 +1,688 @@
+2012;Harald Gall;Keynote 1: LGTM - Software Sensing and Bug Smelling.;3-4;2;Keynotes;;
+2012;Daniel Varro;Keynote 2: A Bridge Over Troubled Water - Synergies between Model Transformation and Software Maintenance Techniques.;5-6;2;Keynotes;;
+2012;Andy Zaidman,Victor Hurdugaci;Aiding Software Developers to Maintain Developer Tests.;11-20;10;Technical Sessions;Aiding Developers;selected
+2012;Alessandro Marchetto,Giuseppe Scanniello,Angelo Susi,Md. Mahfuzul Islam;A Multi-Objective Technique to Prioritize Test Cases Based on Latent Semantic Indexing.;21-30;10;Technical Sessions;Aiding Developers;selected
+2012;Lars Heinemann,Veronika Bauer,Markus Herrmannsdorfer,Benjamin Hummel;Identifier-Based Context-Dependent API Method Recommendation.;31-40;10;Technical Sessions;Aiding Developers;selected
+2012;Mel O Cinneide,Iman Hemati Moghadam;Automated Refactoring Using Design Differencing.;43-52;10;Refactoring;;selected
+2012;Keisuke Hotta,Yoshiki Higo,Shinji Kusumoto;Identifying, Tailoring, and Suggesting Form Template Method Refactoring Opportunities with Program Dependence Graph.;53-62;10;Refactoring;;selected
+2012;Stephen Swift,Michele Marchesi,Alessandro Murgia,Janet McFall,Roberto Tonelli,Steve Counsell,Giulio Concas;Refactoring and its Relationship with Fan-in and Fan-out: An Empirical Study.;63-72;10;Refactoring;;selected
+2012;Masatomo Hashimoto,Akira Mori;Enhancing History-Based Concern Mining with Fine-Grained Change Analysis.;75-84;10;Repository Mining;;selected
+2012;Manoel Gomes de Mendonca Neto,Daniela S. Cruzes,Antonio Soares de Azevedo Terceiro,Christina von Flach G. Chavez;Understanding Structural Complexity Evolution: A Quantitative Analysis.;85-94;10;Repository Mining;;selected
+2012;Lajos Schrettner,Tibor Gyimothy,Judit Jasz,Csaba Osztrogonac,Arpad Beszedes;Impact Analysis Using Static Execute After in WebKit.;95-104;10;Repository Mining;;selected
+2012;Richard C. Holt,Sarah Nadi;Mining Kbuild to Detect Variability Anomalies in Linux.;107-116;10;Software Anomalies;;selected
+2012;Markus Dohring,Steffen Heublein;Anomalies in Rule-Adapted Workflows - A Taxonomy and Solutions for vBPMN.;117-126;10;Software Anomalies;;selected
+2012;Mario Couture,Syed Shariyar Murtaza,Abdelwahab Hamou-Lhadj,Afroza Sultana;On the Comparison of User Space and Kernel Space Traces in Identification of Software Anomalies.;127-136;10;Software Anomalies;;selected
+2012;Massimiliano Di Penta,Gerardo Canfora,Giuseppe A. Di Lucca,Damiano Distante,Mario Luca Bernardi;Do Developers Introduce Bugs When They Do Not Communicate? The Case of Eclipse and Mozilla.;139-148;10;Bug Management;;selected
+2012;Michael W. Godfrey,Hadi Hosseini,Raymond Nguyen;A Market-Based Bug Allocation Mechanism Using Predictive Bug Lifetimes.;149-158;10;Bug Management;;selected
+2012;Nilam Kaushik,Ladan Tahvildari;A Comparative Study of the Performance of IR Models on Duplicate Bug Detection.;159-168;10;Bug Management;;selected
+2012;Bo Norregaard Jorgensen,Andrzej Olszak;Modularization of Legacy Features by Relocation and Reconceptualization: How Much is Enough?;171-180;10;Miscellaneous;;selected
+2012;Dietmar Pfahl,Markus Borg,Krzysztof Wnuk;Industrial Comparability of Student Artifacts in Traceability Recovery Research - An Exploratory Survey.;181-190;10;Miscellaneous;;selected
+2012;Jose Ricardo da Silva Junior,Leonardo Murta,Esteban Walter Gonzalez Clua,Toni Pacheco;A GPU-based Architecture for Parallel Image-aware Version Control.;191-200;10;Miscellaneous;;selected
+2012;Marlon Dumas,Siim Karus;Predicting Coding Effort in Projects Containing XML.;203-212;10;Prediction;;selected
+2012;Nelson Fonte,Miguel Goulao,Fernando Brito e Abreu,Michel Wermelinger;Software Evolution Prediction Using Seasonal Time Analysis: A Comparative Study.;213-222;10;Prediction;;selected
+2012;Nicolas Anquetil,Marco Tulio de Oliveira Valente,Roberto da Silva Bigonha,Cesar Couto,Christofer Silva;Uncovering Causal Relationships between Software Metrics and Bugs.;223-232;10;Prediction;;selected
+2012;Andrea Caracciolo,Marco Zanoni,Francesca Arcelli Fontana;DPB: A Benchmark for Design Pattern Detection Tools.;235-244;10;Design Patterns and Deficiencies;;selected
+2012;Alexander Binun,Gunter Kniesel;DPJF - Design Pattern Detection with High Accuracy.;245-254;10;Design Patterns and Deficiencies;;selected
+2012;Steffen Becker,Marie Christin Platenius,Markus von Detten;Archimetrix: Improved Software Architecture Recovery in the Presence of Design Deficiencies.;255-264;10;Design Patterns and Deficiencies;;selected
+2012;Salima Hassaine,Giuliano Antoniol,Yann-Gael Gueheneuc,Sylvie Hamel;ADvISE: Architectural Decay in Software Evolution.;267-276;10;Architecture Evolution;;selected
+2012;Isela Macia Bertran,Arndt von Staa,Roberta Arcoverde,Christina von Flach G. Chavez,Alessandro Garcia;On the Relevance of Code Anomalies for Identifying Architecture Degradation Symptoms.;277-286;10;Architecture Evolution;;selected
+2012;Huy Tran,Uwe Zdun,Ioanna Lytra;Constraint-Based Consistency Checking between Design Decisions and Component Models for Supporting Software Architecture Evolution.;287-296;10;Architecture Evolution;;selected
+2012;Stefan Wagner,Lars Heinemann,Florian Deissenboeck,Benjamin Hummel;Challenges of the Dynamic Detection of Functionally Similar Code Fragments.;299-308;10;Clone Detection;;selected
+2012;Rainer Koschke;Large-Scale Inter-System Clone Detection Using Suffix Trees.;309-318;10;Clone Detection;;selected
+2012;Ahmed E. Hassan,Nicolas Bettenburg,Stephen W. Thomas;Using Fuzzy Code Search to Link Code Fragments in Discussions to Source Code.;319-328;10;Clone Detection;;selected
+2012;Gerardo Canfora,Florian Deissenboeck;Welcome from the Early Research Achievements Chairs.;331;1;Early Research Achievements Track;;
+2012;Marco Tulio de Oliveira Valente,Roberto da Silva Bigonha,Krzysztof Czarnecki,Ricardo Terra;Recommending Refactorings to Reverse Software Architecture Erosion.;335-340;6;Refactoring & Reengineering;;
+2012;Gustavo Villavicencio;A New Software Maintenance Scenario Based on Refactoring Techniques.;341-346;6;Refactoring & Reengineering;;
+2012;Akram Ajouli,Remi Douence,Julien Cohen;Invertible Program Restructurings for Continuing Modular Maintenance.;347-352;6;Refactoring & Reengineering;;
+2012;Andreas Winter,Mirco Josefiok,Jan Jelschen,Cosmin Pitu,Marion Gottschalk;Towards Applying Reengineering Services to Energy-Efficient Applications.;353-358;6;Refactoring & Reengineering;;
+2012;Catherine McCartin,Jens Dietrich,Syed Muhammad Ali Shah;Making Smart Moves to Untangle Programs.;359-364;6;Refactoring & Reengineering;;
+2012;Hajimu Iida,Norihiro Yoshida,Masataka Kinoshita;A Cohesion Metric Approach to Dividing Source Code into Functional Segments to Improve Maintainability.;365-370;6;Refactoring & Reengineering;;
+2012;Tobias Olsson,Daniel Toll;Why is Unit-testing in Computer Games Difficult?;373-378;6;Testing & Maintenance;;
+2012;Ahmed Lamkanfi,Serge Demeyer;Filtering Bug Reports for Fix-Time Analysis.;379-384;6;Testing & Maintenance;;
+2012;Chengnian Sun,Yuan Tian,David Lo;Improved Duplicate Bug Report Identification.;385-390;6;Testing & Maintenance;;
+2012;Andy Zaidman,Hans-Gerhard Gross,Cuiting Chen,Tiago Espinha;Maintenance Research in SOA - Towards a Standard Case Study.;391-396;6;Testing & Maintenance;;
+2012;Ettore Merlo,Francois Gauthier;Investigation of Access Control Models with Formal Concept Analysis: A Case Study.;397-402;6;Testing & Maintenance;;
+2012;Scott Grant,David B. Skillicorn,James R. Cordy;Using Topic Models to Support Software Maintenance.;403-408;6;Testing & Maintenance;;
+2012;Andy Zaidman,Ralph Peters;Evaluating the Lifespan of Code Smells using Software Repository Mining.;411-416;6;Software Analysis;;
+2012;Mikal Ziane,Luz Frias,Marcos Aurelio Almeida da Silva,Tewfik Ziadi;Feature Identification from the Source Code of Product Variants.;417-422;6;Software Analysis;;
+2012;Hironori Washizaki,Shinichi Honiden,Yuta Maezawa;Extracting Interaction-Based Stateful Behavior in Rich Internet Applications.;423-428;6;Software Analysis;;
+2012;Hiroshi Kazato,Satoshi Okada,Shinpei Hayashi,Motoshi Saeki,Takashi Hoshino,Shunsuke Miyata;Feature Location for Multi-Layer System Based on Formal Concept Analysis.;429-434;6;Software Analysis;;
+2012;Lars Heinemann,Veronika Bauer;Understanding API Usage to Support Informed Decision Making in Software Maintenance.;435-440;6;Software Analysis;;
+2012;Paul Imhoff,Jan Nonnen;Identifying Knowledge Divergence by Vocabulary Monitoring in Software Projects.;441-446;6;Software Analysis;;
+2012;Hassan Charaf,Jens Borchers;Welcome from the Industrial Chairs.;449-450;2;Industrial Track;;
+2012;Lajos Schrettner,Tibor Gyimothy,Lajos Jeno Fulop,Akos Kiss,Arpad Beszedes;Software Quality Model and Framework with Applications in Industrial Context.;453-456;4;Quality Aspects;;
+2012;Oliver Hummel,Stefan Burger;Applying Maintainability Oriented Software Metrics to Cabin Software of a Commercial Airliner.;457-460;4;Quality Aspects;;
+2012;Benjamin Klatt,Zoya Durdik,Heiko Koziolek,Johannes Stammel,Roland Weiss,Klaus Krogmann;Identify Impacts of Evolving Third Party Components on Long-Living Software Systems.;461-464;4;Quality Aspects;;
+2012;Michael W. Godfrey,Ian J. Davis,Serge Mankovski,Richard C. Holt,Nick Minchenko;Analyzing Assembler to Eliminate Dead Functions: An Industrial Experience.;467-470;4;Reengineering Experiences;;
+2012;Woomok Kim,Doo-Hwan Bae,Tae-hyung Kim,Sangtae Kim;Rebuilding a Unified Database Service via Context Analysis Method.;471-474;4;Reengineering Experiences;;
+2012;Frank Simon,Daniel Simon;IT Industrialisation as Enabler of Global Delivery.;477-482;6;Strategic Aspects;;
+2012;Radu Marinescu;Welcome from the European Projects Chair.;485-486;2;European Projects Track;;
+2012;Daniel Draws,Martin Alexander Neuman,Stephan Strodl,Jose Barateiro;Digital Preservation Challenges on Software Life Cycle.;487-490;4;European Projects Track;;
+2012;Gordana Rakic,Zoran Budimac,Marjan Hericko,Crt Gerlec;Towards the Better Software Metrics Tool.;491-494;4;European Projects Track;;
+2012;Arpad Beszedes,Tibor Gyimothy,Lajos Schrettner;Development of a Unified Software Quality Platform in the Szeged InfoPólus Cluster.;495-498;4;European Projects Track;;
+2012;Jurgen J. Vinju;Welcome from the Doctoral Symposium Chair.;501;1;Doctoral Symposium;;
+2012;Daniel Izquierdo-Cortazar;Global and Geographically Distributed Work Teams: Understanding the Bug Fixing Process and Potentially Bug-prone Activity Patterns.;505-508;4;Student Presentations;;
+2012;Ferenc Kovacs,Zoltan David;Visual Modeler for Data Intensive Tasks.;509-512;4;Student Presentations;;
+2012;Niko Schwarz;Hot Clones: A Shotgun Marriage of Search-Driven Development and Clone Management.;513-515;3;Student Presentations;;
+2012;Mircea Lungu,Holger M. Kienle;Welcome from the Tool Demonstration Chairs.;519-520;2;Tool Demonstration Track;;
+2012;Andre Hora,Muhammad Usman Bhatti,Stephane Ducasse,Julio Martins,Nicolas Anquetil,Marco Tulio de Oliveira Valente,Cesar Couto;Bug Maps: A Tool for the Visual Exploration and Analysis of Bugs.;523-526;4;Tool Demonstrations Session 1;;
+2012;Tom Mens,Javier Javier Perez,Romuald Deshayes,Mathieu Goeminne;SECONDA: Software Ecosystem Analysis Dashboard.;527-530;4;Tool Demonstrations Session 1;;
+2012;Genoveva Vargas-Solar,Rafael Lozano,Juan Carlos Castrejon;Web2MexADL: Discovery and Maintainability Verification of Software Systems Architecture.;531-534;4;Tool Demonstrations Session 1;;
+2012;Quinten David Soetens,Serge Demeyer;ChEOPSJ: Change-Based Test Optimization.;535-538;4;Tool Demonstrations Session 1;;
+2012;Silvia Miksch,Dorna Nasseri,Peter Bodesinsky,Bilal Alsallakh;Visualizing Arrays in the Eclipse Java IDE.;541-544;4;Tool Demonstrations Session 2;;
+2012;Silvia Miksch,Peter Bodesinsky,Bilal Alsallakh,Alexander Gruber;Visual Tracing for the Eclipse Java Debugger.;545-548;4;Tool Demonstrations Session 2;;
+2012;Laszlo Vidacs,Lars Hamann,Martin Gogolla,Mirco Kuhlmann;Abstract Runtime Monitoring with USE.;549-552;4;Tool Demonstrations Session 2;;
+2012;Pavel Dovgalyuk;Deterministic Replay of System's Execution with Multi-target QEMU Simulator for Dynamic Analysis and Reverse Debugging.;553-556;4;Tool Demonstrations Session 2;;
+2012;Tamas Gergely;Welcome from the Workshop Chair.;559-560;2;Workshop;;
+2012;Yijun Yu,Yiannis Kanellopoulos;Workshop Proposal for CSMR 2012 - SQM 2012.;561-562;2;Workshop;;
+2012;Jens Knodel;Welcome from the Tutorial Chair.;565-566;2;Tutorials;;
+2012;Massimiliano Di Penta;Empirical Studies in Reverse Engineering and Maintenance: Employing Developers to Evaluate Your Approach and Tool.;567-568;2;Tutorials;;
+2012;Radu Marinescu;Pragmatic Design Quality Assessment.;569-570;2;Tutorials;;
+2011;Jens Borchers;Invited Talk: Reengineering from a Practitioner's View - A Personal Lesson's Learned Assessment.;1-2;2;Invited Talks;;
+2011;Hans Vangheluwe;Invited Talk: Promises and Challenges of Model-Driven Engineering.;3-4;2;Invited Talks;;
+2011;Alexander Serebrenik,Wouter Poncin,Mark van den Brand;Process Mining Software Repositories.;5-14;10;Technical Track 1: Repository Analysis;;selected
+2011;Michele Lanza,Vitezslav Humpa,Alberto Bacchelli;RTFM (Read the Factual Mails) - Augmenting Program Comprehension with Remail.;15-24;10;Technical Track 1: Repository Analysis;;selected
+2011;Nikolaos Tsantalis,Alexander Chatzigeorgiou;Ranking Refactoring Suggestions Based on Historical Volatility.;25-34;10;Technical Track 1: Repository Analysis;;selected
+2011;Valerio Maggio,Sergio Di Martino,Anna Corazza,Giuseppe Scanniello;Investigating the Use of Lexical Information for Software System Clustering.;35-44;10;Technical Track 2: Software Clustering;;selected
+2011;Onaiza Maqbool,Siraj Muhammad,Rashid Naseem;Improved Similarity Measures for Software Clustering.;45-54;10;Technical Track 2: Software Clustering;;selected
+2011;Marcelo Nassau Malta,Humberto T. Marques Neto,Gladston Aparecido Junio,Marco Tulio de Oliveira Valente,Humberto Mossri de Almeida;On the Benefits of Planning and Grouping Software Maintenance Requests.;55-64;10;Technical Track 2: Software Clustering;;selected
+2011;Jan Harder,Nils Gode;Clone Stability.;65-74;10;Technical Track 3: Code Clones and Short Papers;;selected
+2011;Yoshiki Higo,Shinji Kusumoto;Code Clone Detection on Specialized PDGs with Heuristics.;75-84;10;Technical Track 3: Code Clones and Short Papers;;selected
+2011;Onaiza Maqbool,Faiza Siddique;Analyzing Term Weighting Schemes for Labeling Software Clusters.;85-88;4;Technical Track 3: Code Clones and Short Papers;;selected
+2011;Mahdi Derakhshanmanesh,Jurgen Ebert,Ladan Tahvildari,Mehdi Amoui;Software Evolution towards Model-Centric Runtime Adaptivity.;89-92;4;Technical Track 3: Code Clones and Short Papers;;selected
+2011;Yasuhiro Hayase,Yuki Manabe,Yu Kashima,Katsuro Inoue;Building Domain Specific Dictionaries of Verb-Object Relation from Source Code.;93-100;8;Technical Track 4: Program Comprehension;;selected
+2011;Camila Nunes,Carlos Jose Pereira de Lucena,Eduardo Magno Lages Figueiredo,Alessandro Garcia;Revealing Mistakes in Concern Mapping Tasks: An Experimental Evaluation.;101-110;10;Technical Track 4: Program Comprehension;;selected
+2011;Vassilios Tzerpos,Mark Shtern;Factbase and Decomposition Generation.;111-120;10;Technical Track 4: Program Comprehension;;selected
+2011;Rahul Premraj,Johannes C. van Vliet,Adam Vanya;Approximating Change Sets at Philips Healthcare: A Case Study.;121-130;10;Technical Track 5: Empirical Research in Industry;;selected
+2011;Jari Vanhanen,Mika Mantyla;Software Deployment Activities and Challenges - A Case Study of Four Software Product Companies.;131-140;10;Technical Track 5: Empirical Research in Industry;;selected
+2011;Philippe Vaillergues,Stephane Ducasse,Jannik Laval,Karine Mordal-Manet,Francoise Balmas,Laurent Bouhier,Thomas J. McCabe,Nicolas Anquetil,Fabrice Bellingard;An Empirical Model for Continuous and Weighted Metric Aggregation.;141-150;10;Technical Track 5: Empirical Research in Industry;;selected
+2011;Regis Fleurquin,Kahina Hassam,Salah Sadou,Vincent Le Gloahec;Assistance System for OCL Constraints Adaptation during Metamodel Evolution.;151-160;10;Technical Track 6: Software Artefacts Evolution;;selected
+2011;Maritta Heisel,Isabelle Cote;A UML Profile and Tool Support for Evolutionary Requirements Engineering.;161-170;10;Technical Track 6: Software Artefacts Evolution;;selected
+2011;Yann-Gael Gueheneuc,Segla Kpodjedo,Ahmed Belderrar,Philippe Galinier,Giuliano Antoniol;Sub-graph Mining: Identifying Micro-architectures in Evolving Object-Oriented Software.;171-180;10;Technical Track 6: Software Artefacts Evolution;;selected
+2011;Foutse Khomh,Giuliano Antoniol,Yann-Gael Gueheneuc,Marwen Abbes;An Empirical Study of the Impact of Two Antipatterns, Blob and Spaghetti Code, on Program Comprehension.;181-190;10;Technical Track 7: Empirical Research;;selected
+2011;Marcus Vinicius Couto,Marco Tulio de Oliveira Valente,Eduardo Magno Lages Figueiredo;Extracting Software Product Lines: A Case Study Using Conditional Compilation.;191-200;10;Technical Track 7: Empirical Research;;selected
+2011;Henk van der Schuur,Sjaak Brinkkemper,Slinger Jansen;Reducing Maintenance Effort through Software Operation Knowledge: An Eclectic Empirical Evaluation.;201-210;10;Technical Track 7: Empirical Research;;selected
+2011;Abdelwahab Hamou-Lhadj,Luay Alawneh;Pattern Recognition Techniques Applied to the Abstraction of Traces of Inter-Process Communication.;211-220;10;Technical Track 8: Runtime Evolution and Analysis;;selected
+2011;Luciana Lourdes Silva,Klerisson Ribeiro Paixao,Marcelo de Almeida Maia,Sandra de Amo;On the Use of Execution Trace Alignment for Driving Perfective Changes.;221-230;10;Technical Track 8: Runtime Evolution and Analysis;;selected
+2011;Paulo Borba,Vaidas Gasiunas,Henrique Rebelo,Marcio de Medeiros Ribeiro,Rodrigo Andrade,Lucas Satabin;Assessing Idioms for Implementing Features with Flexible Binding Times.;231-240;10;Technical Track 8: Runtime Evolution and Analysis;;selected
+2011;Manuel Wimmer,Mounir Boukadoum,Marouane Kessentini,Houari A. Sahraoui;Design Defect Detection Rules Generation: A Music Metaphor.;241-248;8;Technical Track 9: Defect Analysis;;selected
+2011;Ahmed Lamkanfi,Quinten David Soetens,Serge Demeyer,Tim Verdonck;Comparing Mining Algorithms for Predicting the Severity of a Reported Bug.;249-258;10;Technical Track 9: Defect Analysis;;selected
+2011;Thilo Mende,Rainer Koschke,Jan Peleska;On the Utility of a Defect Prediction Model during HW/SW Integration Testing: A Retrospective Case Study.;259-268;10;Technical Track 9: Defect Analysis;;selected
+2011;Wilhelm Hasselbring,Soren Frey;An Extensible Architecture for Detecting Violations of a Cloud Environment's Constraints during Legacy Software System Migration.;269-278;10;Technical Track 10: Legacy Systems Maintenance and Migration;;selected
+2011;Jannik Laval,Nicolas Anquetil;Legacy Software Restructuring: Analyzing a Concrete Case.;279-286;8;Technical Track 10: Legacy Systems Maintenance and Migration;;selected
+2011;Harry M. Sneed;Migrating PL/I Code to Java.;287-296;10;Technical Track 10: Legacy Systems Maintenance and Migration;;selected
+2011;Volker Riediger;Welcome from the Workshop Chair.;297-298;2;Workshops;;
+2011;Wilhelm Hasselbring,Volker Riediger,Andreas Fuhr;First International Workshop on Model-Driven Software Migration (MDSM 2011).;299-300;2;Workshops;;
+2011;Magiel Bruntink,Kostas Kontogiannis;Fifth International Workshop on System Quality and Maintainability.;301-302;2;Workshops;;
+2011;Christian Zillmann,Christos Tjortjis;Welcome from the Industrial Track Chair and the Industrial Forum Chair.;303-304;2;Industrial Track;;
+2011;Johann Prenninger,Agnes Kotucz,Stefan Meinzer,Jens Kohl,Ansgar Dorneich;Using Multivariate Split Analysis for an Improved Maintenance of Automotive Diagnosis Functions.;305-308;4;Industrial Track;;
+2011;Martin Feilkas,Christian Schlogel,Elmar Jurgens,Florian Deissenboeck,Andreas Wubbeke,Benjamin Hummel;Regression Test Selection of Manual System Tests in Practice.;309-312;4;Industrial Track;;
+2011;Irene Buchmann,Sebastian Frischbier,Dieter Putz;Towards an Estimation Model for Software Maintenance Costs.;313-316;4;Industrial Track;;
+2011;Egidio Astesiano,Gianna Reggio,Maurizio Leotta,Filippo Ricca;Comparing the Maintainability of Two Alternative Architectures of a Postal System: SOA vs. Non-SOA.;317-320;4;Industrial Track;;
+2011;Jorg Friebe,Simon Giesecke,Martin Frenzel;Long-Term Software Architecture Management with Multi-technology Tool Support.;321-324;4;Industrial Track;;
+2011;Manuel Wimmer,Christian Pichler;Model-Driven Business Document Evolution.;325-328;4;Industrial Track;;
+2011;Rozita Dara,Mazeiar Salehie,Ladan Tahvildari,Shimin Li,Mark Moore,Sen Li;Prioritizing Requirements-Based Regression Test Cases: A Goal-Driven Practice.;329-332;4;Industrial Track;;
+2011;Andrea De Lucia;Introduction to the European Projects Track.;333-334;2;European Track;;
+2011;Hans Hansson,Ivica Crnkovic,Thomas Nolte,Johan Kraft,Holger M. Kienle;Software Maintenance Research in the PROGRESS Project for Predictable Embedded Software Systems.;335-338;4;European Track;;
+2011;A. Herget,Volker Riediger,Andreas Fuhr,M. Theurer,W. Teppe,Andreas Winter,Uwe Kaiser,Tassilo Horn,C. Zillmann,Y. Zimmermann,Uwe Erdmenger,Denis Uhlig;The SOAMIG Process Model in Industrial Applications.;339-342;4;European Track;;
+2011;Laszlo Vidacs,Csaba Nagy,Rudolf Ferenc,Ferenc Kocsis,Tibor Gyimothy,Istvan Kovacs;Solutions for Reverse Engineering 4GL Applications, Recovering the Design of a Logistical Wholesale System.;343-346;4;European Track;;
+2011;Roberto Erick Lopez-Herrejon,Alexander Egyed;C2MV2: Consistency and Composition for Managing Variability in Multi-view Systems.;347-350;4;European Track;;
+2011;Naji Habra,Flora Kamseu,Benoit Vanderose,Leandro Doctors,Tom Mens;QUALGEN: Modeling and Analysing the Quality of Evolving Software Systems.;351-354;4;European Track;;
+2011;Yarden Nir-Buchbinder,Elisa Puoskari,Joachim Wegener,Mark Harman,Tanja E. J. Vos,Paolo Tonella,Wishnu Prasetya;Future Internet Testing with FITTEST.;355-358;4;European Track;;
+2011;Ljiljana Stojanovic,Luis Canas,Felipe Ortega,Santiago Duenas;ALERT: Active Support and Real-Time Coordination Based on Event Processing in Open Source Software Development.;359-362;4;European Track;;
+2011;Jens Knodel;Welcome from the Doctoral Symposium Chair.;363-364;2;Doctoral Symposium;;
+2011;Markus Borg;In Vivo Evaluation of Large-Scale IR-Based Traceability Recovery.;365-368;4;Doctoral Symposium;;
+2011;Adam Przybylek;Impact of Aspect-Oriented Programming on Software Modularity.;369-372;4;Doctoral Symposium;;
+2011;Aakash Ahmad,Claus Pahl;Customisable Transformation-Driven Evolution for Service Architectures.;373-376;4;Doctoral Symposium;;
+2011;Kresimir Fertalj,Marija Katic;Model for Dynamic Evolution of Aspect-Oriented Software.;377-380;4;Doctoral Symposium;;
+2011;Andreas Seibel;From Software Traceability to Global Model Management and Back Again.;381-384;4;Doctoral Symposium;;
+2011;Lama Balloul;Management of the Interfaces during Their Life Cycle in a System Landscape.;385-388;4;Doctoral Symposium;;
+2010;Rainer Koschke;Incremental Reflexion Analysis.;1-10;10;;;selected
+2010;Hans-Gerhard Gross,Arie van Deursen,Khalid Adam Nasr;Adopting and Evaluating Service Oriented Architecture in Industry.;11-20;10;;;selected
+2010;Vittorio Cortellessa,Raffaela Mirandola,Pasqualina Potena;Selecting Optimal Maintenance Plans Based on Cost/Reliability Tradeoffs for Software Subject to Structural and Behavioral Changes.;21-30;10;;;selected
+2010;Giuliano Antoniol,Massimiliano Di Penta,Yann-Gael Gueheneuc,Fatemeh Asadi;A Heuristic-Based Approach to Identify Concepts in Execution Traces.;31-40;10;;;selected
+2010;Margaret-Anne D. Storey,Del Myers,Martin Salois;Utilizing Debug Information to Compact Loops in Large Program Traces.;41-50;10;;;selected
+2010;Thomas Roy Dean,Manar H. Alalfi,James R. Cordy;Automating Coverage Metrics for Dynamic Web Applications.;51-60;10;;;selected
+2010;Gouri Prakash;Achieving Agility in Adaptive and Perfective Software Maintenance.;61-62;2;;;selected
+2010;Chandrika Shrinivasan;Data Migration from a Product to a Data Warehouse Using ETL Tool.;63-65;3;;;selected
+2010;Kellyton dos Santos Brito,Vinicius Cardoso Garcia,Silvio Romero de Lemos Meira;Experiences from a Brazilian Bank Reengineering Project.;66-67;2;;;selected
+2010;Nioosha Madani,Massimiliano Di Penta,Giuliano Antoniol,Yann-Gael Gueheneuc,Latifa Guerrouj;Recognizing Words from Source Code Identifiers Using Speech Recognition Techniques.;68-77;10;;;selected
+2010;Elmar Jurgens,Florian Deissenboeck,Benjamin Hummel;Code Similarities Beyond Copy & Paste.;78-87;10;;;selected
+2010;Sergio Di Martino,Anna Corazza,Giuseppe Scanniello;A Probabilistic Based Approach towards Software System Clustering.;88-96;9;;;selected
+2010;Richard C. Holt,Serge Mankovski,Sarah Nadi;Does the Past Say It All? Using History to Predict Change Sets in a CMDB.;97-106;10;;;selected
+2010;Thilo Mende,Rainer Koschke;Effort-Aware Defect Prediction Models.;107-116;10;;;selected
+2010;Andy Kellens,Kris De Schutter,Carlos Noguera,Theo D'Hondt,Coen De Roover;Co-evolving Annotations and Source Code through Smart Annotations.;117-126;10;;;selected
+2010;J. Andres Diaz Pace,Arie Gurfinkel,Ipek Ozkaya,Sagar Chaki;Using Architecturally Significant Requirements for Guiding System Evolution.;127-136;10;;;selected
+2010;Marlon Dumas,Siim Karus;Designing Maintainable XML Transformations.;137-145;9;;;selected
+2010;Ana Milanova,Yin Liu;Static Information Flow Analysis with Handling of Implicit Flows and a Study on Effects of Implicit Flows vs Explicit Flows.;146-155;10;;;selected
+2010;Yijun Yu,Simon Butler,Helen Sharp,Michel Wermelinger;Exploring the Influence of Identifier Names on Code Quality: An Empirical Study.;156-165;10;;;selected
+2010;Tamas Gergely,Arpad Beszedes,Csaba Nagy,Janos Pantos;Towards a Safe Method for Computing Dependencies in Database-Intensive Systems.;166-175;10;;;selected
+2010;Michele Risi,Carmine Gravino,Andrea De Lucia,Vincenzo Deufemia;Improving Behavioral Design Pattern Detection through Model Checking.;176-185;10;;;selected
+2010;Adam Westerski,Juan Carlos Duenas Lopez,Jose Ignacio Fernandez-Villamor,Carlos Angel Iglesias,Boni Garcia,Mercedes Garijo;ROMULUS: Domain Driven Design and Mashup Oriented Development Based on Open Source Java Metaframework for Pragmatic, Reliable and Secure Web Development.;186-189;4;;;
+2010;Peter Hegedus,Lajos Schrettner,Rudolf Ferenc,Lajos Jeno Fulop,Tibor Bakota;Development of a Methodology, Software -- Suite and Service for Supporting Software Architecture Reconstruction.;190-193;4;;;
+2010;Mircea Trifu,Michael Hauck,Steffen Becker,Jan Kofron,Klaus Krogmann;Reverse Engineering Component Models for Quality Predictions.;194-197;4;;;
+2010;Gabriella Toth,Arpad Beszedes,Lajos Jeno Fulop,Judit Jasz,Csaba Nagy;CIASYS--Change Impact Analysis at System Level.;198-201;4;;;
+2010;Michele Lanza,Lile Hattori,Anja Guzzi;Supporting Collaboration Awareness with Real-Time Visualization of Development Activity.;202-211;10;;;selected
+2010;Raul Marticorena Sanchez,Yania Crespo Gonzalez-Carvajal,Carlos Lopez Nozal,Francisco Javier Perez Garcia;Refactoring Generics in JAVA: A Case Study on Extract Method.;212-221;10;;;selected
+2010;Zhen Ming Jiang,Ahmed E. Hassan,Bram Adams,Gilbert Hamann,Haroon Malik,Parminder Flora;Automatic Comparison of Load Tests to Support the Performance Analysis of Large Enterprise Systems.;222-231;10;;;selected
+2010;Alexander Binun,Peter Hegedus,Nikolaos Tsantalis,Lajos Jeno Fulop,Yann-Gael Gueheneuc,Alexander Chatzigeorgiou,Gunter Kniesel;DPDX--Towards a Common Result Exchange Format for Design Pattern Detection Tools.;232-235;4;;;
+2010;Alessandro Marchetto,Filippo Ricca,Paolo Tonella;Under and Over Approximation of State Models Recovered for Ajax Applications.;236-239;4;;;
+2010;Alexander Fokin,Katerina Troshina,Alexander Chernov;Reconstruction of Class Hierarchies for Decompilation of C++ Programs.;240-243;4;;;
+2010;Alexander Serebrenik,Mark van den Brand,Serguei A. Roubtsov;"Detecting Modularity ""Smells"" in Dependencies Injected with Java Annotations.";244-247;4;;;
+2010;Foutse Khomh,Yann-Gael Gueheneuc,Rocco Oliveto,Giuliano Antoniol;Numerical Signatures of Antipatterns: An Approach Based on B-Splines.;248-251;4;;;
+2010;Dalton Serey Guerrero,Roberto Almeida Bittencourt,Jorge Cesar Abrantes de Figueiredo,Mirna Carelli Oliveira Maia;The Hybrid Technique for Object-Oriented Software Change Impact Analysis.;252-255;4;;;
+2010;Carmine Grasso,Lerina Aversano,Maria Tortorella;Software System Evolution Driven by Business Alignment Measure.;256-259;4;;;
+2010;Rahul Premraj,Johannes C. van Vliet,Adam Vanya;Interactive Exploration of Co-evolving Software Entities.;260-263;4;;;
+2010;Daniel Lucredio,Eduardo Santana de Almeida,Carlos Eduardo Albuquerque da Cunha,Yguarata Cerqueira Cavalcanti,Silvio Romero de Lemos Meira;An Initial Study on the Bug Report Duplication Problem.;264-267;4;;;
+2010;Rudolf Ferenc,Yiannis Kanellopoulos;SQM 2010: Fourth International Workshop on System Quality and Maintainability.;268-269;2;;;
+2010;Ulrike Steffens,Matthias Postina,Andreas Winter,Filippo Ricca,Grace A. Lewis;SOAME 2010: International Workshop on SOA Migration and Evolution.;270-271;2;;;
+2010;Kellyton dos Santos Brito,Vinicius Cardoso Garcia,Silvio Romero de Lemos Meira;LIFT Revisited: Enhancing the Understanding of NATURAL/ADABAS Legacy Systems.;272-273;2;;;
+2010;Radu Marinescu,Ioana Verebi,George Ganea;InCode: Continuous Quality Assessment and Improvement.;274-275;2;;;
+2010;Marios Fokaefs,Eleni Stroulia,Veselin Ganev,Brendan Tansey,Ken Bauer;WikiDev 2.0: Facilitating Software Development Teams.;276-277;2;;;
+2009;H. Dieter Rombach;Design for Maintenance - Use of Engineering Principles and Product Line Technology.;1-2;2;Keynotes;;
+2009;Tibor Gyimothy;To Use or Not to Use? The Metrics to Measure Software Quality (Developers' View).;3-4;2;Keynotes;;
+2009;Harry M. Sneed;Stevens Lecture on Software Development Methods at CSMR 2009.;5-6;2;Keynotes;;
+2009;Radu Marinescu,Petru Florin Mihancea;Discovering Comprehension Pitfalls in Class Hierarchies.;7-16;10;Architecture;;selected
+2009;Carola Lilienthal;Architectural Complexity of Large-Scale Software Systems.;17-26;10;Architecture;;selected
+2009;Chiragkumar Patel,Abdelwahab Hamou-Lhadj,Juergen Rilling;Software Clustering Using Dynamic Analysis and Static Dependencies.;27-36;10;Architecture;;selected
+2009;Spiros Mancoridis,Csaba Nagy;Static Security Analysis Based on Input-Related Software Faults.;37-46;10;Fault Detection and Security;;selected
+2009;Nina Marwede,Wilhelm Hasselbring,Andre van Hoorn,Matthias Rohr;Automatic Failure Diagnosis Support in Distributed Large-Scale Software Systems Based on Timing Behavior Anomaly Correlation.;47-58;12;Fault Detection and Security;;selected
+2009;J. Andres Diaz Pace,Alvaro Soria,Marcelo R. Campo;Tool Support for Fault Localization Using Architectural Models.;59-68;10;Fault Detection and Security;;selected
+2009;Karim O. Elish,Mahmoud O. Elish;Application of TreeNet in Predicting Object-Oriented Software Maintainability: A Comparative Study.;69-78;10;Reengineering;;selected
+2009;Paulo Borba,Marcio de Medeiros Ribeiro;Improving Guidance when Restructuring Variabilities in Software Product Lines.;79-88;10;Reengineering;;selected
+2009;Genoveffa Tortora,Andrea De Lucia,Giuseppe Scanniello,Fausto Fasano;Concurrent Fine-Grained Versioning of UML Models.;89-98;10;Reengineering;;selected
+2009;Michele Risi,Carmine Gravino,Andrea De Lucia,Vincenzo Deufemia;Behavioral Pattern Identification through Visual Language Parsing and Code Instrumentation.;99-108;10;Feature Identification;;selected
+2009;Mircea Trifu;Improving the Dataflow-Based Concern Identification Approach.;109-118;10;Feature Identification;;selected
+2009;Nikolaos Tsantalis,Alexander Chatzigeorgiou;Identification of Extract Method Refactoring Opportunities.;119-128;10;Feature Identification;;selected
+2009;Jari Antikainen,Timo Kokko,Tarja Systa;Adopting SOA - Experiences from Nine Finnish Organizations.;129-138;10;SOA and Migration;;selected
+2009;Alessandro Marchetto,Chiara Di Francescomarino,Paolo Tonella;Reverse Engineering of Business Processes exposed as Web Applications.;139-148;10;SOA and Migration;;selected
+2009;Werner Teppe;The ARNO Project: Challenges and Experiences in a Large-Scale Industrial Software Migration Project.;149-158;10;SOA and Migration;;selected
+2009;Arbi Ghazarian;A Case Study of Source Code Evolution.;159-168;10;Evolution;;selected
+2009;Andrea Capiluppi,Karl Beecher;Structural Complexity and Decay in FLOSS Systems: An Inter-repository Study.;169-178;10;Evolution;;selected
+2009;Giuliano Antoniol,Segla Kpodjedo,Philippe Galinier,Filippo Ricca;Recovering the Evolution Stable Part Using an ECGM Algorithm: Is There a Tunnel in Mozilla?;179-188;10;Evolution;;selected
+2009;Giuliano Antoniol,Andrian Marcus,Sonia Haiduc,Surafel Lemma Abebe,Paolo Tonella;Analyzing the Evolution of the Source Code Vocabulary.;189-198;10;Evolution;;selected
+2009;Andy Kellens,Luc Jorissen,Kris De Schutter,Theo D'Hondt,Bart Van Passel;Cognac: A Framework for Documenting and Verifying the Design of Cobol Systems.;199-208;10;Reverse Engineering;;selected
+2009;Serge Demeyer,Bart Van Rompaey;Establishing Traceability Links between Unit Test Cases and Units under Test.;209-218;10;Reverse Engineering;;selected
+2009;Rainer Koschke,Nils Gode;Incremental Clone Detection.;219-228;10;Reverse Engineering;;selected
+2009;Ingrid Nunes,Carlos Jose Pereira de Lucena,Claudio Sant'Anna,Camila Nunes,Uira Kulesza,Alessandro Garcia;Comparing Stability of Implementation Techniques for Multi-agent System Product Lines.;229-232;4;Short Papers 1 - Maintenance;;
+2009;Lerina Aversano,Maria Tortorella;Business Process-Aware Maintenance Task: A Preliminary Empirical Study.;233-236;4;Short Papers 1 - Maintenance;;
+2009;Padmaja Joshi,Rushikesh K. Joshi;Concept Analysis for Class Cohesion.;237-240;4;Short Papers 1 - Maintenance;;
+2009;Mathias Ekstedt,Johan Konig,Ulrik Franke,David Hook,Pontus Johnson,Johan Ullberg,Robert Lagerstrom;A Method for Choosing Software Assessment Measures Using Bayesian Networks and Diagnosis.;241-246;6;Short Papers 1 - Maintenance;;
+2009;Thilo Mende,Rainer Koschke,Marek Leszak;Evaluating Defect Prediction Models for a Large Evolving Software System.;247-250;4;Short Papers 1 - Maintenance;;
+2009;Dalton Serey Guerrero,Roberto Almeida Bittencourt;Comparison of Graph Clustering Algorithms for Recovering Software Architecture Module Views.;251-254;4;Short Papers 2 - Architecture;;
+2009;Joshua Garcia,George Edwards,Nenad Medvidovic,Daniel Popescu;Identifying Architectural Bad Smells.;255-258;4;Short Papers 2 - Architecture;;
+2009;Mikael Lindvall,Christopher Ackermann,Greg Dennis;Redesign for Flexibility and Maintainability: A Case Study.;259-262;4;Short Papers 2 - Architecture;;
+2009;Jose A. Carsi,Jennifer Perez,Cristobal Costa Soria;Handling the Dynamic Reconfiguration of Software Architectures Using Aspects.;263-266;4;Short Papers 2 - Architecture;;
+2009;Massimiliano Di Penta;Welcome from the Workshop Chair.;267-268;2;Workshops;;
+2009;Stanislaw Jarzabek,Rainer Koschke,Katsuro Inoue,James R. Cordy;Third International Workshop on Software Clones (IWSC).;269-270;2;Workshops;;
+2009;Joost Visser,Christos Tjortjis;3rd International Workshop on Software Quality and Maintainability.;271-272;2;Workshops;;
+2009;Mariano Ceccato,Giuseppe A. Di Lucca,Mario Luca Bernardi;Workshop on Maintenance of Aspect Oriented Systems.;273-274;2;Workshops;;
+2009;Tom Mens;CSMR 2009 European Projects Track.;275-276;2;European Projects Track;;
+2009;Karel Meijfroidt,Serge Demeyer,John Pleunis,Bart Van Rompaey,Bart Du Bois,Ron Putman,Boni Garcia,Juan Carlos Duenas Lopez;SERIOUS: Software Evolution, Refactoring, Improvement of Operational and Usable Systems.;277-280;4;European Projects Track;;
+2009;Israel Herraiz,Francisco Rivas-Hernandez,Daniel Izquierdo-Cortazar;FLOSSMetrics: Free/Libre/Open Source Software Metrics.;281-284;4;European Projects Track;;
+2009;Karine Mordal-Manet,Philippe Vaillergues,Alexandre Bergel,Stephane Ducasse,Jannik Laval,Fabrice Bellingard,Francoise Balmas,Simon Denier;SQUALE - Software QUALity Enhancement.;285-288;4;European Projects Track;;
+2009;Thilo Mende,Marek Leszak,Christian Ruckert,Jens Knodel,Gerald Meier,Clemens Schitter,Frank Guder;ArQuE: Architecture-Centric Quality Engineering.;289-292;4;European Projects Track;;
+2009;Michele Lanza,Philippe Dugerdil,Harald Gall;EvoSpaces: Multi-dimensional Navigation Spaces for Software Evolution.;293-296;4;European Projects Track;;
+2009;Nikos Tsirakis,Panagiotis Antonellis,Dimitris Antoniou,Christos Tjortjis,Vangelis Theodoridis,Christos Makris,Yiannis Kanellopoulos;Code4Thought Project: Employing the ISO/IEC-9126 Standard for Software Engineering-Product Quality Assessment.;297-300;4;European Projects Track;;
+2009;Marco Torchiano,Massimiliano Di Penta,Andrea De Lucia,Filippo Lanubile;METAMORPHOS: MEthods and Tools for migrAting software systeMs towards web and service Oriented aRchitectures: exPerimental evaluation, usability, and tecHnOlogy tranSfer.;301-304;4;European Projects Track;;
+2009;Werner Teppe;Welcome from the Industrial Track Chair.;305-306;2;Industrial Track;;
+2009;Gunter Buren,Christian Ruckert;Architectural Maintenance Using a Data Warehouse System for Availability Analysis.;307-308;2;Industrial Track;;
+2009;Rainer Gimnich;Using Existing Software Assets in SOA Design.;309-310;2;Industrial Track;;
+2009;Pieter van der Spek,Steven Klusener;Transferring Software to a New Framework in a Brownfield Environment.;311-312;2;Industrial Track;;
+2009;Elliot J. Chikofsky;Using the ACART Process for Architecture Compliance.;313-314;2;Industrial Track;;
+2009;Andreas Thums,Jochen Quante,Vincent Schulte-Coerne;Challenges in Reengineering Automotive Software.;315-316;2;Industrial Track;;
+2009;Georgios Lajios;Software Metrics Suites for Project Landscapes.;317-318;2;Industrial Track;;
+2009;Peter Meinen,Jurgen Overhoff;Banking IT Consolidation in Time and on Budget.;319-320;2;Industrial Track;;
+2009;Marco D'Ambros;Welcome from the Tool Track Chair.;321-322;2;Tools Track;;
+2009;Jens Knodel,Mikael Lindvall,Slawomir Duszynski;SAVE: Software Architecture Visualization and Evaluation.;323-324;2;Tools Track;;
+2009;Erkki Laitila;SymAnalyzer: A Symbolic Analysis Tool for Program Comprehension.;325-326;2;Tools Track;;
+2009;Teodor Sommestad,Mathias Ekstedt,Markus Buschle,Ulrik Franke,Pontus Johnson,Johan Ullberg,Robert Lagerstrom;A Tool for Enterprise Architecture Analysis of Maintainability.;327-328;2;Tools Track;;
+2009;Giuseppe Tagliamonte,Andrea De Lucia,Michele Mennella,Giuseppe Scanniello,Fausto Fasano;DB-MELIS: An Eclipse Plug-in for Data Migration.;329-330;2;Tools Track;;
+2009;Alexander Serebrenik,Serguei A. Roubtsov,Mark van den Brand;SQuAVisiT: A Flexible Tool for Visual Software Analytics.;331-332;2;Tools Track;;
+2009;Heorhiy Byelas,Alexandru Telea;Visualizing Multivariate Attributes on Software Diagrams.;335-338;4;Doctoral Symposium;;
+2009;Hannes Schwarz;Towards a Comprehensive Traceability Approach in the Context of Software Maintenance.;339-342;4;Doctoral Symposium;;
+2008;John Mylopoulos;Software Maintenance and Reengineering in the Days of Software Agents.;1;1;;;
+2008;Jurgen Ebert;Metamodels Taken Seriously: The TGraph Approach.;2;1;;;
+2008;Michele Lanza,Marco D'Ambros;A Flexible Framework to Support Collaborative Software Evolution Analysis.;3-12;10;;;selected
+2008;Didier Roland,Anthony Cleve,Jean Henrard,Jean-Luc Hainaut;Wrapper-based System Evolution Application to CODASYL to Relational Migration.;13-22;10;;;selected
+2008;Bo Norregaard Jorgensen,Allan Raundahl Gregersen;Module Reload through Dynamic Update - The Case of NetBeans.;23-32;10;;;selected
+2008;Rudolf K. Keller,Christian Seybold;Aligning Software Maintenance to the Offshore Reality.;33-42;10;;;selected
+2008;Jens Knodel,Dirk Muthig,Uwe Haury,Gerald Meier;Architecture Compliance Checking - Experiences from Successful Technology Transfer to Industry.;43-52;10;;;selected
+2008;Cristina Matteotti,Mariano Ceccato,Paolo Tonella;Goto Elimination Strategies in the Migration of Legacy Code to Java.;53-62;10;;;selected
+2008;Joost Visser,Christos Tjortjis,Yiannis Kanellopoulos,Ilja Heitlager;Interpretation of Source Code Clusters in Terms of the ISO/IEC-9126 Maintainability Characteristics.;63-72;10;;;selected
+2008;Giuliano Antoniol,Benedicte Kenmei,Massimiliano Di Penta;Trend Analysis and Issue Prediction in Large-Scale Open Source Systems.;73-82;10;;;selected
+2008;Orla Greevy,Oscar Nierstrasz,Tudor Girba,Adrian Lienhard;Test Blueprint - Exposing Side Effects in Execution Traces to Support Writing Unit Tests.;83-92;10;;;selected
+2008;Benjamin Klatt,Klaus Krogmann,Landry Chouambe;Reverse Engineering Software-Models of Component-Based Systems.;93-102;10;;;selected
+2008;Radu Marinescu,Dan C. Cosma;Understanding the Impact of Distribution in Object-Oriented Distributed Systems Using Structural Program Dependencies.;103-112;10;;;selected
+2008;Harry M. Sneed,Stefan Opferkuch;Training and Certifying Software Maintainers.;113-122;10;;;selected
+2008;Mika Siikarla,Tarja Systa;Decision Reuse in an Interactive Model Transformation.;123-132;10;;;selected
+2008;Magiel Bruntink;Reengineering Idiomatic Exception Handling in Legacy C Code.;133-142;10;;;selected
+2008;Rudolf Ferenc,Lajos Jeno Fulop,Tibor Gyimothy;Towards a Benchmark for Evaluating Design Pattern Miner Tools.;143-152;10;;;selected
+2008;Andy Zaidman,Arie van Deursen,Marco Glorie,Lennart Hofland;Splitting a Large Software Archive for Easing Future Software Evolution - An Industrial Experience Report using Formal Concept Analysis.;153-162;10;;;selected
+2008;Thilo Mende,Gerald Meier,Felix Beckwermert,Rainer Koschke;Supporting the Grow-and-Prune Model in Software Product Lines Evolution Using Clone Detection.;163-172;10;;;selected
+2008;Genoveffa Tortora,Carmine Gravino,Andrea De Lucia,Rocco Oliveto;Assessing the Support of ER and UML Class Diagrams during Maintenance Activities on Data Models.;173-182;10;;;selected
+2008;Eduardo Magno Lages Figueiredo,Thiago Tonelli Bartolomei,Alessandro Marchetto,Claudio Sant'Anna,Walter Cazzola,Alessandro Garcia;On the Maintainability of Aspect-Oriented Software: A Concern-Oriented Measurement Framework.;183-192;10;;;selected
+2008;Mircea Trifu;Using Dataflow Information for Concern Identification in Object-Oriented Software Systems.;193-202;10;;;selected
+2008;Daniel Ratiu,Martin Feilkas,Jan Jurjens;Extracting Domain Ontologies from Domain Specific APIs.;203-212;10;;;selected
+2008;Hani Abdeen,Stephane Ducasse,Mathieu Suen,Ilham Alloui,Damien Pollet;Package Reference Fingerprint: a Rich and Compact Visualization to Understand Package Relationships.;213-222;10;;;selected
+2008;Radu Marinescu,Adrian Dozsa,Tudor Girba;How Lisp Systems Look Different.;223-232;10;;;selected
+2008;Tijs van der Storm;Backtracking Incremental Continuous Integration.;233-242;10;;;selected
+2008;Salvador Trujillo,Oscar Diaz,Goiuria Sagardui Mendieta,Gentzane Aldekoa;Quantifying Maintainability in Feature Oriented Product Lines.;243-247;5;;;
+2008;Robert Lagerstrom,Pontus Johnson;Using Architectural Models to Predict the Maintainability of Enterprise Systems.;248-252;5;;;
+2008;Pierre van de Laar,Pieter van der Spek,Steven Klusener;Towards Recovering Architectural Concepts Using Latent Semantic Indexing.;253-257;5;;;
+2008;Clive Jefferies,Pearl Brereton,Mark Turner;A Systematic Literature Review of Approaches to Reengineering for Multi-Channel Access.;258-262;5;;;
+2008;Michael Smit,Kenny Wong,Eleni Stroulia;Use Case Redocumentation from GUI Event Traces.;263-268;6;;;
+2008;Sylvain Chardigny,Mourad Oussalah,Dalila Tamzalit,Abdelhak-Djamel Seriai;Quality-Driven Extraction of a Component-based Architecture from an Object-Oriented System.;269-273;5;;;
+2008;Foutse Khomh,Yann-Gael Gueheneuc;Do Design Patterns Impact Software Quality Positively?;274-278;5;;;
+2008;Pierre Poulin,Karim Dhambri,Houari A. Sahraoui;Visual Detection of Design Anomalies.;279-283;5;;;
+2008;Marco Torchiano,Alessandro Marchetto,Filippo Ricca;"Comparing ""Traditional"" and Web Specific Fit Tables in Maintenance Tasks: A Preliminary Empirical Study.";284-288;5;;;
+2008;Mario Luca Bernardi;Reverse Engineering of Aspect Oriented Systems to Support their Comprehension, Evolution, Testing and Assessment.;290-293;4;;;
+2008;Sergio Bryton,Fernando Brito e Abreu;Modularity-Oriented Refactoring.;294-297;4;;;
+2008;Mariano Ceccato;Automatic Support for the Migration Towards Aspects.;298-301;4;;;
+2008;Rocco Oliveto;"Traceability Management meets Information Retrieval Methods ""Strengths and Limitations"".";302-305;4;;;
+2008;Symeon Retalis;Industrial Track Session - Introduction.;307;1;;;
+2008;Christos Makridis,Mira Kajko-Mattsson;Outline of an SLA Management Model.;308-310;3;;;
+2008;Arpad Beszedes,Tibor Gyimothy,Pal Gyenizse,Janos Pantos;Experiences in Adapting a Source Code-Based Quality Assessment Technology.;311-313;3;;;
+2008;Doris Schmedding,Georgios Lajios,Friedrich Volmering;Supporting Language Conversion by Metric Based Reports.;314-316;3;;;
+2008;Gary Cort,Weining Liu,Ladan Tahvildari,Mike Morrissey,Shimin Li;Coping with Requirements Changes in Software Verification and Validation.;317-318;2;;;
+2008;R. Ian Bull;CSMR Tool Demonstration: Welcome.;319;1;;;
+2008;Alexandru Telea,Lucian Voinea;SOLIDFX: An Integrated Reverse Engineering Environment for C++.;320-322;3;;;
+2008;Alexandru Telea,Lucian Voinea;A Tool for Optimizing the Build Performance of Large Software Code Bases.;323-325;3;;;
+2008;Yannis Vassiliou,Panos Vassiliadis,George Papastefanatos,Fotini Anagnostou;Hecataeus: A What-If Analysis Tool for Database Schema Evolution.;326-328;3;;;
+2008;Nikolaos Tsantalis,Theodoros Chaikalis,Alexander Chatzigeorgiou;JDeodorant: Identification and Removal of Type-Checking Bad Smells.;329-331;3;;;
+2008;Dennis B. Smith,Grace A. Lewis;SMART Tool Demonstration.;332-334;3;;;
+2008;Chris Verhoef,Dennis B. Smith;CSMR 2008 Workshop Introduction.;335;1;;;
+2008;Dennis B. Smith,Kostas Kontogiannis,Grace A. Lewis;SOAM 2008: 2nd Workshop on SOA-Based Systems Maintenance and Evolution.;336-337;2;;;
+2008;;CSMR 2008 - Workshop on Software Quality and Maintainability (SQM 2008).;338-339;2;;;
+2008;Abdelhak-Djamel Seriai;SASE 2008: First Workshop on Self-Adaptive Software Engineering.;340-341;2;;;
+2008;Dalila Tamzalit;CSMR 2008 Workshop Overview for MoDSE: 2nd Workshop on Model-Driven Software Evolution.;342-343;2;;;
+2007;Jan Pieter Herweijer;Keynote Speech.;3;1;Keynote Speech;;
+2007;Einar Landre,Parastoo Mohagheghi,Harald Ronneberg,Reidar Conradi,Odd Petter N. Slyngstad,Anita Gupta;A Case Study of Defect-Density and Change-Density and their Progress over Time.;7-16;10;Technical Session 1: Maintenance Changes;;selected
+2007;Mahadevan Subramaniam,Harvey P. Siy;Consistently Incorporating Changes to Evolve Transition-based Systems.;17-26;10;Technical Session 1: Maintenance Changes;;selected
+2007;Ali R. Sharafat,Ladan Tahvildari;A Probabilistic Approach to Predict Changes in Object-Oriented Software Systems.;27-38;12;Technical Session 1: Maintenance Changes;;selected
+2007;Adrian Trifu,Urs Reupke;Towards Automated Restructuring of Object Oriented Systems.;39-48;10;Technical Session 2: Components and Objects;;selected
+2007;Wenyun Zhao,Yijian Wu,Xin Peng;A Feature-Oriented Adaptive Component Model for Dynamic Evolution.;49-57;9;Technical Session 2: Components and Objects;;selected
+2007;Danilo Caivano,Giuseppe Visaggio,Giovanni Bruno,Pasquale Ardimento;A maintenance oriented Framework for software components characterization.;58-70;13;Technical Session 2: Components and Objects;;selected
+2007;Markus Kettunen,Petri Selonen;Metamodel-Based Inference of Inter-Model Correspondence.;71-80;10;Technical Session 3: Dependency Analysis;;selected
+2007;Luigi Cerulo,Lerina Aversano,Massimiliano Di Penta;How Clones are Maintained: An Empirical Study.;81-90;10;Technical Session 3: Dependency Analysis;;selected
+2007;Mircea Lungu,Michele Lanza;Exploring Inter-Module Relationships in Evolving Software Systems.;91-102;12;Technical Session 3: Dependency Analysis;;selected
+2007;Tamas Gergely,Arpad Beszedes,Szabolcs Farago,Tibor Gyimothy,Ferenc Fischer;The Dynamic Function Coupling Metric and Its Use in Software Evolution.;103-112;10;Technical Session 4: Maintenance with Dynamics;;selected
+2007;Jochen Quante;Online Construction of Dynamic Object Process Graphs.;113-122;10;Technical Session 4: Maintenance with Dynamics;;selected
+2007;Gunter Saake,Kamel Barkaoui,Nasreddine Aoumeur;Incremental Specification Validation and Runtime Adaptivity of Distributed Component Information systems.;123-136;14;Technical Session 4: Maintenance with Dynamics;;selected
+2007;Ilham Alloui,Herve Verjus,Stephane Ducasse,Damien Pollet,Sorana Cimpan,Loic Poyet;Towards A Process-Oriented Software Architecture Reconstruction Taxonomy.;137-148;12;Technical Session 5: Architecture;;selected
+2007;Rudolf K. Keller,Fabrice Bourqun;High-impact Refactoring Based on Architecture Violations.;149-158;10;Technical Session 5: Architecture;;selected
+2007;Felix Losch,Erhard Ploedereder;Restructuring Variability in Software Product Lines using Concept Analysis of Product Configurations.;159-170;12;Technical Session 5: Architecture;;selected
+2007;Harry M. Sneed,Shihong Huang;Sizing Maintenance Tasks for Web Applications.;171-180;10;Technical Session 6: Web Applications;;selected
+2007;Ali Mesbah,Arie van Deursen;Migrating Multi-page Web Applications to Single-page AJAX Interfaces.;181-190;10;Technical Session 6: Web Applications;;selected
+2007;Ettore Merlo,Giuliano Antoniol,Dominic Letarte;Automated Protection of PHP Applications Against SQL-injection Attacks.;191-202;12;Technical Session 6: Web Applications;;selected
+2007;Teemu Kanstren,Kari Kolehmainen,Mika Hongisto;Integrating and Testing a System-Wide Feature in a Legacy System: An Experience Report.;203-212;10;Technical Session 7: Quality;;selected
+2007;Bas Cornelissen,Andy Zaidman,Leon Moonen,Arie van Deursen;Visualizing Testsuites to Aid in Software Understanding.;213-222;10;Technical Session 7: Quality;;selected
+2007;Matthias Wagner 0001;Evolution from a Scientific Application to an Applicable Product.;223-232;10;Technical Session 7: Quality;;selected
+2007;Attila Szegedi,Tamas Gergely,Tibor Gyimothy,Gabriella Toth,Arpad Beszedes;Verifying the Concept of Union Slices on Java Programs.;233-242;10;Technical Session 8: Static Analysis;;selected
+2007;Antonio Menezes Leitao;Migration of Common Lisp Programs to the Java Platform -The Linj Approach.;243-251;9;Technical Session 8: Static Analysis;;selected
+2007;Stefan Staiger;Static Analysis of Programs with Graphical User Interface.;252-264;13;Technical Session 8: Static Analysis;;selected
+2007;Stephane Ducasse,Tudor Girba,Orla Greevy;How Developers Develop Features.;265-274;10;Technical Session 9: Features;;selected
+2007;Michele Lanza,Oscar Nierstrasz,Markus Kobel,Horst Bunke,Tudor Girba;Example-Driven Reconstruction of Software Models.;275-286;12;Technical Session 9: Features;;selected
+2007;Massimiliano Di Penta,Ignacio Garcia Rodriguez de Guzman,Concettina Del Grosso;An approach for mining services in database oriented applications.;287-296;10;Technical Session 10: Recovery;;selected
+2007;Michele Risi,Carmine Gravino,Andrea De Lucia,Vincenzo Deufemia;A Two Phase Approach to Design Pattern Recovery.;297-306;10;Technical Session 10: Recovery;;selected
+2007;Daniel Ratiu,Jan Jurjens;The Reality of Libraries.;307-318;12;Technical Session 10: Recovery;;selected
+2007;Eric Suijs;An Experience in Introducing a New Control Platform on a Legacy System.;319-320;2;Industry Track;;
+2007;Bart Leeten;Software Configuration Management, Fundament for Evolution of Large Existing Code Bases.;321-322;2;Industry Track;;
+2007;Ben Wilson,Louis Heymans,Tony Van der Beken;Testing Techniques for the Cross-platform Migration of Very Large Interactive Applications.;323-324;2;Industry Track;;
+2007;Michel R. V. Chaudron,Martijn A. M. Wijns,Christian Lange;MetricViewEvolution: UML-based Views for Monitoring Model Evolution and Quality.;327-328;2;Tool Track;;
+2007;Ilie Savga,Jacek Sliwerski,Jan Lehmann,Harald Wendel,Michael Rudolf;API Changes - How FarWould You Go?;329-330;2;Tool Track;;
+2007;G. R. Economopoulos,Hayco de Jong,Tijs van der Storm,Paul Klint,A. Taeke Kooiker,Mark van den Brand,Jurgen J. Vinju,Magiel Bruntink;Using The Meta-Environment for Maintenance and Renovation.;331-332;2;Tool Track;;
+2007;Michele Lanza,Marco D'Ambros;BugCrawler: Visualizing Evolving Software Systems.;333-334;2;Tool Track;;
+2007;Tijs van der Storm;The Sisyphus Continuous Integration System.;335-336;2;Tool Track;;
+2007;Kamran Sartipi;A Multi-view Toolkit to Assist Software Integration and Evolution.;337-338;2;Tool Track;;
+2007;Cathal Boogerd;Supporting Reliable Software Evolution through Program Analysis.;341-344;4;Doctoral Symposium;;
+2007;Jochen Quante;Dynamic Object Process Graph Extraction for Program Understanding and Protocol Recovery.;345-348;4;Doctoral Symposium;;
+2007;Marco Lormans;Monitoring Requirements Evolution using Views.;349-352;4;Doctoral Symposium;;
+2007;Niels P. Veerman;Automated Mass Maintenance of Software Assets.;353-356;4;Doctoral Symposium;;
+2007;Bas Graaf;Model-Driven Evolution of Software Architectures.;357-360;4;Doctoral Symposium;;
+2007;Christoph Stoermer;Software Quality Attribute Analysis by Architecture Reconstruction (SQUA3RE).;361-364;4;Doctoral Symposium;;
+2006;Harry M. Sneed;Integrating legacy Software into a Service oriented Architecture.;3-14;12;Migrating Systems to Service Oriented Architecture;;selected
+2006;Edwin J. Morris,Dennis B. Smith,Grace A. Lewis;Analyzing the Reuse Potential of Migrating Legacy Components to a Service-Oriented Architecture.;15-23;9;Migrating Systems to Service Oriented Architecture;;selected
+2006;Gianni Frattolillo,Gerardo Canfora,Porfirio Tramontana,Anna Rita Fasolino;Migrating Interactive Legacy Systems To Web Services.;24-36;13;Migrating Systems to Service Oriented Architecture;;selected
+2006;Stephane Ducasse,Roel Wuyts,Tudor Girba;Object-Oriented Legacy System Trace-based Logic Testing.;37-46;10;System Analysis and Testing;;selected
+2006;Marco Lormans,Arie van Deursen;Can LSI help Reconstructing Requirements Traceability in Design and Test?;47-56;10;System Analysis and Testing;;selected
+2006;Gerald Weber,John Grundy,Dirk Draheim,Christof Lutteroth,John G. Hosking;Realistic Load Testing ofWeb Applications.;57-70;14;System Analysis and Testing;;selected
+2006;Giuliano Antoniol,Massimiliano Di Penta,Spiros Mancoridis,Maher Salah;Scenario-Driven Dynamic Analysis for Comprehending Large Software Systems.;71-80;10;Dynamic Analysis;;selected
+2006;Jochen Quante,Rainer Koschke;Dynamic Object Process Graphs.;81-90;10;Dynamic Analysis;;selected
+2006;Andy Zaidman,Bram Adams,Serge Demeyer,Ghislain Hoffman,Bernard De Ruyck,Kris De Schutter;Regaining Lost Knowledge through Dynamic Analysis and Aspect Orientation.;91-102;12;Dynamic Analysis;;selected
+2006;Jurgen J. Vinju,Mark van den Brand,Niels P. Veerman,A. Taeke Kooiker;A Language Independent Framework for Context-sensitive Formatting.;103-112;10;Tools and Frameworks;;selected
+2006;Michael Eichberg,Lukas Mrokon,Mira Mezini,Daniel Germanus,Thorsten Schafer;QScope: an Open, Extensible Framework for Measuring Software Projects.;113-122;10;Tools and Frameworks;;selected
+2006;Kim Mens,Yann-Gael Gueheneuc,Roel Wuyts;A Comparative Framework for Design Recovery Tools.;123-134;12;Tools and Frameworks;;selected
+2006;Igor Ivkovic,Kostas Kontogiannis;A Framework for Software Architecture Refactoring using Model Transformations and Semantic Annotations.;135-144;10;System Refactoring and Migration;;selected
+2006;Padmaja Joshi,Rushikesh K. Joshi;Microscopic Coupling Metrics for Refactoring.;145-152;8;System Refactoring and Migration;;selected
+2006;Bas Graaf,Arie van Deursen,Sven Weber;Migrating Supervisory Control Architectures Using Model Transformations.;153-164;12;System Refactoring and Migration;;selected
+2006;Michele Risi,Carmine Gravino,Gennaro Costagliola,Andrea De Lucia,Vincenzo Deufemia;Case Studies of Visual Language Based Design Patterns Recovery.;165-174;10;Design Recovery;;selected
+2006;Yann-Gael Gueheneuc,Sylvie Hamel,Olivier Kaczor;Efficient Identification of Design Patterns with Bit-vector Algorithm.;175-184;10;Design Recovery;;selected
+2006;Mircea Lungu,Michele Lanza,Tudor Girba;Package Patterns for Visual Architecture Recovery.;185-196;12;Design Recovery;;selected
+2006;Felix Garcia,Gerardo Canfora,Aniello Cimitile,Mario Piattini Velthius,Corrado Aaron Visaggio;Performances of Pair Designing on Software Evolution: a controlled experiment.;197-205;9;Experience Reports and Empirical Studies;;selected
+2006;Israel Herraiz,Gregorio Robles,Jesus M. Gonzalez-Barahona;Comparison between SLOCs and number of files as size metrics for software evolution analysis.;206-213;8;Experience Reports and Empirical Studies;;selected
+2006;Lou J. Somers,Eric Dortmans,Andreas Wierda;Using Version Information in Architectural Clustering - A Case Study.;214-228;15;Experience Reports and Empirical Studies;;selected
+2006;Michele Lanza,Marco D'Ambros;Software Bugs and Evolution: A Visual Approach to Uncover Their Relationship.;229-238;10;Program Analysis;;selected
+2006;Kim Mens,Andy Kellens;IntensiVE, a toolsuite for documenting and checking structural source-code regularities.;239-248;10;Program Analysis;;selected
+2006;Mel O Cinneide,Mark Kent O'Keeffe;Search-Based Software Maintenance.;249-260;12;Program Analysis;;selected
+2006;Ladan Tahvildari,Subrina Anjum Tonu,Azin Ashkan;Evaluating Architectural Stability Using a Metric-Based Approach.;261-270;10;System Assessment;;selected
+2006;Filip Van Rysselberghe,Serge Demeyer,Matthias Rieger;Detecting Move Operations in Versioning Information.;271-278;8;System Assessment;;selected
+2006;Jens Knodel,Dirk Muthig,Matthias Naab,Mikael Lindvall;Static Evaluation of Software Architectures.;279-294;16;System Assessment;;selected
+2006;Timo Tuunanen,Tommi Karkkainen,Jussi Koskinen;ASLA: Reverse Engineering Approach for Software License Information Retrieval.;291-294;4;Short Papers Session;;
+2006;Scott R. Tilley,Damiano Distante,Gerardo Canfora;Towards a Holistic Approach to Redesigning Legacy Applications for the Web with UWAT.;295-299;5;Short Papers Session;;
+2006;Rafael Capilla;Context-aware Architectures for Building Service-Oriented Systems.;300-303;4;Short Papers Session;;
+2006;Macario Polo Usaola,Ignacio Garcia Rodriguez de Guzman,Mario Piattini Velthius;Obtaining Web Services from Relational Databases.;304-310;7;Short Papers Session;;
+2006;Mark Harman;Search-Based Software Engineering for Maintenance and Reengineering.;311;1;Keynotes;;
+2006;Werner Sommer;Product Innovation Lifecycle Maintenance and Solution Management at SAP.;312;1;Keynotes;;
+2006;Gautier Bastide;A Refactoring-based Tool for Software Component Adaptation.;315-318;4;Doctoral Symposium;;
+2006;Nicola Boffoli;Non-Intrusive Monitoring of Software Quality.;319-322;4;Doctoral Symposium;;
+2006;Anthony Cleve;Automating Program Conversion in Database Reengineering A Wrapper-based Approach.;323-326;4;Doctoral Symposium;;
+2006;Andy Zaidman;Scalability Solutions for Program Comprehension through Dynamic Analysis.;327-330;4;Doctoral Symposium;;
+2006;Filip Van Rysselberghe;Reconstructing Higher Level Change Information from Versioning Data.;331-333;3;Doctoral Symposium;;
+2006;Simon Giesecke;Middleware-induced Styles for Enterprise Application Integration.;334-340;7;Doctoral Symposium;;
+2006;Luigi Cerulo,Gerardo Canfora;Jimpa: An Eclipse Plug-in for Impact Analysis.;341-342;2;Tool Demonstration;;
+2006;Eufemia Tinelli,Francesco M. Donini,Eugenio Di Sciascio,Francesco di Cugno,Tommaso Di Noia;Semantic-Based Toolkit for Automated Building Block Composition in SAP R/3.;343-346;4;Tool Demonstration;;
+2006;Stephane Ducasse,Mauricio Seeberger,Tudor Girba,Adrian Kuhn;Chronia: Visualizing How Developers Change Software Systems.;345-348;4;Tool Demonstration;;
+2006;Gianni Frattolillo,Gerardo Canfora,Porfirio Tramontana,Anna Rita Fasolino;A Flexible Wrapper For The Migration Of Interactive Legacy System To Web Services.;347-344;-2;Tool Demonstration;;
+2006;Genoveffa Tortora,Andrea De Lucia,Rocco Oliveto,Fausto Fasano;ADAMS: ADvanced Artefact Management System.;349-350;2;Tool Demonstration;;
+2006;Mircea Lungu,Michele Lanza;Softwarenaut: Exploring Hierarchical System Decompositions.;351-354;4;Tool Demonstration;;
+2006;Christos Tjortjis,James Marchant,Michael Turega;A Metric of Confidence in Requirements Gathered from Legacy Systems: Two Industrial Case Studies.;355-361;7;Industrial Track;;
+2006;Andrea Masone,Arturo D'Aniello,Aldo Tammaro;Technological Innovation within EDS Italia Software: Experience Report.;362-366;5;Industrial Track;;
+2006;Mira Kajko-Mattsson;Evaluation of CM3: Front-End Problem Management within Industry.;367-368;2;Industrial Track;;
+2005;Stephane Ducasse,Michele Lanza,Tudor Girba;Characterizing the Evolution of Class Hierarchies.;2-11;10;Evolution;;selected
+2005;Martin Host,Enrico Johansson;Performance Prediction Based on Knowledge of Prior Product Versions.;12-20;9;Evolution;;selected
+2005;Andrea Capiluppi,Juan Fernandez-Ramil,Alvaro E. Faria;Exploring the Relationship between Cumulative Change and Complexity in an Open Source System.;21-29;9;Evolution;;selected
+2005;Genoveffa Tortora,Andrea De Lucia,Rocco Oliveto,Fausto Fasano;ADAMS Re-Trace: A Traceability Recovery Tool.;32-41;10;Tools and Frameworks;;selected
+2005;Raihan Al-Ekram,Kostas Kontogiannis;An XML-Based Framework for Language Neutral Program Representation and Generic Analysis.;42-51;10;Tools and Frameworks;;selected
+2005;Johan Andersson,Joel Huselius;Model Synthesis for Real-Time Systems.;52-60;9;Tools and Frameworks;;selected
+2005;Stephane Ducasse,Oscar Nierstrasz,Gabriela Arevalo;Discovering Unanticipated Dependency Schemas in Class Hierarchies.;62-71;10;Information Extraction;;selected
+2005;Dowming Yeh,Yuwen Li;Extracting Entity Relationship Diagram from a Table-Based Legacy Database.;72-79;8;Information Extraction;;selected
+2005;Michael Balser,Felix Bubl;Tracing Cross-Cutting Requirements via Context-Based Constraints.;80-90;11;Information Extraction;;selected
+2005;Radu Marinescu,Petru Florin Mihancea;Towards the Optimization of Automatic Detection of Design Flaws in Object-Oriented Software Systems.;92-101;10;Design;;selected
+2005;Michele Risi,Carmine Gravino,Gennaro Costagliola,Andrea De Lucia,Vincenzo Deufemia;Design Pattern Recovery by Visual Language Parsing.;102-111;10;Design;;selected
+2005;Timothy Lethbridge,Daniel Amyot,Abdelwahab Hamou-Lhadj,Edna Braun;Recovering Behavioral Design Models from Execution Traces.;112-121;10;Design;;selected
+2005;Vassilios Tzerpos,Chenchen Xiao;Software Clustering Based on Dynamic Dependencies.;124-133;10;Dynamic Analysis;;selected
+2005;Andy Zaidman,Serge Demeyer,Toon Calders,Jan Paredaens;Applying Webmining Techniques to Execution Traces to Support the Program Comprehension Process.;134-142;9;Dynamic Analysis;;selected
+2005;Lori L. Pollock,Ben Breech,Mike Tegtmeyer;A Comparison of Online and Dynamic Impact Analysis Algorithms.;143-152;10;Dynamic Analysis;;selected
+2005;Nic Holt;Legacy Applications -- A Case for Restoration?;155;1;Keynote;;
+2005;Tarja Systa,Mika Karaila;Maintenance and Analysis of Visual Programs -- An Industrial Case.;158-167;10;Program Analysis;;selected
+2005;Gerald Weber,Dirk Draheim,Christof Lutteroth;A Source Code Independent Reverse Engineering Tool for Dynamic Web Sites.;168-177;10;Program Analysis;;selected
+2005;T. Hardcastle,Hussein Zedan,Martin P. Ward;Conditioned Semantic Slicing via Abstraction and Refinement in FermaT.;178-187;10;Program Analysis;;selected
+2005;Raimi A. Rufai,Jarallah AlGhamdi,Sohel M. Khan;OOMeter: A Software Quality Assurance Tool.;190-191;2;Tool Demonstration;;
+2005;Danilo Caivano,Giuseppe Visaggio,Maria Teresa Baldassarre;Enterprise Information Integration Management System (EII_MS).;192;1;Tool Demonstration;;
+2005;Thierry Bodhuin,Maria Tortorella;A Tool for Static and Dynamic Model Extraction and Impact Analysis.;193;1;Tool Demonstration;;
+2005;Giuseppe A. Di Lucca,Mario Luca Bernardi;UsCaAb: A Tool for Abstracting Use Case Diagrams.;194;1;Tool Demonstration;;
+2005;Harry M. Sneed;An Incremental Approach to System Replacement and Integration.;196-206;11;Migrating Legacy Systems;;selected
+2005;Philippe Thiran,Geert-Jan Houben,Jean-Luc Hainaut;Database Wrappers Development: Towards Automatic Generation.;207-216;10;Migrating Legacy Systems;;selected
+2005;Sanjeev Kumar Aggarwal,Alpana Dubey,Pankaj Jalote;A Technique for Extracting Keyword Based Rules from a Set of Programs.;217-225;9;Migrating Legacy Systems;;selected
+2005;Isidro Ramos,Jose A. Carsi,Artur Boronat;Automatic Reengineering in MDA Using Rewriting Logic as Transformation Engine.;228-231;4;Short Paper Session;;
+2005;Anna Marzona,Maurizio Pighin;Reducing Corrective Maintenance Effort Considering Module's History.;232-235;4;Short Paper Session;;
+2005;Juha Lipponen,Juanjuan Jiang,Tarja Systa,Petri Selonen;UML-Level Analysis and Comparison of Web Service Descriptions.;236-240;5;Short Paper Session;;
+2005;Massimiliano Di Penta,Kunal Taneja;Towards the Automatic Evolution of Reengineering Tools.;241-244;4;Short Paper Session;;
+2005;Felix Garcia,Mario Piattini Velthius,Francisco Ruiz,Corrado Aaron Visaggio;Maintainability of Software Process Models: An Empirical Study.;246-255;10;Process;;selected
+2005;Harald Svensson,Martin Host;Introducing an Agile Process in a Software Maintenance and Evolution Organization.;256-264;9;Process;;selected
+2005;Gerco Ballintijn,Sjaak Brinkkemper,Slinger Jansen;A Process Model and Typology for Software Product Updaters.;265-274;10;Process;;selected
+2005;Dimitris Rousidis,Christos Tjortjis;Clustering Data Retrieved from Java Source Code to Support Software Maintenance: A Case Study.;276-279;4;Doctoral Symposium;;
+2005;Massimiliano Di Penta;Evolution Doctor: A Framework to Control Software System Evolution.;280-283;4;Doctoral Symposium;;
+2005;Qingshan Li;Dynamic Model Design Recovery and Architecture Abstraction of Object Oriented Software.;284-287;4;Doctoral Symposium;;
+2005;Danilo Caivano;Continuous Software Process Improvement through Statistical Process Control.;288-293;6;Doctoral Symposium;;
+2005;Fernando Alonso Mendo;The Evolution of SMEs Web Sites in the UK.;294-297;4;Doctoral Symposium;;
+2005;Gerardo Canfora;User-Side Testing of Web Services.;301;1;Keynote;;
+2005;Ashok Sreenivas,Srihari Sukumaran;Identifying Test Conditions for Software Maintenance.;304-313;10;System Assessment ;;selected
+2005;Stephane Ducasse,Orla Greevy;Correlating Features and Code Using a Compact Two-Sided Trace Analysis Approach.;314-323;10;System Assessment ;;selected
+2005;Henna Sivula,Irja Kankaanpaa,Heikki Lintinen,Tero Tilus,Jussi Koskinen,Jarmo J. Ahonen;Software Modernization Decision Criteria: An Empirical Study.;324-331;8;System Assessment ;;selected
+2005;Serge Demeyer,Bart Du Bois,Jan Verelst;"Does the ""Refactor to Understand"" Reverse Engineering Pattern Improve Program Comprehension?";334-343;10;Experience Reports and Empirical Studies;;selected
+2005;Jens Knodel,Jean-Francois Girard,Thomas Forster;Comparing Design Alternatives from Field-Tested Systems to Support Product Line Architecture Design.;344-353;10;Experience Reports and Empirical Studies;;selected
+2005;Bas Graaf,Arie van Deursen,Hylke W. van Dijk;Evaluating an Embedded Software Reference Architecture -- Industrial Experience Report.;354-363;10;Experience Reports and Empirical Studies;;selected
+2005;Porfirio Tramontana,Giuseppe A. Di Lucca,Anna Rita Fasolino;Recovering Interaction Design Patterns in Web Applications.;366-374;9;Maintaining Web Applications;;selected
+2005;Fernando Alonso Mendo,Guy Fitzgerald;A Preliminary Study of the Evolution of SMEs Web Sites in the UK.;375-384;10;Maintaining Web Applications;;selected
+2005;Filippo Ricca,Paolo Tonella;Anomaly Detection in Web Applications: A Review of Already Conducted Case Studies.;385-394;10;Maintaining Web Applications;;selected
+2004;Mircea Trifu,Markus Bauer;Architecture-Aware Adaptive Clustering of OO Systems.;3-14;12;Architecture Design Recovery;;selected
+2004;Haroon A. Babri,Onaiza Maqbool;The Weighted Combined Algorithm: A Linkage Algorithm for Software Clustering.;15-24;10;Architecture Design Recovery;;selected
+2004;Matthias Riebisch,Ilian Pashov,Ilka Philippow;Supporting Architectural Restructuring by Analyzing Feature Models.;25-36;12;Architecture Design Recovery;;selected
+2004;Imed Hammouda,Maarit Harsu;Documenting Maintenance Tasks Using Maintenance Patterns.;37-47;11;Software Maintenance;;selected
+2004;Kathia Marcal de Oliveira,Nicolas Anquetil,Cristiane S. Ramos;Legacy Software Evaluation Model for Outsourced Maintainer.;48-57;10;Software Maintenance;;selected
+2004;Andrea Capiluppi,Patricia Lago,Maurizio Morisio;Evolution of understanding in OSS projects.;58-68;11;Software Maintenance;;selected
+2004;Harry M. Sneed;Reverse Engineering of Test Cases for Selective Regression Testing.;69-74;6;Reverse Engineering;;selected
+2004;Arpad Beszedes,Laszlo Vidacs,Rudolf Ferenc;Columbus Schema for C/C++ Preprocessing.;75-84;10;Reverse Engineering;;selected
+2004;Dabo Sun,Kenny Wong,Daniel L. Moise;Integrating a Reverse Engineering Tool with Microsoft Visual Studio .NET.;85-94;10;Reverse Engineering;;selected
+2004;Teresa Mallardo,Lerina Aversano,Maria Tortorella,Raffaele Esposito;Supporting Decisions on the Adoption of Re-engineering Technologies.;95-104;10;Software Evolution and Integration;;selected
+2004;Uwe Zdun;Using Split Objects for Maintenance and Reengineering Tasks.;105-114;10;Software Evolution and Integration;;selected
+2004;Giuseppe Visaggio,Alessandro Bianchi,Pasquale Ardimento;Maintenance-Oriented Selection of Software Components.;115-124;10;Software Evolution and Integration;;selected
+2004;Biplav Srivastava;A Decision-support Framework for Component Reuse and Maintenance in Software Project Management.;125-136;12;Software Evolution and Integration;;selected
+2004;Saam Koroorian,Fredrik Westin,Mira Kajko-Mattsson,Marcus Jonson;Lesson Learned from Attempts to Implement Daily Build.;137-146;10;Case Studies in Software Evolution;;selected
+2004;Markus Pizka;Adaptation of Large-Scale Open Source Software - An Experience Report.;147-153;7;Case Studies in Software Evolution;;selected
+2004;Henrik Baerbak Christensen,Klaus Marius Hansen;Component Reengineering Workshops: A Low-Cost Approach for Assessing Specific Reengineering Costs Across Product Lines.;154-164;11;Case Studies in Software Evolution;;selected
+2004;Mario Latendresse;Rewrite Systems for Symbolic Evaluation of C-like Preprocessing.;165-173;9;Automated Software Maintenance;;selected
+2004;Olaf Seng,Thomas Genssler,Adrian Trifu;Automated Design Flaw Correction in Object-Oriented Systems.;174-183;10;Automated Software Maintenance;;selected
+2004;Marco Torchiano;Empirical Investigation of a Non-Intrusive Approach to Study Comprehension Cognitive Models.;184-194;11;Automated Software Maintenance;;selected
+2004;Raihan Al-Ekram,Kostas Kontogiannis;Source Code Modularization Using Lattice of Concept Slices.;195-203;9;Refactoring and Transformations;;selected
+2004;Yu Ping,Kostas Kontogiannis;Refactoring Web sites to the Controller-Centric Architecture.;204-213;10;Refactoring and Transformations;;selected
+2004;Johannes Martin;Automated Source Code Transformations on Fourth Generation Languages.;214-222;9;Refactoring and Transformations;;selected
+2004;Stephane Ducasse,Radu Marinescu,Daniel Ratiu,Tudor Girba;Using History Information to Improve Design Flaws Detection.;223-232;10;Historical Analysis;;selected
+2004;Vesa Lappalainen,Minna Hillebrand,Jonne Itkonen;Application of Relation Analysis to a Small Java Software.;233-242;10;Historical Analysis;;selected
+2004;Alain April,Reiner R. Dumke,Alain Abran;SMCMM Model to Evaluate and Improve the Quality of the Software Maintenance Process.;243-248;6;Short Papers;;
+2004;Xiaohu Yang,Srinivasa R. Maddineni,Xinyu Wang,Jianling Sun,Zhijun He;Business Rules Extraction from Large Legacy Systems.;249-253;5;Short Papers;;
+2004;Sandip C. Patel,Liming Zhao,Jane Huffman Hayes;A Metrics-Based Software Maintenance Effort Model.;254-260;7;Short Papers;;
+2004;Patricia Lago,Eila Niemela,Johannes C. van Vliet;Tool Support for Traceable Product Evolution.;261-269;9;Product Families;;selected
+2004;Christian Del Rosso;The Process of and the Lessons Learned from Performance Tuning of a Product Family Software Architecture for Mobile Phones.;270-278;9;Product Families;;selected
+2004;Porfirio Tramontana,Giuseppe A. Di Lucca,Corrado Aaron Visaggio,Anna Rita Fasolino;Towards the Definition of a Maintainability Model for Web Applications.;279-287;9;Web Applications;;selected
+2004;Emanuele Pianta,Christian Girardi,Filippo Ricca,Paolo Tonella;Experimental Results on the Alignment of Multilingual Web Sites.;288-295;8;Web Applications;;selected
+2004;Yingtao Jiang,Eleni Stroulia;Towards Reengineering Web Sites to Web-services Providers.;296-308;13;Web Applications;;selected
+2004;Stephane Ducasse,Michele Lanza,Roland Bertuli;High-Level Polymetric Views of Condensed Run-time Information.;309-318;10;Dynamic Analysis;;selected
+2004;Giuliano Antoniol,Massimiliano Di Penta;A Distributed Architecture for Dynamic Analyses on User-Profile Data.;319-328;10;Dynamic Analysis;;selected
+2004;Andy Zaidman,Serge Demeyer;Managing Trace Data Volume through a Heuristical Clustering Process Based on Event Execution Frequency.;329-338;10;Dynamic Analysis;;selected
+2004;Roger Johnson,Youssef Hassoun,Steve Counsell;A Dynamic Runtime Coupling Metric for Meta-Level Architectures.;339-346;8;Dynamic Analysis;;selected
+2003;Keith H. Bennett,Jie Xu;Software Services and Software Maintenance.;3-12;10;Keynote Speaker;;
+2003;Lionel C. Briand;Software Documentation: How Much Is Enough?;13-;0;Keynote Speaker;;
+2003;Niels P. Veerman;Revitalizing Modifiability of Legacy Assets.;19-29;11;Transformations;;selected
+2003;Wolfgang Lohmann,Gunter Riedewald;Towards Automatical Migration of Transformation Rules after Grammar Extension.;30-39;10;Transformations;;selected
+2003;Maxim Mossienko;Automated Cobol to Java Recycling.;40-;0;Transformations;;selected
+2003;Juan Carlos Duenas Lopez,Rafael Capilla;Light-Weight Product-Lines for Evolution and Maintenance of Web Site.;53-62;10;Web Applications;;selected
+2003;Marina Mongiello,Francesco M. Donini,Eugenio Di Sciascio,Giacomo Piscitelli;Web Applications Design and Maintenance Using Symbolic Model Checking.;63-72;10;Web Applications;;selected
+2003;Gerardo Canfora,Diego Bovenzi,Anna Rita Fasolino;Enabling Legacy System Accessibility by Web Heterogeneous Clients.;73-81;9;Web Applications;;selected
+2003;Holger M. Kienle,Susan Elliott Sim;Towards a Benchmark for Web Site Extractors: A Call for Community Participatio.;82-;0;Web Applications;;selected
+2003;Tom Tourwe,Tom Mens;Identifying Refactoring Opportunities Using Logic Meta Programmin.;91-100;10;Refractoring;;selected
+2003;Marian Vittek;Refactoring Browser with Preprocessor.;101-110;10;Refractoring;;selected
+2003;Rajaa Najjar,Steve Counsell,George Loizou,Keith Mannock;The Role of Constructors in the Context of Refactoring Object-Oriented System.;111-;0;Refractoring;;selected
+2003;Miro Casanova,Viviane Jonckers,Ragnhild Van Der Straeten;Supporting Evolution in Component-Based Development Using Component Libraries.;123-132;10;Components;;selected
+2003;Ye Wu,Jeff Offutt;Maintaining Evolving Component-Based Software with UML.;133-142;10;Components;;selected
+2003;G. Jeyaraman,Kumar Krishnamurthy,V. V. S. Raveendra;Reengineering Legacy Application to E-Business with Modified Rational Unified Process.;143-;0;Components;;selected
+2003;David A. Carr,Mikael Patel,Johan Moe;Using Observation and Refinement to Improve Distributed Systems Test.;153-159;7;Testing;;selected
+2003;Mario Jino,Jose Carlos Maldonado,Marcos Lordello Chaim;A Debugging Strategy Based on Requirements of Testin.;160-169;10;Testing;;selected
+2003;Mario Latendresse;Fast Symbolic Evaluation of C/C++ Preprocessing Using Conditional Value.;170-;0;Testing;;selected
+2003;Ladan Tahvildari,Kostas Kontogiannis;A Metric-Based Approach to Enhance Design Quality through Meta-pattern Transformation.;183-192;10;Metrics;;selected
+2003;Mahmoud O. Elish,David C. Rine;Investigation of Metrics for Object-Oriented Design Logical Stability.;193-200;8;Metrics;;selected
+2003;Lerina Aversano,Maria Tortorella;Evolving Legacy System toward eLegacy System in eBusiness Context.;201-;0;Metrics;;selected
+2003;Peter J. Clarke,J. Paul Gibson,Brian A. Malloy;Using a Taxonomy Tool to Identify Changes in OO Softwar.;213-222;10;OO-Tooling ;;selected
+2003;Steve Gwizdala,Yong Jiang,Vaclav Rajlich;JTracker - A Tool for Change Propagation in Java.;223-229;7;OO-Tooling ;;selected
+2003;Elfriede Fehr,Gerald Weber,Dirk Draheim;JSPick - A Server Pages Design Recovery Tool.;230-;0;OO-Tooling ;;selected
+2003;Ian D. Peake,Paul A. Bailes;Design Derivation of an Open, Java-Based Reengineering Platform.;239-248;10;Aspects Oriented;;selected
+2003;Brian A. Malloy,Tanton H. Gibbs;Weaving Aspects into C++ Applications for Validation of Temporal Invariants.;249-258;10;Aspects Oriented;;selected
+2003;Thomas Gschwind,Johann Oberleitner;Improving Dynamic Data Analysis with Aspect-Oriented Programming.;259-;0;Aspects Oriented;;selected
+2003;Nandlal L. Sarda,Baru S. Rao;Effort Drivers in Maintenance Outsourcing - An Experiment Using Taguchi's Methodology.;271-270;0;Maintenance 1;;selected
+2003;June M. Verner,William M. Evanco;Some Optimal Object-Based Architectural Features for Corrective Maintenance.;281-280;0;Maintenance 1;;selected
+2003;Danilo Caivano,Maria Teresa Baldassarre,Corrado Aaron Visaggio,Alessandro Bianchi;Full Reuse Maintenance Process for Reducing Software Degradatio.;289-;0;Maintenance 1;;selected
+2003;Syed Zahoor Hassan,M. Saeed,Haroon A. Babri,S. Mansoor Sarwar,Onaiza Maqbool;Software Clustering Techniques and the Use of Combined Algorithm.;301-306;6;Clustering;;selected
+2003;Giuliano Antoniol,Massimiliano Di Penta,Markus Neteler;Moving to Smaller Libraries via Clustering and Genetic Algorithms.;307-316;10;Clustering;;selected
+2003;Andrea Capiluppi,Patricia Lago,Maurizio Morisio;Characteristics of Open Source Projects.;317-;0;Clustering;;selected
+2003;Mira Kajko-Mattsson;Problems within Support (Upfront Maintenance).;331-340;10;Maintenance 2;;selected
+2003;Mass Soldal Lund,Ketil Stolen,Folker den Braber;Maintaining Results from Security Assessment.;341-350;10;Maintenance 2;;selected
+2003;Ettore Merlo,Giuliano Antoniol,Pierre-Luc Brunelle;Fast Flow Analysis to Compute Fuzzy Estimates of Risk Levels.;351-;0;Maintenance 2;;selected
+2003;Jens Krinke,Robert M. Hierons,Andrea De Lucia,Mark Harman;Unions of Slices Are Not Slices.;363-367;5;Cloning and Slicing;;selected
+2003;Gustavo Villavicencio;Formal Program Reversing by Conditioned Slicing.;368-378;11;Cloning and Slicing;;selected
+2003;Teresa Mallardo,Filippo Lanubile;Finding Function Clones in Web Applications.;379-;0;Cloning and Slicing;;selected
+2003;Juanjuan Jiang,Tarja Systa;Exploring Differences in Exchange Formats - Tool Support and Case Studies.;389-398;10;Tool Integration;;selected
+2003;Thomas Roy Dean,Dean Jin,James R. Cordy;Transparent Reverse Engineering Tool Integration Using a Conceptual Transaction Adapter.;399-408;10;Tool Integration;;selected
+2003;Michele Lanza;CodeCrawler - Lessons Learned in Building a Software Visualization Tool.;409-418;10;Tool Integration;;selected
+2002;Andrea De Lucia,Eugenio Pompella,Antonello Pannella,Silvio Stefanucci;Empirical Analysis of Massive Maintenance Processes.;5-14;10;Session 1: Software Maintenance;;selected
+2002;Zeljka Car,Branko Mikac;A Method for Modeling and Evaluating Software Maintenance Process Performances.;15-23;9;Session 1: Software Maintenance;;selected
+2002;Pierpaolo Gallucci,Gerardo Canfora,Lerina Aversano,Andrea De Lucia;Integrating Document and Workflow Management Tools using XML and Web Technologies: A Case Study.;24-;0;Session 1: Software Maintenance;;selected
+2002;Jens H. Weber-Jahnke,Jorg P. Wadsack,Albert Zundorf;A History Concept for Design Recovery Tools.;37-46;10;Session 2: Architectural Design Recovery;;selected
+2002;Jordi Vidal Rodriguez,Claudio Riva;Combining Static and Dynamic Views for Architecture Reconstruction.;47-;0;Session 2: Architectural Design Recovery;;selected
+2002;Arpad Beszedes,Rudolf Ferenc;Data Exchange with the Columbus Schema for C++.;59-66;8;Session 3: Source Code Analysis;;selected
+2002;Derek Rayside,Kostas Kontogiannis;A Generic Worklist Algorithm for Graph Reachability Problems in Program Analysis.;67-76;10;Session 3: Source Code Analysis;;selected
+2002;Istvan Forgacs,Akos Hajnal;A Precise Demand-Driven Def-Use Chaining Algorithm.;77-;0;Session 3: Source Code Analysis;;selected
+2002;Ralf Kollmann,Martin Gogolla;Metric-Based Selective Representation of UML Diagrams.;89-98;10;Session 4: Metrics for Maintenance & Reengineering;;selected
+2002;Ping Yu,Hausi A. Muller,Tarja Systa;Predicting Fault-Proneness using OO Metrics: An Industrial Case Study.;99-107;9;Session 4: Metrics for Maintenance & Reengineering;;selected
+2002;Lilli Nenonen,Jukka Paakki,Juha Gustafsson,A. Inkeri Verkamo;Architecture-Centric Software Evolution by Software Metrics and Design Patterns.;108-;0;Session 4: Metrics for Maintenance & Reengineering;;selected
+2002;Jyrki Akkanen,Attila Kiss,Jukka Kalevi Nurminen;Evolution of a Software Component - Experiences with a Network Editor Component.;119-125;7;Session 5: Software Evolution & Integration;;selected
+2002;George R. R. Justo,Ahmed Saleh;Non-functional Integration and Coordination of Distributed Component Services.;126-133;8;Session 5: Software Evolution & Integration;;selected
+2002;Matthias Riebisch,Johannes Sametinger;Evolution Support by Homogeneously Documenting Patterns, Aspects and Traces.;134-;0;Session 5: Software Evolution & Integration;;selected
+2002;Hausi A. Muller,Johannes Martin;C to Java Migration Experiences.;143-153;11;Session 6: Software Migration;;selected
+2002;Carmine Albanese,Thierry Bodhuin,Maria Tortorella,Enrico Guardabascio;A Toolkit for Applying a Migration Strategy: A Case Study.;154-163;10;Session 6: Software Migration;;selected
+2002;Uwe Zdun;Reengineering to the Web: A Reference Architecture.;164-;0;Session 6: Software Migration;;selected
+2002;Andrey A. Terekhov,Dmitrij Koznov,D. Yu. Boulychev;On Project-Specific Languages and Their Application in Reengineering.;177-185;9;Session 7: Programming Language Issues;;selected
+2002;Antonio Paulo Teles de Menezes Correia Leitao;A Formal Pattern Language for Refactoring of Lisp Programs.;186-192;7;Session 7: Programming Language Issues;;selected
+2002;Gopalakrishna Raghavan;A Practical Reengineering Approach for Mobile Terminal Software.;193-;0;Session 7: Programming Language Issues;;selected
+2002;Danil E. Baburin;Using Graph Based Representations in Reengineering.;203-206;4;Session 8: Short Papers;;
+2002;Imre Berenyi,Bence Siklosi,Balint Molnar;Function Call Trap of Java Codes with the Help of AspectJ and XML.;207-210;4;Session 8: Short Papers;;
+2002;Andriy Panteleymonov;Interoperable Thin Client Separation from GUI Applications.;211-216;6;Session 8: Short Papers;;
+2002;Eelco Visser,Arie van Deursen;The Reengineering Wiki.;217-220;4;Session 8: Short Papers;;
+2002;Dowming Yeh,Wen-Yuan Kuo;Reverse Engineering Aggregation Relationship Based on Propagation of Operations.;223-229;7;Session 9: Reverse Engineering;;selected
+2002;Ladan Tahvildari,Kostas Kontogiannis;On the Role of Design Patterns in Quality-Driven Re-engineering.;230-240;11;Session 9: Reverse Engineering;;selected
+2002;Porfirio Tramontana,Ugo de Carlini,Giuseppe A. Di Lucca,F. Pace,Anna Rita Fasolino;WARE: A Tool for the Reverse Engineering of Web Applications.;241-250;10;Session 9: Reverse Engineering;;selected
+2002;Jean-Marie Favre;A New Approach to Software Exploration: Back-Packing with GSEE.;251-;0;Session 9: Reverse Engineering;;selected
+2001;Sven-Erik Johansson,Stefan Forssander,Mira Kajko-Mattsson,Gunnar Andersson II,Tord Fahlgren,Stefan Tornquist,Ulf Westblom,Margareta Holmgren,Sari Ebarasi,Mats Medin;Taxonomy of Problem Management Activities.;1-10;10;Full Papers;;selected
+2001;Jean-Luc Hainaut,Jean Henrard;Data Dependency Elicitation in Database Reverse Engineering.;11-19;9;Full Papers;;selected
+2001;Geert Poels,Guido Dedene;Evaluating the Effect of Inheritance on the Modifiability of Object-Oriented Business Domain Models.;20-29;10;Full Papers;;selected
+2001;Frank Simon,Frank Steinbruckner,Claus Lewerentz;Metrics Based Refactoring.;30-38;9;Full Papers;;selected
+2001;Rudolf K. Keller,Francois Lustman,Hind Kabaili;Cohesion as Changeability Indicator in Object-Oriented Systems.;39-46;8;Full Papers;;selected
+2001;Miguel Goulao,Fernando Brito e Abreu;Coupling and Cohesion as Modularization Drivers: Are We Being Over-Persuaded?;47-57;11;Full Papers;;selected
+2001;Ralf Kollmann,Martin Gogolla;Capturing Dynamic Program Behaviour with UML Collaboration Diagrams.;58-67;10;Full Papers;;selected
+2001;Henry Page,Vaclav Rajlich,Michelle Buckellew,Norman Wilde;A Case Study of Feature Location in Unstructured Legacy Fortran Code.;68-76;9;Full Papers;;selected
+2001;Peter Wendorff;Assessment of Design Patterns during Software Reengineering: Lessons Learned from a Large Commercial Project.;77-84;8;Full Papers;;selected
+2001;Victor N. Kasyanov;A Support Tool for Annotated Program Manipulation.;85-94;10;Full Papers;;selected
+2001;Remy Sanlaville,Frederic Duclos,Jacky Estublier,Jean-Jacques Auffret,Jean-Marie Favre;Reverse Engineering a Large Component-Based Software Product.;95-104;10;Full Papers;;selected
+2001;Tamas Gergely,Arpad Beszedes,Tibor Gyimothy,Janos Csirik,Zsolt Mihaly Szabo;Dynamic Slicing Method for Maintenance of Large C Programs.;105-113;9;Full Papers;;selected
+2001;William M. Evanco;Prediction Models for Software Fault Correction Effort.;114-120;7;Full Papers;;selected
+2001;Fabrizio Fioravanti,Paolo Nesi;A Study on Fault-Proneness Detection of Object-Oriented Systems.;121-130;10;Full Papers;;selected
+2001;Ettore Merlo,Giuliano Antoniol,Massimiliano Di Penta,Gerardo Casazza;Modeling Web Maintenance Centers through Queue Models.;131-138;8;Full Papers;;selected
+2001;Dominikus Herzberg,Andre Marburger;E-CARES Project: Understanding Complex Legacy Telecommunication Systems.;139-147;9;Full Papers;;selected
+2001;Gerardo Canfora,Aniello Cimitile,Lerina Aversano,Andrea De Lucia;Migrating Legacy Systems to the Web: An Experience Report.;148-157;10;Full Papers;;selected
+2001;Rosangela Penteado,Paulo Cesar Masiero,Maria Istela Cagnin,Jose Carlos Maldonado;Comparison of Maintainability Improvement by Segmentation and Reengineering - A Case Study.;158-167;10;Full Papers;;selected
+2001;Jan Bosch,PerOlof Bengtsson;Assessing Optimal Software Architecture Maintainability.;168-175;8;Full Papers;;selected
+2001;Thomas Eisenbarth,Daniel Simon,Rainer Koschke;Derivation of Feature Component Maps by Means of Concept Analysis.;176-179;4;Short Papers;;
+2001;Uwe Zdun,Michael Goedicke;Piecemeal Migrating of a Document Archive System with an Architectural Pattern Language.;180-183;4;Short Papers;;
+2001;Eric Moretti,Angel Osorio,Gilles Chanteperdrix;New Algorithms for Control-Flow Graph Structuring.;184-187;4;Short Papers;;
+2001;Gustavo Villavicencio;Program Analysis for the Automatic Detection of Programming Plans Applying Slicing.;188-191;4;Short Papers;;
+2001;Ivana Podnar Zarko,Branko Mikac;Software Maintenance Process Analysis Using Discrete-Event Simulation.;192-195;4;Short Papers;;
+2001;Maurizio Pighin;A New Methodology for Component Reuse and Maintenance.;196-199;4;Short Papers;;
+2001;Hausi A. Muller,Johannes Martin;Strategies for Migration from C to Java.;200-209;10;Short Papers;;
+2001;Paulo Pinheiro da Silva,Paulo Braz Golgher,Alberto H. F. Laender;A Simulation Model for the Performance Evaluation When Migrating Legacy Systems.;210-215;6;Short Papers;;
+2000;Gregor Snelting;Software Reengineering Based on Concept Lattices.;3-10;8;Invited Paper;;
+2000;Goncalo Pereira,Pedro Manuel Moreira Vaz Antunes de Sousa,Fernando Brito e Abreu;A Coupling-Guided Cluster Analysis Approach to Reengineer the Modularity of Object-Oriented Systems.;13-22;10;Full Papers;;selected
+2000;Dragan Bojic,Dusan M. Velasevic;A Use-Case Driven Method of Architecture Recovery for Program Understanding and Reuse Reengineering.;23-32;10;Full Papers;;selected
+2000;Thijs Winter,Andre Glas,Reinder J. Bril,Rene L. Krikhaar,Loe M. G. Feijs;Hiding Expressed Using Relation Algebra with Multi-Relations - Oblique Lifting and Lowering for Unbalanced Systems.;33-44;12;Full Papers;;selected
+2000;M. Ajmal Chaumun,Rudolf K. Keller,Francois Lustman,Hind Kabaili,Guy Saint-Denis;Design Properties and Object-Oriented Software Changeability.;45-54;10;Full Papers;;selected
+2000;Doug Simon,Cristina Garcia Cifuentes;Procedure Abstraction Recovery from Binary Code.;55-64;10;Full Papers;;selected
+2000;Jacky Estublier,Thierry Coupaye;Foundations of Enterprise Software Deployment.;65-74;10;Full Papers;;selected
+2000;Roger P. Bodnar Jr.,Sallie M. Henry;Metrics for Multimedia Languages.;75-82;8;Full Papers;;selected
+2000;Elizabeth Scott,Tim Womack,Adrian Johnstone;What Assembly Language Programmers Get Up To: Control Flow Challenges in Reverse Compilation.;83-92;10;Full Papers;;selected
+2000;Magne Jorgensen,Geir Kirkeboen,Dag I. K. Sjoberg;The Prediction Ability of Experienced Software Maintainers.;93-100;8;Full Papers;;selected
+2000;Arto Oinas;Defining Goal-driven Fault Management Metrics in a Real World Environment: A Case-Study from Nokia.;101-108;8;Full Papers;;selected
+2000;Andreas Rausch;A Proposal for Supporting Software Evolution in Componentware.;109-118;10;Full Papers;;selected
+2000;Piotr Rolinski,Jean-Luc Raffy;Re-Engineering of Estelle Specifications for Maintenance and Evolution Purposes.;119-128;10;Full Papers;;selected
+2000;Kamran Sartipi,Kostas Kontogiannis,Farhad Mavaddat;Architectural Design Recovery using Data Mining Techniques.;129-140;12;Full Papers;;selected
+2000;Reinhard Schauer,Rudolf K. Keller;Towards a Quantitative Assessment of Method Replacement.;141-150;10;Full Papers;;selected
+2000;Chris Verhoef,M. P. A. Sellink;Development, Assessment, and Reengineering of Language Descriptions.;151-160;10;Full Papers;;
+2000;Chris Verhoef,M. P. A. Sellink;Scaffolding for Software Renovation.;161-172;12;Full Papers;;selected
+2000;Rodolfo F. Resende,Paulo Pinheiro da Silva,Paulo Braz Golgher,Alberto H. F. Laender;Characterizing a Synthetic Workload for Performance Evaluation during the Migration of a Legacy System.;173-182;10;Full Papers;;selected
+2000;Harry M. Sneed;Generation of Stateless Components from Procedural Programs for Reuse in a Distributed System.;183-188;6;Full Papers;;selected
+2000;Peter H. Aiken,Dave Swafford,Diana Elman,Jeff Merhout;Experiences Reverse Engineering Manually.;189-198;10;Full Papers;;selected
+2000;Ping Yu,Hausi A. Muller,Tarja Systa;Analyzing Java Software by Combining Metrics and Program Visualization.;199-208;10;Full Papers;;selected
+2000;Stephen R. Schach,Amir Tomer;The Evolution Tree: A Maintenance-Oriented Software Development Model.;209-214;6;Full Papers;;selected
+2000;Jianjun Zhao;A Slicing-based Approach to Extracting Reusable Software Architectures.;215-223;9;Full Papers;;selected
+2000;Giuliano Antoniol,Andrea De Lucia,Gerardo Canfora,Gerardo Casazza;Identifying the Starting Impact Set of a Maintenance Request: A Case Study.;227-230;4;Short Papers;;
+2000;Alessandro Longheu,Vincenza Carchiolo,Sebastiano D'Ambra,Michele Malgeri;Re-Engineering the STMicroelectronics Manufacturing Model.;231-234;4;Short Papers;;
+2000;Walter Keller;Reverse Engineering with Petri Nets.;235-238;4;Short Papers;;
+2000;Jeffrey M. Voas;Disposable COTS-Intensive Software Systems (A Position Statement).;239-241;3;Short Papers;;
+1999;Mario Jino,Ivan Granja;Techniques for Regression Testing: Selecting Test Case Sets Tailored to Possibly Modified Functionalities.;2-13;12;Testing;;selected
+1999;Maarten Pennings,Rene L. Krikhaar,J. Zonneveld;Employing Use-cases and Domain Knowledge for Comprehending Resource Usage.;14-21;8;Architectural Understanding;;selected
+1999;S. Jeromy Carriere,Steven G. Woods,Rick Kazman;Assessing and Maintaining Architectural Quality.;22-30;9;Architectural Understanding;;selected
+1999;J. Medema,Rene L. Krikhaar,Loe M. G. Feijs,Roel de Jong;Architecture Comprehension Tools for a PBX System.;31-41;11;Architectural Understanding;;selected
+1999;Andreas Winter,Bernt Kullbach;Querying as an Enabling Technology in Software Reengineering.;42-50;9;Program Understanding;;selected
+1999;Giuliano Antoniol,Paolo Tonella,F. Calzolari;Impact of Function Pointers on the Call Graph.;51-61;11;Program Understanding;;selected
+1999;Paolo Tonella;Effects of Different Flow Insensitive Points-to Analyses on DEF/USE Sets.;62-71;10;Data Flow Analysis;;selected
+1999;Chris Verhoef,Harry M. Sneed,M. P. A. Sellink;Restructuring of COBOL/CICS Legacy Systems.;72-82;11;Program Reengineering;;selected
+1999;Jacob Brunekreef,Bob Diertens;Towards a User-Controlled Software Renovation Factory.;83-90;8;Program Reengineering;;selected
+1999;Roland T. Mittermeir,M. Taschwer,Dominik Rauner-Reithmayer;Generating Objects from C Code - Features of the CORET Tool-Set.;91-101;11;Program Reengineering;;selected
+1999;Derek Rayside,Kostas Kontogiannis;Extracting Java Library Subsets for Deployment on Embedded Systems.;102-110;9;Development and Maintenance;;selected
+1999;Rosangela Penteado,Paulo Cesar Masiero,Maria Istela Cagnin;An Experiment of Legacy Code Segmentation to Improve Maintainability.;111-121;11;Development and Maintenance;;selected
+1999;Martin Loomes,V. Shankararaman,W. Lam;Managing Requirements Change Using Metrics and Action Planning.;122-129;8;Management;;selected
+1999;M. Ajmal Chaumun,Rudolf K. Keller,Francois Lustman,Hind Kabaili;A Change Impact Model for Changeability Assessment in Object-Oriented Software Systems.;130-138;9;Metrics;;selected
+1999;Jan Bosch,PerOlof Bengtsson;Architecture Level Prediction of Software Maintenance.;139-147;9;Metrics;;selected
+1999;Taghi M. Khoshgoftaar,Edward B. Allen,John P. Hudepohl,Wendell D. Jones;Application of a Usage Profile in Software Quality Models.;148-159;12;Metrics;;selected
+1999;Jens H. Weber-Jahnke,Jorg P. Wadsack;Integration of Analysis and Redesign Activities in Information System Reengineering.;160-168;9;Data Reengineering;;selected
+1999;Maria de Lurdes Pedro-de-Jesus,Goncalo Pereira,Pedro Manuel Moreira Vaz Antunes de Sousa,Fernando Brito e Abreu;Clustering Relations into Abstract ER Schemas for Database Reverse Engineering.;169-177;9;Data Reengineering;;selected
+1999;Macario Polo Usaola,Coral Calero Munoz,Mario Piattini Velthius,Francisco Ruiz;MANTEMA: A Complete Rigorous Methodology for Supporting Maintenance Based On The ISO/IEC 12207 Standard.;178-181;4;Open Forum;;
+1999;Y. Martinez,J.-F. Ponsignon,Regis Aubry,Mathieu Maranzana;Reengineering of Multitasking Applications for Easier Maintenance.;182-185;4;Open Forum;;
+1999;Yingxu Wang,Hakan Wickburg,Graham King;A Method for Built-in Tests in Component-based Software Maintenance.;186-189;4;Open Forum;;
+1999;Anssi Karhinen,Juha O. Tuominen,Marco Sandrini;An Approach to Manage Variance in Legacy Systems.;190-193;4;Open Forum;;
+1999;Maria de Lurdes Pedro-de-Jesus,Pedro Manuel Moreira Vaz Antunes de Sousa;Selection of Reverse Engineering Methods for Relational Databases.;194-197;4;Open Forum;;
+1999;Alberto Bigotte de Almeida,Miguel Goulao,Pedro Sousa,Antonio Silva Monteiro,Fernando Brito e Abreu;A Software Defect Report and Tracking System in an Intranet.;198-202;5;Open Forum;;
+1998;Harry M. Sneed;Architecture and Functions of a Commercial Software Reengineering Workbench.;2-10;9;Tool Architecture;;selected
+1998;Chris Verhoef,Mark van den Brand,M. P. A. Sellink;Control Flow Normalization for COBOL/CICS Legacy System.;11-20;10;Tool Architecture;;selected
+1998;Sonia Ayachi Ghannouchi,Farouk Kamoun,Henda Hajjami Ben Ghezala;A Generic Approach for Data Reverse Engineering Taking into Account Application Doamin Knowledge.;21-28;8;Data Reengineering;;selected
+1998;Donatella Castelli;A Strategy for Reducing the Effort for Database Schema Maintenance.;29-36;8;Data Reengineering;;selected
+1998;Thomas Kaufmann,Harald Liessmann,Petra Ludwig;An Organizational Framework for Mass-Customized Business Application.;37-43;7;Business Information Technology and Year 2000 Problem;;selected
+1998;Akihiko Matsuo,Sanya Uehara,Akira Ogawa,Keiko Kawabe;Variable Classification Technique and Application to the Year 2000 Problem.;44-51;8;Business Information Technology and Year 2000 Problem;;selected
+1998;Y. Itoh,N. Matsumara,T. Ohta;On Constructing a Tool to Verify Programs for Processors Built in Machines.;52-59;8;Program Understanding;;selected
+1998;Kazuo Ushijima,Jianjun Zhao,Jingde Cheng;A Dependence-Based Representation for Concurrent Object-Oriented Software Maintenance.;60-66;7;Reuse and Object Oriented Techniques;;selected
+1998;Michele Marchesi;OOA Metrics for the Unified Modeling Language.;67-73;7;Reuse and Object Oriented Techniques;;selected
+1998;Christian Damsgaard Jensen,Daniel Hagimont;Protection Reconfiguration for Reusable Software.;74-81;8;Reuse and Object Oriented Techniques;;selected
+1998;Frank Niessink,Johannes C. van Vliet;Towards Mature Measurement Programs.;82-88;7;System Assessment;;selected
+1998;Fabrizio Fioravanti,Paolo Nesi,Sandro Perlini;A Tool for Process and Product Assessment of C++ Applications.;89-95;7;System Assessment;;selected
+1998;Jin-Cherng Lin,Pu-Lin Yeh;Software Testability Measurements Derived from Data Flow Analysis.;96-103;8;System Assessment;;selected
+1998;M. Burth,Rick Kazman;Assessing Architectural Complexity.;104-112;9;Software Architecture;;selected
+1998;William Lopes de Oliveira,Juan Carlos Duenas Lopez,Juan Antonio de la Puente;Architecture Recovery for Software Evolution.;113-120;8;Software Architecture;;selected
+1998;Martin Loomes,W. Lam;Requirements Evolution in the Midst of Environmental Change: A Managed Approach.;121-127;7;Requirements and Specification Evolution;;selected
+1998;Jane Ransom,Ian Warren,Ian Sommerville;A Method for Assessing Legacy Systems for Evolution.;128-134;7;Requirements and Specification Evolution;;selected
+1998;Tereza G. Kirner,Rogeria C. Gratao;System Specification Reengineering Using the SpecView Tool.;135-141;7;Requirements and Specification Evolution;;selected
+1998;Katja Cremer;A Tool Supporting the Re-Design of Legacy Applications.;142-149;8;Requirements and Specification Evolution;;selected
+1998;Giuliano Antoniol,Paolo Tonella,F. Calzolari;Modeling Maintenance Effort by Means of Dynamic Systems.;150-156;7;Maintenance Effort;;selected
+1998;Hareton Leung;Improving Defect Removal Effectiveness for Software Development.;157-164;8;Maintenance Effort;;selected
+1998;Andreas Panse,Bernt Kullbach,Jurgen Ebert;The Extract-Transform-Rewrite Cycle. A Step towards MetaCARE.;165-171;7;Maintenance Effort;;selected
+1998;Kazuo Ushijima,Jianjun Zhao,Jingde Cheng;A Metrics Suite for Concurrent Logic Programs.;172-178;7;Logic Programming, Telecommunications;;
+1998;S. Hong,K. Kim;Identifying Fault Prone Modules: An Empirical Study in Telecommunication System.;179-184;6;Logic Programming, Telecommunications;;selected
+1998;Andreas Wolf,Peter Jakobi;DBFW: A Simple DataBase FrameWork for the Evaluation and Maintenance of Automated Theorem Prover Data.;185-188;4;Open Forum;;
+1998;Stephan Kleuker;Reengineering of Distributed Systems Using Formal Methods.;189-192;4;Open Forum;;
+1998;Erik Foltin,Reiner R. Dumke;Metrics-Based Evaluation of Object-Oriented Software Development Methods.;193-196;4;Open Forum;;
+1998;John M. Favaro,Giancarlo Savoia,Marco Battaglia;RENAISSANCE: A Method to Migrate from Legacy to Immortal Software Systems.;197-200;4;Open Forum;;
+1998;Jochen Seemann,Jurgen Wolff von Gudenberg;Visualization of Differences between Versions of Object-Oriented Software.;201-204;4;Open Forum;;
+1998;I. Duncan,J. Doake;Amber Metrics for the Testing and Maintenance of Object-Oriented Designs.;205-208;4;Open Forum;;
+1998;Deidre Wiliams,Sara Stoecklin,Peter Stoecklin;Tailoring the Process Model for Maintenance and Reengineering.;209-212;4;Open Forum;;
+1998;Isabelle Borne,Annya Romanczuk,Frederique Stefani;Towards a Systematic Object-Oriented transformation of a Mrise Analysis.;213-215;3;Open Forum;;
+1998;Roland T. Mittermeir,Dominik Rauner-Reithmayer,Helfried Pirker;Object Evolution by Model Evolution.;216-219;4;Open Forum;;
+1998;Hongji Yang,Hussein Zedan;A Sound and Practical Approach To The Re-Engineering Of Time-Critical Systems.;220-223;4;Open Forum;;
+1998;F. Butera,Paolo Nesi,B. Fontanella,M. Perfetti;Reengineering a Computerized Numerical Control Towards Object-Oriented.;224-227;4;Open Forum;;
+1998;Claudine Toffolon,Salem Dakhli;Software Artifacts Reuse and Maintenance: An Organizational Framework.;228-233;6;Open Forum;;
+1998;Sebastian Kutscha;The Task Artifact Cycle: Some Experiences from Reengineering Practice.;234;1;Open Forum;;
+1997;Stanislaw Jarzabek,Irene Woon;Towards a precise description of reverse engineering methods and tools.;3-9;7;Methodology;;selected
+1997;Xavier Franch,Pere Botella;Supporting software maintenance with non-functional information.;10-16;7;Methodology;;selected
+1997;Sebastian Kutscha,Klaus Henning,Horst Kesselmeier;The Task Artifact Cycle: a Conceptual Approach to Maintenance and Reengineering.;17-19;3;Methodology;;selected
+1997;Ulrike Kolsch,Mechtild Wallrath;A Process Model for Controlling and Performing Re-Engineering Tasks.;20-24;5;Methodology;;selected
+1997;Jurgen Schwille;Modeling product and process characteristics in software configuration management.;25-32;8;Software Configuration Management;;selected
+1997;Tapani Kilpi;New Challenges for Version Control and Configuration Management: a Framework and Evaluation.;33-42;10;Software Configuration Management;;selected
+1997;Michael Lowe;Formal Methods.;43;1;Formal Methods;;selected
+1997;Jean-Marie Favre;A Rigorous Approach to Support the Maintenance of Large Portable Software.;44-47;4;Formal Methods;;selected
+1997;Christoph C. Michael;Using evolution constraints to assess the failure-proneness of evolving software.;48-53;6;Formal Methods;;selected
+1997;Jeffrey Kramer,Nabor C. Mendonca;A Quality-Based Analysis of Architecture Recovery Environments.;54-59;6;Program Analysis I;;selected
+1997;Ettore Merlo,Giuliano Antoniol,Roberto Fiutem,Paolo Tonella;Variable Precision Reaching Definitions Analysis for Software Maintenance.;60-67;8;Program Analysis I;;selected
+1997;Vaclav Rajlich;Incremental Redocumentation with Hypertext.;68-73;6;Program Analysis I;;selected
+1997;Reiner R. Dumke,Achim S. Winkler;CAME Tools for an Efficient Software Maintenance.;74-81;8;Program Analysis II;;selected
+1997;Horst Friedrich,Reiner Witschurke;The FAPU Workbench.;82-88;7;Program Analysis II;;selected
+1997;Josef Kisting;The challenge of the Year 2000 problem.;89-92;4;Keynote Session 2;;
+1997;Paolo Nesi;Year 2000.;93;1;Year 2000 I;;selected
+1997;Bernd Muller,Rainer Gimnich;Planning Year 2000 transformations using standard tools: an experience report.;94-100;7;Year 2000 I;;selected
+1997;Zsolt Ory;A theory driven approach to century change.;101-105;5;Year 2000 I;;selected
+1997;Daniel Aebi;A process model for re-engineering, migration and multi-use of business data.;106-113;8;Year 2000 II;;selected
+1997;Joseph Allegra;Overlooked issues of the Year 2000 upgrade.;114-118;5;Year 2000 II;;selected
+1997;Harry M. Sneed;Measuring the performance of a software maintenance department.;119-127;9;Case Studies;;selected
+1997;Sagar Pidaparthi,Grzegorz Cysewski;Case Study in Migration to Object-Oriented System Structure Using Design Transformation Methods.;128-135;8;Case Studies;;selected
+1997;Burkhard Holl;A Software Configuration Management System for the Maintenance of Nuclear Power Plant Simulators.;136-139;4;Case Studies;;selected
+1997;Peter Meltz;Assessment of the options for Hardware-/Software-Reengineering of two KSG/GfS Full-Scope-Simulators.;140-143;4;Case Studies;;selected
+1997;Ingo Mohr,Klaus Henning,Michael Schulz,Ingo Classen;CUI to GUI Migration: Static Analysis of Character-Based Panels.;144-149;6;Migration of User Interfaces;;selected
+1997;Laszlo Csaba;Experience with User Interface Reengineering Transferring DOS Panels to Windows.;150-156;7;Migration of User Interfaces;;selected
+1997;Paolo Nesi,Alessandro Fantechi,E. Somma;Object-Oriented Analysis of COBOL.;157-164;8;Object-Oriented-Reuse;;selected
+1997;Carine Lucas,Patrick Steyaert,Kim Mens;Managing Software Evolution through Reuse Contracts.;165-170;6;Object-Oriented-Reuse;;selected

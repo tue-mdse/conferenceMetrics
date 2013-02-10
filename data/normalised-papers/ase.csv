@@ -1,0 +1,1168 @@
+2012;William B. Langdon,David Robert White,Yue Jia,John Andrew Clark,Mark Harman,Andrea Arcuri;The GISMOE challenge: constructing the pareto program surface using genetic programming to find better programs (keynote paper).;1-14;14;Keynotes;;
+2012;Mira Kajko-Mattsson,Ivar Jacobson,Ian Spence,Pontus Johnson;Re-founding software engineering - SEMAT at the age of three (keynote abstract).;15-19;5;Keynotes;;
+2012;Jin Chen,Mengxiang Lin,Kai Yu,Xiangyun Zhang;Practical isolation of failure-inducing changes for debugging regression faults.;20-29;10;Debugging I;;selected
+2012;Liang Gong,Hongyu Zhang,Lingxiao Jiang,David Lo;Diversity maximization speedup for fault localization.;30-39;10;Debugging I;;selected
+2012;Sarfraz Khurshid,Razieh Nokhbeh Zaeem,Divya Gopinath;Improving the effectiveness of spectra-based fault localization using specifications.;40-49;10;Debugging I;;selected
+2012;Foyzur Rahman,Lucia,Premkumar T. Devanbu,Lingxiao Jiang,Ferdian Thung,David Lo;To what extent could we detect field defects? an empirical study of false negatives in static bug finding tools.;50-59;10;Debugging II;;selected
+2012;Tegawende F. Bissyande,Gilles Muller,Laurent Reveillere,Julia L. Lawall;Diagnosys: automatic generation of a debugging interface to the Linux kernel.;60-69;10;Debugging II;;selected
+2012;Chengnian Sun,Hoan Anh Nguyen,Tien N. Nguyen,Tung Thanh Nguyen,David Lo;Duplicate bug report detection with a combination of information retrieval and topic modeling.;70-79;10;Debugging II;;selected
+2012;Michal Moskal,Nikolai Tillmann,Xusheng Xiao,Jonathan de Halleux,Manuel Fahndrich;User-aware privacy control via extended static-information-flow analysis.;80-89;10;Privacy, Security, and Performance;;selected
+2012;Gabriele Bavota,Andrian Marcus,Andrea De Lucia,Sonia Haiduc,Rocco Oliveto;Automatic query performance assessment during the retrieval of software artifacts.;90-99;10;Privacy, Security, and Performance;;selected
+2012;John Grundy,Amani S. Ibrahim,Mohamed Almorsy;Supporting automated vulnerability analysis using formalized vulnerability signatures.;100-109;10;Privacy, Security, and Performance;;selected
+2012;Paul Grunbacher,Rick Rabiser,Martin Lehofer;A qualitative study on user guidance capabilities in product configuration tools.;110-119;10;Configuration Management and QoS;;selected
+2012;Sven Apel,Olaf Lessenich,Christian Lengauer;Structured merge with auto-tuning: balancing precision and performance.;120-129;10;Configuration Management and QoS;;selected
+2012;Alan Colman,Lars Grunske,Ayman Amin;An automated approach to forecasting QoS attributes based on linear and non-linear time series modeling.;130-139;10;Configuration Management and QoS;;selected
+2012;Sunghun Kim,Ning Chen;Puzzle-based automatic testing: bringing humans into the loop by solving puzzles.;140-149;10;Testing and Monitoring;;selected
+2012;Kari Kahkonen,Keijo Heljanko,Olli Saarikivi;Using unfoldings in automated testing of multithreaded programs.;150-159;10;Testing and Monitoring;;selected
+2012;Lionel Seinturier,Aurelien Bourdon,Adel Noureddine,Romain Rouvoy;Runtime monitoring of software energy hotspots.;160-169;10;Testing and Monitoring;;selected
+2012;Yingnong Dang,Xiaoying Wang,Erica Lan,Dongmei Zhang,Lu Zhang,Hong Mei;Can I clone this piece of code here?;170-179;10;Prediction;;selected
+2012;Hyunmin Seo,Sunghun Kim;Predicting recurring crash stacks.;180-189;10;Prediction;;selected
+2012;Rouven Krebs,Roozbeh Farahbod,Dennis Westermann,Jens Happe;Automated inference of goal-oriented performance prediction functions.;190-199;10;Prediction;;selected
+2012;Achraf Ghabi,Alexander Egyed;Code patterns for automatically validating requirements-to-code traces.;200-209;10;Validation, Verification, and Consistency;;selected
+2012;Tevfik Bultan,Jaideep Nijjar;Unbounded data model verification using SMT solvers.;210-219;10;Validation, Verification, and Consistency;;selected
+2012;Alexander Reder,Alexander Egyed;Computing repair trees for resolving inconsistencies in design models.;220-229;10;Validation, Verification, and Consistency;;selected
+2012;John Grundy,Amani S. Ibrahim,Mohamed Almorsy;Supporting automated software re-engineering using re-aspects.;230-233;4;Re-engineering, Program Understanding, and Model Transformation (Short Papers);;
+2012;John Grundy,Amani S. Ibrahim,Mohamed Almorsy,James H. Hamlyn-Harris;Supporting operating system kernel data disambiguation using points-to analysis.;234-237;4;Re-engineering, Program Understanding, and Model Transformation (Short Papers);;
+2012;Moria Abadi,Yishai A. Feldman;Automatic recovery of statecharts from procedural code.;238-241;4;Re-engineering, Program Understanding, and Model Transformation (Short Papers);;
+2012;Julia Rubin-Mosin,Marsha Chechik;Locating distinguishing features using diff sets.;242-245;4;Re-engineering, Program Understanding, and Model Transformation (Short Papers);;
+2012;Katsuhisa Maruyama,Eijiro Kitsu,Takayuki Omori,Shinpei Hayashi;Slicing and replaying code change history.;246-249;4;Re-engineering, Program Understanding, and Model Transformation (Short Papers);;
+2012;Martin Faunes,Mounir Boukadoum,Houari A. Sahraoui;Generating model transformation rules from examples using an evolutionary algorithm.;250-253;4;Re-engineering, Program Understanding, and Model Transformation (Short Papers);;
+2012;Nikolai Tillmann,Konrad Jamrozik,Jonathan de Halleux,Gordon Fraser;Augmented dynamic symbolic execution.;254-257;4;Testing and Code Analysis (Short Papers);;
+2012;Domenico Amalfitano,Salvatore De Carmine,Porfirio Tramontana,Atif M. Memon,Anna Rita Fasolino;Using GUI ripping for automated testing of Android applications.;258-261;4;Testing and Code Analysis (Short Papers);;
+2012;Lingxiao Jiang,Aditya Budi,David Lo,Lucia;kbe-anonymity: test data anonymization for evolving programs.;262-265;4;Testing and Code Analysis (Short Papers);;
+2012;Yves Le Traon,Tao Xie,Tejeddine Mouelhi,Donia El Kateb,JeeHyun Hwang;Selection of regression system tests for security policy evolution.;266-269;4;Testing and Code Analysis (Short Papers);;
+2012;Jingling Xue,Yi Lu 0003,Lei Shang;Fast and precise points-to analysis with incremental CFL-reachability summarisation: preliminary experience.;270-273;4;Testing and Code Analysis (Short Papers);;
+2012;Alexandre Bartel,Yves Le Traon,Martin Monperrus,Jacques Klein;Automatically securing permission-based software by reducing the attack surface: an application to Android.;274-277;4;Detection and Refactoring (Short Papers);;
+2012;Giuliano Antoniol,Abdou Maiga,Yann-Gael Gueheneuc,Aminata Sabane,Esma Aimeur,Nasir Ali,Neelesh Bhattacharya;Support vector machines for anti-pattern detection.;278-281;4;Detection and Refactoring (Short Papers);;
+2012;Hung Viet Nguyen,Tien N. Nguyen,Hoan Anh Nguyen,Tung Thanh Nguyen;Detection of embedded code smells in dynamic web applications.;282-285;4;Detection and Refactoring (Short Papers);;
+2012;Yang Yuan,Yao Guo;Boreas: an accurate and scalable token-based approach to code clone detection.;286-289;4;Detection and Refactoring (Short Papers);;
+2012;Friedrich Steimann,Jens von Pilgrim;Refactorings without names.;290-293;4;Detection and Refactoring (Short Papers);;
+2012;Huiqing Li,Simon J. Thompson;Automated API migration in a user-extensible refactoring tool for Erlang programs.;294-297;4;Detection and Refactoring (Short Papers);;
+2012;Stephan Diehl,Rainer Lutz,Sascha Schafer 0001;Using mobile devices for collaborative requirements engineering.;298-301;4;Requirements Engineering and Model based Development (Short Papers);;
+2012;Andreas Demuth,Roberto Erick Lopez-Herrejon,Alexander Egyed;Automatically generating and adapting model constraints to support co-evolution of design models.;302-305;4;Requirements Engineering and Model based Development (Short Papers);;
+2012;Pit Pietsch,Udo Kelter,Maik Schmidt,Timo Kehrer;Adaptability of model comparison tools.;306-309;4;Requirements Engineering and Model based Development (Short Papers);;
+2012;Hee Beng Kuan Tan,Lwin Khin Shar;Predicting common web application vulnerabilities from input validation and sanitization code patterns.;310-313;4;Defect Prediction and Recovery (Short Papers);;
+2012;Huihua Lu,Mark Culp,Bojan Cukic;Software defect prediction using semi-supervised learning with dimension reduction.;314-317;4;Defect Prediction and Recovery (Short Papers);;
+2012;Qingwei Lin,Jian-Guang Lou,Rui Ding,Dongmei Zhang,Jiajun Shen,Qiang Fu,Tao Xie;Healing online service systems via mining historical issue repositories.;318-321;4;Defect Prediction and Recovery (Short Papers);;
+2012;Eelco Visser,Maartje de Jonge;Automated evaluation of syntax error recovery.;322-325;4;Defect Prediction and Recovery (Short Papers);;
+2012;Massila Kamalrudin,John Grundy,John G. Hosking;MaramaAI: tool support for capturing and managing consistency of multi-lingual requirements.;326-329;4;Tool Demonstrations 1;;
+2012;Sebastian Bauersfeld,Tanja E. J. Vos;GUITest: a Java library for fully automated GUI robustness testing.;330-333;4;Tool Demonstrations 1;;
+2012;Palakorn Achananuparp,Nelman Lubis Ibrahim,Yuan Tian,David Lo,Ee-Peng Lim;Observatory of trends in software related microblogs.;334-337;4;Tool Demonstrations 1;;
+2012;Stefan Kowalewski,Jorg Brauer,Sebastian Biallas;Arcade.PLC: a verification platform for programmable logic controllers.;338-341;4;Tool Demonstrations 1;;
+2012;Taha Triki,German Vega,Lydie du Bousquet,Yves Ledru;Test suite selection based on traceability annotations.;342-345;4;Tool Demonstrations 1;;
+2012;Fu Song,Tayssir Touili;PuMoC: a CTL model-checker for sequential programs.;346-349;4;Tool Demonstrations 1;;
+2012;Sebastian Currea,Ylies Falcone;Weave droid: aspect-oriented programming on Android devices: fully embedded or in the cloud.;350-353;4;Tool Demonstrations 1;;
+2012;Bashar Nuseibeh,Gavin Doherty,Mazeiar Salehie,Liliana Pasquale,Luca Cavallaro,Inah Omoronyia;Caprice: a tool for engineering adaptive privacy.;354-357;4;Tool Demonstrations 1;;
+2012;Laura Moreno,Andrian Marcus;JStereoCode: automatically identifying method and class stereotypes in Java code.;358-361;4;Tool Demonstrations 2;;
+2012;Alessandro Zovi,Federico Ciccozzi,Stefano Puri,Silvia Mazzini,Antonio Cicchetti,Marco Panunzio,Tullio Vardanega;CHESS: a model-driven engineering tool environment for aiding the development of complex industrial systems.;362-365;4;Tool Demonstrations 2;;
+2012;Hoan Anh Nguyen,Ahmed Tamrawi,Tien N. Nguyen,Hung Viet Nguyen;SYMake: a build code analysis and refactoring tool for makefiles.;366-369;4;Tool Demonstrations 2;;
+2012;Jean-Guy Schneider,Steven Versteeg,Cameron M. Hine,Jun Han;Quokka: visualising interactions of enterprise software environment emulators.;370-373;4;Tool Demonstrations 2;;
+2012;Stefan Biffl,Richard Mordinyi,Stefan Dosinger;Communicating continuous integration servers for increasing effectiveness of automated testing.;374-377;4;Tool Demonstrations 2;;
+2012;Jose Campos,Andre Riboira,Rui Abreu,Alexandre Perez;GZoltar: an eclipse plug-in for testing and debugging.;378-381;4;Tool Demonstrations 2;;
+2012;Siau-Cheng Khoo,Anh Cuong Nguyen,Jesper Andersen,David Lo,Julia L. Lawall;Semantic patch inference.;382-385;4;Tool Demonstrations 2;;
+2012;Bao Quoc Vo,Markus Lumpe,Tuong Huan Nguyen,John Grundy;REInDetector: a framework for knowledge-based requirements engineering.;386-389;4;Tool Demonstrations 2;;
+2012;Sebastian Gabmeyer;Formal verification techniques for model transformations specified by-demonstration.;390-393;4;Doctoral Symposium;;
+2012;Luis Quesada 0002;A model-driven parser generator with reference resolution support.;394-397;4;Doctoral Symposium;;
+2012;Yosuke Yamamoto;Property-preserving program refinement.;398-401;4;Doctoral Symposium;;
+2012;Ana Filipa Nogueira;Predicting software complexity by means of evolutionary testing.;402-405;4;Doctoral Symposium;;
+2012;Panita Meananeatra;Identifying refactoring sequences for improving software maintainability.;406-409;4;Doctoral Symposium;;
+2011;Ian H. Witten;Wikipedia and how to use it for semantic document representation.;1;1;Keynotes;;
+2011;Matthew B. Dwyer;Unifying testing and analysis through behavioral coverage.;2;1;Keynotes;;
+2011;Nadia Alshahwan,Mark Harman;Automated web application testing using search based software engineering.;3-12;10;Testing I;;selected
+2011;Hung Viet Nguyen,Tien N. Nguyen,Hoan Anh Nguyen,Tung Thanh Nguyen;Auto-locating and fix-propagating for HTML validation errors to PHP server-side code.;13-22;10;Testing I;;selected
+2011;Jeff H. Perkins,Vinay Augustine,Michael D. Ernst,Nuo Li,Brian P. Robinson;Scaling up automated test generation: Automatically generating maintainable regression unit tests for programs.;23-32;10;Testing I;;selected
+2011;Saswat Anand,Mary Jean Harrold;Heap cloning: Enabling dynamic symbolic execution of java programs.;33-42;10;Testing II;;selected
+2011;Pingyu Zhang,Sebastian G. Elbaum,Matthew B. Dwyer;Automatic generation of load tests.;43-52;10;Testing II;;selected
+2011;Kiran Lakhotia,Arthur I. Baars,Youssef Hassoun,Phil McMinn,Mark Harman,Tanja E. J. Vos,Paolo Tonella;Symbolic search-based testing.;53-62;10;Testing II;;selected
+2011;Cheng Zhang,Sai Zhang,Michael D. Ernst;Automated documentation inference to explain failed tests.;63-72;10;Testing III;;selected
+2011;Tao Xie,Xintao Wu,Kai Pan;Generating program inputs for database application testing.;73-82;10;Testing III;;selected
+2011;Hans-Gerhard Gross,Alberto Gonzalez-Sanchez,Arjan J. C. van Gemund,Rui Abreu;Prioritizing tests for fault localization through ambiguity group reduction.;83-92;10;Testing III;;selected
+2011;Ondrej Lhotak,Pavel Parizek;Identifying future field accesses in exhaustive state space traversal.;93-102;10;Software Model Checking;;selected
+2011;Yoshinori Tanabe,Cyrille Valentin Artho,Watcharin Leungwattanakit,Masami Hagiya,Mitsuharu Yamamoto;Model checking distributed systems by combining caching and process checkpointing.;103-112;10;Software Model Checking;;selected
+2011;Johannes Kinder,Neeraj Suri,Peter Bokor,Marco Serafini;Supporting domain-specific state space reductions through local partial-order reduction.;113-122;10;Software Model Checking;;selected
+2011;Malay K. Ganai;Scalable and precise symbolic analysis for atomicity violations.;123-132;10;Analysis, Verification, and Validation;;selected
+2011;Aarti Gupta,Takashi Imoto,Sriram Sankaranarayanan,Hiroki Tokuoka,Franjo Ivancic,Naoto Maeda,Yoshiaki Miyazaki,Gogul Balakrishnan;DC2: A framework for scalable, scope-bounded software verification.;133-142;10;Analysis, Verification, and Validation;;selected
+2011;Vladimir Levin,Thomas A. Ball,Fei Xie,Juncao Li,Con McGarvey;Formalizing hardware/software interface specifications.;143-152;10;Analysis, Verification, and Validation;;selected
+2011;Mike Dodds,Alastair F. Donaldson,Matthew J. Parkinson,Matko Botincan;Safe asynchronous multicore memory operations.;153-162;10;Analysis, Verification, and Validation;;selected
+2011;Udo Kelter,Timo Kehrer,Gabriele Taentzer;A rule-based approach to the semantic lifting of model differences in the context of model versioning.;163-172;10;Models;;selected
+2011;Abel Hegedus,Akos Horvath,Istvan Rath,Daniel Varro;A model-driven framework for guided design space exploration.;173-182;10;Models;;selected
+2011;Fabian Brosig,Nikolaus Huber,Samuel Kounev;Automated extraction of architecture-level performance models of distributed component-based systems.;183-192;10;Models;;selected
+2011;Ariel Rabkin,Randy H. Katz;Precomputing possible configuration error diagnoses.;193-202;10;Debugging;;selected
+2011;David Insa,Josep Silva;An optimal strategy for algorithmic debugging.;203-212;10;Debugging;;selected
+2011;Sarah R. Clark,Mary Jean Harrold,Jake Cobb,James A. Jones,Gregory M. Kapfhammer;Localizing SQL faults in database applications.;213-222;10;Debugging;;selected
+2011;John Grundy,Xiaofan Chen;Improving automated documentation to code traceability by combining retrieval techniques.;223-232;10;Documentation, Traceability, and Program Understanding;;selected
+2011;Tao Xie,Qianxiang Wang,Hong Mei,Qian Wu,Guangtai Liang;Iterative mining of resource-releasing specifications.;233-242;10;Documentation, Traceability, and Program Understanding;;selected
+2011;Patrick Maeder,Ghulam Rasool;Flexible design pattern detection based on feature types.;243-252;10;Documentation, Traceability, and Program Understanding;;selected
+2011;Jing Jiang,Chengnian Sun,David Lo,Siau-Cheng Khoo;Towards more accurate retrieval of duplicate bug reports.;253-262;10;Software Maintenance I;;selected
+2011;Tien N. Nguyen,Hoan Anh Nguyen,Hung Viet Nguyen,Tung Thanh Nguyen,Jafar M. Al-Kofahi;A topic-based approach for narrowing the search space of buggy files from a bug report.;263-272;10;Software Maintenance I;;selected
+2011;Yijun Yu,Bashar Nuseibeh,Thein Than Tun;Specifying and detecting meaningful changes in programs.;273-282;10;Software Maintenance I;;selected
+2011;Martina Maggio,Antonio Filieri,Carlo Ghezzi,Alberto Leva;Self-adaptive software meets control theory: A preliminary approach supporting reliability requirements.;283-292;10;Software Maintenance II;;selected
+2011;Yuanfang Cai,Sunny Wong;Generalizing evolutionary coupling with stochastic dependencies.;293-302;10;Software Maintenance II;;selected
+2011;Jeffrey Overbey,Ralph E. Johnson;Differential precondition checking: A lightweight, reusable analysis for refactoring tools.;303-312;10;Software Maintenance II;;selected
+2011;Kim Lauenroth,Klaus Pohl,Richard Pohl;A performance comparison of contemporary algorithmic approaches for automated analysis operations on feature models.;313-322;10;Product Lines, Knowledge Acquisition, and Software Processes;;selected
+2011;Swapna Gottipati,David Lo,Jing Jiang;Finding relevant answers in software forums.;323-332;10;Product Lines, Knowledge Acquisition, and Software Processes;;selected
+2011;Ning Chen,Xiaokui Xiao,Steven C. H. Hoi;Software process evaluation: A machine learning approach.;333-342;10;Product Lines, Knowledge Acquisition, and Software Processes;;selected
+2011;Andrew Butcher,Tim Menzies,Thomas Zimmermann,Andrian Marcus,David R. Cok;Local vs. global models for effort estimation and defect prediction.;343-351;9;Prediction and Ecological Inference;;selected
+2011;David Evans,Samuel Kounev,Christoph Rathfelder;Capacity planning for event-based systems using automated performance predictions.;352-361;10;Prediction and Ecological Inference;;selected
+2011;Premkumar T. Devanbu,Vladimir Filkov,Daryl Posnett;Ecological inference in empirical software engineering.;362-371;10;Prediction and Ecological Inference;;selected
+2011;Hendrik Speidel,Sven Apel,Philipp Wendler,Alexander von Rhein,Dirk Beyer;Detection of feature interactions using feature-aware verification.;372-375;4;Short Papers I;;
+2011;Markus Kimmig,Mira Mezini,Martin Monperrus;Querying source code with natural language.;376-379;4;Short Papers I;;
+2011;Alex Groce;Coverage rewarded: Test input generation via adaptation-based programming.;380-383;4;Short Papers I;;
+2011;Angela Lozano,Andy Kellens,Kim Mens;Mendel: Source code recommendation based on a genetic metaphor.;384-387;4;Short Papers I;;
+2011;Elvinia Riccobene,Paolo Arcaini,Angelo Gargantini;Optimizing the automatic test generation by SAT and SMT solving for Boolean expressions.;388-391;4;Short Papers I;;
+2011;Yi Wei,Bertrand Meyer,Carlo A. Furia,Yu Pei 0001,Martin Nordio;Code-based automated program fixing.;392-395;4;Short Papers I;;
+2011;Richard N. Taylor,Yongjie Zheng;Taming changes With 1.x-Way architecture-implementation mapping.;396-399;4;Short Papers I;;
+2011;Kristina Winbladh,Anand Ranganathan;Evaluating test selection strategies for end-user specified flow-based applications.;400-403;4;Short Papers I;;
+2011;Zoltan Ujhelyi,Akos Horvath,Daniel Varro;Towards dynamic backward slicing of model transformations.;404-407;4;Short Papers I;;
+2011;Irwin King,Tao Xie,Hao Ma,Wujie Zheng,Michael R. Lyu;Mining test oracles of web search engines.;408-411;4;Short Papers I;;
+2011;Isaac Persing,LiGuo Huang,Jianhui Tian,Vincent Ng,Ruili Geng,Xu Bai;AutoODC: Automated generation of Orthogonal Defect Classifications.;412-415;4;Short Papers I;;
+2011;Achraf Ghabi,Alexander Egyed;Observations on the connectedness between requirements-to-code traces and calling relationships for trace validation.;416-419;4;Short Papers I;;
+2011;Aritra Bandyopadhyay,Sudipto Ghosh;Proximity based weighting of test cases to improve spectrum based fault localization.;420-423;4;Short Papers I;;
+2011;Mathieu Acher,Philippe Lahire,Robert B. France,Philippe Collet;Slicing feature models.;424-427;4;Short Papers I;;
+2011;Amirhossein Vakili,Nancy A. Day;Using model checking to analyze static properties of declarative models.;428-431;4;Short Papers I;;
+2011;Bing Xie,Changsheng Liu,Sibo Cai,Yanzhen Zou,Hong Mei;Finding the merits and drawbacks of software resources from comments.;432-435;4;Short Papers I;;
+2011;Jan Malburg,Gordon Fraser;Combining search-based and constraint-based testing.;436-439;4;Short Papers I;;
+2011;Michael Steindorfer,Alexander Horton,Yi Wei,Bertrand Meyer,Yu Pei 0001,Hannes Roth,Martin Nordio,Carlo A. Furia;Stateful testing: Finding more errors in code and contracts.;440-443;4;Short Papers II;;
+2011;Patrick Maeder,Alexander Egyed;Do software engineers benefit from source code navigation with traceability? - An experiment in software change management.;444-447;4;Short Papers II;;
+2011;Zachary J. Oster,Samik Basu,Ganesh Ram Santhanam;Automating analysis of qualitative preferences in goal-oriented requirements engineering.;448-451;4;Short Papers II;;
+2011;Francisco Servant,James A. Jones;History slicing.;452-455;4;Short Papers II;;
+2011;Barthelemy Dagenais,Mohammad Gias Uddin,Martin P. Robillard;Analyzing temporal API usage patterns.;456-459;4;Short Papers II;;
+2011;George Edwards,Nenad Medvidovic,Yuriy Brun;Isomorphism in model tools and editors.;460-463;4;Short Papers II;;
+2011;Dewayne E. Perry,Svetoslav R. Ganov,Sarfraz Khurshid;A case for alloy annotations for efficient incremental analysis via domain specific solvers.;464-467;4;Short Papers II;;
+2011;Venkata Krishna Suhas Nerella,Sanjay Madria,Swetha Surapaneni,Thomas Weigert;Exploring caching for efficient collection operations.;468-471;4;Short Papers II;;
+2011;Ingolf Kruger,Celal Ziftci;Tracing requirements to tests with high precision and recall.;472-475;4;Short Papers II;;
+2011;Michele Lanza,Anthony Cleve,Alberto Bacchelli,Andrea Mocci;Extracting structured data from natural language documents with island parsing.;476-479;4;Short Papers II;;
+2011;Hiroyuki Kato,Zhenjiang Hu,Keisuke Nakano,Kazuhiro Inaba,Soichiro Hidaka;GRoundTram: An integrated framework for developing well-behaved bidirectional model transformations.;480-483;4;Short Papers II;;
+2011;Xuandong Li,Henry Muccini,Pengcheng Zhang,Andrea Polini;Run-time systems failure prediction via proactive monitoring.;484-487;4;Short Papers II;;
+2011;Soham Sundar Chakraborty,Vipul Shah;Towards an approach and framework for test-execution plan derivation.;488-491;4;Short Papers II;;
+2011;Paul F. Reynolds Jr.,David Kamensky,Ross Gore;Statistical debugging with elastic predicates.;492-495;4;Short Papers II;;
+2011;Spiros Mancoridis,Edward Stehle,Maxim Shevertalov,Kevin Lynch,Chris Rorres;Diagnosis of software failures using computational geometry.;496-499;4;Short Papers II;;
+2011;Jianwei Niu,Mark Robinson,Macneil Shonle;GitBAC: Flexible access control for non-modular concerns.;500-503;4;Short Papers II;;
+2011;Josip Maras,Ivica Crnkovic,Jan Carlson;Client-side web application slicing.;504-507;4;Short Papers II;;
+2011;Muhammad Ali Babar,Paolo Tell;Supporting activity based computing paradigm in global software development.;508-511;4;Short Papers III;;
+2011;James A. Jones,Fang Deng;Inferred dependence coverage to support fault contextualization.;512-515;4;Short Papers III;;
+2011;Ann Patterson-Hine,Robyn R. Lutz,Jeremy Johnson;Using model-based assurance to strengthen diagnostic procedures.;516-519;4;Short Papers III;;
+2011;Milos Gligoric,Vilas Jagannath,Marcelo d'Amorim,Elton Alves;Fault-localization using dynamic slicing and change impact analysis.;520-523;4;Short Papers III;;
+2011;Lori L. Pollock,K. Vijay-Shanker,Emily Hill;Improving source code search with natural language phrasal representations of method signatures.;524-527;4;Short Papers III;;
+2011;Xavier Blanc,Marcos Aurelio Almeida da Silva,Reda Bendraou;Deviation management during process execution.;528-531;4;Short Papers III;;
+2011;Viraj Athavale,Shobha Vasudevan,Sumant Kowshik,Parth Sagdeo;PRECIS: Inferring invariants using program path guided clustering.;532-535;4;Short Papers III;;
+2011;Samaneh Soltani,Marek Hatala,Dragan Gasevic,Ebrahim Bagheri,Mohsen Asadi;Automated planning for feature model configuration based on stakeholders' business concerns.;536-539;4;Short Papers III;;
+2011;Bogdan Dit,Huzefa H. Kagdi,Denys Poshyvanyk,Malcom Gethers;An adaptive approach to impact analysis from change requests to source code.;540-543;4;Short Papers III;;
+2011;William G. J. Halfond;Domain and value checking of web application invocation arguments.;544-547;4;Short Papers III;;
+2011;Vidya Priyadarshini Narayanan,Shadi Abdul Khalek,Sarfraz Khurshid;Mixed constraints for test input generation - An initial exploration.;548-551;4;Short Papers III;;
+2011;Joshua Garcia,Yuanfang Cai,Nenad Medvidovic,Chris Mattmann,Daniel Popescu;Enhancing architectural recovery using concerns.;552-555;4;Short Papers III;;
+2011;Hoong Chuin Lau,Lingxiao Jiang,Lucia,David Lo,Shaowei Wang;Search-based fault localization.;556-559;4;Short Papers III;;
+2011;Nelly Bencomo,Peter Sawyer,Kristopher Welsh;Towards requirements aware systems: Run-time resolution of design-time assumptions.;560-563;4;Short Papers III;;
+2011;Massila Kamalrudin,John Grundy;Generating essential user interface prototypes to validate requirements.;564-567;4;Short Papers III;;
+2011;David B. Knoester,Andres J. Ramirez,Adam C. Jensen,Betty H. C. Cheng;Automatically exploring how uncertainty impacts behavior of dynamically adaptive systems.;568-571;4;Short Papers III;;
+2011;Tien N. Nguyen,Hoan Anh Nguyen,Hung Viet Nguyen,Tung Thanh Nguyen;iDiff: Interaction-based program differencing tool.;572-575;4;Tool Demonstrations;;
+2011;Zhenchang Xing,Yinxing Xue,Stanislaw Jarzabek;CloneDifferentiator: Analyzing clones by differentiation.;576-579;4;Tool Demonstrations;;
+2011;Zoltan Ujhelyi,Istvan Rath,Abel Hegedus,Daniel Varro,Akos Horvath,Gabor Bergmann;Implementing efficient model validation in EMF tools.;580-583;4;Tool Demonstrations;;
+2011;Peter C. Mehlitz,Mateusz Ujma,Oksana Tkachuk;JPF-AWT: Model checking GUI applications.;584-587;4;Tool Demonstrations;;
+2011;Ewen Maclean,Gudmund Grov,Andrew Ireland;The CORE system: Animation and functional correctness of pointer programs.;588-591;4;Tool Demonstrations;;
+2011;Leye Wang,Fuqing Yang,Lu Fang,Ge Li,Lijie Wang,Bing Xie;APIExample: An effective web search based usage example recommendation system for java APIs.;592-595;4;Tool Demonstrations;;
+2011;Chao Wang,Nipun Arora,Malay K. Ganai,Gogul Balakrishnan,Aarti Gupta;BEST: A symbolic testing tool for predicting multi-threaded program failures.;596-599;4;Tool Demonstrations;;
+2011;Mathieu Acher,Philippe Lahire,Robert B. France,Philippe Collet;Decomposing feature models: language, environment, and applications.;600-603;4;Tool Demonstrations;;
+2011;Karolina Zurowska,Jurgen Dingel;SAUML: A tool for symbolic analysis of UML-RT models.;604-607;4;Tool Demonstrations;;
+2011;Darko Marinov,Sarfraz Khurshid,Guowei Yang,Shadi Abdul Khalek,Lingming Zhang;TestEra: A tool for testing Java programs using alloy specifications.;608-611;4;Tool Demonstrations;;
+2011;Franz Schweiggert,Rene Just,Gregory M. Kapfhammer;MAJOR: An efficient and extensible tool for mutation analysis in a Java compiler.;612-615;4;Tool Demonstrations;;
+2011;Markus Lumpe,Samiran Mahmud,Olga Goloshchapova;jCT: A Java Code Tomograph.;616-619;4;Tool Demonstrations;;
+2011;Pit Pietsch,Udo Kelter,Hamed Shariat Yazdi;Generating realistic test models for model processing tools.;620-623;4;Tool Demonstrations;;
+2011;Eric Mercer,Saint Wesonga,Neha Rungta;Guided test visualization: Making sense of errors in concurrent programs.;624-627;4;Tool Demonstrations;;
+2011;Robert J. Hall;The Capture Calculus Toolset.;628-632;5;Tool Demonstrations;;
+2011;Truong Khanh Nguyen,Jun Sun,Yang Liu,Jin Song Dong;A model checking framework for hierarchical systems.;633-636;4;Tool Demonstrations;;
+2011;Sonia Haiduc;Automatically detecting the quality of the query and its implications in IR-based concept location.;637-640;4;Doctoral Symposium;;
+2011;Xiaobing Sun,Bixin Li;Using Formal Concept Analysis to support change analysis.;641-645;5;Doctoral Symposium;;
+2011;Naeem Esfahani;A framework for managing uncertainty in self-adaptive software systems.;646-650;5;Doctoral Symposium;;
+2011;Wenbin Li;Toward consistency checking of natural language temporal requirements.;651-655;5;Doctoral Symposium;;
+2011;Amirhossein Vakili;Analyzing temporal properties of abstract models.;656-659;4;Doctoral Symposium;;
+2011;Aritra Bandyopadhyay;Improving spectrum-based fault localization using proximity-based weighting of test cases.;660-664;5;Doctoral Symposium;;
+2011;Andreas Dautovic;Automatic assessment of software documentation quality.;665-669;5;Doctoral Symposium;;
+2010;Jan Bosch;Keynote address: toward compositional software engineering.;1-2;2;;;
+2010;Jeffrey M. Barnes,Marwan Abi-Antoun;Analyzing security architectures.;3-12;10;Design and architecture;;selected
+2010;John Grundy,John G. Hosking,Christian Hirsch;VikiBuilder: end-user specification and generation of visual wikis.;13-22;10;Design and architecture;;selected
+2010;Mitch Dempsey,Andre van der Hoek,Emily Oh Navarro,Nicolas Mangano,Alex Baker;Software design sketching with calico.;23-32;10;Design and architecture;;selected
+2010;Westley Weimer,Raymond P. L. Buse;Automatically documenting program changes.;33-42;10;Natural language processing and generation;;selected
+2010;K. Vijay-Shanker,Lori L. Pollock,Divya Muppaneni,Emily Hill,Giriprasad Sridhara;Towards automatically generating summary comments for Java methods.;43-52;10;Natural language processing and generation;;selected
+2010;Bashar Nuseibeh,Hui Yang,Alistair Willis,Anne N. De Roeck;Automatic detection of nocuous coordination ambiguities in natural language requirements.;53-62;10;Natural language processing and generation;;selected
+2010;Paul Grunbacher,Rick Rabiser,Michael Vierhauser,Wolfgang Heider,Alexander Egyed;Flexible and scalable consistency checking on product line variability models.;63-72;10;Architecture and product lines;;selected
+2010;Thorsten Berger,Andrzej Wasowski,Krzysztof Czarnecki,Steven She,Rafael Lotufo;Variability modeling in the real: a perspective from the operating systems domain.;73-82;10;Architecture and product lines;;selected
+2010;Deshan Cooray,Sam Malek,Roshanak Roshandel,David Kilgore;RESISTing reliability degradation through proactive reconfiguration.;83-92;10;Architecture and product lines;;selected
+2010;Qianxiang Wang,Ling Wu,Qian Wu,Guangtai Liang,Tao Xie,Hong Mei;Automatic construction of an effective training set for prioritizing static analysis warnings.;93-102;10;Bug finding;;selected
+2010;David Lo,Julia L. Lawall;An automated approach for finding variable-constant pairing bugs.;103-112;10;Bug finding;;selected
+2010;Stephane Vaucher,Marouane Kessentini,Houari A. Sahraoui;Deviance from perfection is a better criterion than closeness to evil when identifying risky code.;113-122;10;Bug finding;;selected
+2010;Heiko Paulheim;Seamlessly integrated, but loosely coupled: building user interfaces from heterogeneous components.;123-126;4;Poster session I;;
+2010;Sooyong Park,Dae-Kyoo Kim,Suntae Kim;Tool support for quality-driven development of software architectures.;127-130;4;Poster session I;;
+2010;Tao Xie,Nikolai Tillmann,Nuo Li,Kunal Taneja,Madhuri R. Marri;MiTV: multiple-implementation testing of user-input validators for web applications.;131-134;4;Poster session I;;
+2010;Zhenchang Xing;Model comparison with GenericDiff.;135-138;4;Poster session I;;
+2010;Chang Hwan Peter Kim,Don S. Batory,Sarfraz Khurshid;Eliminating products to test in a software product line.;139-142;4;Poster session I;;
+2010;Marcus Baum,Richard Bubel,Marcel Rothe,Reiner Hahnle;A visual interactive debugger based on symbolic execution.;143-146;4;Poster session I;;
+2010;Oscar Sanchez Ramon,Jesus Sanchez Cuadrado,Jesus Garcia Molina;Model-driven reverse engineering of legacy graphical user interfaces.;147-150;4;Poster session I;;
+2010;Gabriele Bavota,Andrian Marcus,Andrea De Lucia,Rocco Oliveto;A two-step technique for extract class refactoring.;151-154;4;Poster session I;;
+2010;Mary Jean Harrold,Wanchun Li,Carsten Gorg;Detecting user-visible failures in AJAX web applications by analyzing users' interaction behaviors.;155-158;4;Poster session I;;
+2010;Kevin J. Sullivan,Hamid Bagheri,Yuanyuan Song;Architectural style as an independent variable.;159-162;4;Poster session I;;
+2010;LiGuo Huang,Daniel Port,Tim Menzies,Liang Wang,Tao Xie;Text mining in supporting software systems risk assurance.;163-166;4;Poster session I;;
+2010;Stephan Diehl,Benjamin Biegel;JCCD: a flexible and extensible API for implementing custom code clone detectors.;167-168;2;Formal demos I;;
+2010;Patrick Valduriez,Joao Eugenio Marynowski,Eduardo Cunha de Almeida,Gerson Sunye;PeerUnit: a framework for testing peer-to-peer systems.;169-170;2;Formal demos I;;
+2010;Remi Melisson,Lionel Seinturier,Romain Rouvoy,Philippe Merle,Daniel Romero 0002;Reconfigurable run-time support for distributed service component architectures.;171-172;2;Formal demos I;;
+2010;Jordi Cabot,Hugo Bruneliere,Frederic Jouault,Frederic Madiot;MoDisco: a generic and extensible framework for model driven reverse engineering.;173-174;2;Formal demos I;;
+2010;Michael Striewe,Michael Goedicke,Moritz Balz;Tool support for continuous maintenance of state machine models in program code.;175-176;2;Formal demos I;;
+2010;Jean-Guy Schneider,Steven Versteeg,Cameron M. Hine;Reac2o: a runtime for enterprise system models.;177-178;2;Formal demos I;;
+2010;Corina S. Pasareanu,Neha Rungta;Symbolic PathFinder: symbolic execution of Java bytecode.;179-180;2;Formal demos I;;
+2010;Raffi Khatchadourian,Benjamin Muskalla;Enumeration refactoring: a tool for automatically converting Java constants to enumerated types.;181-182;2;Formal demos I;;
+2010;Cordell Green;Keynote address: the actual implementation will be derived from the formal specification -- KBSA, 1983.;183-184;2;Formal demos I;;
+2010;Nasrullah Memon,Uffe Kock Wiil,Robert Clariso,Asadullah Shaikh;Verification-driven slicing of UML/OCL models.;185-194;10;Model-driven development;;selected
+2010;Senthil Mani,Vibha Sinha,Saurabh Sinha,Pankaj Dhoolia;Automated support for repairing input-model faults.;195-204;10;Model-driven development;;selected
+2010;Franck Fleurey,Tejeddine Mouelhi,Yves Le Traon,Olivier Barais,Brice Morin,Jean-Marc Jezequel;Security-driven model-based dynamic adaptation.;205-214;10;Model-driven development;;selected
+2010;Beverly A. Sanders,Tuba Yavuz-Kahveci,KyungHee Kim;JRF-E: using model checking to give advice on eliminating memory model-related bugs.;215-224;10;Model checking;;selected
+2010;Huaiqing Wu,Ru He,Paul Jennings,Samik Basu,Arka P. Ghosh;A bounded statistical approach for model checking of unbounded until properties.;225-234;10;Model checking;;selected
+2010;Chris Bunch,Tevfik Bultan,Taylor Ettema,Sylvain Halle;Eliminating navigation errors in web applications via model checking and runtime enforcement of navigation state machines.;235-244;10;Model checking;;selected
+2010;Adam Czauderna,Jane Cleland-Huang,Marek Gibiec;Towards mining replacement queries for hard-to-retrieve traces.;245-254;10;Requirements;;selected
+2010;Massila Kamalrudin,John Grundy,John G. Hosking;Tool support for essential use cases to better capture software requirements.;255-264;10;Requirements;;selected
+2010;Nanjangud C. Narendra,Bikram Sengupta,S. R. Renuka,Arthur G. Ryman,Karthik Visweswariah;Timesheet assistant: mining and reporting developer effort.;265-274;10;Mining software repositories;;selected
+2010;Ahmed E. Hassan,Bram Adams,Weiyi Shang;An experience report on scaling tools for mining software repositories using MapReduce.;275-284;10;Mining software repositories;;selected
+2010;Gang Huang 0001,Xuanzhe Liu,Qi Zhao,Hong Mei,Zhi Jin;iMashup: assisting end-user programming for the service-oriented web.;285-288;4;Poster session II;;
+2010;Yi Zhang,Tao Xie,Kunal Taneja;MODA: automated test generation for database applications via mock objects.;289-292;4;Poster session II;;
+2010;Qirun Zhang,Tao Xie,Wujie Zheng,Michael R. Lyu;Random unit-test generation with MUT-aware sequence recommendation.;293-296;4;Poster session II;;
+2010;John Grundy,Norhayati Mohd. Ali,John G. Hosking,Jun Huh;End-user oriented critic specification for domain-specific visual language tools.;297-300;4;Poster session II;;
+2010;Mizuhito Ogawa,Do Thi Bich Ngoc;Checking roundoff errors using counterexample-guided narrowing.;301-304;4;Poster session II;;
+2010;Patrizio Pelliccione,Richard F. Hilliard II,Henry Muccini,Ivano Malavolta;Realizing architecture frameworks through megamodelling techniques.;305-308;4;Poster session II;;
+2010;Mircea Lungu,Romain Robbes,Michele Lanza;Recovering inter-project dependencies in software ecosystems.;309-312;4;Poster session II;;
+2010;Eric Schulte,Westley Weimer,Stephanie Forrest;Automated program repair through the evolution of assembly code.;313-316;4;Poster session II;;
+2010;Luis da Cunha Lamb,Artur S. d'Avila Garcez,Rafael V. Borges;Integrating model verification and self-adaptation.;317-320;4;Poster session II;;
+2010;Gregory R. Gay,Tim Menzies,Ekrem Kocaguneli,Ye Yang,Jacky W. Keung;When to use data from other projects for effort estimation.;321-324;4;Poster session II;;
+2010;David Woollard,Nenad Medvidovic,Chris Mattmann,Daniel Popescu;Kadre: domain-specific architectural recovery for scientific software systems.;325-328;4;Poster session II;;
+2010;Shadi Abdul Khalek,Sarfraz Khurshid;Automated SQL query generation for systematic testing of database engines.;329-332;4;Poster session II;;
+2010;Arnaud Bourdoux,Andreas Classen,Patrick Heymans,Quentin Boucher,Laurent Demonceau;Tag and prune: a pragmatic approach to software product line implementation.;333-336;4;Poster session II;;
+2010;Chatchai Sinthop,Barry W. Boehm,Pongtip Aroonvatanaporn;"Reducing estimation uncertainty with continuous assessment: tracking the ""cone of uncertainty"".";337-340;4;Poster session II;;
+2010;Hye Jung Choi,Sukanya Ratanotayanon,Susan Elliott Sim;Using transitive changesets to support feature location.;341-344;4;Poster session II;;
+2010;Jocelyn Simmonds,Marsha Chechik;RuMoR: monitoring and recovery for BPEL applications.;345-346;2;Formal demos II;;
+2010;Alexander Reder,Alexander Egyed;Model/analyzer: a tool for detecting, visualizing and fixing design errors in UML.;347-348;2;Formal demos II;;
+2010;A. C. Rajeev,K. C. Shashidhar,Prahladavaradan Sampath,Sethu Ramesh;CoGenTe: a tool for code generator testing.;349-350;2;Formal demos II;;
+2010;Jaco Geldenhuys,Willem Visser;Impendulo: debugging the programmer.;351-352;2;Formal demos II;;
+2010;Zhenchang Xing,Yang Liu 0003,Jun Sun,Jin Song Dong;SpecDiff: debugging formal specifications.;353-354;2;Formal demos II;;
+2010;Andreas Seibel,Gregor Gabrysiak,Holger Giese;Deriving behavior of multi-user processes from interactive requirements validation.;355-356;2;Formal demos II;;
+2010;Yijun Yu,Charles B. Haley,Pierre-Yves Schobbens,Jan Jurjens,Lionel Montrieux,Hubert Toussaint;Tool support for code generation from a UMLsec property.;357-358;2;Formal demos II;;
+2010;Daniel Barkan,Shahar Maoz,Smadar Szekely,David Harel;PlayGo: towards a comprehensive tool for scenario based programming.;359-360;2;Formal demos II;;
+2010;Aneta Vulgarakis,Marin Orlic,Dinko Ivanov,Cristina Cerschi Seceleanu;REMES tool-chain: a set of integrated tools for behavioral modeling and analysis of embedded systems.;361-362;2;Formal demos II;;
+2010;Alexander Nohrer,Alexander Egyed;C2O: a tool for guided decision-making.;363-364;2;Formal demos II;;
+2010;Axel van Lamsweerde;Keynote address: model engineering for model-driven engineering.;365-366;2;Formal demos II;;
+2010;Ali Taleghani,Joanne M. Atlee;Search-carrying code.;367-376;10;Specification and verification;;selected
+2010;Westley Weimer,Pieter Hooimeijer;Solving string constraints lazily.;377-386;10;Specification and verification;;selected
+2010;Shahar Maoz,David Lo;Scenario-based and value-based specification mining: better together.;387-396;10;Specification and verification;;selected
+2010;Abhik Roychoudhury,Zhenkai Liang,Dawei Qi;Test generation to expose changes in evolving programs.;397-406;10;Testing and debugging;;selected
+2010;Michael Tautschnig,Andreas Holzer,Christian Schallhart,Helmut Veith;How did you specify your test suite.;407-416;10;Testing and debugging;;selected
+2010;Aristide Fattori,Roberto Paleari,Lorenzo Martignoni,Mattia Monga;Dynamic and transparent analysis of commodity production systems.;417-426;10;Testing and debugging;;selected
+2010;Arlindo L. Oliveira,Paulo Trezentos,Ines Lynce;Apt-pbo: solving the software dependency problem using pseudo-boolean optimization.;427-436;10;Reuse and component-based development;;selected
+2010;Yuki Manabe,Daniel M. German,Katsuro Inoue;A sentence-matching method for automatic license identification of source code files.;437-446;10;Reuse and component-based development;;selected
+2010;Tung Thanh Nguyen,Tien N. Nguyen,Hoan Anh Nguyen,Nam H. Pham;Detection of recurring software vulnerabilities.;447-456;10;Reuse and component-based development;;selected
+2010;Jiefeng Cheng,Xu Yu,David Lo,Xiaoying Wang,Lu Zhang,Hong Mei;Matching dependence-related queries in the system dependence graph.;457-466;10;Software evolution;;selected
+2010;Joshua Garcia,George Edwards,Hossein Tajalli,Nenad Medvidovic;PLASMA: a plan-based layered architecture for software model-driven adaptation.;467-476;10;Software evolution;;selected
+2010;Adam Duley,Chris Spandikow,Miryung Kim;A program differencing algorithm for verilog HDL.;477-486;10;Software evolution;;selected
+2010;Casandra Holotescu;Error-avoiding adaptors for black-box software components.;487-492;6;Doctoral symposium;;
+2010;Michael Becker,Volker Gruhn;Automated model grouping.;493-498;6;Doctoral symposium;;
+2010;Mihai Balint;Automatic inference of abstract type behavior.;499-504;6;Doctoral symposium;;
+2010;Xiaofan Chen;Extraction and visualization of traceability relationships between documents and source code.;505-510;6;Doctoral symposium;;
+2010;Dominic Letarte;Model checking graph representation of precise boolean inter-procedural flow analysis.;511-516;6;Doctoral symposium;;
+2010;Matthew Staats;The influence of multiple artifacts on the effectiveness of software testing.;517-522;6;Doctoral symposium;;
+2009;Werner Retschitzegger,Johannes Schonbock,Gerti Kappel,Wieland Schwinger,Angelika Kusel,Manuel Wimmer;A Petri Net Based Debugging Environment for QVT Relations.;3-14;12;Keynote Speakers;;
+2009;Iris Morschhaeuser,Rance Cleaveland,Christopher Ackermann,Arnab Ray,Charles P. Shelton,Chris Martin;Validating Automotive Control Software Using Instrumentation-Based Verification.;15-25;11;Keynote Speakers;;
+2009;Holger Funke,Michael Jahnich,Stefan Sauer,Baris Guldali,Gregor Engels;Semi-automated Test Planning for e-ID Systems by Using Requirements Clustering.;29-39;11;Requirements;;selected
+2009;Robert J. Hall;A Quantum Algorithm for Software Engineering Search.;40-51;12;Requirements;;selected
+2009;Oussama El-Rawas,Tim Menzies,Steve Williams,Phillip Green II;Understanding the Value of Software Engineering Technologies.;52-61;10;Requirements;;selected
+2009;Gustav Munkby,Sibylle Schupp;Type Inference for Soft-Error Fault-Tolerance Prediction.;65-75;11;Defect Detection - 1;;selected
+2009;Wantao Wang,Tamilselvi Dhandapani,Shaimaa Ali,Jamie Andrews;Evaluating the Accuracy of Fault Localization Techniques.;76-87;12;Defect Detection - 1;;selected
+2009;Arjan J. C. van Gemund,Rui Abreu,Peter Zoeteweij;Spectrum-Based Multiple Fault Localization.;88-99;12;Defect Detection - 1;;selected
+2009;Krzysztof Stencel,Patrycja Wegrzynowicz;Towards a Comprehensive Test Suite for Detectors of Design Patterns.;103-110;8;Maintenance and Evolution - 1;;selected
+2009;David Kawrykow,Martin P. Robillard;Improving API Usage through Automatic Detection of Redundant Code.;111-122;12;Maintenance and Evolution - 1;;selected
+2009;Tien N. Nguyen,Tung Thanh Nguyen,Jafar M. Al-Kofahi,Hoan Anh Nguyen,Nam H. Pham;Clone-Aware Configuration Management.;123-134;12;Maintenance and Evolution - 1;;selected
+2009;Joao P. Marques Silva,Bernd M. Fischer,Lucas Cordeiro;SMT-Based Bounded Model Checking for Embedded ANSI-C Software.;137-148;12;Verification - 1;;selected
+2009;Andreas Saebjoernsen,Lingxiao Jiang,Zhendong Su,Daniel J. Quinlan;Static Validation of C Preprocessor Macros.;149-160;12;Verification - 1;;selected
+2009;Jacob Burnim,Koushik Sen,Christos Stergiou,Nicholas Jalbert;Looper: Lightweight Detection of Infinite Loops at Runtime.;161-169;9;Verification - 1;;selected
+2009;Yuanfang Cai,Sunny Wong;Improving the Efficiency of Dependency Analysis in Logical Decision Models.;173-184;12;Software Architecture and Design;;selected
+2009;Andre van der Hoek,Eugen C. Nistor;Explicit Concern-Driven Development with ArchEvol.;185-196;12;Software Architecture and Design;;selected
+2009;Georgi Simeonov,Kanwarpreet Sethi,Giuseppe Valetto,Yuanfang Cai,Sunny Wong;Design Rule Hierarchies and Parallelism in Software Development Tasks.;197-208;12;Software Architecture and Design;;selected
+2009;Phongphun Kijsanayothin,Rattikorn Hewett;Automated Test Order Generation for Software Component Integration Testing.;211-220;10;Testing;;selected
+2009;Xucheng Tang,Yuting Chen,Yu Lin,Jianjun Zhao;A Divergence-Oriented Approach to Adaptive Random Testing of Java Programs.;221-232;12;Testing;;selected
+2009;Bo Jiang,Wing Kwong Chan,T. H. Tse,Zhenyu Zhang;Adaptive Random Test Case Prioritization.;233-244;12;Testing;;selected
+2009;Paul Grunbacher,Rick Rabiser,Deepak Dhungana,Martin Lehofer;Model-Based Customization and Deployment of Eclipse-Based Tools: Industrial Experiences.;247-256;10;Variability;;selected
+2009;John Mylopoulos,Yiqiao Wang;Self-Repair through Reconfiguration: A Requirements Engineering Approach.;257-268;12;Variability;;selected
+2009;Kim Lauenroth,Klaus Pohl,Simon Toehning;Model Checking of Domain Artifacts in Product Line Engineering.;269-280;12;Variability;;selected
+2009;Suresh Thummalapenta,Tao Xie;Alattin: Mining Alternative Patterns for Detecting Neglected Conditions.;283-294;12;Defect Detection- 2;;selected
+2009;Andreas Zeller,Andrzej Wasylkowski;Mining Temporal Specifications from Object Usage.;295-306;12;Defect Detection- 2;;selected
+2009;Tao Xie,Hao Zhong,Hong Mei,Lu Zhang;Inferring Resource Specifications from Natural Language API Documentation.;307-318;12;Defect Detection- 2;;selected
+2009;Malte Hulder,Matthias Book,Tobias Bruckmann,Volker Gruhn;Specification and Control of Interface Responses to User Input in Rich Internet Applications.;321-331;11;Human Computer Interaction and Computer Supported Cooperative Work;;selected
+2009;Robert C. Miller,Sangmok Han,David R. Wallace;Code Completion from Abbreviated Input.;332-343;12;Human Computer Interaction and Computer Supported Cooperative Work;;selected
+2009;Walid Maalej;Task-First or Context-First? Tool Integration Revisited.;344-355;12;Human Computer Interaction and Computer Supported Cooperative Work;;selected
+2009;Shahar Maoz,David Lo;Mining Hierarchical Scenario-Based Specifications.;359-370;12;Traceability and Monitoring;;selected
+2009;Michael Pradel,Thomas R. Gross;Automatic Generation of Object Usage Specifications from Large Method Traces.;371-382;12;Traceability and Monitoring;;selected
+2009;Dongyun Jin,Patrick O'Neil Meredith,Grigore Rosu,Feng Chen;Efficient Formalism-Independent Monitoring of Parametric Properties.;383-394;12;Traceability and Monitoring;;selected
+2009;Reid Holmes,Robert J. Walker,Tristan Ratchford,Martin P. Robillard;Automatically Recommending Triage Decisions for Pragmatic Reuse Tasks.;397-408;12;Maintenance and Evolution - 2;;selected
+2009;Mithun Acharya,Vamshidhar Kommineni;Mining Health Models for Performance Monitoring of Services.;409-420;12;Maintenance and Evolution - 2;;selected
+2009;Mohsen Vakilian,Jeffrey Overbey,Vikram S. Adve,Danny Dig,Robert L. Bocchino Jr.,Ralph E. Johnson;Inferring Method Effect Summaries for Nested Heap Regions.;421-432;12;Maintenance and Evolution - 2;;selected
+2009;Vilas Jagannath,Danny Dig,Darko Marinov,Brett Daniel;ReAssert: Suggesting Repairs for Broken Unit Tests.;433-444;12;Maintenance and Evolution - 2;;selected
+2009;Yoshinori Tanabe,Cyrille Valentin Artho,Watcharin Leungwattanakit,Masami Hagiya,Mitsuharu Yamamoto;Cache-Based Model Checking of Networked Applications: From Linear to Branching Time.;447-458;12;Verification - 2;;selected
+2009;Ali Taleghani,Joanne M. Atlee;State-Space Coverage Estimation.;459-467;9;Verification - 2;;selected
+2009;Mirco Dotta,Darko Marinov,Gul Agha,Steven Lauterburg;A Framework for State-Space Exploration of Java-Based Actor Programs.;468-479;12;Verification - 2;;selected
+2009;Jyotirmoy V. Deshmukh,E. Allen Emerson,Sriram Sankaranarayanan;Symbolic Deadlock Analysis in Concurrent Libraries and Their Clients.;480-491;12;Verification - 2;;selected
+2009;Beverly A. Sanders,Tuba Yavuz-Kahveci,KyungHee Kim;Precise Data Race Detection in a Relaxed Memory Model Using Heuristic-Based Model Checking.;495-499;5;Short Papers;;
+2009;Bixin Li,Antony Tang,Lars Grunske,Pengcheng Zhang;A Formal Syntax for Probabilistic Timed Property Sequence Charts.;500-504;5;Short Papers;;
+2009;Irene Moser,Lars Grunske,Aldeida Aleti,Indika Meedeniya;Let the Ants Deploy Your Software - An ACO Based Deployment Optimisation Strategy.;505-509;5;Short Papers;;
+2009;Sergiy Boroday,Alexandre Petrenko,Yves Ledru;Using String Distances for Test Case Prioritisation.;510-514;5;Short Papers;;
+2009;Tao Xie,Nikolai Tillmann,Nuo Li,Jonathan de Halleux,Wolfram Schulte;Reggae: Automated Test Generation for Programs Using Complex Regular Expressions.;515-519;5;Short Papers;;
+2009;Heinrich Hussmann,Florence T. Balagtas-Fernandez;A Methodology and Framework to Simplify Usability Analysis of Mobile Applications.;520-524;5;Short Papers;;
+2009;Yuhoon Ki,Meongchul Song;An Open Source-Based Approach to Software Development Infrastructures.;525-529;5;Short Papers;;
+2009;Nathan Weston,Alberto Sardinha,Phil Greenwood,Awais Rashid,Ruzanna Chitchyan;EA-Analyzer: Automating Conflict Detection in Aspect-Oriented Requirements.;530-534;5;Short Papers;;
+2009;Ana R. Cavalli,Felipe Lalanne,Stephane Maag,Arnaud Gonguet,Edgardo Montes de Oca,Wissam Mallouli;An Automated Passive Testing Approach for the IMS PoC Service.;535-539;5;Short Papers;;
+2009;Sunghun Kim,Sanghoon Lee,Seung-won Hwang,Jinhan Kim;Adding Examples into Java Documents.;540-544;5;Short Papers;;
+2009;Dimitrios S. Kolovos,Richard F. Paige,Fiona Polack,Louis M. Rose;Enhanced Automation for Managing Model and Metamodel Inconsistency.;545-549;5;Short Papers;;
+2009;Bertrand Meyer,Valentin Dallmeier,Andreas Zeller;Generating Fixes from Object Behavior Anomalies.;550-554;5;Short Papers;;
+2009;Dionysis Athanasopoulos,Valerie Issarny,Apostolos Zarras;Service Substitution Revisited.;555-559;5;Short Papers;;
+2009;Bernd M. Fischer,Ewen Denney;A Verification-Driven Approach to Traceability and Documentation for Auto-Generated Mathematical Software.;560-564;5;Short Papers;;
+2009;Sheila A. McIlraith,Sotirios Liaskos,John Mylopoulos;Towards Augmenting Requirements Models with Preferences.;565-569;5;Short Papers;;
+2009;Sandro Boccuzzo,Harald Gall;Automated Comprehension Tasks in Software Exploration.;570-574;5;Short Papers;;
+2009;Raffi Khatchadourian,Phil Greenwood,Guoqing (Harry) Xu,Awais Rashid;Pointcut Rejuvenation: Recovering Pointcut Expressions in Evolving Aspect-Oriented Software.;575-579;5;Short Papers;;
+2009;Daniel Port,Bryan Lemon,Hiuhua Lu,Tim Menzies,Rikard Carlsson,Justin Price,Fayola Peters,Tomi Prifiti,Aaron Riesbeck,Joseph D'Alessandro;Applications of Simulation and AI Search: Assessing the Relative Merits of Agile vs Traditional Software Development.;580-584;5;Short Papers;;
+2009;Oscar Gonzalez,Dirk Deridder,Rubby Casallas;Automating the Implementation of Analysis Concerns in Workflow Applications.;585-589;5;Short Papers;;
+2009;Avik Chaudhuri,Jeffrey S. Foster,Jong-hoon (David) An;Static Typing for Ruby on Rails.;590-594;5;Short Papers;;
+2009;Lindsay Groves,Keith Cassell,Peter Andreae,James S. Noble;Towards Automating Class-Splitting Using Betweenness Clustering.;595-599;5;Short Papers;;
+2009;Sunghun Kim,Ram Akella,Jim Whitehead,Shivkumar Shivaji;Reducing Features to Improve Bug Prediction.;600-604;5;Short Papers;;
+2009;Tevfik Bultan,Muath Alkhalaf,Fang Yu;Generating Vulnerability Signatures for String Manipulating Programs Using Automata-Based Forward and Backward Symbolic Analyses.;605-609;5;Short Papers;;
+2009;Wing Kwong Chan,Huai Wang;Weaving Context Sensitivity into Test Suite Construction.;610-614;5;Short Papers;;
+2009;Darko Marinov,Junaid Haroon Siddiqui,Sarfraz Khurshid;Optimizing a Structural Constraint Solver for Efficient Software Checking.;615-619;5;Short Papers;;
+2009;Bassem Elkarablieh,Muhammad Zubair Malik,Khalid Ghori,Sarfraz Khurshid;A Case for Automated Debugging Using Data Structure Repair.;620-624;5;Short Papers;;
+2009;Karsten Ehrig,Claudia Ermel,Enrico Biermann,Jonas Hurrelmann;Generation of Simulation Views for Domain Specific Modeling Languages Based on the Eclipse Modeling Framework.;625-629;5;Short Papers;;
+2009;Franz Wotawa,Martin Weiglhofer,Gordon Fraser;Using Spectrum-Based Fault Localization for Test Case Grouping.;630-634;5;Short Papers;;
+2009;Jiri Barnat,Lubos Brim,Pavel Simecek;Cluster-Based I/O-Efficient LTL Model Checking.;635-639;5;Short Papers;;
+2009;Brian C. Dean,Adam A. Whitley,Brian A. Malloy,William B. Pressly;A Linear Programming Approach for Automated Localization of Multiple Faults.;640-644;5;Short Papers;;
+2009;Ethan K. Jackson,Daniel Balasubramanian;Lost in Translation: Forgetful Semantic Anchoring.;645-649;5;Short Papers;;
+2009;Bertrand Meyer,Manuel Oriol,Marco Piccioni,Teseo Schneider;An IDE-based, Integrated Solution to Schema Evolution of Object-Oriented Software.;650-654;5;Short Papers;;
+2009;John G. Hosking,Christian Hirsch,Moon Ting Su;KaitoroBase: Visual Exploration of Software Architecture Documents.;657-659;3;Tool Demonstration Papers;;
+2009;Josip Maras,Ivica Crnkovic,Maja Stula;phpModeler - A Web Model Extractor.;660-661;2;Tool Demonstration Papers;;
+2009;Arjan J. C. van Gemund,Rui Abreu,Tom Janssen;Zoltar: A Toolset for Automatic Fault Localization.;662-664;3;Tool Demonstration Papers;;
+2009;Alessandro Mariotti,Andrea Micheli,Marco Roveri,Marco Pensallorto,Alessandro Cimatti,Roberto Cavada,Angelo Susi,Stefano Tonetta,Sergio Mover,Cristian Mattarei;Supporting Requirements Validation: The EuRailCheck Tool.;665-667;3;Tool Demonstration Papers;;
+2009;Christoph M. Wintersteiger,Daniel Kroning,Aliaksei Tsitovich,Stefano Tonetta,Natasha Sharygina;Loopfrog: A Static Analyzer for ANSI-C Programs.;668-670;3;Tool Demonstration Papers;;
+2009;Ferhat Khendek,Ali Kanso,Maria Toeroe,Abdelouahed Gherbi,Abdelwahab Hamou-Lhadj;A Tool Suite for the Generation and Validation of Configurations for Software Availability.;671-673;3;Tool Demonstration Papers;;
+2009;Haruhiko Kaiya,Shinpei Hayashi,Motoshi Saeki;A Tool for Attributed Goal-Oriented Requirements Analysis.;674-676;3;Tool Demonstration Papers;;
+2009;Lu Zhang,Ji Zhou,Hong Mei,Dan Hao,Lingming Zhang;Jtop: Managing JUnit Test Cases in Absence of Coverage Information.;677-679;3;Tool Demonstration Papers;;
+2009;Deva Kumar Deeptimahanti,Muhammad Ali Babar;An Automated Tool for Generating UML Models from Natural Language Requirements.;680-682;3;Tool Demonstration Papers;;
+2009;Keiji Hokamura,Masaru Shiozuka,Ryoto Naruse,Shin Nakajima,Akihito Iwai,Naoyasu Ubayashi;AOWP: Web-Specific AOP Framework for PHP.;683-685;3;Tool Demonstration Papers;;
+2009;Jevon M. Wright;A Modelling Language for Interactive Web Applications.;689-692;4;Doctoral Symposium Papers;;
+2009;Massila Kamalrudin;Automated Software Tool Support for Checking the Inconsistency of Requirements.;693-697;5;Doctoral Symposium Papers;;
+2009;Andrew John Dennis Meads;A Holistic Approach to Mobile Service Provisioning.;698-702;5;Doctoral Symposium Papers;;
+2009;Jose Romero-Mariona;Secure and Usable Requirements Engineering.;703-706;4;Doctoral Symposium Papers;;
+2009;M. Shaban Jokhio;Goal-Based Testing of Semantic Web Services.;707-711;5;Doctoral Symposium Papers;;
+2009;Dipankar Majumdar;Migration from Procedural Programming to Aspect Oriented Paradigm.;712-715;4;Doctoral Symposium Papers;;
+2009;Graham Jenson;Improving Component Dependency Resolution with Soft Constraints, Validation and Verification.;716-720;5;Doctoral Symposium Papers;;
+2008;Alex Groce,Rajeev Joshi,Gerard J. Holzmann;Swarm Verification.;1-6;6;;;selected
+2008;Clifford B. Jones;Reflections on, and Predictions for, Support Systems for the Development of Programs.;7-8;2;;;
+2008;Matthew B. Dwyer,Sebastian G. Elbaum,Matthew Jorde;Increasing Test Granularity by Aggregating Unit Tests.;9-18;10;;;selected
+2008;Alex Groce,Ru-Gang Xu,Melissa Weston,Jamie Andrews;Random Test Run Length and Effectiveness.;19-28;10;;;selected
+2008;Thomas A. Henzinger,Gregory Theoduloz,Dirk Beyer;Program Analysis with Dynamic Precision Adjustment.;29-38;10;;;selected
+2008;Genoveffa Tortora,Andrea De Lucia,Rocco Oliveto;"IR-Based Traceability Recovery Processes: An Empirical Comparison of ""One-Shot"" and Incremental Processes.";39-48;10;;;selected
+2008;Patrick Maeder,Orlena Gotel,Ilka Philippow;Enabling Automated Traceability Maintenance by Recognizing Development Activities Applied to Models.;49-58;10;;;selected
+2008;Hojun Jaygarl,Carl K. Chang,Tien N. Nguyen,Hsinyi Jiang,Ing-Xiang Chen;Incremental Latent Semantic Indexing for Automatic Traceability Link Evolution Management.;59-68;10;;;selected
+2008;Berndt Farwer,Rafael H. Bordini,Louise A. Dennis,Michael Fisher;Automated Verification of Multi-Agent Programs.;69-78;10;;;selected
+2008;Robert J. Hall;Validating Real Time Specifications using Real Time Event Queue Modeling.;79-88;10;;;selected
+2008;Zvonimir Rakamaric,Alan J. Hu;Automatic Inference of Frame Axioms Using Static Analysis.;89-98;10;;;selected
+2008;Anthony Finkelstein,Emmanuel Letier,Alexander Egyed;Generating and Evaluating Choices for Fixing Inconsistencies in UML Design Models.;99-108;10;;;selected
+2008;Shahar Maoz,David Lo;Mining Scenario-Based Triggers and Effects.;109-118;10;;;selected
+2008;Matteo Pradella,Pierluigi San Pietro,Angelo Morzenti;Refining Real-Time System Specifications through Bounded Model- and Satisfiability-Checking.;119-127;9;;;selected
+2008;Wolfgang Mayer,Markus Stumptner;Evaluating Models for Model-Based Debugging.;128-137;10;;;selected
+2008;Jonathan Aldrich,Ciera Jaspan,Trisha Quan;Error Reporting Logic.;138-147;10;;;selected
+2008;Dongyun Jin,Patrick O'Neil Meredith,Grigore Rosu,Feng Chen;Efficient Monitoring of Parametric Context-Free Patterns.;148-157;10;;;selected
+2008;Andrea Zisman,George Spanoudakis,James Dooley;A Framework for Dynamic Service Discovery.;158-167;10;;;selected
+2008;George Edwards,Nenad Medvidovic;A Methodology and Framework for Creating Domain-Specific Development Infrastructures.;168-177;10;;;selected
+2008;Rajesh Hegde,Prasun Dewan;Connecting Programming Environments to Support Ad-Hoc Collaboration.;178-187;10;;;selected
+2008;Alexander Kaiser,Thomas Gorges,Carsten Sinz,Hendrik Post;Reducing False Positives by Combining Abstract Interpretation and Bounded Model Checking.;188-197;10;;;selected
+2008;Hotae Kim,Yunho Kim,Moonzoo Kim;Unit Testing of Flash Memory Device Driver through a SAT-Based Model Checker.;198-207;10;;;selected
+2008;Carlos Carrillo,Francisco Nava,Rafael Capilla;Effort Estimation in Capturing Architectural Knowledge.;208-217;10;;;selected
+2008;Mary Jean Harrold,Alessandro Orso,Raul A. Santelices,Pavan Kumar Chittimalli,Taweesup Apiwattanapong;Test-Suite Augmentation for Evolving Software.;218-227;10;;;selected
+2008;Madeline Diep,Sebastian G. Elbaum,Matthew B. Dwyer;Reducing the Cost of Path Property Monitoring Through Sampling.;228-237;10;;;selected
+2008;Bassem Elkarablieh,Sarfraz Khurshid,Shadi Abdul Khalek,Yai O. Laleye;Query-Aware Test Generation Using a Relational Constraint Solver.;238-247;10;;;selected
+2008;Neil Walkinshaw,Kirill Bogdanov;Inferring Finite-State Models with Temporal Constraints.;248-257;10;;;selected
+2008;Sven Apel,Christian Kastner;Type-Checking Software Product Lines - A Formal Approach.;258-267;10;;;selected
+2008;Daniel Port,Tim Menzies,Alexy Olkov;Using Simulation to Investigate Requirements Prioritization Strategies.;268-277;10;;;selected
+2008;Xiangqun Chen,Danfeng Zhang,Yao Guo;Automated Aspect Recommendation through Clustering-Based Fan-in Analysis.;278-287;10;;;selected
+2008;Koushik Sen,Pallavi Joshi;Predictive Typestate Checking of Multithreaded Java Programs.;288-296;9;;;selected
+2008;Tao Xie,Kobi Inkumsah;Improving Structural Testing of Object-Oriented Programs via Integrating Evolutionary Testing and Symbolic Execution.;297-306;10;;;selected
+2008;Shmuel Ur,Elad Yom-Tov,Rachel Tzoref-Brill,Shlomo Hoory;Automatic Debugging of Concurrent Programs through Active Sampling of Low Dimensional Random Projections.;307-316;10;;;selected
+2008;Romain Robbes,Michele Lanza;How Program History Can Improve Code Completion.;317-326;10;;;selected
+2008;Suresh Thummalapenta,Tao Xie;SpotWeb: Detecting Framework Hotspots and Coldspots via Mining Open Source Code on the Web.;327-336;10;;;selected
+2008;Jesper Andersen,Julia L. Lawall;Generic Patch Inference.;337-346;10;;;selected
+2008;Carsten Sinz,Hendrik Post;Configuration Lifting: Verification meets Software Configuration.;347-350;4;;;
+2008;Paul Grunbacher,Rick Rabiser,Deepak Dhungana;Product Line Tools are Product Lines Too: Lessons Learned from Developing a Tool Suite.;351-354;4;;;
+2008;Michael Goedicke,Carsten Kollmann;A Specification Language for Static Analysis of Student Exercises.;355-358;4;;;
+2008;Maxim Shevertalov,Spiros Mancoridis;A Case Study on the Automatic Composition of Network Application Mashups.;359-362;4;;;
+2008;Marat Boshernitsan,Brett Daniel;Predicting Effectiveness of Automatic Testing Tools.;363-366;4;;;
+2008;Chengzheng Sun,Haifeng Shen,Steven Xia,Siyuan Liu;Distributed Constraints Maintenance in Collaborative UML Modeling Environments.;367-370;4;;;
+2008;Andreas S. Andreou,Efi Papatheocharous;Software Cost Estimation using Fuzzy Decision Trees.;371-374;4;;;
+2008;Jim Whitehead,Guozheng Ge;Rhizome: A Feature Modeling and Generation Platform.;375-378;4;;;
+2008;Frank M. Shipman III,J. Michael Moore;Combining the Analysis of Spatial Layout and Text to Support Design Exploration.;379-382;4;;;
+2008;Bas Graaf,Joost Zonneveld,Arie van Deursen,Rahmat Adnan;Using Cluster Analysis to Improve the Design of Component Interfaces.;383-386;4;;;
+2008;Kelvin Ku,Thomas E. Hart,David Lie,Arie Gurfinkel,Marsha Chechik;Augmenting Counterexample-Guided Abstraction Refinement with Proof Templates.;387-390;4;;;
+2008;Aysu Betin-Can,Mustafa Ispir;An Assume Guarantee Verification Methodology for Aspect-Oriented Programming.;391-394;4;;;
+2008;Nieraj Singh,Yvonne Coady,Jennifer Baldwin,Celina Gibbs,Maja D'Hondt;Living with the Law: Can Automation give us Moore with Less?;395-398;4;;;
+2008;Antonino Sabetta,Guglielmo De Angelis,Antonia Bertolino;VCR: Virtual Capture and Replay for Performance Testing.;399-402;4;;;
+2008;Paulo Marques,Bruno Cabral;A Case for Automatic Exception Handling.;403-406;4;;;
+2008;Tao Xie,Kunal Taneja;DiffGen: Automated Regression Unit-Test Generation.;407-410;4;;;
+2008;Jaehwan Kim,Jinseok Chae,David A. Turner,Moonju Park;An Automated Test Code Generation Method for Web Applications using Activity Oriented Approach.;411-414;4;;;
+2008;Jeffrey Fischer,Rupak Majumdar,Francesco Sorrentino 0002;The Consistency of Web Conversations.;415-418;4;;;
+2008;Patrick Valduriez,Gerson Sunye,Yves Le Traon,Eduardo Cunha de Almeida;Testing Peers' Volatility.;419-422;4;;;
+2008;Younghoo Lee,Sungjin Park,Seojin Kim,Jeonghyun Yun;Automated Continuous Integration of Component-Based Software: An Industrial Experience.;423-426;4;;;
+2008;Dulce Domingos,Joao Varajao,Ricardo Martinho;A Two-Step Approach for Modelling Flexibility in Software Processes.;427-430;4;;;
+2008;Jean-Remy Falleri,Marianne Huchard,Clementine Nebut;A Generic Approach for Class Model Normalization.;431-434;4;;;
+2008;Wiwat Ruengmee,Sushil Krishna Bajracharya,Cristina Videira Lopes,David F. Redmiles,Roberto Silveira Silva Filho;XE (eXtreme Editor) - Bridging the Aspect-Oriented Programming Usability Gap.;435-438;4;;;
+2008;Alessandro Orso,Hwa-You Hsu,James A. Jones;Rapid: Identifying Bug Signatures to Support Debugging Activities.;439-442;4;;;
+2008;Jacob Burnim,Koushik Sen;Heuristics for Scalable Dynamic Test Generation.;443-446;4;;;
+2008;John Mylopoulos,Rick Salay,Steve M. Easterbrook;Managing Models through Macromodeling.;447-450;4;;;
+2008;Tien N. Nguyen,Tung Thanh Nguyen,Jafar M. Al-Kofahi,Hoan Anh Nguyen,Nam H. Pham;Cleman: Comprehensive Clone Group Evolution Management.;451-454;4;;;
+2008;Olivier Barais,Isabelle Borne,Franck Chauvel,Jean-Marc Jezequel;Composition of Qualitative Adaptation Policies.;455-458;4;;;
+2008;Yoshikazu Yamamoto,Hiroaki Fukuda;A System for Supporting Development of Large Scaled Rich Internet Applications.;459-462;4;;;
+2008;Beat Fluri,Emanuel Giger,Harald Gall;Discovering Patterns of Change Types.;463-466;4;;;
+2008;Abizer Khambati,James Warren,John G. Hosking,John Grundy;Model-Driven Development of Mobile Personal Health Care Applications.;467-470;4;;;
+2008;Andy Kellens,Johan Brichau,Kim Mens;Enforcing Structural Regularities in Source Code using IntensiVE.;471-472;2;;;
+2008;Giuseppe Lami,Stefania Gnesi,Alessandro Fantechi,Antonio Bucchiarone,Gianluca Trentanni;QuARS Express - A Tool Demonstration.;473-474;2;;;
+2008;Nicolas D'Ippolito,Dario Fischbein,Sebastian Uchitel,Marsha Chechik;MTSA: The Modal Transition System Analyser.;475-476;2;;;
+2008;John Grundy,Lei Li,John G. Hosking;MaramaEML: An Integrated Multi-View Business Process Modelling Environment with Tree-Overlays, Zoomable Interfaces and Code Generation.;477-478;2;;;
+2008;Kelvin Ku,Thomas E. Hart,David Lie,Arie Gurfinkel,Marsha Chechik;PtYasm: Software Model Checking with Proof Templates.;479-480;2;;;
+2008;Reid Holmes,Robert J. Walker;Semi-Automating Pragmatic Reuse Tasks.;481-482;2;;;
+2008;Patrizio Pelliccione,Henry Muccini,Ivano Malavolta;DUALLY: A framework for Architectural Languages and Tools Interoperability.;483-484;2;;;
+2008;Anna Perini,Mirko Morandini,Loris Penserini;Automated Mapping from Goal Models to Self-Adaptive Systems.;485-486;2;;;
+2008;Jesus Montes,Carlos Carrillo,Francisco Nava,Rafael Capilla;ADDSS: Architecture Design Decision Support System Tool.;487-488;2;;;
+2008;Kim Mens,Diego Ordonez Camacho;APPAREIL: A Tool for Building Automated Program Translators Using Annotated Grammars.;489-490;2;;;
+2008;Stefano Puri,Marco Panunzio,Matteo Bordin;Rapid Model-Driven Prototyping and Verification of High-Integrity Real-Time Systems.;491-492;2;;;
+2008;Paul Pettersson,Ivica Crnkovic,Severine Sentilles,John Hakansson;Save-IDE: An Integrated Development Environment for Building Predictable Component-Based Embedded Systems.;493-494;2;;;
+2008;Annie Ressouche,Daniel Gaffe;The Clem Toolkit.;495-496;2;;;
+2008;Tony Barrett,Johann Schumann,Tim Menzies,Corina S. Pasareanu,Karen Gundy-Burlet;Tool Support for Parametric Analysis of Large Software Simulation Systems.;497-498;2;;;
+2008;Matthew Staats,Weijia Deng,Mats Per Erik Heimdahl,Ajitha Rajan,Kurt Woodham;ReqsCov: A Tool for Measuring Test-Adequacy over Requirements.;499-500;2;;;
+2008;Kazuhide Noda,Tetsuo Tamai,Jun Yoshida,Genya Otsubo,Naoyasu Ubayashi;AspectM: UML-Based Extensible AOM Language.;501-502;2;;;
+2008;Yijun Yu,Jan Jurjens,Jorg Schreck;Tools for Traceability in Secure Software Development.;503-504;2;;;
+2008;Nicolas Frisby;Unifying Analysis Tools with Rosetta.;505-508;4;;;
+2008;Heinrich Hussmann,Florence T. Balagtas-Fernandez;Model-Driven Development of Mobile Applications.;509-512;4;;;
+2008;Martin Pinzger 0002;Automated Web Performance Analysis.;513-516;4;;;
+2008;Virginia Papailiopoulou;Automatic Test Generation for LUSTRE/SCADE Programs.;517-520;4;;;
+2008;Alma L. Juarez Dominguez;Feature Interaction Detection in the Automotive Domain.;521-524;4;;;
+2008;Asem Eltaher;Towards Good Enough Testing: A Cognitive-Oriented Approach Applied to Infotainment Systems.;525-528;4;;;
+2008;Henry Muccini,Andrea Polini,Leonardo Mariani,Antinisca Di Marco,Mauro Caporuscio,Onn Shehory;ARAMIS 2008: The First Int. Workshop on Automated engineeRing of Autonomic and run-tiMe evolvIng Systems.;529-530;2;;;
+2008;Mehdi Jazayeri,Jan Bosch,Imed Hammouda,Tommi Mikkonen;First International Workshop on Social Software Engineering and Applications (SoSEA 2008).;531-532;2;;;
+2008;Paul Wernick,Ciaran Bryce,Michel Wermelinger;4th International ERCIM Workshop on Software Evolution and Evolvability (Evol'08).;533-534;2;;;
+2007;Douglas R. Smith;Toward automated software development.;1;1;;;
+2007;K. Rustan M. Leino;Specifying and verifying software.;2;1;;;
+2007;Bran Selic;The embarrassing truth about software automation and what should be done about it.;3;1;;;
+2007;Christoph Csallner,Yannis Smaragdakis,Ranjith Subramanian;Scalable automatic test data generation from modeling diagrams.;4-13;10;;;selected
+2007;Lori L. Pollock,K. Vijay-Shanker,Emily Hill;Exploring the neighborhood with dora to expedite software maintenance.;14-23;10;Maintenance;;selected
+2007;Tevfik Bultan,Elliot Barlas;Netstub: a framework for verification of distributed java applications.;24-33;10;Maintenance;;selected
+2007;Westley Weimer,Pieter Hooimeijer;Modeling bug report quality.;34-43;10;Maintenance;;selected
+2007;Ali Ebnenasir;Diconic addition of failsafe fault-tolerance.;44-53;10;Fault tolerance;;selected
+2007;Jeffrey Fischer,Rupak Majumdar;Ensuring consistency in long running transactions.;54-63;10;Fault tolerance;;selected
+2007;Ivan Garcia,Bassem Elkarablieh,Yuk Lai Suen,Sarfraz Khurshid;Assertion-based repair of complex data structures.;64-73;10;Fault tolerance;;selected
+2007;Steven P. Reiss;Automatic code stylizing.;74-83;10;Programming help;;selected
+2007;Greg Little,Robert C. Miller;Keyword programming in java.;84-93;10;Programming help;;selected
+2007;Anita Sarma,Andre van der Hoek,Gerald Bortis;Towards supporting awareness of indirect conflicts across software configuration management workspaces.;94-103;10;Programming help;;selected
+2007;Shay Artzi,Adam Kiezun,David Glasser,Michael D. Ernst;Combined static and dynamic mutability analysis.;104-113;10;Program analysis;;selected
+2007;Fadi A. Zaraket,Adnan Aziz,Sarfraz Khurshid;Sequential circuits for program analysis.;114-123;10;Program analysis;;selected
+2007;Rahul Purandare,Matthew B. Dwyer;Residual dynamic typestate analysis exploiting static analysis: results to reformulate and reduce the cost of dynamic analysis.;124-133;10;Program analysis;;selected
+2007;Ru-Gang Xu,Rupak Majumdar;Directed test generation using symbolic grammars.;134-143;10;Test generation;;selected
+2007;Felix Chun Hang Li,Tim Menzies,Jamie Andrews;Nighthawk: a two-level genetic-random unit test data generator.;144-153;10;Test generation;;selected
+2007;Tetsuo Tamai,Akihiro Sakai,Naoyasu Ubayashi;An aspect-oriented weaving mechanism based on component and connector architecture.;154-163;10;Model-based development 1;;selected
+2007;Yingfei Xiong,Masato Takeichi,Zhenjiang Hu,Dongxi Liu,Hong Mei,Haiyan Zhao;Towards automatic model synchronization from model transformations.;164-173;10;Model-based development 1;;selected
+2007;Cemal Yilmaz,Clay Williams;An automated model-based debugging approach.;174-183;10;Debugging;;selected
+2007;Lingxiao Jiang,Zhendong Su;Context-aware statistical debugging: from bug predictors to faulty control flow paths.;184-193;10;Debugging;;selected
+2007;Lucy Mendel,Derek Rayside;Object ownership profiling: a technique for finding and fixing memory leaks.;194-203;10;Debugging;;selected
+2007;Suresh Thummalapenta,Tao Xie;Parseweb: a programmer assistant for reusing open source code on the web.;204-213;10;Reuse and OTS;;selected
+2007;Krzysztof Czarnecki,Michal Antkiewicz,Thiago Tonelli Bartolomei;Automatic extraction of framework-specific models from framework-based application code.;214-223;10;Reuse and OTS;;selected
+2007;Jiang Zheng,Laurie Williams,Brian P. Robinson;Pallino: automation to support regression test selection for cots-based applications.;224-233;10;Reuse and OTS;;selected
+2007;Dapeng Liu,Andrian Marcus,Denys Poshyvanyk,Vaclav Rajlich;Feature location via information retrieval based filtering of a single scenario execution trace.;234-243;10;Traceability;;selected
+2007;Chuan Duan,Jane Cleland-Huang;Clustering support for automated tracing.;244-253;10;Traceability;;selected
+2007;Barthelemy Dagenais,Silvia Breu,Frederic Weigand Warr,Martin P. Robillard;Inferring structural patterns for concern traceability in evolving software.;254-263;10;Traceability;;selected
+2007;Mark Grechanik;Finding errors in components that exchange xml data.;264-273;10;Protection;;selected
+2007;Christian Lindig,Valentin Dallmeier,David Schuler;A dynamic birthmark for java.;274-283;10;Protection;;selected
+2007;Alessandro Orso,James A. Clause,Ioannis Doudalis,Milos Prvulovic;Effective memory protection using dynamic tainting.;284-292;9;Protection;;selected
+2007;Sheila A. McIlraith,Yiqiao Wang,John Mylopoulos,Yijun Yu;An automated approach to monitoring and diagnosing requirements.;293-302;10;Inception;;selected
+2007;Oussama El-Rawas,Barry W. Boehm,Tim Menzies,Raymond J. Madachy,Martin S. Feather,Jairus Hihn;The business case for automated software engineering.;303-312;10;Inception;;selected
+2007;Steve MacDonald,Jun Chen;Testing concurrent programs using value schedules.;313-322;10;Concurrency testing;;selected
+2007;Koushik Sen;Effective random testing of concurrent programs.;323-332;10;Concurrency testing;;selected
+2007;Penelope A. Brooks,Atif M. Memon;Automated gui testing guided by usage profiles.;333-342;10;Testing;;selected
+2007;Mary Jean Harrold,Raul A. Santelices;Efficiently monitoring data-flow test coverage.;343-352;10;Testing;;selected
+2007;John Grundy,Yuhong Cai,John G. Hosking;Synthesizing client load models for performance engineering via web crawling.;353-362;10;Model-based development 2;;selected
+2007;Kullo Raiend,Juhan P. Ernits,Andres Kull,Juri Vain;Synthesis of test purpose directed reactive planning tester for nondeterministic systems.;363-372;10;Model-based development 2;;selected
+2007;Kim Lauenroth,Klaus Pohl;Towards automated consistency checks of product line requirements specifications.;373-376;4;Posters;;
+2007;Tao Xie,Danny Dig,Kunal Taneja;Automated detection of api refactorings in libraries.;377-380;4;Posters;;
+2007;Ina Schieferdecker,Stefan Wappler;Improving evolutionary class testing in the presence of non-public methods.;381-384;4;Posters;;
+2007;Radu Mateescu,Gwen Salaun,Pascal Poizat;Behavioral adaptation of component compositions based on process algebra encodings.;385-388;4;Posters;;
+2007;Kelvin Ku,Thomas E. Hart,David Lie,Marsha Chechik;A buffer overflow benchmark for software model checkers.;389-392;4;Posters;;
+2007;Peter Torr,Daniel Wang,Marwan Abi-Antoun;Checking threat modeling data flow diagrams for implementation conformance and security.;393-396;4;Posters;;
+2007;Andrea Arcuri,Xin Yao;Coevolving programs and unit tests from their specification.;397-400;4;Posters;;
+2007;Sreeranga P. Rajan,Oksana Tkachuk;Combining environment generation and slicing for modular software model checking.;401-404;4;Posters;;
+2007;Myra B. Cohen,Xun Yuan,Atif M. Memon;Covering array sampling of input event sequences for automated gui testing.;405-408;4;Posters;;
+2007;Alan Sussman,Il-Chul Yoon,Adam A. Porter,Atif M. Memon;Direct-dependency-based software compatibility testing.;409-412;4;Posters;;
+2007;Vittorio Cortellessa,Fabrizio Marinelli,Pasqualina Potena,Ivica Crnkovic;Driving the selection of cots components on the basis of system requirements.;413-416;4;Posters;;
+2007;Bertrand Meyer,Ilinca Ciupa,Manuel Oriol,Andreas Zeller,Andreas Leitner;Efficient unit test case minimization.;417-420;4;Posters;;
+2007;Chiyoung Seo,Sam Malek,Nenad Medvidovic;An energy consumption framework for distributed java-based systems.;421-424;4;Posters;;
+2007;Tao Xie,Kobi Inkumsah;Evacon: a framework for integrating evolutionary and concolic testing for object-oriented programs.;425-428;4;Posters;;
+2007;John Mylopoulos,Nicola Zeni,Annie I. Anton,Luisa Mich,James R. Cordy,Travis D. Breaux,Nadzeya Kiyavitskaya;Extracting rights and obligations from regulations: toward a tool-supported process.;429-432;4;Posters;;
+2007;Valentin Dallmeier,Thomas Zimmermann;Extraction of bug localization benchmarks from history.;433-436;4;Posters;;
+2007;Jameleddine Hassine,Juergen Rilling,Maryam Shiri;Feature interaction analysis: a maintenance perspective.;437-440;4;Posters;;
+2007;Tao Xie,Yuanfang Cai,Sunny Wong;A framework and tool supports for testing modularity of software design.;441-444;4;Posters;;
+2007;Huascar Espinoza,Francois Lagarde,Francois Terrier,Sebastien Gerard;Improving uml profile design practices by leveraging conceptual domain models.;445-448;4;Posters;;
+2007;Elisabetta Di Nitto,Raffaela Mirandola,Davide Devescovi;An infrastructure for autonomic system development: the selflet approach.;449-452;4;Posters;;
+2007;Leen Lambers,Mauro Pezze,Hartmut Ehrig,Leonardo Mariani;Iterative model-driven development of adaptable service-based applications.;453-456;4;Posters;;
+2007;Michael L. Collard,Huzefa H. Kagdi,Jonathan I. Maletic;An approach to mining call-usage patternswith syntactic context.;457-460;4;Posters;;
+2007;Erik Linstead,Pierre Baldi,Sushil Krishna Bajracharya,Paul Rigor,Cristina Videira Lopes;Mining concepts from code with probabilistic topic models.;461-464;4;Posters;;
+2007;Siau-Cheng Khoo,Shahar Maoz,David Lo;Mining modal scenario-based specifications from execution traces of reactive systems.;465-468;4;Posters;;
+2007;Goetz Botterweck,Steffen Thiel,Liam O'Brien;Model-driven derivation of product architectures.;469-472;4;Posters;;
+2007;Garrin Kimmell,Nicolas Frisby,Perry Alexander,Philip Weaver;Modular and generic programming with interpreterlib.;473-476;4;Posters;;
+2007;Madeline Diep,Sebastian G. Elbaum,Matthew B. Dwyer;Reducing irrelevant trace variations.;477-480;4;Posters;;
+2007;Robert J. Hall;Rteq: modeling and validating infinite-state hard-real-time systems.;481-484;4;Posters;;
+2007;Stanley M. Sutton Jr.,Philippe Charles,Robert M. Fuhrer;IMP: a meta-tooling platform for creating language-specific ides in eclipse.;485-488;4;Posters;;
+2007;Ge Li,Weizhong Shao,Zhiyi Ma,Hui Liu;Scheduling of conflicting refactorings to promote quality improvement.;489-492;4;Posters;;
+2007;Huoping Chen,Salim Hariri;An evaluation scheme of adaptive configuration techniques.;493-496;4;Posters;;
+2007;Robert J. Walker,Mark M. McIntyre;Assisting potentially-repetitive small-scale changes via semi-automated heuristic search.;497-500;4;Posters;;
+2007;Thomas Witkowski,Georg Weissenbacher,Daniel Kroning,Nicolas Blanc;Model checking concurrent linux device drivers.;501-504;4;Posters;;
+2007;Farn Wang,Lin-Zan Cai,Wen-Ting Huang,Rong-Shiung Wu;Test automation for kernel code and disk arrays with virtual devices.;505-508;4;Posters;;
+2007;Hadar Ziv,Debra J. Richardson,Leila Naslavsky;Towards leveraging model transformation to support model-based testing.;509-512;4;Posters;;
+2007;William W. Pugh,Nathaniel Ayewah;Unit testing concurrent software.;513-516;4;Posters;;
+2007;Yansong (Jennifer) Ren,Fangzhe Chang;Validating system properties exhibited in execution traces.;517-520;4;Posters;;
+2007;Alex Groce,Daniel Kroning,Nicolas Blanc;Verifying C++ with STL containers via predicate abstraction.;521-524;4;Posters;;
+2007;Paulo Cesar Masiero,Pierre Baldi,Ricardo Santos Morla,Otavio Augusto Lazzarini Lemos,Joel Ossher,Sushil Krishna Bajracharya,Cristina Videira Lopes;CodeGenie: using test-cases to search and reuse source code.;525-526;2;Tool demonstrations;;
+2007;Yann-Gael Gueheneuc,Naouel Moha;Decor: a tool for the detection of design defects.;527-528;2;Tool demonstrations;;
+2007;Leonardo Mostarda,Paola Inverardi;DESERT: a decentralized monitoring tool generator.;529-530;2;Tool demonstrations;;
+2007;Hiroyuki Nakagawa,Shinichi Honiden,Kenji Taguchi;Formal specification generator for KAOS: model transformation approach to generate formal specifications from KAOS requirements models.;531-532;2;Tool demonstrations;;
+2007;Paul Grunbacher,Deepak Dhungana,Rick Rabiser,Thomas Neumayer;Integrated tool support for software product line engineering.;533-534;2;Tool demonstrations;;
+2007;Lydie du Bousquet,Elodie Rose,Frederic Dadeau,Sebastien Ville,Yves Ledru;Mastering combinatorial explosion with the tobias-2 test generator.;535-536;2;Tool demonstrations;;
+2007;Qing Xie,Matthew Hellige,Mark Grechanik;Smart: a tool for application reference testing.;537-538;2;Tool demonstrations;;
+2007;Mary Lou Soffa,Adam M. Smith,Joshua Geiger,Gregory M. Kapfhammer;Test suite reduction and prioritization with call trees.;539-540;2;Tool demonstrations;;
+2007;Jacopo Mantovani,Pasquale Spica,Massimo Benerecetti,Alessandro Armando,Dario Carotenuto;The eureka tool for software model checking.;541-542;2;Tool demonstrations;;
+2007;Jonathan Aldrich,Marwan Abi-Antoun;Tool support for the compile-time execution structure of object-oriented programs with ownership annotations.;543-544;2;Tool demonstrations;;
+2007;Yijun Yu,Jan Jurjens;Tools for model-based security engineering: models vs. code.;545-546;2;Tool demonstrations;;
+2007;Jordi Cabot,Robert Clariso,Daniel Riera;UMLtoCSP: a tool for the formal verification of UML/OCL models using constraint programming.;547-548;2;Tool demonstrations;;
+2007;Robert Tairas,Jeffrey G. Gray,Ira D. Baxter;Visualizing clone detection results.;549-550;2;Tool demonstrations;;
+2007;Yuanyuan Song;Adaptation hiding modularity.;551-554;4;Doctoral symposium;;
+2007;Rachel Gawley;Automating the identification of variability realisation techniques from feature models.;555-558;4;Doctoral symposium;;
+2007;Huzefa H. Kagdi;Improving change prediction with fine-grained source code mining.;559-562;4;Doctoral symposium;;
+2007;Andrian Marcus,Denys Poshyvanyk;Using information retrieval to support design of incremental change of software.;563-566;4;Doctoral symposium;;
+2007;Debra J. Richardson,Leila Naslavsky;Using traceability to support model-based regression testing.;567-570;4;Doctoral symposium;;
+2007;Koushik Sen;Concolic testing.;571-572;2;Mini-tutorials;;
+2007;Gary T. Leavens;Tutorial on JML, the java modeling language.;573;1;Mini-tutorials;;
+2007;Steve M. Easterbrook;Empirical research methods for software engineering.;574;1;Tutorials;;
+2007;Krzysztof Czarnecki;Software reuse and evolution with generative techniques.;575;1;Tutorials;;
+2007;John Grundy,John G. Hosking;Meta tools for implementing domain specific visual languages.;576;1;Tutorials;;
+2007;Perry Alexander;Rosetta: language support for system-level design.;577;1;Tutorials;;
+2006;;Preface.;;0;Introduction;;
+2006;;Conference Committee.;;0;Introduction;;
+2006;;Steering Committee.;;0;Introduction;;
+2006;;Program Committee.;;0;Introduction;;
+2006;;Expert Reviewer Panel.;;0;Introduction;;
+2006;;Introduction to Tool Demonstrations.;;0;Introduction;;
+2006;Kokichi Futatsugi;Verifying Specifications with Proof Scores in CafeOBJ.;3-10;8;Keynote Talk;;
+2006;Sebastian Thrun;Winning the DARPA Grand Challenge: A Robot Race through the Mojave Desert.;11;1;Keynote Talk;;
+2006;Sriram K. Rajamani;Automatic Property Checking for Software: Past, Present and Future.;12;1;Keynote Talk;;
+2006;Philip Gross,Gail E. Kaiser;Automated Information Aggregation for Scaling Scale-Resistant Services.;15-24;10;Modeling and Synthesis;;selected
+2006;John Grundy,Nianping Zhu,John G. Hosking,Na Liu;Generating Domain-Specific Visual Language Editors from High-level Tool Specifications.;25-36;12;Modeling and Synthesis;;selected
+2006;Jing Sun,Thiranjith Weerasinghe,Ian Warren,Sanjev Krishnamohan;An Automated Formal Approach to Managing Dynamic Reconfiguration.;37-46;10;Architecture;;selected
+2006;Bradley R. Schmerl,Nagi H. Nahas,Jonathan Aldrich,David Garlan,Marwan Abi-Antoun;Differencing and Merging of Architectural Views.;47-58;12;Architecture;;selected
+2006;Tao Xie,Michael D. Ernst,Darko Marinov,Marcelo d'Amorim,Carlos Pacheco;An Empirical Comparison of Automated Generation and Classification Techniques for Object-Oriented Unit Testing.;59-68;10;Testing;;selected
+2006;Alessandro Orso,William G. J. Halfond;Command-Form Coverage for Testing Database Applications.;69-80;12;Testing;;selected
+2006;Sunghun Kim,Thomas Zimmermann,Jim Whitehead,Kai Pan;Automatic Identification of Bug-Introducing Changes.;81-90;10;Impact Analysis;;selected
+2006;Kevin J. Sullivan,Yuanfang Cai;Modularity Analysis of Logical Design Models.;91-102;12;Impact Analysis;;selected
+2006;Eugen-Nicolae Volanschi;A Portable Compiler-Integrated Approach to Permanent Checking.;103-112;10;Analysis I;;selected
+2006;Michael Eichberg,Mira Mezini,Klaus Ostermann,Sven Kloppenburg,Benjamin Rank;Integrating and Scheduling an Open Set of Static Analyses.;113-122;10;Analysis I;;selected
+2006;Nija Shi,Ronald A. Olsson;Reverse Engineering of Design Patterns from Java Source Code.;123-134;12;Analysis I;;selected
+2006;Andre van der Hoek,Leonardo Murta,Claudia Werner;ArchTrace: Policy-Based Support for Managing Evolving Architecture-to-Implementation Traceability Links.;135-144;10;Traceability;;selected
+2006;Paul Grunbacher,Christian Neumuller;Automating Software Traceability in Very Small Companies: A Case Study and Lessons Learne.;145-156;12;Traceability;;selected
+2006;Jooyong Lee,Xianghua Deng,Robby;Bogor/Kiasan: A k-bounded Symbolic Execution for Checking Strong Heap Properties of Open Systems.;157-166;10;Analysis II;;selected
+2006;Jan Jurjens;Security Analysis of Crypto-based Java Programs using Automated Theorem Provers.;167-176;10;Analysis II;;selected
+2006;Pierre-Loic Garoche,Cyrille Valentin Artho;Accurate Centralization for Applying Model Checking on Networked Applications.;177-188;12;Analysis II;;selected
+2006;Ahmed E. Hassan,Ken Zhang;Using Decision Trees to Predict the Certification Result of a Build.;189-198;10;Management;;selected
+2006;Berke Durak,Ralf Treinen,Jerome Vouillon,Roberto Di Cosmo,Xavier Leroy,Jaap Boender,Fabio Mancinelli;Managing the Complexity of Large Free and Open Source Package-Based Software Distributions.;199-208;10;Management;;selected
+2006;Jacky Estublier,Sergio Garcia;Concurrent Engineering support in Software Engineering.;209-220;12;Management;;selected
+2006;Silvia Breu,Thomas Zimmermann;Mining Aspects from Version History.;221-230;10;Mining Software Repositories;;selected
+2006;Stephan Diehl,Peter Weissgerber;Identifying Refactorings from Source-Code Changes.;231-240;10;Mining Software Repositories;;selected
+2006;Murali Krishna Ramanathan,Suresh Jagannathan,Ananth Grama;Sieve: A Tool for Automatically Detecting Variations Across Program Versions.;241-252;12;Mining Software Repositories;;selected
+2006;Anna Perini,John Mylopoulos,Loris Penserini,Angelo Susi;From Capability Specifications to Code for Multi-Agent Software.;253-256;4;Short Papers;;
+2006;Matthias Book,Volker Gruhn,Gerald Mucke;An Instant Message-Driven User Interface Framework for Thin Client Applications.;257-260;4;Short Papers;;
+2006;Jurgen Falb,Thomas Rock,Edin Arnautovic;Using communicative acts in interaction design specifications for automated synthesis of user interfaces.;261-264;4;Short Papers;;
+2006;Bernd M. Fischer,Ewen Denney;Annotation Inference for Safety Certification of Automatically Generated Code (Extended Abstract).;265-268;4;Short Papers;;
+2006;Tien N. Nguyen;A Unified Model for Product Data Management and Software Configuration Management.;269-272;4;Short Papers;;
+2006;Silvio Meier,Nancy Schett,Martin Glinz,Christian Seybold,Tobias Reinhard;Human-Friendly Line Routing for Hierarchical Diagrams.;273-276;4;Short Papers;;
+2006;Takeaki Uno,Ken Satoh,Ken Kaneiwa;Contradiction Finding and Minimal Recovery for UML Class Diagrams.;277-280;4;Short Papers;;
+2006;Walter F. Tichy,Alexander Paar;Programming Language Inherent Support for Constrained XML Schema Definition Data Types and OWL DL.;281-284;4;Short Papers;;
+2006;Odile Laurent,Christel Seguin,Virginie Wiels;A methodology for automated test generation guided by functional coverage constraints at specification level.;285-288;4;Short Papers;;
+2006;Hadar Ziv,Kristina Winbladh,Thomas A. Alspaugh,Debra J. Richardson;An Automated Approach for Goal-driven, Specification-based Testing.;289-292;4;Short Papers;;
+2006;Tao Xie,Mithun Acharya,Jun Xu,Tanu Sharma;Effective Generation of Interface Robustness Properties for Static Analysis.;293-296;4;Short Papers;;
+2006;Pierre Leduc,Yann-Gael Gueheneuc,Naouel Moha;Automatic Generation of Detection Algorithms for Design Defects.;297-300;4;Short Papers;;
+2006;En Ye,Chang Liu,Debra J. Richardson;Software Library Usage Pattern Extraction Using a Software Model Checker.;301-304;4;Short Papers;;
+2006;Peter Bunus,Mikhail Chalabine,Christoph W. Kessler;Automated Round-trip Software Engineering in Aspect Weaving Systems.;305-308;4;Short Papers;;
+2006;Andrew Ireland;Towards Automatic Assertion Refinement for Separation Logic.;309-312;4;Short Papers;;
+2006;Marco Torchiano,Paolo Falcarin;Automated Reasoning on Aspects Interactions.;313-316;4;Short Papers;;
+2006;Maximilian Storzer,Florian Forster;Detecting Precedence-Related Advice Interference.;317-322;6;Short Papers;;
+2006;Michal Antkiewicz;Round-Trip Engineering of Framework-Based Software using Framework-Specific Modeling Languages.;323-326;4;Doctoral Symposium;;
+2006;Deepak Dhungana;Integrated Variability Modeling of Features and Architecture in Software Product Line Engineering.;327-330;4;Doctoral Symposium;;
+2006;Chris Mattmann;Software Connectors for Highly Distributed and Voluminous Data Intensive Systems.;331-334;4;Doctoral Symposium;;
+2006;Ajitha Rajan;Coverage Metrics to Measure Adequacy of Black-Box Test Suites.;335-338;4;Doctoral Symposium;;
+2006;Mehrdad Sabetzadeh;Management of Incomplete and Inconsistent Views.;339-342;4;Doctoral Symposium;;
+2006;Chiyoung Seo;Energy-Awareness in Distributed Java-Based Software Systems.;343-348;6;Doctoral Symposium;;
+2006;Robert J. Hall;LSS: A Tool for Large Scale Scenarios.;349-350;2;Formal Tool Demo Presentations;;
+2006;Noriko Hanakawa,Nao Ikemiya;A new web browser including a transferable function to Ajax codes.;351-352;2;Formal Tool Demo Presentations;;
+2006;Lydie du Bousquet,Yves Ledru;Tobias-Z: An executable formal specification of a test generator.;353-354;2;Formal Tool Demo Presentations;;
+2006;Marc Lohmann,Stefan Sauer,Gregor Engels;Model-driven Monitoring: Generating Assertions from Visual Contracts.;355-356;2;Formal Tool Demo Presentations;;
+2006;Ward Douglas Maurer;The Rearranger - A New Assembler Utility.;357-358;2;Formal Tool Demo Presentations;;
+2006;Nadege Pontisso,David Chemouil;TOPCASED Combining Formal Methods with Model-Driven Engineering.;359-360;2;Formal Tool Demo Presentations;;
+2006;Andrea Zisman,George Spanoudakis;UML-based Service Discovery Tool.;361-362;2;Formal Tool Demo Presentations;;
+2006;Kouichi Ono,Shin Saito,Hisashi Miyashita,Takaaki Tateishi;Automated Verification Tool for DHTML.;363-364;2;Formal Tool Demo Presentations;;
+2006;Nikolai Tillmann,Wolfram Schulte;Mock-object generation with behavior.;365-368;4;Formal Tool Demo Presentations;;
+2006;Matthew B. Dwyer,John Hatcliff,Robby;Domain-specific Model Checking Using The Bogor Framework.;369-370;2;Mini Tutorials;;
+2006;Janice A. Singer;Testing Tools and Techniques: A Mini-Tutorial on Evaluation Methods for ASE.;371-374;4;Mini Tutorials;;
+2006;Elisa L. A. Baniassad,Kung Chen,Jan Hannemann,Hidehiko Masuhara,Shangping Ren,Jianjun Zhao,Shigeru Chiba;2nd Asian Workshop on Aspect-Oriented Software Development (AOAsia).;375;1;Workshops;;
+2006;Yunwen Ye,Masao Ohira;Second International Workshop on Supporting Knowledge Collaboration in Software Development (KCSD2006).;376;1;Workshops;;
+2006;Katsuhisa Maruyama,Makoto Matsushita,Shinichirou Yamamoto;Japanese Workshop on Leveraging Web2.0 Technologies in Software Development Environments (WebSDE).;377;1;Workshops;;
+2006;Haruhiko Kaiya,Takako Nakatani;Japanese Workshop on Requirements Engineering Tools (JWRET).;378;1;Workshops;;
+2005;Alfonso Fuggetta;The power of software.;1;1;;;
+2005;William R. Swartout;Virtual humans: lessons learned in integrating a large-scale AI project.;2;1;;;
+2005;Richard A. Kemmerer;Designing and implementing a family of intrusion detection systems.;3;1;;;
+2005;Vijay K. Garg,Sujatha Kashyap;Exploiting predicate structure for efficient reachability detection.;4-13;10;Validation and verification I;;selected
+2005;Tevfik Bultan,Aysu Betin-Can,Stefan Topp,Mikael Lindvall,Benjamin Lux;Application of design for verification with concurrency controllers to air traffic control software.;14-23;10;Validation and verification I;;selected
+2005;Dezhuang Zhang,Rance Cleaveland;Efficient temporal-logic query checking for presburger systems.;24-33;10;Validation and verification I;;selected
+2005;Steven P. Reiss;A component model for internet-scale applications.;34-43;10;Maintenance and evolution;;selected
+2005;Ada Diaconescu,John Murphy;Automating the performance management of component-based enterprise systems through the use of redundancy.;44-53;10;Maintenance and evolution;;selected
+2005;Zhenchang Xing,Eleni Stroulia;UMLDiff: an algorithm for object-oriented design differencing.;54-65;12;Maintenance and evolution;;selected
+2005;Stephane Ducasse,Gabriela Arevalo,Adrian Lienhard;Identifying traits with formal concept analysis.;66-75;10;Program understanding;;selected
+2005;Ana Milanova;Precise identification of composition relationships for UML class diagrams.;76-85;10;Program understanding;;selected
+2005;Jochen Quante,Rainer Koschke;On dynamic feature location.;86-95;10;Program understanding;;selected
+2005;Kevin Yoo,Daniel Hoffman;Blowtorch: a framework for firewall test automation.;96-103;8;Testing I;;selected
+2005;Mark Hennessy,James F. Power;An analysis of rule coverage as a criterion in generating minimal test suites for grammar-based software.;104-113;10;Testing I;;selected
+2005;Jeff H. Perkins,Shay Artzi,David Saff,Michael D. Ernst;Automatic test factoring for java.;114-123;10;Testing I;;selected
+2005;Martin Erwig,Gregor Engels;ClassSheets: automatic generation of spreadsheet applications from object-oriented specifications.;124-133;10;Code generation;;selected
+2005;Karsten Ehrig,Stefan Hansgen,Claudia Ermel,Gabriele Taentzer;Generation of visual editors as eclipse plug-ins.;134-143;10;Code generation;;selected
+2005;Gueyoung Jung,Wenchang Yan,Younggyun Koh,Charles Consel,Koichi Moriyama,Qinyi Wu,Galen S. Swint,Akhil Sahai,Calton Pu;Clearwater: extensible, flexible, modular code generation.;144-153;10;Code generation;;selected
+2005;Eelco Dolstra;Secure sharing between untrusted users in a transparent source/binary deployment model.;154-163;10;Configuration management & security;;selected
+2005;Alexander L. Wolf,Yanyan Wang,Antonio Carzaniga,Matthew J. Rutherford;Automating experimentation on distributed testbeds.;164-173;10;Configuration management & security;;selected
+2005;Alessandro Orso,William G. J. Halfond;AMNESIA: analysis and monitoring for NEutralizing SQL-injection attacks.;174-183;10;Configuration management & security;;selected
+2005;David Shepherd,Jeffrey Palm,Mark Chu-Carroll,Lori L. Pollock;Timna: a framework for automatically combining aspect mining analyses.;184-193;10;Aspect oriented programming;;selected
+2005;Hidehiko Masuhara,Tetsuo Tamai,Genki Moriyama,Naoyasu Ubayashi;A parameterized interpreter for modeling different AOP mechanisms.;194-203;10;Aspect oriented programming;;selected
+2005;Akhil Mehra,John G. Hosking,John Grundy;A generic approach to supporting diagram differencing and merging for collaborative design.;204-213;10;Software visualization;;selected
+2005;Guillaume Langelier,Pierre Poulin,Houari A. Sahraoui;Visualization-based analysis of quality for large-scale software systems.;214-223;10;Software visualization;;selected
+2005;Ian Stark,Alan Bundy,Alex Blewitt;Automatic verification of design patterns in Java.;224-232;9;Validation and verification II;;selected
+2005;Rahul Agarwal,Amit Sasturkar,Liqiang Wang,Scott D. Stoller;Optimized run-time race detection and atomicity checking using partial discovered types.;233-242;10;Validation and verification II;;selected
+2005;Xiaowei Xu,Sinan Asa,Vladimir Sipos,Subash Shankar;Reasoning about real-time statecharts in the presence of semantic variations.;243-252;10;Validation and verification II;;selected
+2005;Emily Gibson,Lori L. Pollock,Sreedevi Sampath,Sara Sprenkle;Automated replay and failure detection for web applications.;253-262;10;Testing II;;selected
+2005;Rajiv Gupta,Haifeng He,Xiangyun Zhang,Neelam Gupta;Locating faulty code using failure-inducing chops.;263-272;10;Testing II;;selected
+2005;Mary Jean Harrold,James A. Jones;Empirical evaluation of the tarantula automatic fault-localization technique.;273-282;10;Testing II;;selected
+2005;Songtao Xia,Cesar Munoz,Ben Di Vito;Automated test generation for engineering applications.;283-286;4;Short papers 1;;
+2005;Shiva Nejati,Marsha Chechik;Let's agree to disagree.;287-290;4;Short papers 1;;
+2005;Wei Zhao,Jiasu Sun,Dan Hao,Lu Zhang,Ying Pan,Hong Mei;A similarity-aware approach to testing based fault localization.;291-294;4;Short papers 1;;
+2005;Leon J. Osterweil,Aaron G. Cass;Process support to help novices design software faster and better.;295-299;5;Short papers 1;;
+2005;Magnus Eriksson,Kjell Borg,Henrik Morast,Jurgen Borstler;The PLUSS toolkit - extending telelogic DOORS and IBM-rational rose to support product line use case modeling.;300-304;5;Short papers 1;;
+2005;Marcelo Fabiun Frias,Gabriela Steren,Lorena Bourg,Rodolfo Gamarra;A strategy for efficient verification of relational specifications, based on monotonicity analysis.;305-308;4;Short papers 1;;
+2005;Tsong Yueh Chen,Robert G. Merkel;Quasi-random testing.;309-312;4;Short papers 1;;
+2005;Bernard Botella,Arnaud Gotlieb,Tristan Denmat;Constraint-based test data generation in the presence of stack-directed pointers.;313-316;4;Short papers 1;;
+2005;Valerie Issarny,Nikolaos Georgantas,Jinshan Liu,Sonia Ben Mokhtar;QoS-aware dynamic service composition in ambient intelligence environments.;317-320;4;Short papers 1;;
+2005;John Grundy,John G. Hosking,Na Liu;A visual language and environment for composing web services.;321-324;4;Short papers 1;;
+2005;Mahesh Viswanathan,Abhay Vardhan;Learning to verify branching time properties.;325-328;4;Short papers 1;;
+2005;Kevin J. Sullivan,Yuanfang Cai;Simon: modeling and analysis of design space structures.;329-332;4;Short papers 1;;
+2005;Johannes Mayer;Lattice-based adaptive random testing.;333-336;4;Short papers 1;;
+2005;Xiyao Cai,Xiyang Liu,Bin Wang,Ping Chen,Hehui Liu;A unified fitness function calculation rule for flag conditions to improve evolutionary testing.;337-341;5;Short papers 1;;
+2005;Dianxiang Xu,Kendall E. Nygard;A threat-driven approach to modeling and verifying secure software.;342-346;5;Short papers 1;;
+2005;Tao Wang,Abhik Roychoudhury;Automated path generation for software fault localization.;347-351;5;Short papers 1;;
+2005;Ruzanna Chitchyan,Americo Sampaio,Paul Rayson;EA-Miner: a tool for automating aspect-oriented requirements identification.;352-355;4;Short papers 1;;
+2005;Jiexin Lian,David Coppit;yagg: an easy-to-use generator for structured test inputs.;356-359;4;Short papers 2;;
+2005;Stefan Biffl,Paul Grunbacher,Matthias Heindl,Alexander Egyed;Determining the cost-quality trade-off for automated software traceability.;360-363;4;Short papers 2;;
+2005;Alain Giorgetti,Jean-Francois Couchot,Nikolai Kosmatov;A uniform deductive approach for parameterized protocol safety.;364-367;4;Short papers 2;;
+2005;Ivica Crnkovic,Massimo Tivoli,Johan Fredriksson;A component-based development framework for supporting functional and non-functional analysis in control system design.;368-371;4;Short papers 2;;
+2005;Paulo Borba,Rohit Gheyi,Tiago Massoni;A rigorous approach for proving model refactorings.;372-375;4;Short papers 2;;
+2005;Nancy A. Day,Alma L. Juarez Dominguez;Compositional reasoning for port-based distributed systems.;376-379;4;Short papers 2;;
+2005;Li Tan;Model-based self-monitoring embedded programs with temporal logic specifications.;380-383;4;Short papers 2;;
+2005;Zhihao Chen,Daniel Port,Tim Menzies,Jairus Hihn;Specialization and extrapolation of software cost models.;384-387;4;Short papers 2;;
+2005;Salah Sadou,Chouki Tibermacine,Regis Fleurquin;NFRs-aware architectural evolution of component-based software.;388-391;4;Short papers 2;;
+2005;Jan Jurjens,Mark Yampolskiy;Code security analysis with assertions.;392-395;4;Short papers 2;;
+2005;Olivier Ridoux,Tristan Denmat,Mireille Ducasse;Data mining and cross-checking of execution traces: a re-interpretation of Jones, Harrold and Stasko test information.;396-399;4;Short papers 2;;
+2005;Houari A. Sahraoui,May Haydar,Alexandre Petrenko,Sergiy Boroday;Properties and scopes in web model checking.;400-404;5;Short papers 2;;
+2005;Leonardo Mostarda,Marco Autili,Massimo Tivoli,Paola Inverardi;Synthesis of correct and distributed adaptors for component-based systems: an automatic approach.;405-409;5;Short papers 2;;
+2005;Eric Mercer,Neha Rungta;A context-sensitive structural heuristic for guided search model checking.;410-413;4;Short papers 2;;
+2005;Corina S. Pasareanu,Willem Visser,Radek Pelanek;Test input generation for red-black trees using abstraction.;414-417;4;Short papers 2;;
+2005;Mary Lou Soffa,Daniel Mosse,Gregory M. Kapfhammer;Testing in resource constrained execution environments.;418-422;5;Short papers 2;;
+2005;Justin Ward,Garrin Kimmell,Perry Alexander;Prufrock: a framework for constructing polytypic theorem provers.;423-426;4;Short papers 2;;
+2005;Jim Whitehead,Guozheng Ge;Bamboo: an architecture modeling and code generation framework for configuration management systems.;427-428;2;Formal tool demo presentations;;
+2005;Hermann Kaindl,Roman Popp,Edin Arnautovic,Thomas Rock,Helmut Jelinek,Jurgen Falb;Using communicative acts in high-level specifications of user interfaces for their automated synthesis.;429-430;2;Formal tool demo presentations;;
+2005;Maria Cecilia Bastarrica,Jocelyn Simmonds;A tool for automatic UML model consistency checking.;431-432;2;Formal tool demo presentations;;
+2005;Norman E. Fenton,Patrick Cates,Martin Neil,Peter Hearty;Automated population of causal models for improved software risk assessment.;433-434;2;Formal tool demo presentations;;
+2005;Steve M. Easterbrook,Sebastian Uchitel;Introduction to doctoral symposium.;435;1;Doctoral symposium;;
+2005;Hui Wu,Jeffrey G. Gray;Automated generation of testing tools for domain-specific languages.;436-439;4;Doctoral symposium;;
+2005;Renee C. Bryce,Charles J. Colbourn;Constructing interaction test suites with greedy algorithms.;440-443;4;Doctoral symposium;;
+2005;Gudmund Grov;Verifying the correctness of hume programs: an approach combining deductive and algorithmic reasoning.;444-447;4;Doctoral symposium;;
+2005;Jeffrey G. Gray,Yuehua Lin;A model transformation approach to automatic model construction and evolution.;448-451;4;Doctoral symposium;;
+2005;Shiva Nejati;Formal support for merging and negotiation.;456-460;5;Doctoral symposium;;
+2005;Jiang Zheng;In regression testing selection when source code is not available.;452-455;4;Doctoral symposium;;
+2005;Carsten Rudolph,Antonio Mana Gomez;Specification and automated processing of security requirements (SAPS'05).;460;1;Workshops;;
+2005;Michael Kass,Paul E. Black;Software security assurance tools, techniques and metrics (SSATTM).;461;1;Workshops;;
+2005;Giuliano Antoniol,Jane Huffman Hayes,Jonathan I. Maletic,Jane Cleland-Huang;3rd international workshop on traceability in emerging forms of software engineering (TEFSE 2005).;462;1;Workshops;;
+2005;Mark A. Jones,Dieter Hutter,Bernd M. Fischer,Ewen Denney;Software certificate management (SoftCeMent'05).;463;1;Workshops;;
+2005;Andrea Zisman,Thomas Ellman;2nd Workshop on the state of the art in automated software engineering.;464;1;Workshops;;
+2004;Alessandro Orso,Mary Jean Harrold,Taweesup Apiwattanapong;A Differencing Algorithm for Object-Oriented Programs.;2-13;12;Program Analysis;;selected
+2004;Christos Kloukinas;Data-Mining Synthesised Schedulers for Hard Real-Time Systems.;14-23;10;Program Analysis;;selected
+2004;Jeff Green,Julian Richardson;Automating Traceability for Generated Software Artifacts .;24-33;10;Program Analysis;;selected
+2004;John Grundy,Yuhong Cai,John G. Hosking;Experiences Integrating and Scaling a Performance Test Bed Generator with an Open Source CASE Tool.;36-45;10;Tool Support for V&V Activities;;selected
+2004;Guilherme Travassos,Marcos Kalinowski;Computational Framework for Supporting Software Inspections.;46-55;10;Tool Support for V&V Activities;;selected
+2004;Andrea Zisman,Robert J. Hall;Validating Personal Requirements by Assisted Symbolic Behavior Browsing .;56-66;11;Tool Support for V&V Activities;;selected
+2004;Takashi Kobayashi,Teruyoshi Zenmyo,Motoshi Saeki;Automated Support for Framework Selection and Customization.;68-77;10;Architecture and Frameworks;;selected
+2004;Mika Pussinen,Johannes Koskinen,Tommi Mikkonen,Imed Hammouda,Mika Katara;Adaptable Concern-Based Framework Specialization in UML.;78-87;10;Architecture and Frameworks;;selected
+2004;Matthew McNaughton,Maria Cutumisu,Dominique Parker,Jonathan Schaeffer,James Redford,Duane Szafron;ScriptEase: Generative Design Patterns for Computer Role-Playing Games.;88-99;12;Architecture and Frameworks;;selected
+2004;Matthias Book,Volker Gruhn;Modeling Web-Based Dialog Flows for Automatic Dialog Control .;100-109;10;Architecture and Frameworks;;selected
+2004;Christer Persson,Nur Yilmazturk;Establishment of Automated Regression Testing at ABB: Industrial Experience Report on 'Avoiding the Pitfalls'.;112-121;10;Testing 1;;selected
+2004;Shuhao Li,Zhichang Qi,Ji Wang;Property-Oriented Test Generation from UML Statecharts.;122-131;10;Testing 1;;selected
+2004;Amie L. Souter,Lori L. Pollock,Sreedevi Sampath,Valentin Mihaylov;Scalable Approach to User-Session based Testing of Web Applications through Concept Analysis.;132-141;10;Testing 1;;selected
+2004;Mana Taghdiri;Inferring Specifications to Detect Errors in Code.;144-153;10;Verification of Code;;selected
+2004;Robby,Willem Visser,Oksana Tkachuk,Matthew B. Dwyer;Analyzing Interaction Orderings with Model Checking.;154-163;10;Verification of Code;;selected
+2004;Daniel R. Licata,Shriram Krishnamurthi;Verifying Interactive Web Programs.;164-173;10;Verification of Code;;selected
+2004;Mats Per Erik Heimdahl,George Devaraj;Test-Suite Reduction for Model Based Tests: Effects on Test Quality and Implications for Testing.;176-185;10;Testing 2;;selected
+2004;Qing Xie,Atif M. Memon;Using Transient/Persistent Errors to Develop Automated Test Oracles for Event-Driven Software.;186-195;10;Testing 2;;selected
+2004;Tao Xie,Darko Marinov,David Notkin;Rostra: A Framework for Detecting Redundant Object-Oriented Unit Tests.;196-205;10;Testing 2;;selected
+2004;John Grundy,Sebastian Bossung,Hermann Stoeckle,Robert Amor,John G. Hosking;Automated Data Mapping Specification via Schema Heuristics and User Interaction.;208-217;10;Automated Programmer Assistance;;selected
+2004;Gregory H. Cooper,Steven P. Reiss,Guillaume Marceau,Shriram Krishnamurthi;Dataflow Language for Scriptable Debugging.;218-227;10;Automated Programmer Assistance;;selected
+2004;Rosco Hill,Joe Rideout;Automatic Method Completion.;228-235;8;Automated Programmer Assistance;;selected
+2004;Martin Wirsing,Axel Rauschmayer,Alexander Knapp;Consistency Checking in an Infrastructure for Large-Scale Generative.;238-247;10;Modular Verification ;;selected
+2004;Tevfik Bultan,Aysu Betin-Can;Verifiable Concurrent Programming Using Concurrency Controllers.;248-257;10;Modular Verification ;;selected
+2004;Kathi Fisler,Pascal Van Hentenryck,Shriram Krishnamurthi,Colin Blundell;Parameterized Interfaces for Open System Verification of Product Lines.;258-267;10;Modular Verification ;;selected
+2004;John Grundy,Hermann Stoeckle,Ewan D. Tempero,John G. Hosking,Shuping Cao;An Architecture for Generating Web-Based, Thin-Client Diagramming Tools.;270-273;4;Short Papers;;
+2004;Hai-yan Yang,Maozhong Jin,Chao Liu 0002,Chang Liu,Ji Wu,Xiao-xia Jia;A Statistical Model to Locate Faults at Input Level.;274-277;4;Short Papers;;
+2004;Evandro Cesar Freiberger,Ricardo Pereira e Silva;Helping Object-Oriented Framework Use and Evaluation by means of Historical Use Information.;278-281;4;Short Papers;;
+2004;Tiong Hoe Loh,Siau-Cheng Khoo,Vivy Suhendra,Wee Kheng Leow;Heuristic Search with Reachability Tests for Automated Generation of Test Programs.;282-285;4;Short Papers;;
+2004;Dirk Heuzeroth;COMPASS: Tool-Supported Adaptation of Interactions.;286-289;4;Short Papers;;
+2004;Bruno Marre,Patricia Mouy,Nicky Williams;On-the-Fly Generation of K-Path Tests for C Functions.;290-293;4;Short Papers;;
+2004;Catherine Oriat,Olivier Maury,Yves Ledru,Jean-Louis Lanet,Lydie du Bousquet;Case Study in JML-Based Software Validation.;294-297;4;Short Papers;;
+2004;Antonio D'Onofrio,Daniele Compare,Paola Inverardi,Antinisca Di Marco;Automated Performance Validation of Software Design: An Industrial Experience.;298-301;4;Short Papers;;
+2004;Steven P. Reiss;CHET: A System for Checking Dynamic Specifications.;302-305;4;Short Papers;;
+2004;Franck Fleurey,Yves Le Traon,Benoit Baudry;From Testing to Diagnosis: An Automated Approach.;306-309;4;Short Papers;;
+2004;Silvia Breu,Jens Krinke;Aspect Mining Using Event Traces.;310-315;6;Short Papers;;
+2004;Jamie Andrews;Case Study of Coverage-Checked Random Data Structure Testing.;316-319;4;Short Papers;;
+2004;Joanne M. Atlee,Nancy A. Day,Yun Lu,Jianwei Niu;Mapping Template Semantics to SMV.;320-325;6;Short Papers;;
+2004;Wei Yu,Jun Li,Gregory Butler;Refactoring Use Case Models on Episodes.;328-331;4;Short Papers;;
+2004;Kevin J. Sullivan,Hridesh Rajan,Jia Xu;Understanding Aspects via Implicit Invocation.;332-335;4;Short Papers;;
+2004;Filip Van Rysselberghe,Serge Demeyer;Evaluating Clone Detection Techniques from a Refactoring Perspective.;336-339;4;Short Papers;;
+2004;Guy H. Broadfoot,Philippa J. Hopcroft;Combining the Box Structure Development Method and CSP.;340-345;6;Short Papers;;
+2004;Susan Khor,Peter Grogono;Using a Genetic Algorithm and Formal Concept Analysis to Generate Branch Coverage Test Data Automatically.;346-349;4;Short Papers;;
+2004;Sascha Konrad,Betty H. C. Cheng,Laura A. Campbell;Automated Analysis of Timing Information in UML Diagrams.;350-353;4;Short Papers;;
+2004;Mats Per Erik Heimdahl,Yunja Choi;Combination Model Checking: Approach and a Case Study.;354-357;4;Short Papers;;
+2004;Jutta Eusterbrock;Context-Aware Code Certification.;358-361;4;Short Papers;;
+2004;Sven Johann,Alexander Egyed;Instant and Incremental Transformation of Models.;362-365;4;Short Papers;;
+2004;Zakarya Alzamil;RCAT: A Performance Analysis Tool.;366-370;5;Short Papers;;
+2004;Nikunj R. Mehta,Nenad Medvidovic,Farhad Arbab,Marjan Sirjani;Modeling Behavior in Compositions of Software Architectural Primitives.;371-374;4;Short Papers;;
+2004;Jan Bosch,Anton Jansen;Evaluation of Tool Support for Architectural Evolution.;375-378;4;Short Papers;;
+2004;George Spanoudakis,Khaled Mahbub;Requirements Monitoring for Service-Based Systems: Towards a framework based on Event Calculus.;379-384;6;Short Papers;;
+2004;Matthew McNaughton,Maria Cutumisu,Dominique Parker,Jonathan Schaeffer,James Redford,Duane Szafron;ScriptEase: Generating Scripting Code for Computer Role-Playing Games.;386-387;2;Formal Tool Demo Presentations;;
+2004;Lothar Hotz,Thorsten Krebs,Katharina Wolter;Using a Structure-based Configuration Tool for Product Derivation.;388-391;4;Formal Tool Demo Presentations;;
+2004;Guilherme Travassos,Marcos Kalinowski;ISPIS: A Framework Supporting Software Inspection Processes.;392-393;2;Formal Tool Demo Presentations;;
+2004;Michele Lanza;CodeCrawler - Polymetric Views in Action.;394-395;2;Formal Tool Demo Presentations;;
+2004;Brian Nielsen,Kim Guldstrand Larsen,Marius Mikucionis;T-UPPAAL: Online Model-based Testing of Real-Time Systems.;396-397;2;Formal Tool Demo Presentations;;
+2004;R. Geoff Dromey,Kirsten Winter,Peter Alexander Lindsay,Ian J. Hayes,Cameron Smith,David A. Carrington;An Environment for Building a System out of its Requirements.;398-399;2;Formal Tool Demo Presentations;;
+2004;Naveed Arshad;Automated Dynamic Reconfiguration using AI Planning.;402-405;4;Doctoral Symposium ;;
+2004;Rudolf Ramler;Decision Support for Test Management in Iterative and Evolutionary Development.;406-409;4;Doctoral Symposium ;;
+2004;May Haydar;Formal Framework for Automated Analysis and Verification of Web-Based Applications.;410-413;4;Doctoral Symposium ;;
+2004;Gaoyan Xie;Decompositional Verification of Component-based Systems-A Hybrid Approach.;414-417;4;Doctoral Symposium ;;
+2004;Roberto Capuano;Interactive Visualization of Concurrents Programs.;418-421;4;Doctoral Symposium ;;
+2004;Naoufel Boulila;Group Support for Distributed Collaborative Concurrent Software Modeling.;422-425;4;Doctoral Symposium ;;
+2004;Norbert Seyff;Collaborative Tools for Mobile Requirements Acquisition.;426-429;4;Doctoral Symposium ;;
+2004;Reiko Heckel,Ping Guo;Modeling and Simulation of Context-Aware Mobile Systems.;430-433;4;Doctoral Symposium ;;
+2003;Paul Grunbacher,Stefan Biffl,Michael Halling;An Empirical Study on Groupware Support for Software Inspection Meetings.;4-11;8;Regular Papers;Requirements, Interfaces and Groupware;selected
+2003;Steve M. Easterbrook,Mehrdad Sabetzadeh;Analysis of Inconsistency in Graph-Based Viewpoints: A Category-Theoretic Approach.;12-21;10;Regular Papers;Requirements, Interfaces and Groupware;selected
+2003;Andrew Strelzoff,Linda R. Petzold;Deriving User Interface Requirements from Densely Interleaved Scientific Computing Applications.;22-29;8;Regular Papers;Requirements, Interfaces and Groupware;selected
+2003;Steven P. Reiss,Manos Renieris;Fault Localization With Nearest Neighbor Queries.;30-39;10;Testing I;;selected
+2003;Tao Xie,David Notkin;Tool-Assisted Unit Test Selection Based on Operational Violations.;40-48;9;Testing I;;selected
+2003;Zachary V. Heidepriem,Neelam Gupta;A New Structural Coverage Criterion for Dynamic Detection of Program Invariants.;49-59;11;Testing I;;selected
+2003;Dean Herington,P. David Stotts;DeCo: A Declarative Coordination Framework for Scientific Model Federations.;60-69;10;Software Architectures and Distributed Systems;;selected
+2003;Laurent Reveillere,Charles Consel;A Programmable Client-Server Model: Robust Extensibility via DSLs.;70-79;10;Software Architectures and Distributed Systems;;selected
+2003;Thomas Ellman;Specification and Synthesis of Hybrid Automata for Physics-Based Animation.;80-93;14;Software Architectures and Distributed Systems;;selected
+2003;Daniel B. Jackson,Ilya Shlyakhter,Manu Sridharan,Mana Taghdiri,Robert Seater;Debugging Overconstrained Declarative Models Using Unsatisfiable Cores.;94-105;12;Model Checking;;selected
+2003;Jakub Chaloupka,Jiri Barnat,Lubos Brim;Parallel Breadth-First Search LTL Model-Checking.;106-115;10;Model Checking;;selected
+2003;Corina S. Pasareanu,Oksana Tkachuk,Matthew B. Dwyer;Automated Environment Generation for Software Model Checking.;116-129;14;Model Checking;;selected
+2003;Marc Fleury,Yannis Smaragdakis,Stephan Urbanski,Eli Tilevich;Aspectizing Server-Side Distribution.;130-141;12;Software Components;;selected
+2003;Brandon Morel,Perry Alexander;Automating Component Adaptation for Reuse.;142-151;10;Software Components;;selected
+2003;Jeffrey Kramer,Howard Foster,Jeffrey N. Magee,Sebastian Uchitel;Model-based Verification of Web Service Compositions.;152-163;12;Software Components;;selected
+2003;Adithya Nagarajan,Atif M. Memon,Ishan Banerjee;What Test Oracle Should I Use for Effective GUI Testing?;164-173;10;Testing II;;selected
+2003;Sharon Goldwater,Yanif Ahmad,Tudor Antoniu,Shriram Krishnamurthi;A Type System for Statically Detecting Spreadsheet Errors.;174-183;10;Testing II;;selected
+2003;Phyllis G. Frankl,Yuetang Deng,Zhongqiang Chen;Testing Database Transaction Concurrency.;184-195;12;Testing II;;selected
+2003;Rickard A. Aberg,Anne-Francoise Le Meur,Gilles Muller,Mario Sudholt,Julia L. Lawall;On the automatic evolution of an OS kernel using temporal logic and AOP.;196-204;9;Software Evolution and Maintenance;;selected
+2003;Noah Snavely,Saumya K. Debray,Gregory R. Andrews;Unspeculation.;205-214;10;Software Evolution and Maintenance;;selected
+2003;P. David Stotts,Jason McC. Smith;SPQR: Flexible Automated Design Pattern Extraction From Source Code.;215-224;10;Software Evolution and Maintenance;;selected
+2003;Gail C. Murphy,Martin P. Robillard;Automatically Inferring Concern Code from Program Investigation Activities.;225-235;11;Software Evolution and Maintenance;;selected
+2003;Wolfgang Emmerich,James Skene;A Model-Driven Approach to Non-Functional Analysis of Software Architectures.;236-239;4;Short Papers;;
+2003;Wolfgang Mayer,Markus Stumptner;Extending Diagnosis to Debug Programs with Exceptions.;240-244;5;Short Papers;;
+2003;Dirk Heuzeroth,Welf Lowe,Stefan Mandel;Generating Design Pattern Detectors from Pattern Specifications.;245-248;4;Short Papers;;
+2003;Harshinder Singh,Bojan Cukic,Lan Guo;Predicting Fault Prone Modules by the Dempster-Shafer Belief Networks.;249-252;4;Short Papers;;
+2003;Peter Fritzson,Peter Bunus;Semi-Automatic Fault Localization and Behavior Verification for Physical System Simulation Models.;253-258;6;Short Papers;;
+2003;Sebastiano Vigna;Automatic Generation of Content Management Systems from EER-Based Specifications.;259-262;4;Short Papers;;
+2003;Clementine Nebut,Simon Pickin,Yves Le Traon,Jean-Marc Jezequel;Automated Requirements-based Generation of Test Cases for Product Families.;263-266;4;Short Papers;;
+2003;Stephane Ducasse,Oscar Nierstrasz,Gabriela Arevalo;XRay Views: Understanding the Internals of Classes.;267-270;4;Short Papers;;
+2003;T. C. Nicholas Graham,Julian Ball,Christopher J. Turner,Hugh D. Stewart,David Holman,Christopher Wolfe,Arthur G. Ryman;Visual Constraint Diagrams: Runtime Conformance Checking of UML Object Models versus Implementations.;271-276;6;Short Papers;;
+2003;Herve Albin-Amiot,Yann-Gael Gueheneuc;A Pragmatic Study of Binary Class Relationships.;277-280;4;Short Papers;;
+2003;Daniel R. Licata,Shriram Krishnamurthi,Christopher D. Harris;The Feature Signatures of Evolving Programs.;281-285;5;Short Papers;;
+2003;Mirko Conrad,Ingo Sturmer;Test Suite Design for Code Generation Tools.;286-290;5;Short Papers;;
+2003;Mark Ryan,Hannah Harris;Theoretical Foundations of Updating Systems.;291-294;4;Short Papers;;
+2003;Harald Holz;An Incremental Approach to Task-Specific Information Delivery in SE Processe.;295-298;4;Short Papers;;
+2003;David S. Wile;Architecture Style-Based Calculi for Non-functional Properties.;299-303;5;Short Papers;;
+2003;Grigore Rosu,Feng Chen;Certifying Measurement Unit Safety Polic.;304-309;6;Short Papers;;
+2003;Eugenia Diaz,Javier Tuya,Raquel Blanco;Automated Software Testing Using a Metaheuristic Technique Based on Tabu Search.;310-313;4;Short Papers;;
+2003;Mats Per Erik Heimdahl,Yunja Choi;Model Checking Software Requirement Specifications using Domain Reduction Abstraction.;314-317;4;Short Papers;;
+2003;Scott A. Hendrickson,Richard N. Taylor,Eric M. Dashofy;An Approach for Tracing and Understanding Asynchronous Architectures.;318-322;5;Short Papers;;
+2003;Alejandra Garrido,Ralph E. Johnson;Refactoring C with Conditional Compilation.;323-326;4;Short Papers;;
+2003;Paulo Asterio de Castro Guerra,Moacir C. da Silva Jr.,Cecilia Mary Fischer Rubira;A Java Component Model for Evolving Software Systems.;327-330;4;Short Papers;;
+2003;Abhik Roychoudhury;Depiction and Playout of Multi-threaded Program Executions.;331-336;6;Short Papers;;
+2003;Johann Schumann,Bernd M. Fischer;Applying AutoBayes to the Analysis of Planetary Nebulae Images.;337-342;6;Short Papers;;
+2003;Bill J. Ellis,Andrew Ireland;Automation for Exception Freedom Proofs.;343-346;4;Short Papers;;
+2003;Andrea Zisman,Robert J. Hall;Overview of OpenModel-based Validation with Partial Information.;347-351;5;Short Papers;;
+2003;Armin Eberlein,Mohamed Shehata;Detecting Requirements Interactions: A Three-Level Framework.;352-355;4;Doctoral Symposium Papers;;
+2003;Aaron Searle,David Abramson,John Gough;Automating Relative Debugging.;356-359;4;Doctoral Symposium Papers;;
+2003;J. Michael Moore;Communicating Requirements Using End-User GUI Constructions with Argumentation.;360-363;4;Doctoral Symposium Papers;;
+2003;Aditya Agrawal;Graph Rewriting And Transformation (GReAT): A Solution For The Model Integrated Computing (MIC) Bottleneck.;364-368;5;Doctoral Symposium Papers;;
+2003;David Safranek;Visual Specification of Concurrent Systems.;369-372;4;Doctoral Symposium Papers;;
+2003;Mahmoud Nassar;VUML : a Viewpoint oriented UML Extension.;373-376;4;Doctoral Symposium Papers;;
+2003;Michael L. Collard;An Infrastructure to Support Meta-Differencing and Refactoring of Source Code.;377-380;4;Doctoral Symposium Papers;;
+2002;Howard Barringer,Corina S. Pasareanu,Dimitra Giannakopoulou;Assumption Generation for Software Component Verification.;3-12;10;Regular Papers;Software Design and Synthesis;selected
+2002;Marc Esteva,Carles Sierra,Wamberto Weber Vasconcelos;An Approach to Rapid Prototyping of Large Multi-Agent Systems.;13-22;10;Regular Papers;Software Design and Synthesis;selected
+2002;Kai Tan,Steven Bromling,Steve MacDonald,Jonathan Schaeffer,Duane Szafron,John Anvik;Generative Design Patterns.;23-;0;Regular Papers;Software Design and Synthesis;selected
+2002;Michael W. Whalen,Mats Per Erik Heimdahl,Yunja Choi;Deviation Analysis Through Model Checking.;37-46;10;Verification and Validation;;selected
+2002;John Grundy,Guoliang Ding;Automatic Validation of Deployed J2EE Components Using Aspects.;47-;0;Verification and Validation;;selected
+2002;Alessandro Maccari,Francesco Maccari,Claudio Riva;On CASE Tool Usage at Nokia.;59-68;10;Experience Reports;;selected
+2002;Steve Roach,Jeffrey Van Baalen;Experience Report on Automated Procedure Construction for Deductive Synthesis.;69-;0;Experience Reports;;selected
+2002;Don S. Batory,Roberto Erick Lopez-Herrejon,Jean-Philippe Martin;Generating Product-Lines of Product-Families.;81-92;12;Software Specification;;selected
+2002;Thomas Ellman,Jason Fotinatos,Ryan Deak;Knowledge-Based Synthesis of Numerical Programs for Simulation of Rigid-Body Systems in Physics-Based Animation.;93-;0;Software Specification;;selected
+2002;Robert J. Hall;CPPROFJ: Aspect-Capable Call Path Profiling of Multi-Threaded Java Applications.;107-116;10;Program Understanding;;selected
+2002;Remi Douence,Yann-Gael Gueheneuc,Narendra Jussien;No Java without Caffeine: A Tool for Dynamic Analysis of Java Programs.;117-;0;Program Understanding;;selected
+2002;Pascal Fenkam,Mehdi Jazayeri,Harald Gall;Constructing Corba-Supported Oracles for Testing: A Case Study in Automated Software Testing.;129-138;10;Testing;;selected
+2002;Pat Faherty,Patrick J. Schroeder,Bogdan Korel;Generating Expected Results for Automated Black-Box Testing.;139-148;10;Testing;;selected
+2002;Srinivas Visvanathan,Neelam Gupta;Generating Test Data for Functions with Pointer Inputs.;149-;0;Testing;;selected
+2002;Paul Grunbacher,Alexander Egyed;Automating Requirements Traceability: Beyond the Record & Replay Paradigm.;163-171;9;Requirements Engineering;;selected
+2002;Kathleen Suzanne Barber,Thomas J. Graser,Jim Holt;Enabling Iterative Software Architecture Derivation Using Early Non-Functional Property Evaluation.;172-182;11;Requirements Engineering;;selected
+2002;Sina Tootoonia,Tim Menzies,Ying Hu,Siri-on Setamanit,David Raffo;Model-Based Tests of Truisms.;183-;0;Requirements Engineering;;selected
+2002;Kathi Fisler,Harry C. Li,Shriram Krishnamurthi;Interfaces for Modular Feature Verification.;195-204;10;Reasoning Technology;;selected
+2002;Brian A. Malloy,Tanton H. Gibbs,James F. Power;Automated Validation of Class Invariants in C ++ Applications.;205-;0;Reasoning Technology;;selected
+2002;Clinton L. Jeffery,Scott Underwood,Mikhail Auguston;A Framework for Automatic Debugging.;217-222;6;Short Papers;;
+2002;Karsten Loer,Michael D. Harrison;Towards Usable and Relevant Model Checking Techniques for the Analysis of Dependable Interactive Systems.;223-226;4;Short Papers;;
+2002;Alice Miller,Muffy Thomas;Automatic Verification of any Number of Concurrent, Communicating Processes.;227-230;4;Short Papers;;
+2002;Paul G. Sorenson,Jehad Al-Dallal;System Testing for Object-Oriented Frameworks Using Hook Technology.;231-236;6;Short Papers;;
+2002;Tim Menzies,David Owen,Bojan Cukic;What Makes Finite-State Models More (or Less) Testable?;237-240;4;Short Papers;;
+2002;Marlon E. R. Vieira,Debra J. Richardson;Analyzing Dependencies in Large Component-Based Systems.;241-244;4;Short Papers;;
+2002;Marcio S. Dias,Debra J. Richardson;Identifying Cause & Effect Relations between Events in Concurrent Event-Based Components.;245-248;4;Short Papers;;
+2002;Hee Beng Kuan Tan,Weihong Li;Systematic Bridging the Gap between Requirements and OO Design.;249-252;4;Short Papers;;
+2002;Franck Fleurey,Yves Le Traon,Benoit Baudry,Jean-Marc Jezequel;Automatic Test Cases Optimization Using a Bacteriological Adaptation Model: Application to .NET Component.;253-256;4;Short Papers;;
+2002;Juan Sanchez,Hugo Estrada,Oscar Pastor,Alicia Martinez Rebollar;From Early Requirements to User Interface Prototyping: A Methodological Approach.;257-260;4;Short Papers;;
+2002;Falk Fraikin,Thomas Leonhardt;SeDiTeC - Testing Based on Sequence Diagrams.;261-266;6;Short Papers;;
+2002;Gabor Huszerl,Andras Pataricza,Istvan Majzik,Daniel Varro,Gyorgy Csertan,Zsigmond Pap;VIATRA - Visual Automated Transformations for Formal Verification and Validation of UML Models.;267-270;4;Short Papers;;
+2002;Thomas Stephen Edward Maibaum,Nazareno Aguirre;A Temporal Logic Approach to the Specification of Reconfigurable Component-Based Systems.;271-274;4;Short Papers;;
+2002;Rui Fu,Jamie Andrews,Vicky D. Liu;Adding Value to Formal Test Oracles.;275-248;-26;Short Papers;;
+2002;Xuejun Chen;Dependence Management for Dynamic Reconfiguration of Component-Based Distributed Systems.;279-284;6;Short Papers;;
+2002;Salah Bouktif,Balazs Kegl,Doina Precup,Danielle Azar,Houari A. Sahraoui;Combining and Adapting Software Quality Predictive Models by Genetic Algorithms.;285-288;4;Short Papers;;
+2002;Jonathan P. Whittle,Grigore Rosu;Towards Certifying Domain-Specific Properties of Synthesized Code.;289-294;6;Short Papers;;
+2002;Petko Valtchev,David Grosser,Houari A. Sahraoui;Predicting Software Stability Using Case-Based Reasoning.;295-;0;Short Papers;;
+2002;David F. Redmiles,Yves Ledru;Report on the Workshop on the State of the Art in Automated Software Engineering.;307-;0;Workshop Report;;
+2002;Sigrid Goldmann;A Model of Planning and Enactment Support in Complex Software Development Projects.;311;1;Doctoral Symposium;;
+2002;Jitka Crhova;Distributed Modular Model Checking.;312;1;Doctoral Symposium;;
+2002;Pierre-Yves Cunin,Abdelmadjid Ketfi,Noureddine Belkhatir;Adapting Applications on the Fly.;313;1;Doctoral Symposium;;
+2002;Anh-Tuyet Le;Process Support for Tools Interoperability.;314;1;Doctoral Symposium;;
+2002;Alin Stefanescu;Automatic Synthesis of Distributed Systems.;315;1;Doctoral Symposium;;
+2002;Karim-Cyril Griche;Automatic Inter-Procedural Test Case Generation.;316;1;Doctoral Symposium;;
+2002;Ragnhild Van Der Straeten;Semantic Links and Co-Evolution in Object-Oriented Software Development.;317;1;Doctoral Symposium;;
+2001;Sandrine-Dominique Gouraud,Marie-Claude Gaudel,B. Marr,Alain Denise;A New Way of Automating Statistical Testing Methods.;5-12;8;Regular Papers;Testing I;selected
+2001;Nguyen Tran Sy,Yves Deville;Automatic Test Data Generation for Programs with Integer and Float Variables.;13-21;9;Regular Papers;Testing I;selected
+2001;Darko Marinov,Sarfraz Khurshid;TestEra: A Novel Framework for Automated Testing of Java Programs.;22-;0;Regular Papers;Testing I;selected
+2001;Rick Mugridge,John Grundy,John G. Hosking,Paul Kendall;Generating EDI Message Translations from Visual Specifications.;35-42;8;Transformation/Construction I;;selected
+2001;Ewen Denney;The Synthesis of a Java Card Tokenization Algorithm.;43-50;8;Transformation/Construction I;;selected
+2001;Richard C. Holt,Hoda Fahmy,James R. Cordy;Wins and Losses of Algebraic Transformations of Software Architectures.;51-62;12;Transformation/Construction I;;selected
+2001;Colin O'Halloran;Session II-A: Verification and Validation/High-Assurance Systems Acceptance-Based Assurance.;63-70;8;Transformation/Construction I;;selected
+2001;Robert J. Hall;Specification Modeling and Validation Applied to a Family of Network Security Products.;71-80;10;Transformation/Construction I;;selected
+2001;Michael R. Lowry,Thomas Pressburger,Grigore Rosu;Certifying Domain-Specific Policies.;81-90;10;Transformation/Construction I;;selected
+2001;Scott Ranville,Steve Sims,Rance Cleaveland,Ken Butts;Automated Validation of Software Models.;91-;0;Transformation/Construction I;;selected
+2001;Gerhard G. Fischer,Yunwen Ye;Context-Aware Browsing of Large Component Repositories.;99-106;8;Structure;;selected
+2001;Andrian Marcus,Jonathan I. Maletic;Identification of High-Level Concept Clones in Source Code.;107-114;8;Structure;;selected
+2001;Anthony Finkelstein,Wolfgang Emmerich,Christian Nentwich;Static Consistency Checking for Distributed Specifications.;115-;0;Structure;;selected
+2001;Catherine Oriat,Pierre Bontron,Yves Ledru,Olivier Maury,Lydie du Bousquet,Marie-Laure Potet;Test Purposes: Adapting the Notion of Specification to Testing.;127-134;8;Testing II;;selected
+2001;Klaus Havelund,Grigore Rosu;Monitoring Programs Using Rewriting.;135-143;9;Testing II;;selected
+2001;Praveen Rao,Neelam Gupta;Program Execution-Based Module Cohesion Measurement.;144-;0;Testing II;;selected
+2001;Dusko Pavlovic,Douglas R. Smith;Composition and Refinement of Behavioral Specifications.;157-165;9;Transformation/Construction II;;selected
+2001;Yann-Gael Gueheneuc,Herve Albin-Amiot,Narendra Jussien,Pierre Cointe;Instantiating and Detecting Design Patterns: Putting Bits and Pieces Together.;166-173;8;Transformation/Construction II;;selected
+2001;Simone Scriboni,Paola Inverardi;Connectors Synthesis for Deadlock-Free Component-Based Architectures.;174-;0;Transformation/Construction II;;selected
+2001;Kazuhiro Ogata,Kokichi Futatsugi;Modeling and Verification of Distributed Real-Time Systems Based on CafeOBJ.;185-192;8;Analysis/Real Time;;selected
+2001;John Grundy,Yuhong Cai,Anna Liu;Generation of Distributed System Test-Beds from High-Level Software Architecture Descriptions.;193-200;8;Analysis/Real Time;;selected
+2001;Paul Grunbacher,Stefan Biffl,Michael Halling;Tailoring a COTS Group Support System for Software Requirements Inspection.;201-;0;Analysis/Real Time;;selected
+2001;Matthias Felleisen,Shriram Krishnamurthi,Paul T. Graunke,Robert Bruce Findler;Automatically Restructuring Programs for the We.;211-222;12;Reverse Engineering and Integration;;selected
+2001;Robert M. Balzer,Alexander Egyed;Unfriendly COTS Integration-Instrumentation and Interfaces for Improved Plugability.;223-231;9;Reverse Engineering and Integration;;selected
+2001;Terry Shikano,R. E. Kurt Stirewalt,Spencer Rugaber;Adequate Reverse Engineering.;232-;0;Reverse Engineering and Integration;;selected
+2001;Twan Basten,Dragan Bosnacki;Enhancing Partial-Order Reduction via Process Clustering.;245-253;9;Model Checking;;selected
+2001;Radu Iosif;Exploiting Heap Symmetries in Explicit-State Model Checking of Software.;254-261;8;Model Checking;;selected
+2001;Guillaume P. Brat,Willem Visser;Combining Static Analysis and Model Checking for Software Analysis.;262-;0;Model Checking;;selected
+2001;Jean Bezivin,Olivier Gerbe;Towards a Precise Definition of the OMG/MDA Framework.;273-280;8;Specification and Model Engineering;;selected
+2001;Rajeev Alur,Radu Grosu;Shared Variables Interaction Diagrams.;281-288;8;Specification and Model Engineering;;selected
+2001;Jeanine Souquieres,Hung Ledang;Modeling Class Operations in B: Application to UML Behavioral Diagrams.;289-296;8;Specification and Model Engineering;;selected
+2001;Scott D. Stoller,Radu Grosu,Scott A. Smolka,Jingyu Yan,Yanhong A. Liu;Automated Software Engineering Using Concurrent Class Machines.;297-;0;Specification and Model Engineering;;selected
+2001;Andrew Ireland,Andrew Cook,Greg Michaelson;Higher Order Function Synthesis Through Proof Planning.;307-310;4;Short Papers;;
+2001;Marianne Huchard,Gilles Ardourel;AGATE, Access Graph-Based Tools for Handling Encapsulation.;311-314;4;Short Papers;;
+2001;Wuwei Shen,James Huggins,Kevin J. Compton;A UML Validation Toolset Based on Abstract State Machines.;315-318;4;Short Papers;;
+2001;Dilian Gurov,Thomas Noll,Lars-ake Fredlund;Semi-Automated Verification of Erlang Code.;319-323;5;Short Papers;;
+2001;Ian Stark,Alan Bundy,Alex Blewitt;Automatic Verification of Java Design Patterns.;324-327;4;Short Papers;;
+2001;Edu Metz,Raimondas Lencevicius,Alexander Ran;Tracing Execution of Software for Design Coverage.;328-332;5;Short Papers;;
+2001;Vladimir Levin,Fei Xie,James C. Browne;Model Checking for an Executable Subset of UML.;333-336;4;Short Papers;;
+2001;James M. Bieman,Sudipto Ghosh,Roger T. Alexander;A Technique for Mutation of Java Objects.;337-340;4;Short Papers;;
+2001;Kathleen Suzanne Barber,Thomas J. Graser,Jim Holt;Providing Early Feedback in the Development Cycle Through Automated Application of Model Checking to Software Architectures.;341-345;5;Short Papers;;
+2001;Henry Muccini,Paola Inverardi,Patrizio Pelliccione;Automated Check of Architectural Models Consistency Using SPIN.;346-349;4;Short Papers;;
+2001;Valerie Issarny,Apostolos Zarras;Automating the Performance and Reliability Analysis of Enterprise Information Systems.;350-353;4;Short Papers;;
+2001;Jeffrey Kramer,Artur S. d'Avila Garcez,Bashar Nuseibeh,Alessandra Russo;An Analysis-Revision Cycle to Evolve Requirements Specifications.;354-358;5;Short Papers;;
+2001;Andrea Zisman,Alexander Kozlenkov;Knowledge Base Approach to Consistency Management of UML Specification.;359-363;5;Short Papers;;
+2001;Jerome Vassy,Ioannis Parissis;Strategies for Automated Specification-Based Testing of Synchronous Software.;364-367;4;Short Papers;;
+2001;Tony Wicks,Iain McLaren;Developing Generative Frameworks Using XML.;368-372;5;Short Papers;;
+2001;Yannick Chevalier,Laurent Vigneron;A Tool for Lazy Verification of Security Protocols.;373-376;4;Short Papers;;
+2001;Fabien Peureux,Bruno Legeard;Generation of Functional Test Sequences from B Formal Specifications-Presentation and Industrial Case Study.;377-381;5;Short Papers;;
+2001;Tevfik Bultan,Tuba Yavuz-Kahveci;Action Language Verifier.;382-386;5;Short Papers;;
+2001;Alexander Egyed;Scalable Consistency Checking Between Diagrams-The ViewIntegra Approach.;387-390;4;Short Papers;;
+2001;Tim Menzies,James D. Kiper;Better Reasoning About Software Engineering Activities.;391-394;4;Short Papers;;
+2001;Guillaume P. Brat,Johann Schumann,Thomas Pressburger,John Penix,Michael R. Lowry,Phil Oh,Jeffrey Van Baalen,Jonathan P. Whittle,Peter Robinson;Amphion/NAV: Deductive Synthesis of State Estimation Software.;395-399;5;Short Papers;;
+2001;Martin Erwig;Programs Are Abstract Data Types.;400-403;4;Short Papers;;
+2001;Sunil Gupta,Gerald C. Gannod;An Automated Tool for Analyzing Petri Nets Using SPIN.;404-407;4;Short Papers;;
+2001;Jan Jurjens,Guido Wimmel;Formally Testing Fail-Safety of Electronic Purse Protocols.;408-411;4;Short Papers;;
+2001;Dimitra Giannakopoulou,Klaus Havelund;Automata-Based Verification of Temporal Properties on Running Programs.;412-416;5;Short Papers;;
+2001;Dieter Hutter,Axel Schairer;Towards an Evolutionary Formal Software Development.;417-420;4;Short Papers;;
+2001;Daniel Hoffman,Brad Long,Paul A. Strooper;A Concurrency Test Tool for Java Monitors.;421-425;5;Short Papers;;
+2001;Jose Luiz Fiadeiro,Luis Filipe Andrade,Michel Wermelinger;Enforcing Business Policies Through Automated Reconfiguration.;426-;0;Short Papers;;
+2001;David C. Brown,Janet E. Burge;Design Rationale for Software Maintenanc.;433;1;Doctoral Symposium Abstracts;;
+2001;Pascal Fenkam;Security Specification and Verification.;434;1;Doctoral Symposium Abstracts;;
+2001;Cindy Kong;Implementation of Specification Conjunction and Domain Interaction in Rosetta.;435;1;Doctoral Symposium Abstracts;;
+2001;Hung Ledang;Automatic Translation from UML Specifications to B.;436;1;Doctoral Symposium Abstracts;;
+2001;Beum-Seuk Lee;Automated Conversion from a Requirements Document to an Executable Formal Specification.;437;1;Doctoral Symposium Abstracts;;
+2001;Sanjai Rayadurgam;Automated Test-Data Generation from Formal Models of Software.;438;1;Doctoral Symposium Abstracts;;
+2001;Ilya Romanovsky;Model-Checking Real-Time Concurrent Systems.;439;1;Doctoral Symposium Abstracts;;
+2001;Songtao Xia;Verify Properties of Mobile Code.;440;1;Doctoral Symposium Abstracts;;
+2000;Seungjoon Park,Guillaume P. Brat,Willem Visser,Klaus Havelund;Model Checking Programs.;3-12;10;Session 1: Verification;;selected
+2000;Daniel B. Jackson,Sarfraz Khurshid;Exploring the Design of an Intentional Naming Scheme with an Automatic Constraint Analyzer.;13-22;10;Session 1: Verification;;selected
+2000;Dieter Hutter;Management of Change in Structured Verification.;23-;0;Session 1: Verification;;selected
+2000;Frank M. Shipman III,J. Michael Moore;A Comparison of Questionnaire-Based and GUI-Based Requirements Gathering.;35-44;10;Session 2: Requirements;;selected
+2000;H. M. Harmain,Robert J. Gaizauskas;CM-Builder: An Automated NL-Based CASE Tool.;45-54;10;Session 2: Requirements;;selected
+2000;Renaud Lecoeuche;Finding Comparatively Important Concepts between Texts.;55-;0;Session 2: Requirements;;selected
+2000;Robert J. Hall;Upgrading Legacy Instances of Reactive Systems.;63-72;10;Session 3: Evolution;;selected
+2000;Walter F. Tichy,James J. Hunt,Guido Malpohl;Renaming Detection.;73-80;8;Session 3: Evolution;;selected
+2000;Vadim Okun,Yaacov Yesha,Paul E. Black;Mutation Operators for Specifications.;81-;0;Session 3: Evolution;;selected
+2000;Raul Monroy Borja;The Use of Abduction and Recursion-Editor Techniques for the Correction of Faulty Conjectures.;91-100;10;Session 4: Synthesis and Code Generation;;selected
+2000;Gilles Muller,Fabrice Merillon,Renaud Marlet,Charles Consel,Laurent Reveillere;A DSL Approach to Improve Productivity and Safety in Device Drivers Development.;101-110;10;Session 4: Synthesis and Code Generation;;selected
+2000;Charles Consel,Renaud Marlet,Jacques Noye,Philippe Boinot,Gilles Muller;A Declarative Approach for Designing and Developing Adaptive Components.;111-;0;Session 4: Synthesis and Code Generation;;selected
+2000;Joseph A. Goguen,Kai Lin,Grigore Rosu;Circular Coinductive Rewriting.;123-132;10;Session 5: Algebraic Specification;;selected
+2000;A. Goldberg,P. White,F. S. Taylor,W. Martin;Formal Construction of the Mathematically Analyzed Separation Kernel.;133-142;10;Session 5: Algebraic Specification;;selected
+2000;Adel Bouhoula;Simultaneous Checking of Completeness and Ground Confluence.;143-;0;Session 5: Algebraic Specification;;selected
+2000;Leon J. Osterweil,Eric K. McCall,Barbara Staudt Lerner,Alexander E. Wise,Aaron G. Cass,Stanley M. Sutton Jr.;Using Little-JIL to Coordinate Agents in Software Engineering.;155-164;10;Session 6: Process;;selected
+2000;Tim Menzies,Erik Sinsel;Practical Large Scale What-If Queries: Case Studies with Software Risk Assessment.;165-;0;Session 6: Process;;selected
+2000;Shahrul Azman Noah,Michael D. Williams;Exploring and Validating the Contributions of Real-World Knowledge to the Diagnostic Performance of Automated Database Design Tools.;177-186;10;Session 7: Design;;selected
+2000;Richard C. Holt,Hoda Fahmy;Using Graph Rewriting to Specify Software Architectural Transformations.;187-196;10;Session 7: Design;;selected
+2000;Ulrik Pagh Schultz,Charles Consel,Julia L. Lawall;Specialization Patterns.;197-;0;Session 7: Design;;selected
+2000;Mario Jino,Paulo Marcos Siqueira Bueno;Identification of Potentially Infeasible Program Paths by Monitoring the Search for Test Data.;209-218;10;Session 8: Testing;;selected
+2000;Mary Lou Soffa,Aditya P. Mathur,Neelam Gupta;Generating Test Data for Branch Coverage.;219-228;10;Session 8: Testing;;selected
+2000;Bruno Marre,Agnes Arnould;Test Sequences Generation from LUSTRE Descriptions: GATeL.;229-;0;Session 8: Testing;;selected
+2000;Christos Kloukinas,Valerie Issarny;Automating the Composition of Middleware Configurations.;241-244;4;Short Papers;;
+2000;Christelle Chaudet,Flavio Oquendo;pi-SPACE: A Formal Architecture Description Language Based on Process Algebra for Evolving Software Systems.;245-248;4;Short Papers;;
+2000;John J. Kyaruzi,Jan van Katwijk;Towards Explicit Representation of Architectural Design Assumptions.;249-252;4;Short Papers;;
+2000;David Y. W. Park,Ulrich Stern,David L. Dill,Jens U. Skakkebaek;Java Model Checking.;253-256;4;Short Papers;;
+2000;Mike G. Hill,Thomas W. Lake;Non-Interference Analysis for Mixed Criticality Code in Avionics Systems.;257-260;4;Short Papers;;
+2000;Chang Liu,Debra J. Richardson;Automated Security Checking and Patching Using TestTalk.;261-264;4;Short Papers;;
+2000;Klaus-Dieter Schewe;Controlled Automation of Consistency Enforcement.;265-268;4;Short Papers;;
+2000;Amel Mammar,Regine Laleau;An Overview of a Method and Its Support Tool for Generating B Specifications from UML Notations.;269-272;4;Short Papers;;
+2000;Mikal Ziane;A Transformational Viewpoint on Design Patterns.;273-276;4;Short Papers;;
+2000;Colin O'Halloran;Issues for the Automatic Generation of Safety Critical Software.;277-280;4;Short Papers;;
+2000;Mark E. M. Stewart;An Experiment in Scientific Program Understanding.;281-284;4;Short Papers;;
+2000;Kathleen Suzanne Barber,Sutirtha Bhattacharya;Representing Technology to Promote Reuse in the Software Design Process.;285-288;4;Short Papers;;
+2000;Hakim Lounis,Mounir Boukadoum,Frederic Etheve,Houari A. Sahraoui;Towards the Automatic Assessment of Evolvability for Reusable Class Libraries.;289-292;4;Short Papers;;
+2000;Liwu Li;Translating Use Cases to Sequence Diagrams.;293-296;4;Short Papers;;
+2000;Nikolai Mansurov,Dmitri Vasura;New Visual Interface for Engineering Use Case Models.;297-300;4;Short Papers;;
+2000;Alexander Egyed;Semantic Abstraction Rules for Class Diagrams.;301-304;4;Short Papers;;
+2000;Khaled El-Fakih,Gregor von Bochmann,Teruo Higashino,Hirozumi Yamaguchi;Automatic Derivation of Petri Net Based Distributed Specification with Optimal Allocation of Resources.;305-308;4;Short Papers;;
+2000;Steven L. Cornford,Martin S. Feather,Timothy W. Larson;Combining the Best Attributes of Qualitative and Quantitative Risk Management Tool Support.;309-312;4;Short Papers;;
+2000;Kleder Miranda Goncalves,Cleidson Ronald Botelho de Souza,Jacques Wainer,Jair S. Ferreira Jr.;A Group Critic System for Object-Oriented Analysis and Design.;313-316;4;Short Papers;;
+2000;Marianne Huchard,Herve Leblanc;Computing Interfaces in Java.;317-320;4;Short Papers;;
+2000;Guilherme Travassos,Maurizio Morisio,Michael E. Stark;Extending UML to Support Domain Analysis.;321-324;4;Short Papers;;
+2000;Prasanta K. Bose,Mark G. Matthews;Systematic Generation of Dependable Change Coordination Plans for Automated Switching of Coordination Policies.;325-;0;Short Papers;;
+1999;David F. Redmiles;Can Model Checking Scale to Software? (Panel).;2;1;Panels;;
+1999;John Penix;Evaluation of Automated Software Engineering Systems? (Panel).;3;1;Panels;;
+1999;Kevin J. Sullivan,Michael A. Copenhafer;Exploration Harnesses: Tool-Supported Interactive Discovery of Commercial Component Properties.;7-14;8;Long Papers;Requirements and Reuse;selected
+1999;Beatriz Mascia Daltrini,Luiz Eduardo Galvao Martins;An Approach to Software Requirements Elicitation Using the Precepts from Activity Theory.;15-23;9;Long Papers;Requirements and Reuse;selected
+1999;Amir Michail;Data Mining Library Reuse Patterns in User-Selected Applications.;24-;0;Long Papers;Requirements and Reuse;selected
+1999;Keith E. Williamson,Michael Healy;Industrial Applications of Software Synthesis via Category Theory.;35-43;9;Synthesis;;selected
+1999;Andrew Ireland,Jamie Stark;Towards Automatic Imperative Program Synthesis Through Proof Planning.;44-51;8;Synthesis;;selected
+1999;Jonathan P. Whittle,Bernd M. Fischer;An Integration of Deductive Retrieval into Deductive Synthesis.;52-;0;Synthesis;;selected
+1999;Martin S. Feather,Benjamin D. Smith;Automatic Generation of Test Oracles-From Pilot Studies to Application.;63-72;10;Test Synthesis;;selected
+1999;Cedric Besse,David Lee,Ana R. Cavalli;An Automatic and Optimized Test Generation Technique Applying to TCP/IP Protocol.;73-80;8;Test Synthesis;;selected
+1999;Arthur Alexander Reyes,Debra J. Richardson;Siddhartha: A Method for Developing Domain-Specific Test Driver Generators.;81-;0;Test Synthesis;;selected
+1999;Hassen Saidi;Modular and Incremental Analysis of Concurrent Software Systems.;92-101;10;Analysis;;selected
+1999;Prasanta K. Bose;Automated Translation of UML Models of Architectures for Verification and Simulation Using SPIN.;102-109;8;Analysis;;selected
+1999;Frederic Benhamou,Frederic Goualard;A Visualization Tool for Constraint Program Debugging.;110-;0;Analysis;;selected
+1999;Charles Pecheur;Advanced Modelling and Verification Techniques Applied to a Cluster File System.;119-126;8;Verification;;selected
+1999;Alf Smith,Colin O'Halloran;Verification of Picture Generated Code.;127-136;10;Verification;;selected
+1999;T. Xia,Rahma Ben Ayed,Bojan Cukic,Ali Mili;Combining Fault Avoidance, Fault Removal and Fault Tolerance: An Integrated Model.;137-;0;Verification;;selected
+1999;Ted J. Biggerstaff;Fixing Some Transformation Problems.;148-157;10;Transformation;;selected
+1999;Richard Banach,Michael Poppleton;Retrenchment: Extending the Reach of Refinement.;158-165;8;Transformation;;selected
+1999;Jonathan P. Whittle,Richard J. Boulton,Alan Bundy,Helen Lowe;An ML Editor Based on Proofs-As-Programs.;166-173;8;Transformation;;selected
+1999;Don S. Batory,Lance Tokuda;Evolving Object-Oriented Designs with Refactorings.;174-;0;Transformation;;selected
+1999;David S. Wile;AML: An Architecture Meta-Language.;183-190;8;Architecture;;selected
+1999;Cristina Gacek,Alexander Egyed;Automatically Detecting Mismatches During Component-based and Model-based Development.;191-198;8;Architecture;;selected
+1999;R. E. Kurt Stirewalt;Separating Concerns in Direct Manipulation User Interfaces.;199-;0;Architecture;;selected
+1999;Nicolas Zuanon,Lydie du Bousquet;An Overview of Lutess: A Specification-based Tool for Testing Synchronous Software.;208-215;8;Automated Testing;;selected
+1999;Dieter Kreuer;Applying Test Automation to Type Acceptance Testing of Telecom Networks: A Case Study with Customer Participation.;216-223;8;Automated Testing;;selected
+1999;Mary Lou Soffa,Aditya P. Mathur,Neelam Gupta;UNA Based Iterative Test Data Generation and Its Evaluation.;224-;0;Automated Testing;;selected
+1999;John K. Kyaruzi,Jan van Katwijk;Beyond Components-Connections-Constraints: Dealing with Software Architecture Difficulties.;235-242;8;Short Papers;;
+1999;Mats Per Erik Heimdahl,Michael Stein,John Riedl;Enhancing Annotation Visibility for Software Inspection.;243-246;4;Short Papers;;
+1999;Enrico Tronci;Automatic Synthesis of Control Software for an Industrial Automation Control System.;247-250;4;Short Papers;;
+1999;Naveen Valluri,Jonathan I. Maletic;Automatic Software Clustering via Latent Semantic Analysis.;251-254;4;Short Papers;;
+1999;Ivan Paltor,Johan Lilius;vUML: A Tool for Verifying UML Models.;255-258;4;Short Papers;;
+1999;Christopher A. Welty,David A. Ferrucci;A Formal Ontology for Re-Use of Software Architecture Documents.;259-262;4;Short Papers;;
+1999;Francesco Tisato,Walter Cazzola,Andrea Savigni,Andrea Sosio;Rule-Based Strategic Reflection: Observing and Modifying Behavior at the Architectural Level.;263-266;4;Short Papers;;
+1999;Mark H. Burstein,Thomas Emerson;Development of a Constraint-Based Airlift Scheduler by Program Synthesis from Formal Specifications.;267-270;4;Short Papers;;
+1999;Jorg Koller,Andreas Becks;Automatically Structuring Textual Requirement Scenarios.;271-274;4;Short Papers;;
+1999;Wai-Ming Ho,Alain Le Guennec,Francois Pennaneac'h,Jean-Marc Jezequel;UMLAUT: An Extendible UML Transformation Framework.;275-278;4;Short Papers;;
+1999;Dimitur Nikolaev Krustev;Software Test Generation Using Refinement Types.;279-282;4;Short Papers;;
+1999;Emmanuel Kounalis,Carine Fedele;Automatic Proofs of Properties of Simple C-- Modules.;283-286;4;Short Papers;;
+1999;Torsten Meyer,Gabriele Taentzer,Michael Goedicke;Dynamic Accommodation of Change: Automated Architecture Configuration of Distributed Systems.;287-290;4;Short Papers;;
+1999;Gregory D. Abowd,Robert Waters,Spencer Rugaber;Architectural Element Matching Using Concept Analysis.;291-294;4;Short Papers;;
+1999;Norbert E. Fuchs,Sunna Torge,Uta Schwertel;Controlled Natural Language Can Replace First-Order Logic.;295-298;4;Short Papers;;
+1999;Jean-Luc Lambert,Samuel Devulder;A Comparative Study between Linear Programming Validation (LPV) and other Verification Methods.;299-302;4;Short Papers;;
+1999;Robert John Walters,Peter Henderson;Component-based Systems as an Aid to Design Validation.;303-306;4;Short Papers;;
+1999;Thierry Miceli,Robert Godin,Houari A. Sahraoui;A Metric Based Technique for Design Flaws Detection and Correction.;307-310;4;Short Papers;;
+1999;John Penix;Deductive Synthesis of Event-Based Software Architectures.;311-314;4;Short Papers;;
+1999;Michael W. Whalen,Mats Per Erik Heimdahl;An Approach to Automatic Code Generation for Safety-Critical Systems.;315-318;4;Short Papers;;
+1999;Stephen H. Brackin;Implementing Effective Automatic Cryptographic Protocol Analysis.;319-322;4;Short Papers;;
+1999;Gautam B. Singh,John Limburg,Sridevi Lingamarla,Mary Watson,Gary Edwards,Scott Gobrogge;System for Automated Validation of Embedded Software in Multiple Operating Configurations.;323-326;4;Short Papers;;
+1999;Prasanta K. Bose,Mark G. Matthews;NAVCo: Negotiation-based Adaptive View Coordination.;327-330;4;Short Papers;;
+1999;Chang Liu,Debra J. Richardson;Towards Discovery, Specification, and Verification of Component Usage.;331-334;4;Short Papers;;
+1999;J. William Murdock,Ashok K. Goel;Towards Adaptive Web Agents.;335-338;4;Short Papers;;
+1998;Pierluigi San Pietro,Angelo Morzenti,Sandro Morasca;A Tool for Automated System Analysis based on Modular Specifications.;2-11;10;Session 1a: Specification;;selected
+1998;Steve M. Easterbrook,Virginie Wiels;Management of Evolving Specifications using Category Theory.;12-21;10;Session 1a: Specification;;selected
+1998;Arthur Alexander Reyes,Debra J. Richardson;Specification-based Testing of Ada Units with Low Encapsulation.;22-31;10;Session 1a: Specification;;selected
+1998;Yves Ledru;Identifying Pre-Conditions with the Z/EVES Theorem Prover.;32-;0;Session 1a: Specification;;selected
+1998;Ian Green,Raul Monroy Borja,Alan Bundy;Planning Equational Verification in CCS.;43-52;10;Session 1b: Validation and Verification;;selected
+1998;Alf Smith,Colin O'Halloran;Don't Verify, Abstract!;53-62;10;Session 1b: Validation and Verification;;selected
+1998;Hans-Arno Jacobsen,Bernd J. Kramer;A Design Pattern based Approach to Generating Synchronization Adaptors from Annotated IDL.;63-;0;Session 1b: Validation and Verification;;selected
+1998;Michael R. Lowry,M. Boyd,D. Kulkarni;Towards a Theory for Integration of Mathematical Verification and Empirical Testing.;322-;0;Session 1b: Validation and Verification;;selected
+1998;Bernd M. Fischer;Specification-based Browsing of Software Component Libraries.;74-83;10;Session 2b: Reuse;;selected
+1998;Hakim Lounis,Yida Mao,Houari A. Sahraoui;Reusability Hypothesis Verification using Machine Learning Techniques: A Case Study.;84-93;10;Session 2b: Reuse;;selected
+1998;Yonghao Chen,Betty H. C. Cheng,Gerald C. Gannod;An Automated Approach for Supporting Software Reuse via Reverse Engineering.;94-;0;Session 2b: Reuse;;selected
+1998;Thomas Leo McCluskey,Margaret Mary West;Towards the Automated Debugging and Maintenance of Logic-based Requirements Models.;105-114;10;Session 3b: Requirements;;selected
+1998;Robert J. Hall;Explanation-based Scenario Generation for Reactive System Models.;115-124;10;Session 3b: Requirements;;selected
+1998;Mats Per Erik Heimdahl,Barbara J. Czerny;Automated Integrative Analysis of State-based Requirements.;125-;0;Session 3b: Requirements;;selected
+1998;Gary McGraw,Christoph C. Michael;Automated Software Test Data Generation for Complex Programs.;136-146;11;Session 4a: Testing;;selected
+1998;Jason McDonald,Paul A. Strooper,Daniel Hoffman;Programmatic Testing of the Standard Template Library Containers.;147-156;10;Session 4a: Testing;;selected
+1998;Jamie Andrews;Testing using Log File Analysis: Tools, Methods, and Issues.;157-;0;Session 4a: Testing;;selected
+1998;Hamza Zidoum,Pierre Flener,Brahim Hnich;Schema-Guided Synthesis of Constraint Logic Programs.;168-176;9;Session 4b: Synthesis;;selected
+1998;R. E. Kurt Stirewalt,Spencer Rugaber;Automating UI Generation by Model Composition.;177-;0;Session 4b: Synthesis;;selected
+1998;Torsten Meyer,C. Piwetz,Michael Goedicke;On Detecting and Handling Inconsistencies in Integrating Software Architecture Design and Performance Evaluation.;188-191;4;Session 5a: Short Papers;;
+1998;Mohammad Rezai,Stefan Leue,L. Mehrmann;Synthesizing Software Architecture Descriptions from Message Sequence Chart Specifications.;192-195;4;Session 5a: Short Papers;;
+1998;Harry Koehnemann,Timothy E. Lindquist,Jean-Claude Derniame,Kevin A. Gary;Component-based Software Process Support.;196-199;4;Session 5a: Short Papers;;
+1998;Amir Michail,David Notkin;Illustrating Object-Oriented Library Reuse by Example: A Tool-based Approach.;200-203;4;Session 5a: Short Papers;;
+1998;Linda M. Wills,Richard Clayton,Spencer Rugaber;Dowsing: A Tool Framework for Domain-Oriented Browsing of Software Artifacts.;204-;0;Session 5a: Short Papers;;
+1998;Richard F. Paige,Jonathan S. Ostroff;From Z to BON/Eiffel.;209-212;4;Session 5b: Short Papers;;
+1998;D. Lee,E. Lee,C. Park;Detection of Exclusive OR Global Predicates.;213-216;4;Session 5b: Short Papers;;
+1998;Yossi Gil,Y. Eckel;Statically Checkable Design Level Traits.;217-220;4;Session 5b: Short Papers;;
+1998;Theodosis Dimitrakos;Parameterising (Algebraic) Specifications on Diagrams.;221-224;4;Session 5b: Short Papers;;
+1998;Stefan Berner,Martin Arnold,Stefan Joos,Martin Glinz;A Visualization Concept for Hierarchical Object Models.;225-;0;Session 5b: Short Papers;;
+1998;W. Lewis Johnson,Ali Erdem,Stacy Marsella;Task Oriented Software Understanding.;230-239;10;Session 6a: Program Understanding and Debugging;;selected
+1998;Michael R. Lowry,Jeffrey Van Baalen,Thomas Pressburger,Peter Robinson;Explaining Synthesized Software.;240-248;9;Session 6a: Program Understanding and Debugging;;selected
+1998;Clinton L. Jeffery,Kevin Templer;A Configurable Automatic Instrumentation Tool for ANSI C.;249-;0;Session 6a: Program Understanding and Debugging;;selected
+1998;Thomas Stephen Edward Maibaum,Armando Martin Haeberer;The Very Idea of Software Development Environments: A Conceptual Architecture for the ARTS Environment Paradigm.;260-271;12;Session 6b: Synthesis and Development Environments;;selected
+1998;Stephen J. Westfold,Limei Gilham,Junbo Liu,Douglas R. Smith,Lee Blaine;Planware - Domain-Specific Synthesis of High-Performance Schedulers.;270-;0;Session 6b: Synthesis and Development Environments;;selected
+1998;Fraser MacDonald,James Miller;ASSISTing Exit Decisions in Software Inspection.;281-284;4;Session 7a: Short Papers;;
+1998;John Andrew Clark,John A. McDermid,Keith Mander,Nigel Tracey;An Automated Framework for Structural Test-Data Generation.;285-288;4;Session 7a: Short Papers;;
+1998;Juei Chang,Debra J. Richardson;ADLscope: An Automated Specification-based Unit Testing Tool.;289-292;4;Session 7a: Short Papers;;
+1998;R. Mark Greenwood,Rachel Harrison,Brian Warboys,Peter Henderson;An Empirical Study of the Evolution of a Software System.;293-296;4;Session 7a: Short Papers;;
+1998;Christer Fernstrom,Jean-Luc Meunier,Jean-Marc Andreoli;A Coordination System Approach to Software Workflow Process Evolution.;297-;0;Session 7a: Short Papers;;
+1998;Paul A. Strooper,Owen Traynor,Daniel Hazel;Requirements Engineering and Verification using Specification Animation.;302-305;4;Session 7b: Short Papers;;
+1998;E. Baisch,T. Liedtke;Automated Knowledge Acquisition and Application for Software Development Projects.;306-309;4;Session 7b: Short Papers;;
+1998;Andrew Walenstein;Developing the Designer's Toolkit with Software Comprehension Models.;310-313;4;Session 7b: Short Papers;;
+1998;Chris Verhoef,M. P. A. Sellink;Development, Assessment, and Reengineering of Language Descriptions.;314-317;4;Session 7b: Short Papers;;
+1998;James M. Boyle,Terry Harmer;Brewing Fresh JAVA from Legacy Lisp - An Experiment in Automated Reverse Engineering.;318-332;15;Session 7b: Short Papers;;
+1997;Ian Green,Alan Smaill,Alessandro Armando;Automatic Synthesis of Recursive Programs: The Proof-Planning Paradigm.;2-9;8;Session 1A: Synthesis I;;selected
+1997;James L. Caldwell;Moving Proofs-As-Programs into Practice.;10-17;8;Session 1A: Synthesis I;;selected
+1997;Subbarao Kambhampati,Amol Dattatraya Mali,Biplav Srivastava;A Structured Approach for Synthesizing Planners from Specifications.;18-27;10;Session 1A: Synthesis I;;selected
+1997;Bettina Sucrow;Formal Specification of Human-Computer Interaction by Graph Grammars under Consideration of Information Resources.;28-35;8;Session 1B: Requirements and Process;;selected
+1997;Vincenzo Ambriola,Vincenzo Gervasi;Processing Natural Language Requirements.;36-45;10;Session 1B: Requirements and Process;;selected
+1997;Scott Henninger;Tools Supporting the Creation and Evolution of Software Development Knowledge.;46-;0;Session 1B: Requirements and Process;;selected
+1997;A. Mori,Joseph A. Goguen,Kai Lin,Grigore Rosu,A. Sato;Distributed Cooperative Formal Methods Tools.;55-62;8;Session 2A: Verification I;;selected
+1997;Charles Pecheur;Specification and Verification of the Co4 Distributed Knowledge System using LOTOS.;63-70;8;Session 2A: Verification I;;selected
+1997;Arno Schonegge,Dieter Fensel;Using KIV to Specify and Verify Architectures of Knowledge-Based Systems.;71-;0;Session 2A: Verification I;;selected
+1997;Georg Schied,Jean-Francois Girard,Rainer Koschke;A Metric-based Approach to Detect Abstract Data Types and State Encapsulations.;82-89;8;Session 2B: Reverse Engineering I;;selected
+1997;Yossi Cohen,Yishai A. Feldman;Automatic High-Quality Reengineering of Database Programs by Temporal Abstraction.;90-97;8;Session 2B: Reverse Engineering I;;selected
+1997;R. R. Sward,Thomas C. Hartrum;Extracting Objects from Legacy Imperative Code.;98-;0;Session 2B: Reverse Engineering I;;selected
+1997;Thomas Stephen Edward Maibaum,Theodosis Dimitrakos;Notes on Refinement, Interpolation and Uniformity.;108-116;9;Session 3A: Refinement;;selected
+1997;David Pautler,Steven G. Woods,Alex Quilici;Exploiting Domain-Specific Knowledge to Refine Simulation Specifications.;117-;0;Session 3A: Refinement;;selected
+1997;Christopher A. Welty;Augmenting Abstract Syntax Trees for Program Understanding.;126-133;8;Session 3B: Program Understanding;;selected
+1997;Yamine Ait Ameur;A Contribution to Program Comprehension by Program Analysis: Application to Numerical Programs.;134-142;9;Session 3B: Program Understanding;;selected
+1997;Yossi Gil,Amiram Yehudai,Amnon H. Eden;Precise Specification and Automatic Application of Design Patterns.;143-152;10;Session 4A: Synthesis II;;selected
+1997;Kung-Kiu Lau,Pierre Flener,Mario Ornaghi;Correct-Schema-Guided Synthesis of Steadfast Programs.;153-;0;Session 4A: Synthesis II;;selected
+1997;Sandrine Blazy,Philippe Facon;Application of Formal Methods to the Development of a Software Maintenance Tool.;162-171;10;Session 4B: Maintenance;;selected
+1997;Barbara Staudt Lerner;TESS: Automated Support for the Evolution of Persistent Types.;172-;0;Session 4B: Maintenance;;selected
+1997;Scott Thibault,Renaud Marlet,Charles Consel;Mapping Software Architectures to Efficient Implementations via Partial Evaluation.;183-192;10;Session 5A: Architecture;;selected
+1997;Ghulam A. Farrukh,Hassan Gomaa;Automated Configuration of Distributed Applications from Reusable Software Architectures.;193-200;8;Session 5A: Architecture;;selected
+1997;Perry Alexander,John Penix,Klaus Havelund;Declarative Specification of Software Architectures.;201-;0;Session 5A: Architecture;;selected
+1997;Hakim Lounis,F. Dumont,Walcelio L. Melo,Houari A. Sahraoui;Applying Concept Formation Methods to Object Identification in Procedural Code.;210-218;9;Session 5B: Reverse Engineering I;;selected
+1997;Betty H. C. Cheng,Gerald C. Gannod;A Formal Automated Approach for Reverse Engineering Programs with Pointers.;219-226;8;Session 5B: Reverse Engineering I;;selected
+1997;John V. Harrison,Anthony Berglas;Data Flow Analysis within the ITOC Information System Design Recovery Tool.;227-;0;Session 5B: Reverse Engineering I;;selected
+1997;Yonghao Chen,Betty H. C. Cheng;Facilitating an Automated Approach to Architecture-based Software Reuse.;238-245;8;Session 6A: Reuse;;selected
+1997;Johann Schumann,Bernd M. Fischer;NORA/HAMMR: Making Deduction-Based Software Component Retrieval Practical.;246-254;9;Session 6A: Reuse;;selected
+1997;Lamia Labed Jilani,Marc Frappier,Jules Desharnais,Rym Mili,Ali Mili;Retrieving Software Components that Minimize Adaptation Effort.;255-;0;Session 6A: Reuse;;selected
+1997;Matthew B. Dwyer;Modular Flow Analysis for Concurrent Software.;264-273;10;Session 6B: Verification II;;selected
+1997;Premkumar T. Devanbu,Stuart G. Stubblebine;Research Directions for Automated Software Verification: Using Trusted Hardware.;274-279;6;Session 6B: Verification II;;selected
+1997;Savi Maharaj,Juan Bicarregui;On the Verification of VDM Specification and Refinement with PVS.;280-;0;Session 6B: Verification II;;selected
+1997;Andreas Birk;Modeling the Application Domains of Software Engineering Technologies.;291-292;2;Short Papers;;
+1997;T. Faison;Interactive Component-Based Software Development with Espresso.;293-294;2;Short Papers;;
+1997;Emanuel S. Grant,Matthew P. Evett,Robert B. France;Towards Semantic-Based Object-Oriented CASE Tools.;295-296;2;Short Papers;;
+1997;R. Gaugne;A Static Analysis for Program Understanding and Debugging.;297-298;2;Short Papers;;
+1997;Robert J. Hall;Reactive System Validation using Automated Reasoning over a Fragment Library.;299-300;2;Short Papers;;
+1997;Carl-Arndt Krapp,Bernhard Westfechtel;Feedback Handling in Dynamic Task Nets.;301-302;2;Short Papers;;
+1997;Sara Jones,Wing Lam;Mechanising Requirements Engineering: Reuse and the Application of Domain Analysis Technology.;303-304;2;Short Papers;;
+1997;Enn Tyugu,Mihhail Matskin;Strategies of Structural Synthesis of Programs.;305-306;2;Short Papers;;
+1997;Michael Schatz,Gary McGraw,Christoph C. Michael,C. C. Walton;Genetic Algorithms for Dynamic Test Data Generation.;307-308;2;Short Papers;;
+1997;J. M. Punshon,Paul G. Sorenson,P. S. Findeisen,J. Paul Tremblay;From Formal Specifications to Natural Language: A Case Study.;309-310;2;Short Papers;;
+1997;Jose A. Madriz,Jay K. Strosnider,Dorothy E. Setliff;Towards a Design Assistant for Distributed Embedded Systems.;311-312;2;Short Papers;;
+1997;Hee Beng Kuan Tan;Enhancing the Component Reusability in Data-Intensive Business Programs through Interface Separation.;313-314;2;Short Papers;;
+1997;Chun-Chia Wang,Timothy K. Shih,Wen C. Pai;An Automated Object-Oriented Testing for C++ Inheritance Hierarchy.;315-316;2;Short Papers;;
+1997;Keith E. Williamson,Michael Healy;Formally Specifying Engineering Design Rationale.;317-318;2;Short Papers;;
+1997;T. Yamaguchi;Modeling Software Processes by using Process and Object Ontologies.;319-320;2;Short Papers;;
+1995;Michael R. Lowry,Jeffrey Van Baalen;META-AMPHION: Synthesis of Efficient Domain-Specific Program Synthesis Systems.;2-10;9;Session 1: Synthesis I;;selected
+1995;Tim J. Hoar,Sanjay Bhansali;Knowledge-Based Program Synthesis for a Geometric Constraint Satisfaction System.;11-18;8;Session 1: Synthesis I;;selected
+1995;Yanhong A. Liu;CACHET: An Interactive, Incremental-Attribution-Based Program Transformation System for Deriving Incremental Programs.;19-26;8;Session 1: Synthesis I;;selected
+1995;Scott A. DeLoach,Paul D. Bailor,Thomas C. Hartrum;Representing Object Models as Theories.;28-35;8;Session 2: Formal Specifications;;selected
+1995;Peter Baumann,Ina Kraan;Logical Frameworks as a Basis for Verification Tools: A Case Study.;36-43;8;Session 2: Formal Specifications;;selected
+1995;Thomas Ellman,Takahiro Murata,John Eric Keane,Mark Schwabacher;A Transformation System for Interactive Reformulation of Design Optimization Strategies.;44-51;8;Session 2: Formal Specifications;;selected
+1995;Sabine Dick,Thomas Santen;Searching for a Global Algorithm.;52-59;8;Session 2: Formal Specifications;;selected
+1995;Michael R. Lowry,David D. Lowry;Legal Issues on Knowledge-Based Software Engineering.;61-69;9;Session 3: Legal Issues in Knowledge-Based Software Engineering;;selected
+1995;William C. Sasso,Kevin Benner;An Empirical Evaluation of KBSA Technology.;71-78;8;Session 4: Knowledge-Based Environments;;selected
+1995;Greger Linden,A. Inkeri Verkamo;An Interface Between Different Software Development Environments.;79-87;9;Session 4: Knowledge-Based Environments;;selected
+1995;Enn Tyugu;From Object-Oriented to Knowledge-Based Programming (NUT System Development Experience).;88-95;8;Session 4: Knowledge-Based Environments;;selected
+1995;Akiyoshi Sato,Masashi Hijikata,Masanobu Watanabe,Minoru Tomobe,Toru Yamanouchi;Domain-Oriented Software Process Re-engineering with Software Synthesis Shell SOFTEX/S.;97-104;8;Session 5: Process;;selected
+1995;Prasanta K. Bose;A Model for Decision Maintenance in the WinWin Collaboration Framework.;105-113;9;Session 5: Process;;selected
+1995;Daniela Rosca,J. Christian Wild,Kurt Maly,Sol J. Greenspan,Howard B. Reubenstein,Mark Feblowitz;Application of a Decision Support Mechanism to the Business Rules Lifecycle.;114-121;8;Session 5: Process;;selected
+1995;Doron A. Friedman,Yishai A. Feldman;Portability by Automatic Translation - A Large-Scale Case Study.;123-130;8;Session 6: Reuse and Re-engineering;;selected
+1995;Perry Alexander,John Penix,Phillip Baraona;Classification and Retrieval of Reusable Components Using Semantic Features.;131-138;8;Session 6: Reuse and Re-engineering;;selected
+1995;Wen-Syan Li,Christopher W. Clifton;Classifying Software Components Using Design Characteristics.;139-146;8;Session 6: Reuse and Re-engineering;;selected
+1995;Christopher A. Welty;Towards an Epistemology for Software Representations.;148-154;7;Session 7: Program Understanding;;selected
+1995;W. Lewis Johnson,Ali Erdem;Interactive Explanation of Software Systems.;155-164;10;Session 7: Program Understanding;;selected
+1995;Julian Richardson;Automating Changes of Data Type in Functional Programs.;166-173;8;Session 8: Synthesis II;;selected
+1995;Harald Reuss;Towards High-Level Deductive Program Synthesis Based on Type Theory.;174-183;10;Session 8: Synthesis II;;selected
+1995;Anneliese von Mayrhauser,Richard T. Mraz,Adele E. Howe;Test Sequences as Plans: An Experiment in Using an AI Planner to Generate System Tests.;184-191;8;Session 8: Synthesis II;;selected
+1995;Yves Ledru;Specification and Animation of a Bank Transfer.;192-199;8;Session 8: Synthesis II;;selected
+1994;Michael R. Lowry,Thomas Pressburger,Andrew Philpot,Ian Underwood;AMPHION: Automatic Programming for Subroutine Libraries.;2;1;Abstracts - Demonstrations;;
+1994;Kevin Benner;Knowledge-Based Software Assistant - Advanced Development Model Demonstrations.;3;1;Abstracts - Demonstrations;;
+1994;Gordon Kotik,Lawrence Markosian;Application of REFINE Language ToolsTM to Software Quality Assurance.;4;1;Abstracts - Demonstrations;;
+1994;Stephen Fickas,Martin S. Feather;A Framework for Distributed System Designs.;6-13;8;Session 1 - Design;;selected
+1994;Peter G. Selfridge,Loren G. Terveen;Intelligent Assistance for Software Construction: A Case Study.;14-21;8;Session 1 - Design;;selected
+1994;Frank M. Shipman III,David F. Redmiles,Andreas Girgensohn;Agent-Based Support for Communication Between Developers and Users in Software Design.;22-29;8;Session 1 - Design;;selected
+1994;Shawn R. Wolfe,Steven Minton;Using Machine Learning to Synthesize Search Programs.;31-38;8;Session 2 - Synthesis;;selected
+1994;Gordon S. Novak Jr.;Composing Reusable Software Components Through Views.;39-47;9;Session 2 - Synthesis;;selected
+1994;Michael R. Lowry,Thomas Pressburger,Andrew Philpot,Ian Underwood;A Formal Approach to Domain-Oriented Software Design Environments.;48-57;10;Session 2 - Synthesis;;selected
+1994;John Chilenski,Philip Newcomb;Formal Specification Tools for Test Coverage Analysis.;59-68;10;Session 3 - Testing/Validation;;selected
+1994;Robert J. Hall;Systematic Incremental Validation of Rule-Based Reactive Systems.;69-78;10;Session 3 - Testing/Validation;;selected
+1994;Gail E. Kaiser,Steven S. Popovich,Andrew Z. Tong;A Flexible Rule-Chaining Engine for Process-Based Software Engineering.;79-88;10;Session 3 - Testing/Validation;;selected
+1994;Jun-Jang Jeng,Betty H. C. Cheng;A Formal Approach to Reusing More General Components.;90-97;8;Reuse;;selected
+1994;Thomas Rose,David Lauzon;Task Oriented and Similarity-Based Retrieval.;98-107;10;Reuse;;selected
+1994;Daniela Rosca,J. Christian Wild;Evolution and Reuse of Formal Specification Using Decision Structures.;108-115;8;Reuse;;selected
+1994;Peter G. Selfridge,George T. Heineman;Graphical Support for Code-Level Software Understanding.;117-124;8;Session 5 - Program Understanding;;selected
+1994;David N. Chin,Alex Quilici;A Cooperative Program Understanding Environment.;125-132;8;Session 5 - Program Understanding;;selected
+1994;Frans Ververs,Rene Dekker;Abstract Data Structure Recognition.;133-140;8;Session 5 - Program Understanding;;selected
+1994;Gregory Alan Bolcer;User Interface Design Assistance For Large-Scale Software Development.;142-149;8;Session 6 - Miscellaneous;;selected
+1994;Francoise Balmas;An Augmented Pattern Matcher as a Tool to Synthesize Conceptual Descriptions of Programs.;150-157;8;Session 6 - Miscellaneous;;selected
+1994;Michel Quaggetto,Vincenzo Loia;Integrating Object-Oriented Paradigms and Logic Programming: The OPLA Language.;158-164;7;Session 6 - Miscellaneous;;selected
+1994;Prasanta K. Bose,Barry W. Boehm;Critical Success Factors for Knowledge-Based Software Engineering Applications.;166-171;6;Session 7 - Process/Project Management;;selected
+1994;Raymond J. Madachy;Knowledge-Based Risk Assessment and Cost Estimation.;172-178;7;Session 7 - Process/Project Management;;selected
+1994;Gregory A. Toth;Software Technology Risk Advisor.;179-188;10;Session 7 - Process/Project Management;;selected
