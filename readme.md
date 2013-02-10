@@ -1,5 +1,7 @@
-Bibliometrics for software engineering conferences
-==============================================================
+#Bibliometrics for software engineering conferences#
+===
+
+###Contents###
 
 This is a database of papers and programme committee members for software engineering conferences. It contains more than ten years of history for each of the following conferences:
 
@@ -19,9 +21,9 @@ The data is stored in a MySQL database (see the [SQL dump](https://github.com/tu
 
 <img align="center" width="100%" src="https://raw.github.com/tue-mdse/conferenceMetrics/master/model.png">
 
-Alternatively, the database can be recreated (hence easily extended) from CSV files using Python and the SQLAlchemy Object Relational Mapper using the scripts included.
+Alternatively, the database can be recreated (hence easily extended) from CSV files using Python and the SQLAlchemy Object Relational Mapper using the scripts included (more details below).
 
-Data provenance:
+###Data provenance###
 
 - Papers and authors: the [DBLP](http://www.dblp.org/db/) data dump. Papers which were part of the main (research) track have been (manually) marked as such in the `main_track` column. 
 - Number of submssions: Tao Xie's [software engineering conference statistics](http://people.engr.ncsu.edu/txie/seconferences.htm); foreword to proceedings.
