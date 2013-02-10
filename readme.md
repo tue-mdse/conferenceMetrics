@@ -1,7 +1,7 @@
 Bibliometrics for software engineering conferences
 ==============================================================
 
-This is a database of papers and programme committee members for software engineering conferences. It contains data about more than ten years of history for the following conferences:
+This is a database of papers and programme committee members for software engineering conferences. It contains data about more than ten years of history for each of the following conferences:
 
 - **ICSE**, International Conference on Software Engineering
 - **ICSM**, IEEE International Conference on Software Maintenance
