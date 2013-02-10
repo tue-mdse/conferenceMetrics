@@ -17,7 +17,7 @@ This is a database of papers and programme committee members for software engine
 - **ICPC**, IEEE International Conference on Program Comprehension
 - **SCAM**, International Working Conference on Source Code Analysis & Manipulation
 
-The data is stored in a MySQL database (see the [SQL dump](https://github.com/tue-mdse/conferenceMetrics/blob/master/data/conferences_dblp.sql.gz)) with the following schema:
+The data is stored in a MySQL database (see the [SQL dump](https://github.com/tue-mdse/conferenceMetrics/blob/master/data/conferences.sql.gz)) with the following schema:
 
 <img align="center" width="80%" src="https://raw.github.com/tue-mdse/conferenceMetrics/master/visualisation/model.png">
 
@@ -33,7 +33,7 @@ In some cases the DBLP data also contains the session title(s) for a given paper
 
 ## Using the database
 
-Most simply, you can import the [SQL dump](https://github.com/tue-mdse/conferenceMetrics/blob/master/data/conferences_dblp.sql.gz) into your favourite database management system (tested on MySQL) and start querying.
+Most simply, you can import the [SQL dump](https://github.com/tue-mdse/conferenceMetrics/blob/master/data/conferences.sql.gz) into your favourite database management system (tested on MySQL) and start querying.
 
 Alternatively, you can take a look at how the database was created using MySQL, Python and SQLAlchemy, and use these mechanisms also for querying. This will allow you to easily extend the database or update its schema. This assumes you have a MySQL server running, and SQLAlchemy installed.
 
