@@ -1,7 +1,7 @@
 from sqlalchemy import Column, ForeignKey, Table
 from sqlalchemy import Integer, String, Boolean
 from sqlalchemy.orm import relationship, backref
-from sqlalchemy.ext.associationproxy import association_proxy
+#from sqlalchemy.ext.associationproxy import association_proxy
 
 
 from sqlalchemy.ext.declarative import declarative_base
@@ -9,23 +9,21 @@ Base = declarative_base()
 metadata = Base.metadata
 
 
-author_paper = Table('author_paper', metadata,
-                     Column('author_id', Integer, ForeignKey('authors.id')),
+person_paper = Table('authorship', metadata,
+                     Column('person_id', Integer, ForeignKey('persons.id')),
                      Column('paper_id', Integer, ForeignKey('papers.id')))
 
 
-class PCMember(Base):
-    __tablename__ = 'pc_members'
+class Person(Base):
+    __tablename__ = 'persons'
     id = Column(Integer, primary_key=True)
     name = Column(String(100))
     
-    conferences = association_proxy("pcmemberships", "conference")
-
     def __init__(self, name):
         self.name = name
 
     def __repr__(self):
-        return "<PCMember('%s')>" % (self.name)
+        return "<Person('%s')>" % (self.name)
 
 
 class Conference(Base):
@@ -34,9 +32,6 @@ class Conference(Base):
     acronym = Column(String(20), nullable=False)
     name = Column(String(200))
     impact = Column(Integer)
-
-#    '''Many to many PCMember<->Conference'''
-    pcmembers = association_proxy("pcmemberships", "pcmember")
 
     def __init__(self, acronym, impact, name=None):
         self.acronym = acronym
@@ -64,7 +59,7 @@ class SubmissionsCount(Base):
 class PCMembership(Base):
     __tablename__ = 'pc_membership'
     id = Column(Integer, primary_key=True)
-    pcmember_id = Column(Integer, ForeignKey('pc_members.id'))
+    person_id = Column(Integer, ForeignKey('persons.id'))
     conference_id = Column(Integer, ForeignKey('conferences.id'))
     year = Column(Integer)
     track = Column(String(100))
@@ -73,20 +68,9 @@ class PCMembership(Base):
         self.year = year
         self.track = track
     
-    conference = relationship(Conference, backref="pcmemberships")
-    pcmember = relationship(PCMember, backref="pcmemberships")    
+    conference = relationship(Conference, backref="pc_membership")
+    pcmember = relationship(Person, backref="pc_membership")    
 
-
-class Author(Base):
-    __tablename__ = 'authors'
-    id = Column(Integer, primary_key=True)
-    name = Column(String(100))
-
-    def __init__(self, name):
-        self.name = name
-
-    def __repr__(self):
-        return "<Author('%s')>" % (self.name)
 
 
 class Paper(Base):
@@ -102,7 +86,7 @@ class Paper(Base):
     main_track = Column(Boolean)
     
     '''Many to many Author<->Paper'''
-    authors = relationship('Author', secondary=author_paper, backref='papers')
+    authors = relationship('Person', secondary=person_paper, backref='papers')
 
     '''One to many Conference<->Paper'''
     conference = relationship("Conference", backref=backref('papers', order_by=id))

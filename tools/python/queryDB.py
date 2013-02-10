@@ -1,14 +1,14 @@
 from sqlalchemy import create_engine, func
 from sqlalchemy.orm import sessionmaker
-from initDB import Paper, Author, PCMember, Conference, PCMembership, SubmissionsCount, author_paper
+from initDB import Paper, Person, Conference, PCMembership, SubmissionsCount, person_paper
 import os
 from unicodeMagic import UnicodeReader, UnicodeWriter
 from metrics import ConferenceMetrics
 
-dataPath = os.path.abspath("/Users/bogdanv/conferences")
+dataPath = os.path.abspath("../../")
 metricsPath = os.path.join(dataPath, 'metrics') 
 
-engine = create_engine('mysql://root@localhost/conferences_dblp?charset=utf8')
+engine = create_engine('mysql://root@localhost/conferences?charset=utf8')
 
 '''Create a session for this connection'''
 Session = sessionmaker(engine)

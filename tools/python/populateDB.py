@@ -2,14 +2,14 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import os
 from unicodeMagic import UnicodeReader, UnicodeWriter
-
+from unidecode import unidecode
 from initDB import Base
-from initDB import Paper, Author, PCMember, Conference, PCMembership, SubmissionsCount
+from initDB import Paper, Person, Conference, PCMembership, SubmissionsCount
 from resetDB import cleanStart
 from initDB import initDB
 
 
-dataPath = os.path.abspath("/Users/bogdanv/conferences")
+dataPath = os.path.abspath("../../data")
 
 conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase']
 
@@ -29,8 +29,8 @@ impact = {
     'MSR':32,
 }
 
-'''Connect to db <conferences_dblp> with user <root> and empty password'''
-engine = create_engine('mysql://root@localhost/conferences_dblp?charset=utf8')
+
+engine = create_engine('mysql://root@localhost/conferences?charset=utf8')
 
 '''Reset the database (drop all tables)'''
 cleanStart(engine)
@@ -71,8 +71,8 @@ for conferenceName in conferences:
             num_pages = int(row[4])
         except:
             num_pages = 0
-        session_h2 = row[5]
-        session_h3 = row[6]
+        session_h2 = unidecode(row[5]).strip()
+        session_h3 = unidecode(row[6]).strip()
         selected = row[7]
         
         '''Create new paper and add it to the session'''
@@ -86,12 +86,12 @@ for conferenceName in conferences:
         for author_name in author_names:
             try:
                 '''I already have this author in the database'''
-                author = session.query(Author).\
+                author = session.query(Person).\
                         filter_by(name=author_name).\
                         one()
             except:
                 '''New author; add to database'''
-                author = Author(author_name)
+                author = Person(author_name)
                 session.add(author)
 
             paper.authors.append(author)
@@ -128,12 +128,12 @@ for conferenceName in conferences:
             '''Get the PC member object'''
             try:
                 '''I already have this PC member in the database'''
-                pcMember = session.query(PCMember).\
+                pcMember = session.query(Person).\
                         filter_by(name=pcMemberName).\
                         one()
             except:
                 '''New person; add to database'''
-                pcMember = PCMember(pcMemberName)
+                pcMember = Person(pcMemberName)
                 session.add(pcMember)
 
             try:
