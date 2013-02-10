@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import os
-from unicodeMagic import UnicodeReader, UnicodeWriter
+from unicodeMagic import UnicodeReader
 from unidecode import unidecode
 from initDB import Base
 from initDB import Paper, Person, Conference, PCMembership, SubmissionsCount

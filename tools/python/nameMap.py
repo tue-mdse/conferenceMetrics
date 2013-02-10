@@ -838,8 +838,8 @@ nameMap = {
 }
 
 
+'''Check for transitivity'''
 if __name__=="__main__":
-	'''Check for transitivity'''
     l = []
     for key,val in nameMap.items():
         l.append((key,val))

@@ -47,7 +47,7 @@ def tabulate(metric, k=None):
 
 
 
-def tabulate2CSV(outPath, metric, k=None, type='float'):
+def tabulate2CSV(outPath, metric, k=None, datatype='float'):
     allYears = set()
     for conferenceName in conferences:
         allYears.update(metrics[conferenceName].getMetric(metric,k).keys())
@@ -61,9 +61,9 @@ def tabulate2CSV(outPath, metric, k=None, type='float'):
         row = [year]
         for conferenceName in conferences:
             try:
-                if type == 'float':
+                if datatype == 'float':
                     row.append('%.03f' % metrics[conferenceName].getMetric(metric,k)[year])
-                elif type == 'int':
+                elif datatype == 'int':
                     row.append(metrics[conferenceName].getMetric(metric,k)[year])
             except:
                 row.append('')
