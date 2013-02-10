@@ -1,8 +1,8 @@
-from sqlalchemy import create_engine, func
+from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from initDB import Paper, Person, Conference, PCMembership, SubmissionsCount, person_paper
+from initDB import Conference
 import os
-from unicodeMagic import UnicodeReader, UnicodeWriter
+from unicodeMagic import UnicodeWriter
 from metrics import ConferenceMetrics
 
 dataPath = os.path.abspath("../../")
