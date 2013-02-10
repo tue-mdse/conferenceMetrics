@@ -1,0 +1,300 @@
+2012;main;Klaus Ostermann
+2012;main;Walter Binder
+2012;main;Benoit Baudry
+2012;main;Alexandre Bergel
+2012;main;Eric Bodden
+2012;main;Shigeru Chiba
+2012;main;Grzegorz Czajkowski
+2012;main;Elisabetta Di Nitto
+2012;main;Erik Ernst
+2012;main;Michael Franz
+2012;main;Ronald Garcia
+2012;main;Thomas R. Gross
+2012;main;Michael Haupt
+2012;main;Christian Kastner
+2012;main;Andreas Krall
+2012;main;Doug Lea
+2012;main;Yanhong A. Liu
+2012;main;Nicolas Loriant
+2012;main;Hidehiko Masuhara
+2012;main;Oscar Nierstrasz
+2012;main;Nathaniel Nystrom
+2012;main;Ulrik Pagh Schultz
+2012;main;Jens Palsberg
+2012;main;Ina Schaefer
+2012;main;Sibylle Schupp
+2012;main;Mario Sudholt
+2012;main;Paul Tarau
+2012;main;Eli Tilevich
+2012;main;Petr Tuma
+2012;main;Alex Villazon
+2012;main;Eric Wohlstadter
+2012;main;Jianjun Zhao
+2011;main;Ewen Denney
+2011;main;Ulrik Pagh Schultz
+2011;main;Andrzej Wasowski
+2011;main;Aniruddha S. Gokhale
+2011;main;Bernd M. Fischer
+2011;main;Bruno C. d. S. Oliveira
+2011;main;Christian Kastner
+2011;main;Chung-chieh Shan
+2011;main;Don S. Batory
+2011;main;Eli Tilevich
+2011;main;Eric Tanter
+2011;main;Gorel Hedin
+2011;main;Ina Schaefer
+2011;main;Jeremiah Willcock
+2011;main;Jeremy G. Siek
+2011;main;Jurgen J. Vinju
+2011;main;Lionel Seinturier
+2011;main;Marjan Mernik
+2011;main;Matthew A. Marcus
+2011;main;Nicolas Loriant
+2011;main;Rastislav Bodik
+2011;main;Robert Gluck
+2011;main;Steffen Zschaler
+2011;main;Tudor Girba
+2011;main;Walter Binder
+2011;main;Yanhong A. Liu
+2010;main;Eelco Visser
+2010;main;Jaakko Jarvi
+2010;main;Sven Apel
+2010;main;Don S. Batory
+2010;main;Martin Bravenboer
+2010;main;Krzysztof Czarnecki
+2010;main;Charles Consel
+2010;main;Gabriel Dos Reis
+2010;main;Ewen Denney
+2010;main;Ronald Garcia
+2010;main;Magne Haveraaen
+2010;main;Johan Lilius
+2010;main;Andres Loh
+2010;main;Matthew A. Marcus
+2010;main;Marjan Mernik
+2010;main;Klaus Ostermann
+2010;main;Bruno C. d. S. Oliveira
+2010;main;Hridesh Rajan
+2010;main;Sukyoung Ryu
+2010;main;Joao Saraiva
+2010;main;Sibylle Schupp
+2010;main;Mirko Viroli
+2010;main;Alessandro Warth
+2010;main;Edwin M. Westbrook
+2010;main;Jeremiah Willcock
+2010;main;Kwang Yi
+2009;main;Jeremy G. Siek
+2009;main;Bernd M. Fischer
+2009;main;Sven Apel
+2009;main;Ira D. Baxter
+2009;main;Martin Bravenboer
+2009;main;Tomas Bures
+2009;main;Charles Consel
+2009;main;Ivica Crnkovic
+2009;main;Krzysztof Czarnecki
+2009;main;Ewen Denney
+2009;main;Martin Erwig
+2009;main;Ronald Garcia
+2009;main;Kevin Hammond
+2009;main;Magne Haveraaen
+2009;main;Shan Shan Huang
+2009;main;Jaakko Jarvi
+2009;main;Samuel N. Kamin
+2009;main;Kung-Kiu Lau
+2009;main;Julia L. Lawall
+2009;main;Christian Lengauer
+2009;main;Andrew Lumsdaine
+2009;main;Klaus Ostermann
+2009;main;Zoltan Porkolab
+2009;main;Bran Selic
+2009;main;Douglas R. Smith
+2009;main;Tetsuo Tamai
+2009;main;Juha-Pekka Tolvanen
+2009;main;Eelco Visser
+2009;main;Markus Voelter
+2009;main;Eric Van Wyk
+2009;main;Steffen Zschaler
+2008;main;Yannis Smaragdakis
+2008;main;Jeremy G. Siek
+2008;main;David Abrahams
+2008;main;Uwe Assmann
+2008;main;Ira D. Baxter
+2008;main;Martin Bravenboer
+2008;main;Jacques Carette
+2008;main;Shigeru Chiba
+2008;main;William R. Cook
+2008;main;Lidia Fuentes
+2008;main;Yossi Gil
+2008;main;Aniruddha S. Gokhale
+2008;main;Mark Grechanik
+2008;main;Stanislaw Jarzabek
+2008;main;Jaakko Jarvi
+2008;main;Julia L. Lawall
+2008;main;Christian Lengauer
+2008;main;Matthew A. Marcus
+2008;main;Anne-Francoise Le Meur
+2008;main;Sibylle Schupp
+2008;main;Peter Sestoft
+2008;main;Chung-chieh Shan
+2008;main;Eric Van Wyk
+2007;main;Charles Consel
+2007;main;Julia L. Lawall
+2007;main;Edwin Brady
+2007;main;Johan Brichau
+2007;main;Rastislav Bodik
+2007;main;Jacques Carette
+2007;main;Albert Cheng
+2007;main;Remi Douence
+2007;main;Lidia Fuentes
+2007;main;Ian Gorton
+2007;main;Jean-Marc Jezequel
+2007;main;Kyo Kang
+2007;main;Siau-Cheng Khoo
+2007;main;Paul Kelly
+2007;main;Anne-Francoise Le Meur
+2007;main;Christian Lengauer
+2007;main;Sandeep Neema
+2007;main;Scott Owens
+2007;main;Jens Palsberg
+2007;main;Renaud Pawlak
+2007;main;Zoltan Porkolab
+2007;main;Robby
+2007;main;Peter Sestoft
+2007;main;Jeremy G. Siek
+2007;main;Tony Sloane
+2007;main;Kevin J. Sullivan
+2007;main;Peri L. Tarr
+2006;main;Stanislaw Jarzabek
+2006;main;Douglas C. Schmidt
+2006;main;Todd L. Veldhuizen
+2006;main;Giuseppe Attardi
+2006;main;Elisa L. A. Baniassad
+2006;main;Don S. Batory
+2006;main;Ira D. Baxter
+2006;main;Shigeru Chiba
+2006;main;Charles Consel
+2006;main;Krzysztof Czarnecki
+2006;main;Aniruddha S. Gokhale
+2006;main;Jeffrey G. Gray
+2006;main;George T. Heineman
+2006;main;Zhenjiang Hu
+2006;main;Hans-Arno Jacobsen
+2006;main;Oleg Kiselyov
+2006;main;Fabio Kon
+2006;main;Karl J. Lieberherr
+2006;main;Joe Loyall
+2006;main;Mira Mezini
+2006;main;Torben AE. Mogensen
+2006;main;Emir Pasalic
+2006;main;Calton Pu
+2006;main;Tim Sheard
+2006;main;Yannis Smaragdakis
+2006;main;Michael Stal
+2006;main;Peri L. Tarr
+2006;main;Peter Thiemann
+2006;main;Eelco Visser
+2005;main;Eugenio Moggi
+2005;main;Robert Gluck
+2005;main;Michael R. Lowry
+2005;main;Don S. Batory
+2005;main;Ira D. Baxter
+2005;main;Cristiano Calcagno
+2005;main;Premkumar T. Devanbu
+2005;main;Ulrich W. Eisenecker
+2005;main;Thomas Ellman
+2005;main;Robert E. Filman
+2005;main;Zhenjiang Hu
+2005;main;Patricia Johann
+2005;main;John Launchbury
+2005;main;Anne-Francoise Le Meur
+2005;main;Hong Mei
+2005;main;Nicolas Rouquette
+2005;main;William L. Scherlis
+2005;main;Yannis Smaragdakis
+2005;main;Walid Taha
+2005;main;Todd L. Veldhuizen
+2004;main;Tim Sheard
+2004;main;Gabor Karsai
+2004;main;Eelco Visser
+2004;main;Uwe Assmann
+2004;main;Don S. Batory
+2004;main;Jan Bosch
+2004;main;Jean Bezivin
+2004;main;James R. Cordy
+2004;main;Krzysztof Czarnecki
+2004;main;Matthew Flatt
+2004;main;Robert Gluck
+2004;main;George T. Heineman
+2004;main;Michael Leuschel
+2004;main;Karl J. Lieberherr
+2004;main;Simon L. Peyton Jones
+2004;main;Douglas R. Smith
+2004;main;Gabriele Taentzer
+2004;main;Todd L. Veldhuizen
+2004;main;Kris De Volder
+2004;main;Dave Wile
+2004;main;Alexander L. Wolf
+2003;main;Krzysztof Czarnecki
+2003;main;Frank Pfenning
+2003;main;Yannis Smaragdakis
+2003;main;Giuseppe Attardi
+2003;main;Don S. Batory
+2003;main;Ira D. Baxter
+2003;main;Ted J. Biggerstaff
+2003;main;Shigeru Chiba
+2003;main;Rowan Davies
+2003;main;Premkumar T. Devanbu
+2003;main;Ulrich W. Eisenecker
+2003;main;Robert Gluck
+2003;main;Trevor Jim
+2003;main;Gregor Kiczales
+2003;main;Kai Koskimies
+2003;main;Julia L. Lawall
+2003;main;Eugenio Moggi
+2003;main;Jim Neighbors
+2003;main;Calton Pu
+2003;main;Olin Shivers
+2003;main;Clemens A. Szyperski
+2003;main;Peter Thiemann
+2003;main;Eelco Visser
+2002;main;Don S. Batory
+2002;main;Peter Knauber
+2002;main;Jan Bosch
+2002;main;Hausi A. Muller
+2002;main;Gregory Butler
+2002;main;Nenad Medvidovic
+2002;main;Premkumar T. Devanbu
+2002;main;Wolfgang Pree
+2002;main;Cristina Gacek
+2002;main;Yannis Smaragdakis
+2002;main;Stanislaw Jarzabek
+2002;main;Douglas R. Smith
+2002;main;Kyo Kang
+2002;main;Craig Chambers
+2002;main;Gregor Kiczales
+2002;main;Shigeru Chiba
+2002;main;Martin Odersky
+2002;main;Pierre Cointe
+2002;main;Calton Pu
+2002;main;Charles Consel
+2002;main;Peter Thiemann
+2002;main;Dawson R. Engler
+2002;main;Andrew P. Tolmach
+2002;main;Siau-Cheng Khoo
+2002;main;Walid Taha
+2001;main;Gilles Barthe
+2001;main;David A. Basin
+2001;main;Don S. Batory
+2001;main;Robert Gluck
+2001;main;Nevin Heintze
+2001;main;Eugenio Moggi
+2001;main;J. Gregory Morrisett
+2001;main;Flemming Nielson
+2001;main;David Sands
+2001;main;Walid Taha
+2000;main;Cliff Click
+2000;main;Rowan Davies
+2000;main;Julia L. Lawall
+2000;main;Torben AE. Mogensen
+2000;main;Suresh Jagannathan
+2000;main;Tim Sheard
+2000;main;Walid Taha

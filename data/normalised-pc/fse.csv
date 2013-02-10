@@ -1,0 +1,536 @@
+2012;main;William J. Tracz
+2012;main;Martin P. Robillard
+2012;main;Tevfik Bultan
+2012;main;Joanne M. Atlee
+2012;main;Luciano Baresi
+2012;main;Antonia Bertolino
+2012;main;Christian Bird
+2012;main;Margaret M. Burnett
+2012;main;Marsha Chechik
+2012;main;Jane Cleland-Huang
+2012;main;Ivica Crnkovic
+2012;main;Robert DeLine
+2012;main;Arie van Deursen
+2012;main;Danny Dig
+2012;main;Sebastian G. Elbaum
+2012;main;Harald Gall
+2012;main;Paul Grunbacher
+2012;main;Magne Jorgensen
+2012;main;Christine Julien
+2012;main;Natalia Juristo Juzgado
+2012;main;Sarfraz Khurshid
+2012;main;Darko Marinov
+2012;main;Mira Mezini
+2012;main;Ana Milanova
+2012;main;Alessandro Orso
+2012;main;Massimiliano Di Penta
+2012;main;Grigore Rosu
+2012;main;Abhik Roychoudhury
+2012;main;Koushik Sen
+2012;main;Mary Lou Soffa
+2012;main;Willem Visser
+2012;main;Chao Wang
+2012;main;Charles Zhang
+2012;main;Andrea Zisman
+2011;main;Tibor Gyimothy
+2011;main;Andreas Zeller
+2011;main;Victor A. Braberman
+2011;main;Lionel C. Briand
+2011;main;Tevfik Bultan
+2011;main;Licia Capra
+2011;main;Antonio Carzaniga
+2011;main;Rudolf Ferenc
+2011;main;Carlo Ghezzi
+2011;main;Holger Giese
+2011;main;Martin Glinz
+2011;main;Mark Harman
+2011;main;Valerie Issarny
+2011;main;Sunghun Kim
+2011;main;Andy Ko
+2011;main;Shriram Krishnamurthi
+2011;main;Mira Mezini
+2011;main;Henry Muccini
+2011;main;Nachiappan Nagappan
+2011;main;Aditya V. Nori
+2011;main;Corina S. Pasareanu
+2011;main;Mauro Pezze
+2011;main;Klaus Pohl
+2011;main;Martin P. Robillard
+2011;main;Wilhelm Schafer
+2011;main;Yannis Smaragdakis
+2011;main;Margaret-Anne D. Storey
+2011;main;Zhendong Su
+2011;main;Mandana Vaziri
+2010;main;Gruia-Catalin Roman
+2010;main;Andre van der Hoek
+2010;main;Betty H. C. Cheng
+2010;main;Lori A. Clarke
+2010;main;Arie van Deursen
+2010;main;Sebastian G. Elbaum
+2010;main;Carlo Ghezzi
+2010;main;James A. Jones
+2010;main;Christine Julien
+2010;main;Axel van Lamsweerde
+2010;main;Michele Lanza
+2010;main;Nenad Medvidovic
+2010;main;Henry Muccini
+2010;main;Kumiyo Nakakoji
+2010;main;Alessandro Orso
+2010;main;Mauro Pezze
+2010;main;Ita Richardson
+2010;main;Martin P. Robillard
+2010;main;David S. Rosenblum
+2010;main;Wilhelm Schafer
+2010;main;Yannis Smaragdakis
+2010;main;Margaret-Anne D. Storey
+2010;main;Zhendong Su
+2010;main;Peri L. Tarr
+2010;main;Claudia Werner
+2010;main;Laurie Williams
+2010;main;Michal Young
+2009;main;Johannes C. van Vliet
+2009;main;Valerie Issarny
+2009;main;Paris Avgeriou
+2009;main;Antonia Bertolino
+2009;main;Judy M. Bishop
+2009;main;Victor A. Braberman
+2009;main;Antonio Carzaniga
+2009;main;Betty H. C. Cheng
+2009;main;Shing-Chi Cheung
+2009;main;Lori A. Clarke
+2009;main;Ivica Crnkovic
+2009;main;Sebastian G. Elbaum
+2009;main;Harald Gall
+2009;main;David Garlan
+2009;main;Carlo Ghezzi
+2009;main;Dimitra Giannakopoulou
+2009;main;Tony Gorschek
+2009;main;Sriram K. Rajamani
+2009;main;Jeffrey N. Magee
+2009;main;Nenad Medvidovic
+2009;main;Raffaela Mirandola
+2009;main;Gail C. Murphy
+2009;main;Wilhelm Schafer
+2009;main;Massimo Tivoli
+2009;main;Michel Wermelinger
+2009;main;Yun Yang
+2009;main;Apostolos Zarras
+2009;main;Pamela Zave
+2009;main;Andreas Zeller
+2008;main;Mary Jean Harrold
+2008;main;Gail C. Murphy
+2008;main;Joanne M. Atlee
+2008;main;Alessandro Orso
+2008;main;Antonia Bertolino
+2008;main;Corina S. Pasareanu
+2008;main;Daniela E. Herlea
+2008;main;Martin P. Robillard
+2008;main;Premkumar T. Devanbu
+2008;main;David S. Rosenblum
+2008;main;Robert DeLine
+2008;main;Atanas Rountev
+2008;main;Carlo Ghezzi
+2008;main;Barbara G. Ryder
+2008;main;Dimitra Giannakopoulou
+2008;main;Yannis Smaragdakis
+2008;main;James D. Herbsleb
+2008;main;Peri L. Tarr
+2008;main;Katsuro Inoue
+2008;main;Andre van der Hoek
+2008;main;Pankaj Jalote
+2008;main;Pamela Zave
+2008;main;Darko Marinov
+2008;main;Andreas Zeller
+2008;main;Cecilia Mascolo
+2007;main;Ivica Crnkovic
+2007;main;Antonia Bertolino
+2007;main;Gerardo Canfora
+2007;main;Shing-Chi Cheung
+2007;main;Lori A. Clarke
+2007;main;Premkumar T. Devanbu
+2007;main;Laura K. Dillon
+2007;main;Sebastian G. Elbaum
+2007;main;Michael D. Ernst
+2007;main;Jacky Estublier
+2007;main;Harald Gall
+2007;main;Constance L. Heitmeyer
+2007;main;James D. Herbsleb
+2007;main;Paola Inverardi
+2007;main;Ignac Lovrek
+2007;main;Cecilia Mascolo
+2007;main;Raffaela Mirandola
+2007;main;Kumiyo Nakakoji
+2007;main;Alessandro Orso
+2007;main;Corina S. Pasareanu
+2007;main;Sriram K. Rajamani
+2007;main;Wilhelm Schafer
+2007;main;Heinz W. Schmidt
+2007;main;Sebastian Uchitel
+2007;main;Andre van der Hoek
+2007;main;Claes Wohlin
+2007;main;Alexander L. Wolf
+2007;main;Apostolos Zarras
+2006;main;Michal Young
+2006;main;Premkumar T. Devanbu
+2006;main;Cecilia Mascolo
+2006;main;George S. Avrunin
+2006;main;Nenad Medvidovic
+2006;main;Don S. Batory
+2006;main;Mira Mezini
+2006;main;Antonia Bertolino
+2006;main;Gail C. Murphy
+2006;main;Antonio Carzaniga
+2006;main;Kumiyo Nakakoji
+2006;main;Satish Chandra
+2006;main;Harold Ossher
+2006;main;Sebastian G. Elbaum
+2006;main;Corina S. Pasareanu
+2006;main;Anthony Finkelstein
+2006;main;Dewayne E. Perry
+2006;main;Mary Jean Harrold
+2006;main;Gian Pietro Picco
+2006;main;James D. Herbsleb
+2006;main;Barbara G. Ryder
+2006;main;Katsuro Inoue
+2006;main;Yannis Smaragdakis
+2006;main;Valerie Issarny
+2006;main;Zhendong Su
+2006;main;Jeffrey Kramer
+2006;main;Sebastian Uchitel
+2006;main;Shriram Krishnamurthi
+2006;main;Andreas Zeller
+2005;main;Michel Wermelinger
+2005;main;Harald Gall
+2005;main;Mikio Aoyama
+2005;main;Antonia Bertolino
+2005;main;Jan Bosch
+2005;main;Gerardo Canfora
+2005;main;Premkumar T. Devanbu
+2005;main;Matthew B. Dwyer
+2005;main;Wolfgang Emmerich
+2005;main;Jacky Estublier
+2005;main;Pascal Fenkam
+2005;main;Anthony Finkelstein
+2005;main;Carlo Ghezzi
+2005;main;Martin Glinz
+2005;main;Paul Grunbacher
+2005;main;Volker Gruhn
+2005;main;Paola Inverardi
+2005;main;Mehdi Jazayeri
+2005;main;Jeffrey Kramer
+2005;main;Philippe Kruchten
+2005;main;Nenad Medvidovic
+2005;main;Roland T. Mittermeir
+2005;main;Carlo Montangero
+2005;main;Alessandro Orso
+2005;main;Harold Ossher
+2005;main;Juan Fernandez-Ramil
+2005;main;David S. Rosenblum
+2005;main;Wilhelm Schafer
+2005;main;Sebastian Uchitel
+2005;main;Andre van der Hoek
+2005;main;Claes Wohlin
+2005;main;Alexander L. Wolf
+2005;main;Andreas Zeller
+2004;main;Richard N. Taylor
+2004;main;Matthew B. Dwyer
+2004;main;Ken Anderson
+2004;main;Annie I. Anton
+2004;main;Joanne M. Atlee
+2004;main;Premkumar T. Devanbu
+2004;main;Mary Jean Harrold
+2004;main;John Hatcliff
+2004;main;James D. Herbsleb
+2004;main;Andre van der Hoek
+2004;main;Paola Inverardi
+2004;main;Gregor Kiczales
+2004;main;Jeffrey Kramer
+2004;main;Shriram Krishnamurthi
+2004;main;Shinji Kusumoto
+2004;main;Axel van Lamsweerde
+2004;main;Bashar Nuseibeh
+2004;main;Mauro Pezze
+2004;main;Gian Pietro Picco
+2004;main;David S. Rosenblum
+2004;main;Gregg Rothermel
+2004;main;Wilhelm Schafer
+2004;main;Douglas C. Schmidt
+2004;main;Peri L. Tarr
+2004;main;Frank Tip
+2004;main;Willem Visser
+2003;main;Jukka Paakki
+2003;main;Paola Inverardi
+2003;main;Israel Ben-Shaul
+2003;main;Antonia Bertolino
+2003;main;Lionel C. Briand
+2003;main;Shing-Chi Cheung
+2003;main;Ivica Crnkovic
+2003;main;Jacky Estublier
+2003;main;Istvan Forgacs
+2003;main;David Garlan
+2003;main;Carlo Ghezzi
+2003;main;Klaus Havelund
+2003;main;George T. Heineman
+2003;main;Constance L. Heitmeyer
+2003;main;Valerie Issarny
+2003;main;Jens H. Weber-Jahnke
+2003;main;Mehdi Jazayeri
+2003;main;Kai Koskimies
+2003;main;Jeffrey N. Magee
+2003;main;Carlo Montangero
+2003;main;David Notkin
+2003;main;Bashar Nuseibeh
+2003;main;Barbara Paech
+2003;main;Debra J. Richardson
+2003;main;Motoshi Saeki
+2003;main;Clemens A. Szyperski
+2003;main;Richard N. Taylor
+2003;main;Johannes C. van Vliet
+2003;main;Michel Wermelinger
+2003;main;Alexander L. Wolf
+2003;main;Andreas Zeller
+2002;main;Mary Lou Soffa
+2002;main;William G. Griswold
+2002;main;Joanne M. Atlee
+2002;main;Premkumar T. Devanbu
+2002;main;Matthew B. Dwyer
+2002;main;Michael D. Ernst
+2002;main;John P. Field
+2002;main;David Garlan
+2002;main;Martin Glinz
+2002;main;Andre van der Hoek
+2002;main;Paola Inverardi
+2002;main;Jens H. Weber-Jahnke
+2002;main;John C. Knight
+2002;main;Axel van Lamsweerde
+2002;main;Ken-ichi Matsumoto
+2002;main;Atif M. Memon
+2002;main;Kumiyo Nakakoji
+2002;main;Adam A. Porter
+2002;main;Sriram K. Rajamani
+2002;main;Gruia-Catalin Roman
+2002;main;Gregg Rothermel
+2002;main;Barbara G. Ryder
+2002;main;Andreas Zeller
+2001;main;Volker Gruhn
+2001;main;A. Min Tjoa
+2001;main;Israel Ben-Shaul
+2001;main;Alfred Brockers
+2001;main;Johannes Bumiller
+2001;main;Christine Choppy
+2001;main;Gianpaolo Cugola
+2001;main;Premkumar T. Devanbu
+2001;main;Wolfgang Emmerich
+2001;main;Carlo Ghezzi
+2001;main;Paul Grefen
+2001;main;Mary Jean Harrold
+2001;main;Wilhelm Hasselbring
+2001;main;George T. Heineman
+2001;main;Katsuro Inoue
+2001;main;Mehdi Jazayeri
+2001;main;Stefan Jablonski
+2001;main;Jens H. Weber-Jahnke
+2001;main;Gerti Kappel
+2001;main;Rudolf K. Keller
+2001;main;Axel van Lamsweerde
+2001;main;Nenad Medvidovic
+2001;main;Walcelio L. Melo
+2001;main;Carlo Montangero
+2001;main;David Notkin
+2001;main;Bashar Nuseibeh
+2001;main;Dewayne E. Perry
+2001;main;Flavio Oquendo
+2001;main;Leon J. Osterweil
+2001;main;David Raffo
+2001;main;Debra J. Richardson
+2001;main;David S. Rosenblum
+2001;main;Wilhelm Schafer
+2001;main;Tetsuo Tamai
+2001;main;Alexander L. Wolf
+2001;main;Yun Yang
+2001;main;Pamela Zave
+2000;main;John C. Knight
+2000;main;David S. Rosenblum
+2000;main;Thomas A. Ball
+2000;main;Lori A. Clarke
+2000;main;Premkumar T. Devanbu
+2000;main;Elisabetta Di Nitto
+2000;main;Laura K. Dillon
+2000;main;Matthew B. Dwyer
+2000;main;Anthony Finkelstein
+2000;main;Mehdi Jazayeri
+2000;main;Jeffrey Kramer
+2000;main;Axel van Lamsweerde
+2000;main;Jeffrey N. Magee
+2000;main;Nenad Medvidovic
+2000;main;Bashar Nuseibeh
+2000;main;Leon J. Osterweil
+2000;main;Dewayne E. Perry
+2000;main;Gian Pietro Picco
+2000;main;Gregg Rothermel
+2000;main;John M. Rushby
+2000;main;Mary Lou Soffa
+2000;main;Kevin J. Sullivan
+2000;main;Richard N. Taylor
+2000;main;Jack C. Wileden
+2000;main;Alexander L. Wolf
+2000;main;Michal Young
+1999;main;Michel Lemoine
+1999;main;Vincenzo Ambriola
+1999;main;Antonia Bertolino
+1999;main;Theo D'Hondt
+1999;main;Matthew B. Dwyer
+1999;main;Martin Glinz
+1999;main;Paola Inverardi
+1999;main;Mehdi Jazayeri
+1999;main;Gerti Kappel
+1999;main;Paul Klint
+1999;main;Kai Koskimies
+1999;main;Jeffrey Kramer
+1999;main;Gary T. Leavens
+1999;main;Simon Moser
+1999;main;Gail C. Murphy
+1999;main;Oscar Nierstrasz
+1999;main;David S. Rosenblum
+1999;main;Martin J. Shepperd
+1999;main;Gregor Snelting
+1999;main;Jeanine Souquieres
+1999;main;Walter F. Tichy
+1999;main;Sylvie Vignes
+1999;main;Albert Zundorf
+1998;main;Leon J. Osterweil
+1998;main;William L. Scherlis
+1998;main;Gregory D. Abowd
+1998;main;Don S. Batory
+1998;main;Lori A. Clarke
+1998;main;Laura K. Dillon
+1998;main;Jacky Estublier
+1998;main;Kokichi Futatsugi
+1998;main;Marie-Claude Gaudel
+1998;main;Carlo Ghezzi
+1998;main;Carl A. Gunter
+1998;main;James Hook
+1998;main;Daniel B. Jackson
+1998;main;Daniel Le Metayer
+1998;main;Oscar Nierstrasz
+1998;main;David S. Rosenblum
+1998;main;Barbara G. Ryder
+1998;main;Wilhelm Schafer
+1998;main;Richard N. Taylor
+1998;main;Axel van Lamsweerde
+1998;main;Steve Vestal
+1998;main;Daniel Weise
+1998;main;Michal Young
+1998;main;Pamela Zave
+1997;main;Helmut Schauer
+1997;main;Mehdi Jazayeri
+1997;main;Vincenzo Ambriola
+1997;main;Petr Kroha
+1997;main;Antonia Bertolino
+1997;main;Juha Kuusela
+1997;main;Walter R. Bischofberger
+1997;main;Axel van Lamsweerde
+1997;main;Pere Botella
+1997;main;G. Leon
+1997;main;Reidar Conradi
+1997;main;Boris Magnusson
+1997;main;Jean-Claude Derniame
+1997;main;Hanspeter Mossenbock
+1997;main;Flavio De Paoli
+1997;main;Hausi A. Muller
+1997;main;Andrea Di Maio
+1997;main;Oscar Nierstrasz
+1997;main;Anthony Finkelstein
+1997;main;J. Henk Obbink
+1997;main;Alfonso Fuggetta
+1997;main;Jens Palsberg
+1997;main;David Garlan
+1997;main;Wilhelm Schafer
+1997;main;Carlo Ghezzi
+1997;main;William L. Scherlis
+1997;main;Martin Glinz
+1997;main;Murali Sitaraman
+1997;main;Volker Gruhn
+1997;main;Ian Sommerville
+1997;main;Katsuro Inoue
+1997;main;S. Doaitse Swierstra
+1997;main;Gerti Kappel
+1997;main;Frank van der Linden
+1997;main;Richard A. Kemmerer
+1997;main;Sylvie Vignes
+1997;main;Rene Klosch
+1997;main;Jim Welsh
+1997;main;Jeffrey Kramer
+1996;main;Mark Moriconi
+1996;main;David Garlan
+1996;main;Barry W. Boehm
+1996;main;Marie-Claude Gaudel
+1996;main;John D. Gannon
+1996;main;Carlo Ghezzi
+1996;main;Anthony D. Hall
+1996;main;Mary Jean Harrold
+1996;main;Daniel B. Jackson
+1996;main;Mehdi Jazayeri
+1996;main;Kevin Jeffay
+1996;main;Ralph E. Johnson
+1996;main;Gregor Kiczales
+1996;main;Jeffrey Kramer
+1996;main;Axel van Lamsweerde
+1996;main;Oscar Nierstrasz
+1996;main;Dewayne E. Perry
+1996;main;Fred B. Schneider
+1995;main;John D. Gannon
+1995;main;Gail E. Kaiser
+1995;main;Terrance Boult
+1995;main;Prasun Dewan
+1995;main;John Diamant
+1995;main;Laura K. Dillon
+1995;main;Paola Giannini
+1995;main;Mary Jean Harrold
+1995;main;Gilles Kahn
+1995;main;Tohru Kikuno
+1995;main;Nancy G. Leveson
+1995;main;Yoelle S. Maarek
+1995;main;Hausi A. Muller
+1995;main;Patricia A. Oberndorf
+1995;main;Leon J. Osterweil
+1995;main;Steven P. Reiss
+1995;main;Debra J. Richardson
+1995;main;Walt Scacchi
+1995;main;Dorothy E. Setliff
+1995;main;Andrea H. Skarra
+1995;main;Jack C. Wileden
+1995;main;Alexander L. Wolf
+1995;main;Pamela Zave
+1994;main;W. Richards Adrion
+1994;main;David S. Wile
+1994;main;Lori A. Clarke
+1994;main;Alan Dearle
+1994;main;John D. Gannon
+1994;main;David Garlan
+1994;main;Carlo Ghezzi
+1994;main;Gail E. Kaiser
+1994;main;Axel van Lamsweerde
+1994;main;Mark Moriconi
+1994;main;David Notkin
+1994;main;Barbara G. Ryder
+1994;main;Richard N. Taylor
+1994;main;Ian Thomas
+1994;main;Walter F. Tichy
+1994;main;Jeannette M. Wing
+1994;main;Stanley B. Zdonik
+1993;main;Barry W. Boehm
+1993;main;David Notkin
+1993;main;Lori A. Clarke
+1993;main;John D. Gannon
+1993;main;David Garlan
+1993;main;Susan L. Gerhart
+1993;main;D. Ross Jeffery
+1993;main;Nancy G. Leveson
+1993;main;David Notkin
+1993;main;Harold Ossher
+1993;main;Thomas W. Reps
+1993;main;William L. Scherlis
+1993;main;Tetsuo Tamai
+1993;main;David S. Wile
+1993;main;Michal Young
