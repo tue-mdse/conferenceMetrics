@@ -72,15 +72,30 @@ def tabulate2CSV(outPath, metric, k=None, datatype='float'):
     f.close()    
 
 
-tabulate2CSV(os.path.join(metricsPath, 'AP.csv'), 'AP', type='int')
-tabulate2CSV(os.path.join(metricsPath, 'SP.csv'), 'SP', type='int')
+def scatterPlot(outPath, metric1, metric2, k1=None, k2=None):
+    f = open(outPath, 'wb')
+    writer = UnicodeWriter(f)
+    writer.writerow(['year', '%s%d'%(metric1,k1), '%s%d'%(metric2,k2), 'conference'])
+    for conferenceName in conferences:        
+        for year in reversed(sorted(set(metrics[conferenceName].getMetric(metric1,k1).keys()).intersection(set(metrics[conferenceName].getMetric(metric2,k2).keys())))):
+            x = metrics[conferenceName].getMetric(metric1,k1)[year]
+            y = metrics[conferenceName].getMetric(metric2,k2)[year]
+            row = [year, x, y, conferenceName]
+            rowStr = [str(item) for item in row]
+            writer.writerow(rowStr)
+    f.close()
+    
+    
+
+tabulate2CSV(os.path.join(metricsPath, 'AP.csv'), 'AP', datatype='int')
+tabulate2CSV(os.path.join(metricsPath, 'SP.csv'), 'SP', datatype='int')
 tabulate2CSV(os.path.join(metricsPath, 'RA.csv'), 'RA')
 tabulate2CSV(os.path.join(metricsPath, 'RL.csv'), 'RL')
-tabulate2CSV(os.path.join(metricsPath, 'C.csv'), 'C', type='int')
-tabulate2CSV(os.path.join(metricsPath, 'A.csv'), 'A', type='int')
-tabulate2CSV(os.path.join(metricsPath, 'CnA4.csv'), 'CnA', 4, type='int')
+tabulate2CSV(os.path.join(metricsPath, 'C.csv'), 'C', datatype='int')
+tabulate2CSV(os.path.join(metricsPath, 'A.csv'), 'A', datatype='int')
+tabulate2CSV(os.path.join(metricsPath, 'CnA4.csv'), 'CnA', 4, datatype='int')
 tabulate2CSV(os.path.join(metricsPath, 'RCnA4.csv'), 'RCnA', 4)
-tabulate2CSV(os.path.join(metricsPath, 'APC0.csv'), 'APC', 0, type='int')
+tabulate2CSV(os.path.join(metricsPath, 'APC0.csv'), 'APC', 0, datatype='int')
 tabulate2CSV(os.path.join(metricsPath, 'RAC0.csv'), 'RAC', 0)
 tabulate2CSV(os.path.join(metricsPath, 'RAC4.csv'), 'RAC', 4)
 tabulate2CSV(os.path.join(metricsPath, 'RNC1.csv'), 'RNC', 1)
@@ -89,3 +104,4 @@ tabulate2CSV(os.path.join(metricsPath, 'RNA1.csv'), 'RNA', 1)
 tabulate2CSV(os.path.join(metricsPath, 'RNA4.csv'), 'RNA', 4)
 tabulate2CSV(os.path.join(metricsPath, 'RPNA4.csv'), 'RPNA', 4)
         
+scatterPlot(os.path.join(metricsPath, 'RAC0-RNC1.csv'), 'RAC', 'RNC', 0, 1)
