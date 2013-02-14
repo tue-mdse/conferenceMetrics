@@ -19,7 +19,7 @@ This is a database of papers and programme committee members for software engine
 
 The data is stored in a MySQL database (see the [SQL dump](https://github.com/tue-mdse/conferenceMetrics/blob/master/data/conferences.sql.gz)) with the following schema:
 
-<img align="center" width="80%" src="https://raw.github.com/tue-mdse/conferenceMetrics/master/visualisation/model.png">
+<img align="center" width="90%" src="https://raw.github.com/tue-mdse/conferenceMetrics/master/visualisation/model.png">
 
 Alternatively, the database can be recreated (hence easily extended) from CSV files using Python and the SQLAlchemy Object Relational Mapper using the scripts included (more details below).
 
