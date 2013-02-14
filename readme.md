@@ -50,3 +50,9 @@ Python scripts:
 - `queryDB.py`: queries the database, computes the metrics defined in the metrics model, and outputs the results to CSV files. For an example of a visualisation of these results, we include the `visualisation.r` R script that produces the following plot for *RAC(c,y,0)*, the fraction of papers each year co-authored by PC members from that year.
 
 <img align="center" width="100%" src="https://raw.github.com/tue-mdse/conferenceMetrics/master/visualisation/RAC0.png">
+
+## Licenses
+
+- The database is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/)
+- Any rights in individual contents of the database (i.e., the data) are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/)
+- The tooling (e.g., Python scripts and R scripts) used are licensed under the [GNU Lesser General Public License](http://www.gnu.org/licenses/lgpl.txt) version 3
