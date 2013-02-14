@@ -1,6 +1,6 @@
 # Metrics
 
-The Python script `metrics.py` defines a metrics model and how to compute the metrics (see the tools folder). To account for differences in conference age, we use sliding window metrics. The following metrics have been implemented (*c* denotes a conference, *y* a year) in `metrics.py`, and the results are available in this folder. We use these metrics to assess the *health* of software engineering conferences in [this preprint](http://www.win.tue.nl/mdse/conferences/SCP13.pdf) submitted to Science of Computer Programming.
+The Python script `metrics.py` defines a metrics model and how to compute the metrics (see the tools folder). To account for differences in conference age, we use sliding window metrics. The following metrics have been implemented (where *c* denotes a conference and *y* a year) in `metrics.py`, and the results are available in this folder. We use these metrics to assess the *health* of software engineering conferences in [this preprint](http://www.win.tue.nl/mdse/conferences/SCP13.pdf) submitted to Science of Computer Programming.
 
 - *A(c,y)*, **number of Authors**
 - *C(c,y)*, **number of programme Committee members**
