@@ -1,0 +1,281 @@
+<bht key="db/conf/icse/icse2000.bht" title="ICSE 2000"> <logo> 
+<h1>22. <ref href="db/conf/icse/index.html">ICSE</ref> 2000:
+Limerick, Ireland</h1>
+
+<cite key="conf/icse/2000">
+
+<h2>Invited Presentations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Castells00" style="ee" /></li>
+<li><cite key="conf/icse/Booch00" style="ee" /></li>
+<li><cite key="conf/icse/Horn00" style="ee" /></li>
+<li><cite key="conf/icse/Lamsweerde00" style="ee" /></li>
+</ul>
+<h2>Components and COTS</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CrnkovicL00" style="ee" /></li>
+<li><cite key="conf/icse/MorisioSPBKC00" style="ee" /></li>
+<li><cite key="conf/icse/BalkK00" style="ee" /></li>
+</ul>
+<h2>Software Architecture and Product Families</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Wijnstra00" style="ee" /></li>
+<li><cite key="conf/icse/KuuselaS00" style="ee" /></li>
+<li><cite key="conf/icse/Pisan00" style="ee" /></li>
+</ul>
+<h2>New Perspectives on Software Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Bryant00" style="ee" /></li>
+<li><cite key="conf/icse/Widmaier00" style="ee" /></li>
+</ul>
+<h2>Data Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Brewer00" style="ee" /></li>
+<li><cite key="conf/icse/AndrewsZ00" style="ee" /></li>
+</ul>
+<h2>Testing I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/LeonPW00" style="ee" /></li>
+<li><cite key="conf/icse/KimPR00" style="ee" /></li>
+<li><cite key="conf/icse/LabicheTWD00" style="ee" /></li>
+</ul>
+<h2>Evolution and Reuse</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Rausch00" style="ee" /></li>
+<li><cite key="conf/icse/MiliCGZ00" style="ee" /></li>
+<li><cite key="conf/icse/Michail00" style="ee" /></li>
+</ul>
+<h2>Component-Based Systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MehtaMP00" style="ee" /></li>
+<li><cite key="conf/icse/PradellaRMC00" style="ee" /></li>
+</ul>
+<h2>Software Engineering Training</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DrappaL00" style="ee" /></li>
+<li><cite key="conf/icse/Dawson00" style="ee" /></li>
+</ul>
+<h2>Testing II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BertolinoCIM00" style="ee" /></li>
+<li><cite key="conf/icse/RothermelCBSGR00" style="ee" /></li>
+</ul>
+<h2>Software Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KohlerNNZ00" style="ee" /></li>
+<li><cite key="conf/icse/AndersonGW00" style="ee" /></li>
+</ul>
+<h2>OPen Source and Software Markets</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MockusFH00" style="ee" /></li>
+<li><cite key="conf/icse/CoppitS00" style="ee" /></li>
+</ul>
+<h2>Software Engineering Education</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Adroin00" style="ee" /></li>
+<li><cite key="conf/icse/Faulk00" style="ee" /></li>
+</ul>
+<h2>System Model Derivation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/AlurEY00" style="ee" /></li>
+<li><cite key="conf/icse/WhittleS00" style="ee" /></li>
+<li><cite key="conf/icse/Subramaniam00" style="ee" /></li>
+</ul>
+<h2>Model Checking</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Bultan00" style="ee" /></li>
+<li><cite key="conf/icse/DangK00" style="ee" /></li>
+</ul>
+<h2>Program Analysis I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HayesGM00" style="ee" /></li>
+<li><cite key="conf/icse/LiangH00" style="ee" /></li>
+</ul>
+<h2>Empirical Studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BriandLW00" style="ee" /></li>
+<li><cite key="conf/icse/MizunoKTS00" style="ee" /></li>
+</ul>
+<h2>Web-Based Systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/EmmerichMF00" style="ee" /></li>
+<li><cite key="conf/icse/FieldingT00" style="ee" /></li>
+</ul>
+<h2>Case Studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/LippertL00" style="ee" /></li>
+<li><cite key="conf/icse/LeszakPS00" style="ee" /></li>
+</ul>
+<h2>Program Analysis II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CorbettDHLPRZ00" style="ee" /></li>
+<li><cite key="conf/icse/ErnstCGN00" style="ee" /></li>
+</ul>
+<h2>Review and Inspection Techniques</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/dAstousR00" style="ee" /></li>
+<li><cite key="conf/icse/DunsmoreRW00" style="ee" /></li>
+</ul>
+<h2>Verification and Proofs</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KeidarKLS00" style="ee" /></li>
+<li><cite key="conf/icse/PenixVELW00" style="ee" /></li>
+</ul>
+<h2>Visual Techniques</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MageePGK00" style="ee" /></li>
+<li><cite key="conf/icse/GurrT00" style="ee" /></li>
+</ul>
+<h2>Technology Transfer "in the large"</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Curtis00" style="ee" /></li>
+<li><cite key="conf/icse/Rombach00" style="ee" /></li>
+</ul>
+<h2>Professionalization of Software Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Orsted00" style="ee" /></li>
+<li><cite key="conf/icse/GrimsonK00" style="ee" /></li>
+<li><cite key="conf/icse/Morrogh00" style="ee" /></li>
+</ul>
+<h2>Experience with a Product Line and Family Approach</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GannodL00" style="ee" /></li>
+<li><cite key="conf/icse/SchmidBKB00" style="ee" /></li>
+</ul>
+<h2>Technology Transfer as an Explicit Business and Process Issue</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Colyer00" style="ee" /></li>
+<li><cite key="conf/icse/NishiyamaIN00" style="ee" /></li>
+</ul>
+<h2>Support for Effective Project Estimation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Rifkin00" style="ee" /></li>
+<li><cite key="conf/icse/Miranda00" style="ee" /></li>
+</ul>
+<h2>Technology Transfer in the Internet World</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Murphy00" style="ee" /></li>
+</ul>
+<h2>From Research to Business Success</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Baker00" style="ee" /></li>
+<li><cite key="conf/icse/KarlssonAL00" style="ee" /></li>
+</ul>
+<h2>Practical Experience:
+Company Case Studies I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Titze00" style="ee" /></li>
+<li><cite key="conf/icse/KautzHT00" style="ee" /></li>
+</ul>
+<h2>Practical Experience:
+Company Case Studies II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/OHara00" style="ee" /></li>
+<li><cite key="conf/icse/CalioAB00" style="ee" /></li>
+</ul>
+<h2>Panels</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/OsterweilBEGKM00" style="ee" /></li>
+<li><cite key="conf/icse/HeinemanCFMSS00" style="ee" /></li>
+<li><cite key="conf/icse/MeadSRBER00" style="ee" /></li>
+<li><cite key="conf/icse/Magee00" style="ee" /></li>
+</ul>
+<h2>Teachin Demos</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Moore00" style="ee" /></li>
+<li><cite key="conf/icse/Edwards00" style="ee" /></li>
+<li><cite key="conf/icse/PoerwantoroEKS00" style="ee" /></li>
+<li><cite key="conf/icse/BirbilisKKTV00" style="ee" /></li>
+<li><cite key="conf/icse/SharpH00" style="ee" /></li>
+<li><cite key="conf/icse/Ramakrishnan00" style="ee" /></li>
+</ul>
+<h2>Doctoral Workshop</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MageeP00" style="ee" /></li>
+<li><cite key="conf/icse/Dong00" style="ee" /></li>
+<li><cite key="conf/icse/Ramil00" style="ee" /></li>
+<li><cite key="conf/icse/Denaro00" style="ee" /></li>
+<li><cite key="conf/icse/Iosif00" style="ee" /></li>
+<li><cite key="conf/icse/Kammer00" style="ee" /></li>
+<li><cite key="conf/icse/Liu00" style="ee" /></li>
+<li><cite key="conf/icse/Paralic00" style="ee" /></li>
+<li><cite key="conf/icse/Silveira00" style="ee" /></li>
+<li><cite key="conf/icse/Cinneide00" style="ee" /></li>
+<li><cite key="conf/icse/Whalen00" style="ee" /></li>
+</ul>
+<h2>Research Demos</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/JacksonSS00" style="ee" /></li>
+<li><cite key="conf/icse/OssherT00" style="ee" /></li>
+<li><cite key="conf/icse/MarcaP00" style="ee" /></li>
+<li><cite key="conf/icse/NickelNZ00" style="ee" /></li>
+<li><cite key="conf/icse/CattaneoNFLV00" style="ee" /></li>
+<li><cite key="conf/icse/CoppitS00a" style="ee" /></li>
+<li><cite key="conf/icse/CassLSMWO00" style="ee" /></li>
+<li><cite key="conf/icse/VieiraDR00" style="ee" /></li>
+<li><cite key="conf/icse/CorbettDHR00" style="ee" /></li>
+<li><cite key="conf/icse/PiccoMR00" style="ee" /></li>
+</ul>
+<h2>Posters</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MichielsW00" style="ee" /></li>
+<li><cite key="conf/icse/LenceviciusRY00" style="ee" /></li>
+<li><cite key="conf/icse/LeiSS00" style="ee" /></li>
+<li><cite key="conf/icse/Thomas00" style="ee" /></li>
+<li><cite key="conf/icse/AcunaBS00" style="ee" /></li>
+<li><cite key="conf/icse/LiuR00" style="ee" /></li>
+<li><cite key="conf/icse/RamilL00" style="ee" /></li>
+<li><cite key="conf/icse/Sloane00" style="ee" /></li>
+<li><cite key="conf/icse/WalshND00" style="ee" /></li>
+<li><cite key="conf/icse/BarberJ00" style="ee" /></li>
+<li><cite key="conf/icse/Daabaj00" style="ee" /></li>
+<li><cite key="conf/icse/Liu00a" style="ee" /></li>
+<li><cite key="conf/icse/FroehlichKS00" style="ee" /></li>
+</ul>
+<ul class="publ-list">
+<li><cite key="conf/icse/MiliCGZ00a" style="ee" /></li>
+<li><cite key="conf/icse/SucciYLP00" style="ee" /></li>
+<li><cite key="conf/icse/SucciWLS00" style="ee" /></li>
+<li><cite key="conf/icse/OConnorCM00" style="ee" /></li>
+<li><cite key="conf/icse/Riva00" style="ee" /></li>
+<li><cite key="conf/icse/StrouliaESP00" style="ee" /></li>
+<li><cite key="conf/icse/Becker-KornstaedtSZ00" style="ee" /></li>
+</ul>
+<h2>Workshops</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BertolinoM00" style="ee" /></li>
+<li><cite key="conf/icse/MurugesanD00" style="ee" /></li>
+<li><cite key="conf/icse/TraceyPV00" style="ee" /></li>
+<li><cite key="conf/icse/Dean00" style="ee" /></li>
+<li><cite key="conf/icse/SingerSS00" style="ee" /></li>
+<li><cite key="conf/icse/GraySF00" style="ee" /></li>
+<li><cite key="conf/icse/PalanqueP00" style="ee" /></li>
+<li><cite key="conf/icse/SimHK00" style="ee" /></li>
+<li><cite key="conf/icse/Mauer00" style="ee" /></li>
+<li><cite key="conf/icse/TarrHOFNP00" style="ee" /></li>
+<li><cite key="conf/icse/Sullivan00" style="ee" /></li>
+<li><cite key="conf/icse/Menzies00" style="ee" /></li>
+<li><cite key="conf/icse/KnauberS00" style="ee" /></li>
+<li><cite key="conf/icse/CiancariniW00" style="ee" /></li>
+</ul>
+<h2>Tutorials</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Bevan00" style="ee" /></li>
+<li><cite key="conf/icse/KazmanK00" style="ee" /></li>
+<li><cite key="conf/icse/LieberherrLM00" style="ee" /></li>
+<li><cite key="conf/icse/Vinoski00" style="ee" /></li>
+<li><cite key="conf/icse/Jalote00" style="ee" /></li>
+<li><cite key="conf/icse/NordPS00" style="ee" /></li>
+<li><cite key="conf/icse/LopesK00" style="ee" /></li>
+<li><cite key="conf/icse/Vinoski00a" style="ee" /></li>
+<li><cite key="conf/icse/KirschS00" style="ee" /></li>
+<li><cite key="conf/icse/Curtis00a" style="ee" /></li>
+<li><cite key="conf/icse/Gomaa00" style="ee" /></li>
+<li><cite key="conf/icse/TakahashiEFG00" style="ee" /></li>
+<li><cite key="conf/icse/LittlewoodS00" style="ee" /></li>
+<li><cite key="conf/icse/Batory00" style="ee" /></li>
+<li><cite key="conf/icse/GilHK00" style="ee" /></li>
+<li><cite key="conf/icse/Picco00" style="ee" /></li>
+<li><cite key="conf/icse/LittlewoodS00a" style="ee" /></li>
+<li><cite key="conf/icse/BasiliLSR00" style="ee" /></li>
+</ul><footer> 

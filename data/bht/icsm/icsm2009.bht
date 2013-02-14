@@ -1,0 +1,158 @@
+<bht key="db/conf/icsm/icsm2009.bht" title="IEEE International Conference on Software Maintenance 2009"> <logo> 
+<h1><ref href="db/conf/icsm/index.html">ICSM</ref> 2009:
+Edmonton, Alberta, Canada</h1><hr> <cite key="conf/icsm/2009"> 
+<h2>Invited Papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Tilley09" style="ee" /></li>
+<li><cite key="conf/icsm/Harrold09" style="ee" /></li>
+<li><cite key="conf/icsm/Weiss09" style="ee" /></li>
+</ul>
+<h2>Software Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/GrechanikXF09" style="ee" /></li>
+<li><cite key="conf/icsm/ZhangZHZM09" style="ee" /></li>
+<li><cite key="conf/icsm/YoonSMP09" style="ee" /></li>
+</ul>
+<h2>Evolution Studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/WangWYZY09" style="ee" /></li>
+<li><cite key="conf/icsm/XieCN09" style="ee" /></li>
+<li><cite key="conf/icsm/CorreiaKV09" style="ee" /></li>
+</ul>
+<h2>Software Design</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BouwersVD09" style="ee" /></li>
+<li><cite key="conf/icsm/KhomhGA09" style="ee" /></li>
+<li><cite key="conf/icsm/FokaefsTCS09" style="ee" /></li>
+</ul>
+<h2>Verification and Validation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/FengG09" style="ee" /></li>
+<li><cite key="conf/icsm/YangDR09" style="ee" /></li>
+<li><cite key="conf/icsm/JiangHHF09" style="ee" /></li>
+</ul>
+<h2>Practice Studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/MunozBDT09" style="ee" /></li>
+<li><cite key="conf/icsm/ShihabJH09" style="ee" /></li>
+<li><cite key="conf/icsm/StarkeLS09" style="ee" /></li>
+</ul>
+<h2>Change Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/WitZD09" style="ee" /></li>
+<li><cite key="conf/icsm/VasaLBN09" style="ee" /></li>
+<li><cite key="conf/icsm/YokomoriSNI09" style="ee" /></li>
+</ul>
+<h2>Dynamic Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/VoigtBD09" style="ee" /></li>
+<li><cite key="conf/icsm/WangLSKKL09" style="ee" /></li>
+<li><cite key="conf/icsm/JeffreyGG09" style="ee" /></li>
+</ul>
+<h2>Metrics and Measurement</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/LiuPFGC09" style="ee" /></li>
+<li><cite key="conf/icsm/BrooksM09" style="ee" /></li>
+<li><cite key="conf/icsm/RothlisbergerHVABNM09" style="ee" /></li>
+</ul>
+<h2>Defect Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/LiGMMMGC09" style="ee" /></li>
+<li><cite key="conf/icsm/Zhang09" style="ee" /></li>
+</ul>
+<h2>Static Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/AndroutsopoulosGHLT09" style="ee" /></li>
+<li><cite key="conf/icsm/ShternT09" style="ee" /></li>
+<li><cite key="conf/icsm/LinZZ09" style="ee" /></li>
+</ul>
+<h2>Process Management</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/AdamsCB09" style="ee" /></li>
+<li><cite key="conf/icsm/AlamAH09" style="ee" /></li>
+<li><cite key="conf/icsm/HindleGH09" style="ee" /></li>
+</ul>
+<h2>Concept and Tracability Recovery</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/GayHMM09" style="ee" /></li>
+<li><cite key="conf/icsm/GeetD09" style="ee" /></li>
+<li><cite key="conf/icsm/LuciaOT09" style="ee" /></li>
+</ul>
+<h2>Tool Demos</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/RothlisbergerHVABNM09a" style="ee" /></li>
+<li><cite key="conf/icsm/Reiss09" style="ee" /></li>
+<li><cite key="conf/icsm/VillazonBMA09" style="ee" /></li>
+<li><cite key="conf/icsm/Reiss09a" style="ee" /></li>
+<li><cite key="conf/icsm/HouJJ09" style="ee" /></li>
+<li><cite key="conf/icsm/PletcherH09" style="ee" /></li>
+<li><cite key="conf/icsm/XieGFC09" style="ee" /></li>
+</ul>
+<h2>Industry 1:
+Maintenance Processes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/CaiYW09" style="ee" /></li>
+<li><cite key="conf/icsm/HuangSWSW09" style="ee" /></li>
+</ul>
+<h2>Industry 2:
+Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/StroblBGK09" style="ee" /></li>
+<li><cite key="conf/icsm/Wang09" style="ee" /></li>
+<li><cite key="conf/icsm/NigulM09" style="ee" /></li>
+</ul>
+<h2>Industry 3:
+Software Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/ParveenTDM09" style="ee" /></li>
+<li><cite key="conf/icsm/ChanZHS09" style="ee" /></li>
+<li><cite key="conf/icsm/DaraLLST09" style="ee" /></li>
+</ul>
+<h2>Doctoral Symposium 1</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Herraiz09" style="ee" /></li>
+<li><cite key="conf/icsm/Zimmermann09" style="ee" /></li>
+<li><cite key="conf/icsm/Roy09" style="ee" /></li>
+</ul>
+<h2>Doctoral Symposium 2</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Poshyvanyk09" style="ee" /></li>
+<li><cite key="conf/icsm/Li09" style="ee" /></li>
+<li><cite key="conf/icsm/Adams09" style="ee" /></li>
+</ul>
+<h2>Short Papers and Poster Presentations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/WongC09" style="ee" /></li>
+<li><cite key="conf/icsm/FerzundAW09" style="ee" /></li>
+<li><cite key="conf/icsm/WenzelKKK09" style="ee" /></li>
+<li><cite key="conf/icsm/HouW09" style="ee" /></li>
+<li><cite key="conf/icsm/SteffenJWM09" style="ee" /></li>
+<li><cite key="conf/icsm/HanssenYCM09" style="ee" /></li>
+<li><cite key="conf/icsm/NguyenNAPN09" style="ee" /></li>
+<li><cite key="conf/icsm/JadallahGMR09" style="ee" /></li>
+<li><cite key="conf/icsm/Chapin09" style="ee" /></li>
+<li><cite key="conf/icsm/Yoo09" style="ee" /></li>
+<li><cite key="conf/icsm/PaudelD09" style="ee" /></li>
+<li><cite key="conf/icsm/LamanchaUG09" style="ee" /></li>
+<li><cite key="conf/icsm/NaslavskyZR09" style="ee" /></li>
+<li><cite key="conf/icsm/JiaSYL09" style="ee" /></li>
+<li><cite key="conf/icsm/AnbalaganV09" style="ee" /></li>
+<li><cite key="conf/icsm/KnabFGP09" style="ee" /></li>
+<li><cite key="conf/icsm/Mordal-ManetBDDWLBV09" style="ee" /></li>
+<li><cite key="conf/icsm/MaSZS09" style="ee" /></li>
+<li><cite key="conf/icsm/BettenburgSH09" style="ee" /></li>
+<li><cite key="conf/icsm/LuciaFGT09" style="ee" /></li>
+<li><cite key="conf/icsm/SchugerlRC09" style="ee" /></li>
+<li><cite key="conf/icsm/YoshikawaHS09" style="ee" /></li>
+<li><cite key="conf/icsm/HolmesCWD09" style="ee" /></li>
+<li><cite key="conf/icsm/SuttonHM09" style="ee" /></li>
+<li><cite key="conf/icsm/SutherlandS09" style="ee" /></li>
+<li><cite key="conf/icsm/DraganCM09" style="ee" /></li>
+<li><cite key="conf/icsm/AmalfitanoFT09" style="ee" /></li>
+<li><cite key="conf/icsm/DongG09" style="ee" /></li>
+</ul>
+<h2>Workshops</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/LewisSCK09" style="ee" /></li>
+<li><cite key="conf/icsm/TilleyBL09" style="ee" /></li>
+</ul><footer> 

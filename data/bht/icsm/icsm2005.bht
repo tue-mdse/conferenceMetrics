@@ -1,0 +1,180 @@
+<bht key="db/conf/icsm/icsm2005.bht" title="IEEE International Conference on Software Maintenance 2005"> <logo> 
+<h1><ref href="db/conf/icsm/index.html">ICSM</ref> 2005:
+Budapest, Hungary</h1><hr> <cite key="conf/icsm/2005"> 
+<h2>Introduction</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/X05" style="ee" /></li>
+<li><cite key="conf/icsm/X05a" style="ee" /></li>
+<li><cite key="conf/icsm/X05b" style="ee" /></li>
+<li><cite key="conf/icsm/X05c" style="ee" /></li>
+<li><cite key="conf/icsm/X05d" style="ee" /></li>
+<li><cite key="conf/icsm/X05e" style="ee" /></li>
+</ul>
+<h2>Welcoming Address</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Sneed05" style="ee" /></li>
+</ul>
+<h2>Keynote Speakers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Sommerville05" style="ee" /></li>
+<li><cite key="conf/icsm/Parikh05" style="ee" /></li>
+</ul>
+<h2>Aspect Mining</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/MonteiroF05" style="ee" /></li>
+<li><cite key="conf/icsm/BinkleyCHRT05" style="ee" /></li>
+<li><cite key="conf/icsm/BruntinkDT05" style="ee" /></li>
+</ul>
+<h2>Components &amp; Frameworks</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/PilskalnsWA05" style="ee" /></li>
+<li><cite key="conf/icsm/YuDMA05" style="ee" /></li>
+<li><cite key="conf/icsm/KotonyaH05" style="ee" /></li>
+</ul>
+<h2>Distributed Systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BriandLL05" style="ee" /></li>
+<li><cite key="conf/icsm/TilevichSH05" style="ee" /></li>
+<li><cite key="conf/icsm/SharpR05" style="ee" /></li>
+</ul>
+<h2>Maintenance</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Reiss05" style="ee" /></li>
+<li><cite key="conf/icsm/AlvesCVSDBR05" style="ee" /></li>
+<li><cite key="conf/icsm/MarcusP05" style="ee" /></li>
+</ul>
+<h2>Re- and Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/PanasS05" style="ee" /></li>
+<li><cite key="conf/icsm/SalahDMSV05" style="ee" /></li>
+<li><cite key="conf/icsm/GuzmanPP05" style="ee" /></li>
+</ul>
+<h2>Source Code Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BinkleyH05" style="ee" /></li>
+<li><cite key="conf/icsm/MilanovaR05" style="ee" /></li>
+<li><cite key="conf/icsm/NiuES05" style="ee" /></li>
+</ul>
+<h2>Maintenance in Practice</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Dayani-FardGM05" style="ee" /></li>
+<li><cite key="conf/icsm/ZhangZ05" style="ee" /></li>
+<li><cite key="conf/icsm/SusaniD05" style="ee" /></li>
+<li><cite key="conf/icsm/AntoniolPH05" style="ee" /></li>
+</ul>
+<h2>Process</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/JansenBBN05" style="ee" /></li>
+<li><cite key="conf/icsm/HassanH05" style="ee" /></li>
+<li><cite key="conf/icsm/BaldassarreBCV05" style="ee" /></li>
+<li><cite key="conf/icsm/BaldassarreBCV05a" style="ee" /></li>
+</ul>
+<h2>Program Comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/FerencBFL05" style="ee" /></li>
+<li><cite key="conf/icsm/KapserG05" style="ee" /></li>
+<li><cite key="conf/icsm/EichbergHMS05" style="ee" /></li>
+<li><cite key="conf/icsm/SingerES05" style="ee" /></li>
+</ul>
+<h2>Feature Extraction and Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/EisenbergV05" style="ee" /></li>
+<li><cite key="conf/icsm/GreevyDG05" style="ee" /></li>
+<li><cite key="conf/icsm/AntoniolG05" style="ee" /></li>
+</ul>
+<h2>Refactoring</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/KolbMPY05" style="ee" /></li>
+<li><cite key="conf/icsm/GarridoJ05" style="ee" /></li>
+<li><cite key="conf/icsm/DigJ05" style="ee" /></li>
+</ul>
+<h2>Regression Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/ChesleyRR05" style="ee" /></li>
+<li><cite key="conf/icsm/DoR05" style="ee" /></li>
+<li><cite key="conf/icsm/WillmorE05" style="ee" /></li>
+</ul>
+<h2>Theoretical Maintenance</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/OBrienBE05" style="ee" /></li>
+<li><cite key="conf/icsm/Bollin05" style="ee" /></li>
+<li><cite key="conf/icsm/WebsterOA05" style="ee" /></li>
+</ul>
+<h2>Testing I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/PighinM05" style="ee" /></li>
+<li><cite key="conf/icsm/XieM05" style="ee" /></li>
+<li><cite key="conf/icsm/JiangHSZX05" style="ee" /></li>
+</ul>
+<h2>Evolution</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Lock05" style="ee" /></li>
+<li><cite key="conf/icsm/VestdamN05" style="ee" /></li>
+<li><cite key="conf/icsm/OdaS05" style="ee" /></li>
+<li><cite key="conf/icsm/WuHH05" style="ee" /></li>
+</ul>
+<h2>Testing II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/McMasterM05" style="ee" /></li>
+<li><cite key="conf/icsm/JeffreyG05" style="ee" /></li>
+<li><cite key="conf/icsm/KorelTH05" style="ee" /></li>
+</ul>
+<h2>Web Maintenance - Reengineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/LeeJ05" style="ee" /></li>
+<li><cite key="conf/icsm/NguyenMT05" style="ee" /></li>
+<li><cite key="conf/icsm/SprenkleSGPS05" style="ee" /></li>
+</ul>
+<h2>Maintenance &amp; Evolution</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/HayesZ05" style="ee" /></li>
+<li><cite key="conf/icsm/ZhaoZMS05" style="ee" /></li>
+<li><cite key="conf/icsm/LinEW05" style="ee" /></li>
+<li><cite key="conf/icsm/JinC05" style="ee" /></li>
+<li><cite key="conf/icsm/BhawnaniFR05" style="ee" /></li>
+<li><cite key="conf/icsm/XingS05" style="ee" /></li>
+</ul>
+<h2>Program Comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Demeyer05" style="ee" /></li>
+<li><cite key="conf/icsm/BrandKVV05" style="ee" /></li>
+<li><cite key="conf/icsm/KagdiMS05" style="ee" /></li>
+<li><cite key="conf/icsm/SalahMAP05" style="ee" /></li>
+<li><cite key="conf/icsm/Jurjens05" style="ee" /></li>
+<li><cite key="conf/icsm/LuoZS05" style="ee" /></li>
+</ul>
+<h2>AOP &amp; Web</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/StorzerG05" style="ee" /></li>
+<li><cite key="conf/icsm/ShinomiT05" style="ee" /></li>
+<li><cite key="conf/icsm/GrosskurthG05" style="ee" /></li>
+<li><cite key="conf/icsm/Kajko-MattssonT05" style="ee" /></li>
+<li><cite key="conf/icsm/SubramanianPC05" style="ee" /></li>
+<li><cite key="conf/icsm/MarinMD05" style="ee" /></li>
+</ul>
+<h2>Testing III</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/MensK05" style="ee" /></li>
+<li><cite key="conf/icsm/HaoZZMS05" style="ee" /></li>
+<li><cite key="conf/icsm/BriandDL05" style="ee" /></li>
+<li><cite key="conf/icsm/ZhaoLCY05" style="ee" /></li>
+<li><cite key="conf/icsm/WhiteJR05" style="ee" /></li>
+</ul>
+<h2>PhD Dissertation Session</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Marinescu05" style="ee" /></li>
+<li><cite key="conf/icsm/Tramontana05" style="ee" /></li>
+<li><cite key="conf/icsm/Zou05" style="ee" /></li>
+</ul>
+<h2>Panels</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Chapin05" style="ee" /></li>
+<li><cite key="conf/icsm/MarcusR05" style="ee" /></li>
+</ul>
+<h2>Tutorials</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Maciaszek05" style="ee" /></li>
+<li><cite key="conf/icsm/DemeyerDN05" style="ee" /></li>
+<li><cite key="conf/icsm/Sorkowitz05" style="ee" /></li>
+<li><cite key="conf/icsm/ZvegintzovP05" style="ee" /></li>
+</ul><footer> 

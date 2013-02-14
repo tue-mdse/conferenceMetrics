@@ -1,0 +1,68 @@
+<bht key="db/conf/msr/msr2012.bht" title="Mining Software Repositories 2012"> <logo></logo> 
+<h1><ref href="db/conf/msr/index.html">MSR</ref> 2012:
+Zurich, Switzerland</h1><cite key="conf/msr/2012"> 
+<h2>Keynote I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/Zhang12" style="ee" /></li>
+</ul>
+<h2>Software Repositories</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/LotufoPC12" style="ee" /></li>
+<li><cite key="conf/msr/GousiosS12" style="ee" /></li>
+<li><cite key="conf/msr/PosnettDF12" style="ee" /></li>
+<li><cite key="conf/msr/KeivanlooFHENPR12" style="ee" /></li>
+<li><cite key="conf/msr/Rodriguez-BustosA12" style="ee" /></li>
+</ul>
+<h2>Bug Fixing and Prediction</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/ParkKRB12" style="ee" /></li>
+<li><cite key="conf/msr/SismanK12" style="ee" /></li>
+<li><cite key="conf/msr/BettenburgNH12" style="ee" /></li>
+<li><cite key="conf/msr/SouzaC12" style="ee" /></li>
+<li><cite key="conf/msr/LuciaTLJ12" style="ee" /></li>
+</ul>
+<h2>New MSR Trends</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/Hindle12" style="ee" /></li>
+<li><cite key="conf/msr/RotellaC12" style="ee" /></li>
+<li><cite key="conf/msr/BaysalHG12" style="ee" /></li>
+<li><cite key="conf/msr/HarmanJZ12" style="ee" /></li>
+</ul>
+<h2>Mining Challenge</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/ShihabKB12" style="ee" /></li>
+<li><cite key="conf/msr/AsaduzzamanBRS12" style="ee" /></li>
+<li><cite key="conf/msr/MartiePSL12" style="ee" /></li>
+<li><cite key="conf/msr/GuanaRHS12" style="ee" /></li>
+<li><cite key="conf/msr/HuHHW12" style="ee" /></li>
+<li><cite key="conf/msr/SinhaMG12" style="ee" /></li>
+<li><cite key="conf/msr/ReinaR12" style="ee" /></li>
+</ul>
+<h2>Keynote II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/Storey12" style="ee" /></li>
+</ul>
+<h2>Software Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/ArthoSCTZ12" style="ee" /></li>
+<li><cite key="conf/msr/NguyenK12" style="ee" /></li>
+<li><cite key="conf/msr/YangT12" style="ee" /></li>
+<li><cite key="conf/msr/SadowskiYK12" style="ee" /></li>
+<li><cite key="conf/msr/Breckel12" style="ee" /></li>
+</ul>
+<h2>Quality and Performance</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/KhomhDZA12" style="ee" /></li>
+<li><cite key="conf/msr/ChenTNH12" style="ee" /></li>
+<li><cite key="conf/msr/ZamanAH12" style="ee" /></li>
+<li><cite key="conf/msr/IssabayevaNV12" style="ee" /></li>
+<li><cite key="conf/msr/SteffR12" style="ee" /></li>
+</ul>
+<h2>Evolution and Process</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/GigerPG12" style="ee" /></li>
+<li><cite key="conf/msr/GilGM12" style="ee" /></li>
+<li><cite key="conf/msr/BirdN12" style="ee" /></li>
+<li><cite key="conf/msr/TianALLL12" style="ee" /></li>
+<li><cite key="conf/msr/CapiluppiSY12" style="ee" /></li>
+</ul><footer> 

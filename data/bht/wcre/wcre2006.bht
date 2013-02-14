@@ -1,0 +1,93 @@
+<bht key="db/conf/wcre/wcre2006.bht" title="WCRE 2006"> <logo> 
+<h1>13. <ref href="db/conf/wcre/index.html">WCRE</ref> 2006:
+Benevento, Italy</h1><hr> <cite key="conf/wcre/2006"> 
+<h2>Keynotes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Briand06" style="ee" /></li>
+<li><cite key="conf/wcre/Muller06" style="ee" /></li>
+</ul>
+<h2>Empirical Studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/KapserG06" style="ee" /></li>
+<li><cite key="conf/wcre/MarinMD06" style="ee" /></li>
+<li><cite key="conf/wcre/KnodelMN06" style="ee" /></li>
+</ul>
+<h2>Program Comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/LoK06" style="ee" /></li>
+<li><cite key="conf/wcre/SartipiDS06" style="ee" /></li>
+<li><cite key="conf/wcre/ZouG06" style="ee" /></li>
+</ul>
+<h2>Concept and Feature Location</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/RatiuD06" style="ee" /></li>
+<li><cite key="conf/wcre/KothariDMS06" style="ee" /></li>
+<li><cite key="conf/wcre/BinkleyGHLM06" style="ee" /></li>
+</ul>
+<h2>Migration towards SOA</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/LiT06" style="ee" /></li>
+<li><cite key="conf/wcre/SneedS06" style="ee" /></li>
+<li><cite key="conf/wcre/LaitkorpiKS06" style="ee" /></li>
+</ul>
+<h2>Data Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/MerloLA06" style="ee" /></li>
+<li><cite key="conf/wcre/CleveHH06" style="ee" /></li>
+<li><cite key="conf/wcre/LimRL06" style="ee" /></li>
+</ul>
+<h2>Visualizing Software Evolution</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/FischerG06" style="ee" /></li>
+<li><cite key="conf/wcre/DAmbrosL06" style="ee" /></li>
+<li><cite key="conf/wcre/BeyerH06" style="ee" /></li>
+</ul>
+<h2>Mining Software Repositories</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/GanesanMKY06" style="ee" /></li>
+<li><cite key="conf/wcre/BouktifGA06" style="ee" /></li>
+<li><cite key="conf/wcre/XiePM06" style="ee" /></li>
+</ul>
+<h2>Program Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/MoiseW06" style="ee" /></li>
+<li><cite key="conf/wcre/KoschkeFF06" style="ee" /></li>
+<li><cite key="conf/wcre/XingS06" style="ee" /></li>
+</ul>
+<h2>Industrial Track</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/LormansGDSS06" style="ee" /></li>
+<li><cite key="conf/wcre/CapiluppiMB06" style="ee" /></li>
+<li><cite key="conf/wcre/CoxS06" style="ee" /></li>
+</ul>
+<h2>Tool Demonstrations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/ColosimoLST06" style="ee" /></li>
+<li><cite key="conf/wcre/Bodhuin06" style="ee" /></li>
+<li><cite key="conf/wcre/KorshunovaPBM06" style="ee" /></li>
+<li><cite key="conf/wcre/MarinMD06a" style="ee" /></li>
+</ul>
+<h2>PhD Symposium</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Cerulo06" style="ee" /></li>
+<li><cite key="conf/wcre/Meyer06" style="ee" /></li>
+<li><cite key="conf/wcre/Ribic06" style="ee" /></li>
+<li><cite key="conf/wcre/Marinescu06" style="ee" /></li>
+</ul>
+<h2>Workshops</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/MoonenM06" style="ee" /></li>
+<li><cite key="conf/wcre/Torchiano06" style="ee" /></li>
+<li><cite key="conf/wcre/ZaidmanGH06" style="ee" /></li>
+<li><cite key="conf/wcre/FontanaRGAS06" style="ee" /></li>
+</ul>
+<h2>Tutorial</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Sim06" style="ee" /></li>
+</ul>
+<h2>IEEE International Astrenet Aspect Analysis (AAA) Workshop</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/HarmanBT06" style="ee" /></li>
+<li><cite key="conf/wcre/KnieselB06" style="ee" /></li>
+<li><cite key="conf/wcre/Krinke06" style="ee" /></li>
+</ul><footer> 

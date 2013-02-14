@@ -1,0 +1,165 @@
+<bht key="db/conf/csmr/csmr2012.bht" title="CSMR 2012"> <logo> 
+<h1>16. <ref href="db/conf/csmr/index.html">CSMR</ref> 2012:
+Szeged, Hungary</h1><cite key="conf/csmr/2012"> 
+<h2>Keynotes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Gall12" style="ee" /></li>
+<li><cite key="conf/csmr/Varro12" style="ee" /></li>
+</ul>
+<h2>Technical Sessions</h2> 
+<h3>Aiding Developers</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/HurdugaciZ12" style="ee" /></li>
+<li><cite key="conf/csmr/IslamMSS12" style="ee" /></li>
+<li><cite key="conf/csmr/HeinemannBHH12" style="ee" /></li>
+</ul>
+<h3>Refactoring</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/MoghadamC12" style="ee" /></li>
+<li><cite key="conf/csmr/HottaHK12" style="ee" /></li>
+<li><cite key="conf/csmr/MurgiaTMCCMS12" style="ee" /></li>
+</ul>
+<h3>Repository Mining</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/HashimotoM12" style="ee" /></li>
+<li><cite key="conf/csmr/TerceiroMCC12" style="ee" /></li>
+<li><cite key="conf/csmr/JaszSBOG12" style="ee" /></li>
+</ul>
+<h3>Software Anomalies</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/NadiH12" style="ee" /></li>
+<li><cite key="conf/csmr/DohringH12" style="ee" /></li>
+<li><cite key="conf/csmr/MurtazaSHC12" style="ee" /></li>
+</ul>
+<h3>Bug Management</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/BernardiCLPD12" style="ee" /></li>
+<li><cite key="conf/csmr/HosseiniNG12" style="ee" /></li>
+<li><cite key="conf/csmr/KaushikT12" style="ee" /></li>
+</ul>
+<h3>Miscellaneous</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/OlszakJ12" style="ee" /></li>
+<li><cite key="conf/csmr/BorgWP12" style="ee" /></li>
+<li><cite key="conf/csmr/JuniorPCM12" style="ee" /></li>
+</ul>
+<h3>Prediction</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/KarusD12" style="ee" /></li>
+<li><cite key="conf/csmr/GoulaoFWA12" style="ee" /></li>
+<li><cite key="conf/csmr/CoutoSVBA12" style="ee" /></li>
+</ul>
+<h3>Design Patterns and Deficiencies</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/FontanaCZ12" style="ee" /></li>
+<li><cite key="conf/csmr/BinunK12" style="ee" /></li>
+<li><cite key="conf/csmr/PlateniusDB12" style="ee" /></li>
+</ul>
+<h3>Architecture Evolution</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/HassaineGHA12" style="ee" /></li>
+<li><cite key="conf/csmr/BertranAGCS12" style="ee" /></li>
+<li><cite key="conf/csmr/LytraTZ12" style="ee" /></li>
+</ul>
+<h3>Clone Detection</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/DeissenboeckHHW12" style="ee" /></li>
+<li><cite key="conf/csmr/Koschke12" style="ee" /></li>
+<li><cite key="conf/csmr/BettenburgTH12" style="ee" /></li>
+</ul>
+<h2>Early Research Achievements Track</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/DeissenboeckC12" style="ee" /></li>
+</ul>
+<h3>Refactoring &amp; Reengineering</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/TerraVCB12" style="ee" /></li>
+<li><cite key="conf/csmr/Villavicencio12" style="ee" /></li>
+<li><cite key="conf/csmr/CohenDA12" style="ee" /></li>
+<li><cite key="conf/csmr/JelschenGJPW12" style="ee" /></li>
+<li><cite key="conf/csmr/ShahDM12" style="ee" /></li>
+<li><cite key="conf/csmr/YoshidaKI12" style="ee" /></li>
+</ul>
+<h3>Testing &amp; Maintenance</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/TollO12" style="ee" /></li>
+<li><cite key="conf/csmr/LamkanfiD12" style="ee" /></li>
+<li><cite key="conf/csmr/TianSL12" style="ee" /></li>
+<li><cite key="conf/csmr/EspinhaCZG12" style="ee" /></li>
+<li><cite key="conf/csmr/GauthierM12" style="ee" /></li>
+<li><cite key="conf/csmr/GrantCS12" style="ee" /></li>
+</ul>
+<h3>Software Analysis</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/PetersZ12" style="ee" /></li>
+<li><cite key="conf/csmr/ZiadiFSZ12" style="ee" /></li>
+<li><cite key="conf/csmr/MaezawaWH12" style="ee" /></li>
+<li><cite key="conf/csmr/KazatoHOMHS12" style="ee" /></li>
+<li><cite key="conf/csmr/BauerH12" style="ee" /></li>
+<li><cite key="conf/csmr/NonnenI12" style="ee" /></li>
+</ul>
+<h2>Industrial Track</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/BorchersC12" style="ee" /></li>
+</ul>
+<h3>Quality Aspects</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/SchrettnerFBKG12" style="ee" /></li>
+<li><cite key="conf/csmr/BurgerH12" style="ee" /></li>
+<li><cite key="conf/csmr/KlattDKKSW12" style="ee" /></li>
+</ul>
+<h3>Reengineering Experiences</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/DavisGHMM12" style="ee" /></li>
+<li><cite key="conf/csmr/KimKKB12" style="ee" /></li>
+</ul>
+<h3>Strategic Aspects</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/SimonS12" style="ee" /></li>
+</ul>
+<h2>European Projects Track</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Marinescu12" style="ee" /></li>
+<li><cite key="conf/csmr/BarateiroDNS12" style="ee" /></li>
+<li><cite key="conf/csmr/BudimacRHG12" style="ee" /></li>
+<li><cite key="conf/csmr/BeszedesSG12" style="ee" /></li>
+</ul>
+<h2>Doctoral Symposium</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Vinju12" style="ee" /></li>
+</ul>
+<h3>Student Presentations</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Izquierdo-Cortazar12" style="ee" /></li>
+<li><cite key="conf/csmr/KovacsD12" style="ee" /></li>
+<li><cite key="conf/csmr/Schwarz12" style="ee" /></li>
+</ul>
+<h2>Tool Demonstration Track</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/KienleL12" style="ee" /></li>
+</ul>
+<h3>Tool Demonstrations Session 1</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/HoraADBCVM12" style="ee" /></li>
+<li><cite key="conf/csmr/PerezDGM12" style="ee" /></li>
+<li><cite key="conf/csmr/CastrejonLV12" style="ee" /></li>
+<li><cite key="conf/csmr/SoetensD12" style="ee" /></li>
+</ul>
+<h3>Tool Demonstrations Session 2</h3> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/AlsallakhBMN12" style="ee" /></li>
+<li><cite key="conf/csmr/AlsallakhBGM12" style="ee" /></li>
+<li><cite key="conf/csmr/HamannVGK12" style="ee" /></li>
+<li><cite key="conf/csmr/Dovgalyuk12" style="ee" /></li>
+</ul>
+<h2>Workshop</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Gergely12" style="ee" /></li>
+<li><cite key="conf/csmr/KanellopoulosY12" style="ee" /></li>
+</ul>
+<h2>Tutorials</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Knodel12" style="ee" /></li>
+<li><cite key="conf/csmr/Penta12" style="ee" /></li>
+<li><cite key="conf/csmr/Marinescu12a" style="ee" /></li>
+</ul><footer> 

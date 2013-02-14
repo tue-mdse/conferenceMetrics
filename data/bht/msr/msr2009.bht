@@ -1,0 +1,57 @@
+<bht key="db/conf/msr/msr2009.bht" title="Mining Software Repositories 2009"> <logo></logo> 
+<h1><ref href="db/conf/msr/index.html">MSR</ref> 2009:
+Vancouver, BC, Canada</h1><hr> <cite key="conf/msr/2009"> 
+<h2>Keynotes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/McAllister09" style="ee" /></li>
+<li><cite key="conf/msr/Ball09" style="ee" /></li>
+</ul>
+<h2>Version Control and Infrastructure</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/BirdRBHGD09" style="ee" /></li>
+<li><cite key="conf/msr/Mockus09" style="ee" /></li>
+<li><cite key="conf/msr/ShangJAH09" style="ee" /></li>
+<li><cite key="conf/msr/GousiosS09" style="ee" /></li>
+</ul>
+<h2>Defect Prediction</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/BoogerdM09" style="ee" /></li>
+<li><cite key="conf/msr/EkanayakeTGB09" style="ee" /></li>
+<li><cite key="conf/msr/ShinBOW09" style="ee" /></li>
+</ul>
+<h2>Text Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/EnslenHPV09" style="ee" /></li>
+<li><cite key="conf/msr/GermanPGA09" style="ee" /></li>
+</ul>
+<h2>MSR Chellenge</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/CaseboltKMKD09" style="ee" /></li>
+<li><cite key="conf/msr/SchackmannL09" style="ee" /></li>
+<li><cite key="conf/msr/LinsteadB09" style="ee" /></li>
+<li><cite key="conf/msr/LunguML09" style="ee" /></li>
+<li><cite key="conf/msr/ShihabJH09" style="ee" /></li>
+</ul>
+<h2>Topic Mining</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/BajracharyaL09" style="ee" /></li>
+</ul>
+<h2>Developers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/MaalejH09" style="ee" /></li>
+<li><cite key="conf/msr/MatterKN09" style="ee" /></li>
+<li><cite key="conf/msr/HattoriL09" style="ee" /></li>
+</ul>
+<h2>Poster Papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/LubsenZP09" style="ee" /></li>
+<li><cite key="conf/msr/RastkarM09" style="ee" /></li>
+<li><cite key="conf/msr/HerzigZ09" style="ee" /></li>
+<li><cite key="conf/msr/TianRP09" style="ee" /></li>
+<li><cite key="conf/msr/RoblesGH09" style="ee" /></li>
+<li><cite key="conf/msr/AnbalaganV09" style="ee" /></li>
+<li><cite key="conf/msr/Kuhn09" style="ee" /></li>
+<li><cite key="conf/msr/AyewahP09" style="ee" /></li>
+<li><cite key="conf/msr/OssherBLBL09" style="ee" /></li>
+<li><cite key="conf/msr/Laar09" style="ee" /></li>
+</ul><footer> 

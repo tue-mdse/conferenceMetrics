@@ -1,0 +1,125 @@
+<bht key="db/conf/icse/icse90.bht" title="ICSE 1990"> <logo> 
+<h1>12. <ref href="db/conf/icse/index.html">ICSE</ref> 1990:
+Nice, France</h1>
+
+<cite key="conf/icse/1990">
+
+<h2>Process Models 1</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Royce90" style="ee" /></li>
+<li><cite key="conf/icse/NakagawaF90" style="ee" /></li>
+</ul>
+<h2>Formal Verification</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Cardenas-GarciaZ90" style="ee" /></li>
+<li><cite key="conf/icse/LafontaineLS90" style="ee" /></li>
+</ul>
+<h2>Recent Advances in Metrics</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Basili90" style="ee" /></li>
+</ul>
+<h2>Real-Time and Reactive Systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GabrielianF90" style="ee" /></li>
+<li><cite key="conf/icse/JarvinenKSS90" style="ee" /></li>
+</ul>
+<h2>Environments</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WiledenWRT90" style="ee" /></li>
+<li><cite key="conf/icse/GiavittoRDM90" style="ee" /></li>
+</ul>
+<h2>Metrics and Reliability</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HirayamaSYT90" style="ee" /></li>
+<li><cite key="conf/icse/EhrlichSW90" style="ee" /></li>
+</ul>
+<h2>Panel:
+Software-Re-Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Lafue90" style="ee" /></li>
+<li><cite key="conf/icse/Kozaczynski90" style="ee" /></li>
+<li><cite key="conf/icse/Biggerstaff90" style="ee" /></li>
+<li><cite key="conf/icse/Bush90" style="ee" /></li>
+<li><cite key="conf/icse/Chikofsky90" style="ee" /></li>
+<li><cite key="conf/icse/Maiocchi90" style="ee" /></li>
+</ul>
+<h2>Experience Reports I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DeMarcoG90" style="ee" /></li>
+<li><cite key="conf/icse/ZucconiMW90" style="ee" /></li>
+<li><cite key="conf/icse/Bush90a" style="ee" /></li>
+</ul>
+<h2>Tools for Formal Verification</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CostaCB90" style="ee" /></li>
+<li><cite key="conf/icse/GanzingerS90" style="ee" /></li>
+</ul>
+<h2>Recent Advances in Object-Management Systems</h2> 
+<h2>Prototyping</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/OswaldEM90" style="ee" /></li>
+<li><cite key="conf/icse/ChoppyK90" style="ee" /></li>
+</ul>
+<h2>Experience Reports II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GuihoH90" style="ee" /></li>
+<li><cite key="conf/icse/Dowson90" style="ee" /></li>
+<li><cite key="conf/icse/Bush90b" style="ee" /></li>
+</ul>
+<h2>Design and Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Parisi-Presicce90" style="ee" /></li>
+<li><cite key="conf/icse/GantiGP90" style="ee" /></li>
+</ul>
+<h2>Panel:
+Real-Life Safety-Critical Software</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Laprie90" style="ee" /></li>
+<li><cite key="conf/icse/Leveson90" style="ee" /></li>
+<li><cite key="conf/icse/Pilaud90" style="ee" /></li>
+<li><cite key="conf/icse/Thomas90" style="ee" /></li>
+</ul>
+<h2>Workshop Reports</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Perry90" style="ee" /></li>
+<li><cite key="conf/icse/Craigen90" style="ee" /></li>
+</ul>
+<h2>AI Applications to Software Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/JohnsonF90" style="ee" /></li>
+<li><cite key="conf/icse/DevanbuBSB90" style="ee" /></li>
+</ul>
+<h2>Panel:
+Industrial Experience with Formal Methods</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BjornerD90" style="ee" /></li>
+</ul>
+<h2>Process Models 2</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Robinson90" style="ee" /></li>
+<li><cite key="conf/icse/MadhavjiGDS90" style="ee" /></li>
+</ul>
+<h2>Technology Transfer</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BabcockBG90" style="ee" /></li>
+<li><cite key="conf/icse/Diaz90" style="ee" /></li>
+</ul>
+<h2>Systems Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Talbot90" style="ee" /></li>
+</ul>
+<h2>Configuration Management</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BernsteinF90" style="ee" /></li>
+<li><cite key="conf/icse/RoseJ90" style="ee" /></li>
+</ul>
+<h2>Panel:
+Experience Using Defined Process for Technology Transfer</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Fischer90" style="ee" /></li>
+<li><cite key="conf/icse/Alonzo90" style="ee" /></li>
+<li><cite key="conf/icse/Decina90" style="ee" /></li>
+<li><cite key="conf/icse/Fowler90" style="ee" /></li>
+<li><cite key="conf/icse/Glynn90" style="ee" /></li>
+<li><cite key="conf/icse/Kishida90" style="ee" /></li>
+</ul><footer> 

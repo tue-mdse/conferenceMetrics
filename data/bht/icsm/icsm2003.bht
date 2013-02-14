@@ -1,0 +1,122 @@
+<bht key="db/conf/icsm/icsm2003.bht" title="IEEE International Conference on Software Maintenance 2003"> <logo> 
+<h1><ref href="db/conf/icsm/index.html">ICSM</ref> 2003:
+Amsterdam, The Netherlands</h1><hr> <cite key="conf/icsm/2003">  
+<h2>Keynote</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Kan03" style="ee" /></li>
+</ul>
+<h2>Versioning</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Gustavsson03" style="ee" /></li>
+<li><cite key="conf/icsm/OhstWK03" style="ee" /></li>
+<li><cite key="conf/icsm/FischerPG03" style="ee" /></li>
+</ul>
+<h2>Slicing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/KorelSTV03" style="ee" /></li>
+<li><cite key="conf/icsm/BinkleyH03" style="ee" /></li>
+<li><cite key="conf/icsm/SouterSP03" style="ee" /></li>
+</ul>
+<h2>Evolution</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Capiluppi03" style="ee" /></li>
+<li><cite key="conf/icsm/MadhavjiT03" style="ee" /></li>
+<li><cite key="conf/icsm/NikoraM03" style="ee" /></li>
+</ul>
+<h2>Metrics</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Sayyad-ShirabadLM03" style="ee" /></li>
+<li><cite key="conf/icsm/BaldassarreCV03" style="ee" /></li>
+<li><cite key="conf/icsm/QuahT03" style="ee" /></li>
+</ul>
+<h2>Keynote</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Howell03" style="ee" /></li>
+</ul>
+<h2>Components and Frameworks</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BarrE03" style="ee" /></li>
+<li><cite key="conf/icsm/Gergic03" style="ee" /></li>
+<li><cite key="conf/icsm/TourweM03" style="ee" /></li>
+</ul>
+<h2>Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/TonellaP03" style="ee" /></li>
+<li><cite key="conf/icsm/MensPG03" style="ee" /></li>
+<li><cite key="conf/icsm/KlusenerL03" style="ee" /></li>
+</ul>
+<h2>Maintenance Organization</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/SneedB03" style="ee" /></li>
+<li><cite key="conf/icsm/Kajko-Mattsson03" style="ee" /></li>
+<li><cite key="conf/icsm/SmitWD03" style="ee" /></li>
+</ul>
+<h2>Execution Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Mall03" style="ee" /></li>
+<li><cite key="conf/icsm/SartipiK03" style="ee" /></li>
+<li><cite key="conf/icsm/AntoniolP03" style="ee" /></li>
+</ul>
+<h2>Impact Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/KnethenG03" style="ee" /></li>
+<li><cite key="conf/icsm/BriandLO03" style="ee" /></li>
+<li><cite key="conf/icsm/DaCostaDMP03" style="ee" /></li>
+</ul>
+<h2>PhD Dissertation Section</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Moonen03" style="ee" /></li>
+<li><cite key="conf/icsm/Souter03" style="ee" /></li>
+<li><cite key="conf/icsm/Mitchell03" style="ee" /></li>
+<li><cite key="conf/icsm/Ramil03" style="ee" /></li>
+<li><cite key="conf/icsm/Sartipi03" style="ee" /></li>
+</ul>
+<h2>Keynote</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/ObbinkA03" style="ee" /></li>
+</ul>
+<h2>System Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BalanyiF03" style="ee" /></li>
+<li><cite key="conf/icsm/MahdaviHH03" style="ee" /></li>
+<li><cite key="conf/icsm/LimpiyakornB03" style="ee" /></li>
+</ul>
+<h2>Panel Discussion</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/LinosB03" style="ee" /></li>
+</ul>
+<h2>Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/LandC03" style="ee" /></li>
+<li><cite key="conf/icsm/BrilPK03" style="ee" /></li>
+<li><cite key="conf/icsm/GargCCWH03" style="ee" /></li>
+</ul>
+<h2>Fast Track Paper Session</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/JohnsonD03" style="ee" /></li>
+<li><cite key="conf/icsm/Klusener03" style="ee" /></li>
+<li><cite key="conf/icsm/ForbesB03" style="ee" /></li>
+<li><cite key="conf/icsm/MantylaVL03" style="ee" /></li>
+<li><cite key="conf/icsm/DeursenK03" style="ee" /></li>
+<li><cite key="conf/icsm/PortH03" style="ee" /></li>
+</ul>
+<h2>Regression Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/WhiteAS03" style="ee" /></li>
+<li><cite key="conf/icsm/MemonBHN03" style="ee" /></li>
+<li><cite key="conf/icsm/KojuTD03" style="ee" /></li>
+</ul>
+<h2>Process</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/GoldM03" style="ee" /></li>
+<li><cite key="conf/icsm/LovrekJKLCHDL03" style="ee" /></li>
+<li><cite key="conf/icsm/SeacordEGLPRWL03" style="ee" /></li>
+</ul>
+<h2>Industry Track</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Terekhov03" style="ee" /></li>
+<li><cite key="conf/icsm/Baxter03" style="ee" /></li>
+<li><cite key="conf/icsm/Torrekens03" style="ee" /></li>
+<li><cite key="conf/icsm/Beele03" style="ee" /></li>
+<li><cite key="conf/icsm/Mul03" style="ee" /></li>
+</ul><footer> 

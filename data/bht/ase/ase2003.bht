@@ -1,0 +1,85 @@
+<bht key="db/conf/kbse/ase2003.bht" title="ASE 2003"> <logo> 
+<h1>18. <ref href="db/conf/kbse/index.html">ASE</ref> 2003:
+Montreal, Canada</h1><hr> <cite key="conf/kbse/2003">  
+<h2>Regular Papers</h2> 
+<h3>Requirements, Interfaces and Groupware</h3> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/GrunbacherHB03" style="ee" /></li>
+<li><cite key="conf/kbse/SabetzadehE03" style="ee" /></li>
+<li><cite key="conf/kbse/StrelzoffP03" style="ee" /></li>
+</ul>
+<h3>Testing I</h3> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/RenierisR03" style="ee" /></li>
+<li><cite key="conf/kbse/XieN03" style="ee" /></li>
+<li><cite key="conf/kbse/GuptaH03" style="ee" /></li>
+</ul>
+<h3>Software Architectures and Distributed Systems</h3> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/HeringtonS03" style="ee" /></li>
+<li><cite key="conf/kbse/ConselR03" style="ee" /></li>
+<li><cite key="conf/kbse/Ellman03" style="ee" /></li>
+</ul>
+<h3>Model Checking</h3> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/ShlyakhterSJST03" style="ee" /></li>
+<li><cite key="conf/kbse/BarnatBC03" style="ee" /></li>
+<li><cite key="conf/kbse/TkachukDP03" style="ee" /></li>
+</ul>
+<h3>Software Components</h3> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/TilevichUSF03" style="ee" /></li>
+<li><cite key="conf/kbse/MorelA03" style="ee" /></li>
+<li><cite key="conf/kbse/FosterUMK03" style="ee" /></li>
+</ul>
+<h3>Testing II</h3> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/MemonBN03" style="ee" /></li>
+<li><cite key="conf/kbse/AhmadAGK03" style="ee" /></li>
+<li><cite key="conf/kbse/DengFC03" style="ee" /></li>
+</ul>
+<h3>Software Evolution and Maintenance</h3> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/AbergLSMM03" style="ee" /></li>
+<li><cite key="conf/kbse/SnavelyDA03" style="ee" /></li>
+<li><cite key="conf/kbse/SmithS03" style="ee" /></li>
+<li><cite key="conf/kbse/RobillardM03" style="ee" /></li>
+</ul>
+<h2>Short Papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/SkeneE03" style="ee" /></li>
+<li><cite key="conf/kbse/MayerS03" style="ee" /></li>
+<li><cite key="conf/kbse/HeuzerothML03" style="ee" /></li>
+<li><cite key="conf/kbse/GuoCS03" style="ee" /></li>
+<li><cite key="conf/kbse/BunusF03" style="ee" /></li>
+<li><cite key="conf/kbse/Vigna03" style="ee" /></li>
+<li><cite key="conf/kbse/NebutPTJ03" style="ee" /></li>
+<li><cite key="conf/kbse/ArevaloDN03" style="ee" /></li>
+<li><cite key="conf/kbse/TurnerGWBHSR03" style="ee" /></li>
+<li><cite key="conf/kbse/GueheneucA03" style="ee" /></li>
+<li><cite key="conf/kbse/LicataHK03" style="ee" /></li>
+<li><cite key="conf/kbse/SturmerC03" style="ee" /></li>
+<li><cite key="conf/kbse/HarrisR03" style="ee" /></li>
+<li><cite key="conf/kbse/Holz03" style="ee" /></li>
+<li><cite key="conf/kbse/Wile03" style="ee" /></li>
+<li><cite key="conf/kbse/RosuC03" style="ee" /></li>
+<li><cite key="conf/kbse/DiazTB03" style="ee" /></li>
+<li><cite key="conf/kbse/ChoiH03" style="ee" /></li>
+<li><cite key="conf/kbse/HendricksonDT03" style="ee" /></li>
+<li><cite key="conf/kbse/GarridoJ03" style="ee" /></li>
+<li><cite key="conf/kbse/SilvaGR03" style="ee" /></li>
+<li><cite key="conf/kbse/Roychoudhury03" style="ee" /></li>
+<li><cite key="conf/kbse/FischerS03" style="ee" /></li>
+<li><cite key="conf/kbse/EllisI03" style="ee" /></li>
+<li><cite key="conf/kbse/HallZ03" style="ee" /></li>
+</ul>
+<h2>Doctoral Symposium Papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/ShehataE03" style="ee" /></li>
+<li><cite key="conf/kbse/SearleGA03" style="ee" /></li>
+<li><cite key="conf/kbse/Moore03" style="ee" /></li>
+<li><cite key="conf/kbse/Agrawal03" style="ee" /></li>
+<li><cite key="conf/kbse/Safranek03" style="ee" /></li>
+<li><cite key="conf/kbse/Nassar03" style="ee" /></li>
+<li><cite key="conf/kbse/Collard03" style="ee" /></li>
+</ul><footer> 

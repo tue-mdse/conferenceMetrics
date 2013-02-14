@@ -1,0 +1,56 @@
+<bht key="db/conf/sigsoft/fse2006.bht" title="14. SIGSOFT FSE 2006:
+Portland, Oregon, USA"> <logo> 
+<h1>14. <ref href="db/conf/sigsoft/index.html">SIGSOFT FSE</ref> 2006:
+Portland, Oregon, USA</h1><hr> <cite key="conf/sigsoft/2006"> 
+<h2>Empirical methods and program understanding</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/KerstenM06" style="ee" /></li>
+<li><cite key="conf/sigsoft/NgCCY06" style="ee" /></li>
+<li><cite key="conf/sigsoft/SillitoMV06" style="ee" /></li>
+</ul>
+<h2>Mining failures and bugs</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/KimPW06" style="ee" /></li>
+<li><cite key="conf/sigsoft/LiuH06" style="ee" /></li>
+<li><cite key="conf/sigsoft/StorzerRRT06" style="ee" /></li>
+</ul>
+<h2>Program analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/HackettA06" style="ee" /></li>
+<li><cite key="conf/sigsoft/ZhangTG06" style="ee" /></li>
+<li><cite key="conf/sigsoft/DwyerPE06" style="ee" /></li>
+</ul>
+<h2>Formal approaches to programming</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/KapurMZ06" style="ee" /></li>
+<li><cite key="conf/sigsoft/GulavaniHKNR06" style="ee" /></li>
+<li><cite key="conf/sigsoft/JhalaM06" style="ee" /></li>
+</ul>
+<h2>Empirical studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/DoR06" style="ee" /></li>
+<li><cite key="conf/sigsoft/FilhoCFMGR06" style="ee" /></li>
+<li><cite key="conf/sigsoft/GirouxR06" style="ee" /></li>
+</ul>
+<h2>Safety and security</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/HalfondOM06" style="ee" /></li>
+<li><cite key="conf/sigsoft/YeCCX06" style="ee" /></li>
+</ul>
+<h2>Requirements modeling</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/DamasLL06" style="ee" /></li>
+<li><cite key="conf/sigsoft/CobleighAC06" style="ee" /></li>
+<li><cite key="conf/sigsoft/MaozH06" style="ee" /></li>
+</ul>
+<h2>Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/RutherfordCW06" style="ee" /></li>
+<li><cite key="conf/sigsoft/LuCT06" style="ee" /></li>
+<li><cite key="conf/sigsoft/ElbaumCDD06" style="ee" /></li>
+</ul>
+<h2>Specification mining</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/LoK06" style="ee" /></li>
+<li><cite key="conf/sigsoft/TaghdiriSJ06" style="ee" /></li>
+</ul><footer> 

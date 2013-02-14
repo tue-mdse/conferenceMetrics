@@ -1,0 +1,217 @@
+<bht key="db/conf/icse/icse2008.bht" title="ICSE 2008"> <logo> 
+<h1>30. <ref href="db/conf/icse/index.html">ICSE</ref> 2008:
+Leipzig, Germany</h1><hr> <cite key="conf/icse/2008"> 
+<h2>Software tools</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ScaffidiMS08" style="ee" /></li>
+<li><cite key="conf/icse/Reiss08" style="ee" /></li>
+<li><cite key="conf/icse/AlwisM08" style="ee" /></li>
+</ul>
+<h2>Specification I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Grunske08" style="ee" /></li>
+<li><cite key="conf/icse/SibayUB08" style="ee" /></li>
+<li><cite key="conf/icse/GabelS08" style="ee" /></li>
+</ul>
+<h2>Testing I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/LuCT08" style="ee" /></li>
+<li><cite key="conf/icse/CiupaLOM08" style="ee" /></li>
+<li><cite key="conf/icse/YilmazPW08" style="ee" /></li>
+</ul>
+<h2>Components &amp; reuse</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HoffmanE08" style="ee" /></li>
+<li><cite key="conf/icse/SicardBP08" style="ee" /></li>
+<li><cite key="conf/icse/CheungRMG08" style="ee" /></li>
+</ul>
+<h2>Specification II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WhittleWH08" style="ee" /></li>
+<li><cite key="conf/icse/SankaranarayananIG08" style="ee" /></li>
+<li><cite key="conf/icse/ChenY08" style="ee" /></li>
+</ul>
+<h2>Testing II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/XuR08" style="ee" /></li>
+<li><cite key="conf/icse/RajanWH08" style="ee" /></li>
+<li><cite key="conf/icse/WassermannS08" style="ee" /></li>
+</ul>
+<h2>Empirical software engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MoserPS08" style="ee" /></li>
+<li><cite key="conf/icse/LungAEW08" style="ee" /></li>
+<li><cite key="conf/icse/YuJH08" style="ee" /></li>
+</ul>
+<h2>Program analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BabicH08" style="ee" /></li>
+<li><cite key="conf/icse/ChenSR08" style="ee" /></li>
+<li><cite key="conf/icse/HammerDVT08" style="ee" /></li>
+</ul>
+<h2>Empirical software process</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SouzaR08" style="ee" /></li>
+<li><cite key="conf/icse/StoreyRBMS08" style="ee" /></li>
+<li><cite key="conf/icse/FigueiredoC08" style="ee" /></li>
+</ul>
+<h2>Formal analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ChenDS08" style="ee" /></li>
+<li><cite key="conf/icse/CsallnerTS08" style="ee" /></li>
+<li><cite key="conf/icse/LauterburgSMV08" style="ee" /></li>
+</ul>
+<h2>Program comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KoM08" style="ee" /></li>
+<li><cite key="conf/icse/KastnerAK08" style="ee" /></li>
+<li><cite key="conf/icse/GabelJS08" style="ee" /></li>
+</ul>
+<h2>Empirical testing &amp; analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WaliaCN08" style="ee" /></li>
+<li><cite key="conf/icse/RuthruffPMER08" style="ee" /></li>
+<li><cite key="conf/icse/NaminAM08" style="ee" /></li>
+</ul>
+<h2>Software process</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RiccaPTTCV08" style="ee" /></li>
+<li><cite key="conf/icse/MeiCT08" style="ee" /></li>
+<li><cite key="conf/icse/Spinellis08" style="ee" /></li>
+</ul>
+<h2>Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/EichbergKKM08" style="ee" /></li>
+<li><cite key="conf/icse/GoldschmidtRW08" style="ee" /></li>
+<li><cite key="conf/icse/HuynhCSS08" style="ee" /></li>
+</ul>
+<h2>Refactoring</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Murphy-HillB08" style="ee" /></li>
+<li><cite key="conf/icse/KegelS08" style="ee" /></li>
+<li><cite key="conf/icse/DigNMJ08" style="ee" /></li>
+</ul>
+<h2>Evolution</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MauleER08" style="ee" /></li>
+<li><cite key="conf/icse/WangZXAS08" style="ee" /></li>
+</ul>
+<h2>Frameworks</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SchaferJM08" style="ee" /></li>
+<li><cite key="conf/icse/DagenaisR08" style="ee" /></li>
+<li><cite key="conf/icse/WangCW08" style="ee" /></li>
+</ul>
+<h2>Models</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/LorenzoliMP08" style="ee" /></li>
+<li><cite key="conf/icse/BlancMMM08" style="ee" /></li>
+</ul>
+<h2>Software engineering economics</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/NagappanMB08" style="ee" /></li>
+<li><cite key="conf/icse/ZimmermannN08" style="ee" /></li>
+<li><cite key="conf/icse/RigbyGS08" style="ee" /></li>
+</ul>
+<h2>Process &amp; models</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/McCafferyPR08" style="ee" /></li>
+<li><cite key="conf/icse/NiggemannS08" style="ee" /></li>
+<li><cite key="conf/icse/FritschSSC08" style="ee" /></li>
+</ul>
+<h2>Architecture &amp; design</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Freund08" style="ee" /></li>
+<li><cite key="conf/icse/Bienk08" style="ee" /></li>
+</ul>
+<h2>Quality assurance</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ReichertKSMH08" style="ee" /></li>
+<li><cite key="conf/icse/DeissenboeckHJSWGT08" style="ee" /></li>
+<li><cite key="conf/icse/BeekGKM08" style="ee" /></li>
+</ul>
+<h2>Requirements engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ChenAHCOH08" style="ee" /></li>
+<li><cite key="conf/icse/PaechW08" style="ee" /></li>
+<li><cite key="conf/icse/DorrKLGDH08" style="ee" /></li>
+</ul>
+<h2>Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Bortis08" style="ee" /></li>
+<li><cite key="conf/icse/AmmonHJF08" style="ee" /></li>
+<li><cite key="conf/icse/ScherlHKH08" style="ee" /></li>
+</ul>
+<h2>Quality</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/VieiraSMSTH08" style="ee" /></li>
+<li><cite key="conf/icse/XiaoLG08" style="ee" /></li>
+</ul>
+<h2>Modeling &amp; Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/JurjensSB08" style="ee" /></li>
+<li><cite key="conf/icse/LongDG08" style="ee" /></li>
+<li><cite key="conf/icse/ScholzBKKHW08" style="ee" /></li>
+</ul>
+<h2>Quality</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MockusW08" style="ee" /></li>
+<li><cite key="conf/icse/SiebraCSS08" style="ee" /></li>
+</ul>
+<h2>Extending the frontiers in SE education</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MichalikNO08" style="ee" /></li>
+<li><cite key="conf/icse/CabotDMVR08" style="ee" /></li>
+<li><cite key="conf/icse/FlemingKSXD08" style="ee" /></li>
+</ul>
+<h2>SE education practices</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/StapelLK08" style="ee" /></li>
+<li><cite key="conf/icse/GannodBH08" style="ee" /></li>
+<li><cite key="conf/icse/LanzaMRLB08" style="ee" /></li>
+</ul>
+<h2>Inter- and intradisciplinary SE foundations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Krogstie08" style="ee" /></li>
+<li><cite key="conf/icse/DenzlerG08" style="ee" /></li>
+</ul>
+<h2>Innovatin in SE education</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Dumslaff08" style="ee" /></li>
+</ul>
+<h2>Model-driven development and model analysis I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/AmelunxenKKRS08" style="ee" /></li>
+<li><cite key="conf/icse/BencomoGFHB08" style="ee" /></li>
+<li><cite key="conf/icse/SabetzadehNEC08" style="ee" /></li>
+</ul>
+<h2>Model-driven development &amp; model analysis II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GrundyHHL08" style="ee" /></li>
+<li><cite key="conf/icse/ReinhardMSCG08" style="ee" /></li>
+<li><cite key="conf/icse/BunyakiatiFSC08" style="ee" /></li>
+</ul>
+<h2>Traceability</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WenzelK08" style="ee" /></li>
+<li><cite key="conf/icse/BurgeB08" style="ee" /></li>
+<li><cite key="conf/icse/LuciaOT08" style="ee" /></li>
+</ul>
+<h2>Code management</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Duala-EkokoR08" style="ee" /></li>
+<li><cite key="conf/icse/RobbesL08" style="ee" /></li>
+<li><cite key="conf/icse/LiW08" style="ee" /></li>
+</ul>
+<h2>Verification &amp; validation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ElkarabliehK08" style="ee" /></li>
+<li><cite key="conf/icse/MalikPUK08" style="ee" /></li>
+<li><cite key="conf/icse/GveroGL08" style="ee" /></li>
+</ul>
+<h2>Validation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ScaffidiMS08a" style="ee" /></li>
+<li><cite key="conf/icse/GuoFBZ08" style="ee" /></li>
+<li><cite key="conf/icse/HohnJ08" style="ee" /></li>
+</ul><footer> 

@@ -1,0 +1,103 @@
+<bht key="db/conf/icse/icse78.bht" title="ICSE 1978"> <logo> 
+<h1>3. <ref href="db/conf/icse/index.html">ICSE</ref> 1978:
+Atlanta, Georgia, USA</h1>
+
+<cite key="conf/icse/1978">
+
+<h2>Welcome and Opening</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Hoare78" style="ee" /></li>
+</ul>
+<h2>Language Issues</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Lindstrom78" style="ee" /></li>
+<li><cite key="conf/icse/RiddleWSSS78" style="ee" /></li>
+<li><cite key="conf/icse/KieburtzBH78" style="ee" /></li>
+</ul>
+<h2>Software Reliability</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HamiltonM78" style="ee" /></li>
+<li><cite key="conf/icse/Littlewood78" style="ee" /></li>
+<li><cite key="conf/icse/Miyamoto78" style="ee" /></li>
+</ul>
+<h2>Educational Issues</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/FreemanW78" style="ee" /></li>
+<li><cite key="conf/icse/PetersT78" style="ee" /></li>
+</ul>
+<h2>Tutorial</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/King78" style="ee" /></li>
+</ul>
+<h2>Invited Papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Jackson78" style="ee" /></li>
+<li><cite key="conf/icse/Fisher78" style="ee" /></li>
+<li><cite key="conf/icse/Stucki78" style="ee" /></li>
+</ul>
+<h2>Software Design</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/PedersenB78" style="ee" /></li>
+<li><cite key="conf/icse/BoydP78" style="ee" /></li>
+<li><cite key="conf/icse/StephensT78" style="ee" /></li>
+<li><cite key="conf/icse/Willis78" style="ee" /></li>
+</ul>
+<h2>Case Studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BasiliRZ78" style="ee" /></li>
+<li><cite key="conf/icse/DniestrowskiGM78" style="ee" /></li>
+<li><cite key="conf/icse/GainerKKM78" style="ee" /></li>
+</ul>
+<h2>Program Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BrownF78" style="ee" /></li>
+<li><cite key="conf/icse/BrowneJ78" style="ee" /></li>
+<li><cite key="conf/icse/McClure78" style="ee" /></li>
+</ul>
+<h2>Formal Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DershowitzM78" style="ee" /></li>
+<li><cite key="conf/icse/AzemaAB78" style="ee" /></li>
+<li><cite key="conf/icse/MannaW78" style="ee" /></li>
+</ul>
+<h2>Human Factors</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DzidaHI78" style="ee" /></li>
+<li><cite key="conf/icse/Brooks78" style="ee" /></li>
+<li><cite key="conf/icse/HerndonK78" style="ee" /></li>
+</ul>
+<h2>System Design</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BoiM78" style="ee" /></li>
+<li><cite key="conf/icse/ChungG78" style="ee" /></li>
+<li><cite key="conf/icse/Scott78" style="ee" /></li>
+<li><cite key="conf/icse/CamposE78" style="ee" /></li>
+</ul>
+<h2>Invited Papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Wegner78" style="ee" /></li>
+<li><cite key="conf/icse/Hetzel78" style="ee" /></li>
+<li><cite key="conf/icse/Parnas78" style="ee" /></li>
+<li><cite key="conf/icse/VleckC78" style="ee" /></li>
+</ul>
+<h2>Operating Systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Cook78" style="ee" /></li>
+<li><cite key="conf/icse/AlmesR78" style="ee" /></li>
+<li><cite key="conf/icse/GoullonIL78" style="ee" /></li>
+</ul>
+<h2>Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Howden78" style="ee" /></li>
+<li><cite key="conf/icse/PerschW78" style="ee" /></li>
+<li><cite key="conf/icse/Panzl78" style="ee" /></li>
+</ul>
+<h2>Software Portability</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Stern78" style="ee" /></li>
+<li><cite key="conf/icse/Thalmann78" style="ee" /></li>
+</ul>
+<h2>Panel</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Wasserman78" style="ee" /></li>
+</ul><footer> 

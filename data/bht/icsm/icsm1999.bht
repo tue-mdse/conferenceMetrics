@@ -1,0 +1,123 @@
+<bht key="db/conf/icsm/icsm1999.bht" title="IEEE International Conference on Software Maintenance 1999"> <logo> 
+<h1><ref href="db/conf/icsm/index.html">ICSM</ref> 1999:
+Oxford, England, UK</h1><hr> International Conference on Software Maintenance (ICSM'99), 30 August - 3 September, 1999, Oxford, England, UK, Proceedings. IEEE Computer Society, online publication:
+<a href="http://computer.org/proceedings/icsm/0016/0016toc.htm">http://computer.org/proceedings/icsm/0016/0016toc.htm</a> 
+<h3>Keynote Speech:
+Why Is Software Engineering So Difficult? Reflections on Technology and Challenges for the Future</h3> Speaker:
+<author>Ian Sommerville</author> 
+<h2>Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/LiuAQ99" style="ee" /></li>
+<li><cite key="conf/icsm/RichnerD99" style="ee" /></li>
+<li><cite key="conf/icsm/ZhouB99" style="ee" /></li>
+</ul>
+<h2>Tools</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Rugaber99" style="ee" /></li>
+<li><cite key="conf/icsm/DeursenK99" style="ee" /></li>
+<li><cite key="conf/icsm/MancoridisMCG99" style="ee" /></li>
+</ul>
+<h3>Panel:
+Resolved:
+Software Maintenance Is Nothing More Than Another Form of Development</h3> 
+<h2>Migration</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Ward99" style="ee" /></li>
+<li><cite key="conf/icsm/FantaR99" style="ee" /></li>
+<li><cite key="conf/icsm/SerranoOC99" style="ee" /></li>
+</ul>
+<h2>Visualisation and Understanding</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/GallJR99" style="ee" /></li>
+<li><cite key="conf/icsm/DucasseRD99" style="ee" /></li>
+<li><cite key="conf/icsm/MendoncaK99" style="ee" /></li>
+</ul>
+<h3>Poster Session:
+Software Maintenance-The Future (I)</h3> 
+<h2>Architectures and Frameworks</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/MayrhauserWL99" style="ee" /></li>
+<li><cite key="conf/icsm/MattssonB99" style="ee" /></li>
+<li><cite key="conf/icsm/Chatters99" style="ee" /></li>
+</ul>
+<h2>Management</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/InteresseD99" style="ee" /></li>
+<li><cite key="conf/icsm/KloschE99" style="ee" /></li>
+<li><cite key="conf/icsm/Kajko-Mattsson99" style="ee" /></li>
+</ul>
+<h3>Keynote Speech:
+The Design of Design</h3> Speaker:
+<author>Frederick P. Brooks Jr.</author> 
+<h2>Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/RothermelUCH99" style="ee" /></li>
+<li><cite key="conf/icsm/LapierreMSAFT99" style="ee" /></li>
+<li><cite key="conf/icsm/ChungKBKL99" style="ee" /></li>
+</ul>
+<h2>Object-Oriented Technology</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/AntoniolCL99" style="ee" /></li>
+<li><cite key="conf/icsm/SchauerRMK99" style="ee" /></li>
+<li><cite key="conf/icsm/TonellaA99" style="ee" /></li>
+</ul>
+<h3>Panel:
+Doing Software Maintenance for Business Change</h3> 
+<h2>Reuse and Validation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/SellinkV99" style="ee" /></li>
+<li><cite key="conf/icsm/ChuHLH99" style="ee" /></li>
+<li><cite key="conf/icsm/SinhaH99" style="ee" /></li>
+</ul>
+<h2>Models and Processes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Schneidewind99" style="ee" /></li>
+<li><cite key="conf/icsm/Kajko-Mattsson99a" style="ee" /></li>
+<li><cite key="conf/icsm/BustardOH99" style="ee" /></li>
+</ul>
+<h2>Processes and Technology</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Kajko-Mattsson99b" style="ee" /></li>
+<li><cite key="conf/icsm/JohnstoneSW99" style="ee" /></li>
+<li><cite key="conf/icsm/Mattsson99" style="ee" /></li>
+</ul>
+<h2>Measurement and Improvement</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/DefamieJT99" style="ee" /></li>
+<li><cite key="conf/icsm/DomschS99" style="ee" /></li>
+<li><cite key="conf/icsm/FukudaYY99" style="ee" /></li>
+<li><cite key="conf/icsm/KhoshgoftaarAYJH99" style="ee" /></li>
+</ul>
+<h2>Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/KrikhaarPSSV99" style="ee" /></li>
+<li><cite key="conf/icsm/SimCHC99" style="ee" /></li>
+<li><cite key="conf/icsm/WoodsCK99" style="ee" /></li>
+</ul>
+<h2>Software Change and Impact Analysis (I)</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BurdM99" style="ee" /></li>
+<li><cite key="conf/icsm/ZhouZC99" style="ee" /></li>
+<li><cite key="conf/icsm/LiangH99" style="ee" /></li>
+</ul>
+<h3>Short Paper Session:
+Software Maintenance-The Future (II)</h3> 
+<h3>Short Paper Session:
+Software Maintenance-The Future (III)</h3> 
+<h2>Software Change and Impact Analysis (II)</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/LiF99" style="ee" /></li>
+<li><cite key="conf/icsm/Agrawal99" style="ee" /></li>
+<li><cite key="conf/icsm/CinneideN99" style="ee" /></li>
+</ul>
+<h2>Measurement and Empirical Studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BriandWL99" style="ee" /></li>
+<li><cite key="conf/icsm/FioravantiNS99" style="ee" /></li>
+<li><cite key="conf/icsm/DouceL99" style="ee" /></li>
+</ul>
+<h3>Panel:
+On the Threshold of Y2K</h3> 
+<h3>Keynote Speech:
+Software System Maintenance and Evolution in an Era of Reuse, COTS, and Component-Based Systems</h3> Speaker:
+<author>M. M. Lehman</author> <footer> 

@@ -1,0 +1,78 @@
+<bht key="db/conf/icse/icse95.bht" title="ICSE 1995"> <logo> 
+<h1>17. <ref href="db/conf/icse/index.html">ICSE</ref> 1995:
+Seattle, Washington, USA</h1>
+
+<cite key="conf/icse/1995">
+
+<h2>Requirements</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HeimdahlL95" style="ee" /></li>
+<li><cite key="conf/icse/JacksonZ95" style="ee" /></li>
+<li><cite key="conf/icse/ChungN95" style="ee" /></li>
+</ul>
+<h2>Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WongHLM95" style="ee" /></li>
+<li><cite key="conf/icse/ClarkeL95" style="ee" /></li>
+<li><cite key="conf/icse/BertolinoS95" style="ee" /></li>
+</ul>
+<h2>Process I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CookW95" style="ee" /></li>
+<li><cite key="conf/icse/BarghoutiK95" style="ee" /></li>
+</ul>
+<h2>Reuse</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HenningerLR95" style="ee" /></li>
+<li><cite key="conf/icse/RosenbaumC95" style="ee" /></li>
+</ul>
+<h2>Process II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CattaneoFL95" style="ee" /></li>
+<li><cite key="conf/icse/TanakaSKMK95" style="ee" /></li>
+<li><cite key="conf/icse/BriandMSB95" style="ee" /></li>
+</ul>
+<h2>Concurrency</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DwyerCN95" style="ee" /></li>
+<li><cite key="conf/icse/ArdisCJMPSO95" style="ee" /></li>
+<li><cite key="conf/icse/KangK95" style="ee" /></li>
+</ul>
+<h2>Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GarlanAO95" style="ee" /></li>
+<li><cite key="conf/icse/HarrisRY95" style="ee" /></li>
+<li><cite key="conf/icse/SoniNH95" style="ee" /></li>
+</ul>
+<h2>Development</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Floch95" style="ee" /></li>
+<li><cite key="conf/icse/ChambersDG95" style="ee" /></li>
+<li><cite key="conf/icse/Janicki95" style="ee" /></li>
+</ul>
+<h2>Process III</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BoehmBHL95" style="ee" /></li>
+<li><cite key="conf/icse/LeonhardtKN95" style="ee" /></li>
+<li><cite key="conf/icse/CugolaNGM95" style="ee" /></li>
+</ul>
+<h2>State-of-the-Art (Invited)</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/VottaP95" style="ee" /></li>
+</ul>
+<h2>Keynote (Invited)</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Jackson95" style="ee" /></li>
+</ul>
+<h2>Integration</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/TaylorMAWR95" style="ee" /></li>
+<li><cite key="conf/icse/HeinemanK95" style="ee" /></li>
+<li><cite key="conf/icse/GautierLST95" style="ee" /></li>
+</ul>
+<h2>Panel:
+Tractability of Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WeideHH95" style="ee" /></li>
+<li><cite key="conf/icse/Quilici95" style="ee" /></li>
+</ul><footer> 

@@ -1,0 +1,120 @@
+<bht key="db/conf/kbse/ase2006.bht" title="ASE 2006"> <logo> 
+<h1>21. <ref href="db/conf/kbse/index.html">ASE</ref> 2006:
+Tokyo, Japan</h1><hr> <cite key="conf/kbse/2006"> 
+<h2>Introduction</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/X06" style="ee" /></li>
+<li><cite key="conf/kbse/X06a" style="ee" /></li>
+<li><cite key="conf/kbse/X06b" style="ee" /></li>
+<li><cite key="conf/kbse/X06c" style="ee" /></li>
+<li><cite key="conf/kbse/X06d" style="ee" /></li>
+<li><cite key="conf/kbse/X06e" style="ee" /></li>
+</ul>
+<h2>Keynote Talk</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Futatsugi06" style="ee" /></li>
+<li><cite key="conf/kbse/Thrun06" style="ee" /></li>
+<li><cite key="conf/kbse/Rajamani06" style="ee" /></li>
+</ul>
+<h2>Modeling and Synthesis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/GrossK06" style="ee" /></li>
+<li><cite key="conf/kbse/GrundyHZL06" style="ee" /></li>
+</ul>
+<h2>Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/WarrenSKW06" style="ee" /></li>
+<li><cite key="conf/kbse/Abi-AntounANSG06" style="ee" /></li>
+</ul>
+<h2>Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/dAmorimPXME06" style="ee" /></li>
+<li><cite key="conf/kbse/HalfondO06" style="ee" /></li>
+</ul>
+<h2>Impact Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/KimZPW06" style="ee" /></li>
+<li><cite key="conf/kbse/CaiS06" style="ee" /></li>
+</ul>
+<h2>Analysis I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Volanschi06" style="ee" /></li>
+<li><cite key="conf/kbse/EichbergMKOR06" style="ee" /></li>
+<li><cite key="conf/kbse/ShiO06" style="ee" /></li>
+</ul>
+<h2>Traceability</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/MurtaHW06" style="ee" /></li>
+<li><cite key="conf/kbse/NeumullerG06" style="ee" /></li>
+</ul>
+<h2>Analysis II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/DengLR06" style="ee" /></li>
+<li><cite key="conf/kbse/Jurjens06" style="ee" /></li>
+<li><cite key="conf/kbse/ArthoG06" style="ee" /></li>
+</ul>
+<h2>Management</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/HassanZ06" style="ee" /></li>
+<li><cite key="conf/kbse/MancinelliBCVDLT06" style="ee" /></li>
+<li><cite key="conf/kbse/EstublierG06" style="ee" /></li>
+</ul>
+<h2>Mining Software Repositories</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/BreuZ06" style="ee" /></li>
+<li><cite key="conf/kbse/WeissgerberD06" style="ee" /></li>
+<li><cite key="conf/kbse/RamanathanGJ06" style="ee" /></li>
+</ul>
+<h2>Short Papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/PenseriniPSM06" style="ee" /></li>
+<li><cite key="conf/kbse/BookGM06" style="ee" /></li>
+<li><cite key="conf/kbse/FalbRA06" style="ee" /></li>
+<li><cite key="conf/kbse/DenneyF06" style="ee" /></li>
+<li><cite key="conf/kbse/Nguyen06" style="ee" /></li>
+<li><cite key="conf/kbse/ReinhardSMGM06" style="ee" /></li>
+<li><cite key="conf/kbse/SatohKU06" style="ee" /></li>
+<li><cite key="conf/kbse/PaarT06" style="ee" /></li>
+<li><cite key="conf/kbse/LaurentSW06" style="ee" /></li>
+<li><cite key="conf/kbse/WinbladhAZR06" style="ee" /></li>
+<li><cite key="conf/kbse/AcharyaSXX06" style="ee" /></li>
+<li><cite key="conf/kbse/MohaGL06" style="ee" /></li>
+<li><cite key="conf/kbse/LiuYR06" style="ee" /></li>
+<li><cite key="conf/kbse/ChalabineKB06" style="ee" /></li>
+<li><cite key="conf/kbse/Ireland06" style="ee" /></li>
+<li><cite key="conf/kbse/FalcarinT06" style="ee" /></li>
+<li><cite key="conf/kbse/StorzerF06" style="ee" /></li>
+</ul>
+<h2>Doctoral Symposium</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Antkiewicz06" style="ee" /></li>
+<li><cite key="conf/kbse/Dhungana06" style="ee" /></li>
+<li><cite key="conf/kbse/Mattmann06" style="ee" /></li>
+<li><cite key="conf/kbse/Rajan06" style="ee" /></li>
+<li><cite key="conf/kbse/Sabetzadeh06" style="ee" /></li>
+<li><cite key="conf/kbse/Seo06" style="ee" /></li>
+</ul>
+<h2>Formal Tool Demo Presentations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Hall06" style="ee" /></li>
+<li><cite key="conf/kbse/HanakawaI06" style="ee" /></li>
+<li><cite key="conf/kbse/LedruB06" style="ee" /></li>
+<li><cite key="conf/kbse/LohmannES06" style="ee" /></li>
+<li><cite key="conf/kbse/Maurer06" style="ee" /></li>
+<li><cite key="conf/kbse/PontissoC06" style="ee" /></li>
+<li><cite key="conf/kbse/SpanoudakisZ06" style="ee" /></li>
+<li><cite key="conf/kbse/TateishiMOS06" style="ee" /></li>
+<li><cite key="conf/kbse/TillmannS06" style="ee" /></li>
+</ul>
+<h2>Mini Tutorials</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/RobbyDH06" style="ee" /></li>
+<li><cite key="conf/kbse/Singer06" style="ee" /></li>
+</ul>
+<h2>Workshops</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/BaniassadCCHMRZ06" style="ee" /></li>
+<li><cite key="conf/kbse/YeO06" style="ee" /></li>
+<li><cite key="conf/kbse/MaruyamaMY06" style="ee" /></li>
+<li><cite key="conf/kbse/NakataniK06" style="ee" /></li>
+</ul><footer> 

@@ -1,0 +1,202 @@
+<bht key="db/conf/icse/icse97.bht" title="ICSE 1997"> <logo> 
+<h1>19. <ref href="db/conf/icse/index.html">ICSE</ref> 1997:
+Boston, Massachusetts, USA</h1>
+
+<cite key="conf/icse/1997">
+
+<h2>Exploiting the Internet</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KaiserDJY97" style="ee" /></li>
+<li><cite key="conf/icse/PerpichPPVW97" style="ee" /></li>
+<li><cite key="conf/icse/CarzanigaPV97" style="ee" /></li>
+</ul>
+<h2>Formal Specifications</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/NakajimaF97" style="ee" /></li>
+<li><cite key="conf/icse/WangRC97" style="ee" /></li>
+<li><cite key="conf/icse/BaresiOP97" style="ee" /></li>
+</ul>
+<h2>Reliability</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/FranklHLS97" style="ee" /></li>
+<li><cite key="conf/icse/PodgurskiW97" style="ee" /></li>
+<li><cite key="conf/icse/ShimaTMT97" style="ee" /></li>
+</ul>
+<h2>Inspections and Reviews</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SeamanB97" style="ee" /></li>
+<li><cite key="conf/icse/SteinRHM97" style="ee" /></li>
+<li><cite key="conf/icse/JohnsonT97" style="ee" /></li>
+<li><cite key="conf/icse/PorterSV97" style="ee" /></li>
+</ul>
+<h2>User Inferface and Specifications</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RobinsonV97" style="ee" /></li>
+<li><cite key="conf/icse/JacquotQ97" style="ee" /></li>
+<li><cite key="conf/icse/WilsonRH97" style="ee" /></li>
+<li><cite key="conf/icse/GrahamU97" style="ee" /></li>
+</ul>
+<h2>Legacy Systems and Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/YehHC97" style="ee" /></li>
+<li><cite key="conf/icse/DeLineZS97" style="ee" /></li>
+<li><cite key="conf/icse/DunietzESMI97" style="ee" /></li>
+<li><cite key="conf/icse/BernotBG97" style="ee" /></li>
+</ul>
+<h2>Static Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/AvruninCD97" style="ee" /></li>
+<li><cite key="conf/icse/PezzeY97" style="ee" /></li>
+<li><cite key="conf/icse/ReeseL97" style="ee" /></li>
+</ul>
+<h2>Metrics</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/PighinZ97" style="ee" /></li>
+<li><cite key="conf/icse/BrueggeD97" style="ee" /></li>
+<li><cite key="conf/icse/BasiliCEHM97" style="ee" /></li>
+</ul>
+<h2>Process</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KusumotoMKHTS97" style="ee" /></li>
+<li><cite key="conf/icse/PodorizhnyO97" style="ee" /></li>
+</ul>
+<h2>Hardware/Software Issues</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/FriesenJW97" style="ee" /></li>
+<li><cite key="conf/icse/FernandezR97" style="ee" /></li>
+</ul>
+<h2>Reverse Engineering and Program Understanding</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/OCallahanJ97" style="ee" /></li>
+<li><cite key="conf/icse/LindigS97" style="ee" /></li>
+<li><cite key="conf/icse/JerdingSB97" style="ee" /></li>
+</ul>
+<h2>Process Improvement</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HammerRHH97" style="ee" /></li>
+<li><cite key="conf/icse/LaneZ97" style="ee" /></li>
+<li><cite key="conf/icse/NguyenWC97" style="ee" /></li>
+<li><cite key="conf/icse/BonfattiGM97" style="ee" /></li>
+</ul>
+<h2>Analysis of C and C++</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BriandDM97" style="ee" /></li>
+<li><cite key="conf/icse/YurRLS97" style="ee" /></li>
+<li><cite key="conf/icse/TonellaAFM97" style="ee" /></li>
+</ul>
+<h2>Economic and Legal Issues</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/VernerC97" style="ee" /></li>
+<li><cite key="conf/icse/CifuentesF97" style="ee" /></li>
+<li><cite key="conf/icse/Botting97" style="ee" /></li>
+</ul>
+<h2>Object-Oriented Technology</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Wile97" style="ee" /></li>
+<li><cite key="conf/icse/KiczalesLLMMM97" style="ee" /></li>
+<li><cite key="conf/icse/FroehlichHLS97" style="ee" /></li>
+</ul>
+<h2>Testing and Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SullivanSM97" style="ee" /></li>
+<li><cite key="conf/icse/AlurJKO97" style="ee" /></li>
+<li><cite key="conf/icse/JagadeesanPPRV97" style="ee" /></li>
+</ul>
+<h2>Plenary Speakers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Yourdon97" style="ee" /></li>
+<li><cite key="conf/icse/Steele97" style="ee" /></li>
+<li><cite key="conf/icse/Weiser97" style="ee" /></li>
+<li><cite key="conf/icse/Osterweil97" style="ee" /></li>
+<li><cite key="conf/icse/Lehman97" style="ee" /></li>
+</ul>
+<h2>Software Engineering in Organizations:
+Lessons and Status Report</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KarbachNK97" style="ee" /></li>
+<li><cite key="conf/icse/MelansonNS97" style="ee" /></li>
+<li><cite key="conf/icse/EixelsbergerWKG97" style="ee" /></li>
+<li><cite key="conf/icse/WelschSK97" style="ee" /></li>
+<li><cite key="conf/icse/Sullivan97" style="ee" /></li>
+<li><cite key="conf/icse/RyanK97" style="ee" /></li>
+<li><cite key="conf/icse/Hefner97" style="ee" /></li>
+<li><cite key="conf/icse/EngelmannSL97" style="ee" /></li>
+<li><cite key="conf/icse/Baker97" style="ee" /></li>
+<li><cite key="conf/icse/OshanaC97" style="ee" /></li>
+<li><cite key="conf/icse/BondR97" style="ee" /></li>
+</ul>
+<h2>Panels and Invited Presentations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Selby97" style="ee" /></li>
+<li><cite key="conf/icse/RamKH97" style="ee" /></li>
+<li><cite key="conf/icse/Wasserman97" style="ee" /></li>
+<li><cite key="conf/icse/Royce97" style="ee" /></li>
+<li><cite key="conf/icse/DewanJMP97" style="ee" /></li>
+</ul>
+<h2>State of the Art Reports</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Perry97" style="ee" /></li>
+<li><cite key="conf/icse/Ackerman97" style="ee" /></li>
+</ul>
+<h2>Research Demonstrations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/NaumovichCOD97" style="ee" /></li>
+<li><cite key="conf/icse/Damon97" style="ee" /></li>
+<li><cite key="conf/icse/HitomiBT97" style="ee" /></li>
+<li><cite key="conf/icse/RobbinsHR97" style="ee" /></li>
+<li><cite key="conf/icse/CohenFNF97" style="ee" /></li>
+<li><cite key="conf/icse/LieberherrO97" style="ee" /></li>
+<li><cite key="conf/icse/StoreyWM97" style="ee" /></li>
+<li><cite key="conf/icse/HsiaK97" style="ee" /></li>
+<li><cite key="conf/icse/HeitmeyerKL97" style="ee" /></li>
+<li><cite key="conf/icse/DarimontDML97" style="ee" /></li>
+<li><cite key="conf/icse/Ning97" style="ee" /></li>
+<li><cite key="conf/icse/SullivanCZC97" style="ee" /></li>
+<li><cite key="conf/icse/Schurr97" style="ee" /></li>
+<li><cite key="conf/icse/BoscoMM97" style="ee" /></li>
+</ul>
+<h2>Tutorial Summaries</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Curtis97" style="ee" /></li>
+<li><cite key="conf/icse/Korson97" style="ee" /></li>
+<li><cite key="conf/icse/Musa97" style="ee" /></li>
+<li><cite key="conf/icse/Waldo97" style="ee" /></li>
+<li><cite key="conf/icse/WiledenK97" style="ee" /></li>
+<li><cite key="conf/icse/KramerM97" style="ee" /></li>
+<li><cite key="conf/icse/Gentleman97" style="ee" /></li>
+<li><cite key="conf/icse/FaulkH97" style="ee" /></li>
+<li><cite key="conf/icse/GruhnS97" style="ee" /></li>
+<li><cite key="conf/icse/Emmerich97" style="ee" /></li>
+<li><cite key="conf/icse/BasiliM97" style="ee" /></li>
+<li><cite key="conf/icse/HumphreyO97" style="ee" /></li>
+<li><cite key="conf/icse/NuseibehR97" style="ee" /></li>
+<li><cite key="conf/icse/ArdisW97" style="ee" /></li>
+<li><cite key="conf/icse/Pfleeger97" style="ee" /></li>
+<li><cite key="conf/icse/Fowler97" style="ee" /></li>
+<li><cite key="conf/icse/SeiterLO97" style="ee" /></li>
+<li><cite key="conf/icse/PerryPV97" style="ee" /></li>
+<li><cite key="conf/icse/Muller97" style="ee" /></li>
+<li><cite key="conf/icse/BrodmanJ97" style="ee" /></li>
+<li><cite key="conf/icse/PreeS97" style="ee" /></li>
+<li><cite key="conf/icse/FischerL97" style="ee" /></li>
+<li><cite key="conf/icse/GoelS97" style="ee" /></li>
+<li><cite key="conf/icse/Rajlich97" style="ee" /></li>
+<li><cite key="conf/icse/Bush97" style="ee" /></li>
+</ul>
+<h2>Workshop Summaries</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Smith97" style="ee" /></li>
+<li><cite key="conf/icse/HarrisonSD97" style="ee" /></li>
+<li><cite key="conf/icse/Eichmann97" style="ee" /></li>
+<li><cite key="conf/icse/WerthW97" style="ee" /></li>
+<li><cite key="conf/icse/AghaR97" style="ee" /></li>
+<li><cite key="conf/icse/Conradi97" style="ee" /></li>
+<li><cite key="conf/icse/Young97" style="ee" /></li>
+</ul>
+<h2>Joint Session:
+1997 Symposium on Software Reuse (SSR)</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BrowneM97" style="ee" /></li>
+<li><cite key="conf/icse/MedvidovicOT97" style="ee" /></li>
+<li><cite key="conf/icse/KarhinenRT97" style="ee" /></li>
+</ul><footer> 

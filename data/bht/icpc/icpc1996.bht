@@ -1,0 +1,51 @@
+<bht key="conf/iwpc/wpc1996.bht" title="International Workshop on Program Comprehension 1996"> <logo></logo> 
+<h1>4. <ref href="db/conf/iwpc/index.html">WPC</ref> 1996:
+Berlin, Germany</h1><hr> <cite key="conf/iwpc/1996">  
+<h2>Program Comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/EickW96" style="ee" /></li>
+<li><cite key="conf/iwpc/LuciaFM96" style="ee" /></li>
+<li><cite key="conf/iwpc/TilleySP96" style="ee" /></li>
+</ul>
+<h2>Tools and Environments</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/CanforaMT96" style="ee" /></li>
+<li><cite key="conf/iwpc/Sullivan96" style="ee" /></li>
+<li><cite key="conf/iwpc/Graham96" style="ee" /></li>
+<li><cite key="conf/iwpc/QuiliciW96" style="ee" /></li>
+</ul>
+<h2>Comprehension Experiments and Estimation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/MayrhauserV96" style="ee" /></li>
+<li><cite key="conf/iwpc/FioreLV96" style="ee" /></li>
+</ul>
+<h2>Software Evolution</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/Wong96" style="ee" /></li>
+<li><cite key="conf/iwpc/BoldyreffBHMY96" style="ee" /></li>
+<li><cite key="conf/iwpc/SneedE96" style="ee" /></li>
+</ul>
+<h2>Domain-Specific Program Comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/Bull96" style="ee" /></li>
+<li><cite key="conf/iwpc/CitrinSZ96" style="ee" /></li>
+<li><cite key="conf/iwpc/BlazyF96" style="ee" /></li>
+</ul>
+<h2>Pattern Matching Algorithms</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/GriswoldAM96" style="ee" /></li>
+<li><cite key="conf/iwpc/AlencarCKL96" style="ee" /></li>
+<li><cite key="conf/iwpc/MartinoI96" style="ee" /></li>
+</ul>
+<h2>Software Architecture Comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/WallnauCMK96" style="ee" /></li>
+<li><cite key="conf/iwpc/FiutemMAT96" style="ee" /></li>
+</ul>
+<h2>Hierarchical Program Comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/Kunz96" style="ee" /></li>
+<li><cite key="conf/iwpc/KloeschM96" style="ee" /></li>
+<li><cite key="conf/iwpc/DoorleyC96" style="ee" /></li>
+<li><cite key="conf/iwpc/BailesBCJ96" style="ee" /></li>
+</ul><footer> 

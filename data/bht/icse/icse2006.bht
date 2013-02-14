@@ -1,0 +1,362 @@
+<bht key="db/conf/icse/icse2006.bht" title="ICSE 2006"> <logo> 
+<h1>28. <ref href="db/conf/icse/index.html">ICSE</ref> 2006:
+Shanghai, China</h1><hr> <cite key="conf/icse/2006"> 
+<h2>Keynote talks</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/YangM06" style="ee" /></li>
+<li><cite key="conf/icse/Boehm06" style="ee" /></li>
+<li><cite key="conf/icse/Achatz06" style="ee" /></li>
+</ul>
+<h2>Invited talks</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BasiliE06" style="ee" /></li>
+<li><cite key="conf/icse/Broy06" style="ee" /></li>
+<li><cite key="conf/icse/NehmerBKL06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+architecture &amp; design I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SuryanarayanaDET06" style="ee" /></li>
+<li><cite key="conf/icse/KrugerMM06" style="ee" /></li>
+<li><cite key="conf/icse/BeckerBGKS06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+test &amp; analysis I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BaudryFT06" style="ee" /></li>
+<li><cite key="conf/icse/BriandLS06" style="ee" /></li>
+<li><cite key="conf/icse/WillmorE06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+software components &amp; reuse</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/LiuBL06" style="ee" /></li>
+<li><cite key="conf/icse/ApelLS06" style="ee" /></li>
+<li><cite key="conf/icse/CutumisuOSSMRSC06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+test &amp; analysis II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Misherghi06" style="ee" /></li>
+<li><cite key="conf/icse/TanAC06" style="ee" /></li>
+<li><cite key="conf/icse/DhurjatiA06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+reverse engineering &amp; refactoring</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/VerbaereEM06" style="ee" /></li>
+<li><cite key="conf/icse/AbrahamE06" style="ee" /></li>
+<li><cite key="conf/icse/RamalingamKFS06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+architecture &amp; design II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/PettitG06" style="ee" /></li>
+<li><cite key="conf/icse/KojarskiL06" style="ee" /></li>
+<li><cite key="conf/icse/MandelinKY06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+test &amp; analysis III</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HackettDWY06" style="ee" /></li>
+<li><cite key="conf/icse/BruntinkDT06" style="ee" /></li>
+<li><cite key="conf/icse/HeineL06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+test &amp; analysis IV</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/JiangS06" style="ee" /></li>
+<li><cite key="conf/icse/ZhangGG06" style="ee" /></li>
+<li><cite key="conf/icse/YangEBBD06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+theory &amp; formal methods</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/XuCC06" style="ee" /></li>
+<li><cite key="conf/icse/GoelMRT06" style="ee" /></li>
+<li><cite key="conf/icse/ChangJ06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+empirical methods &amp; measurement</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/TanZZ06" style="ee" /></li>
+<li><cite key="conf/icse/TrendowiczHMIYK06" style="ee" /></li>
+<li><cite key="conf/icse/ZannierMM06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+software process &amp; workflow</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/YeCC06" style="ee" /></li>
+<li><cite key="conf/icse/AnvikHM06" style="ee" /></li>
+<li><cite key="conf/icse/ZhangC06" style="ee" /></li>
+</ul>
+<h2>Research papers:
+development with UML</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Egyed06" style="ee" /></li>
+<li><cite key="conf/icse/GarousiBL06" style="ee" /></li>
+<li><cite key="conf/icse/LangeC06" style="ee" /></li>
+</ul>
+<h2>Experience papers:
+risk analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/LiHSR06" style="ee" /></li>
+<li><cite key="conf/icse/LiHSL06" style="ee" /></li>
+<li><cite key="conf/icse/YangBC06" style="ee" /></li>
+</ul>
+<h2>Experience papers:
+using metrics</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KitchenhamKJC06" style="ee" /></li>
+<li><cite key="conf/icse/BerenbachB06" style="ee" /></li>
+<li><cite key="conf/icse/NagappanBZ06" style="ee" /></li>
+</ul>
+<h2>Experience papers:
+experiences with open source and legacy systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SohnGSLCSC06" style="ee" /></li>
+<li><cite key="conf/icse/GurbaniGH06" style="ee" /></li>
+<li><cite key="conf/icse/DistanteCTH06" style="ee" /></li>
+</ul>
+<h2>Experience papers:
+software development practices</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/LaTozaVD06" style="ee" /></li>
+<li><cite key="conf/icse/HuangBHGLQ06" style="ee" /></li>
+<li><cite key="conf/icse/ZhengRWS06" style="ee" /></li>
+</ul>
+<h2>Far east experience papers:
+development technique</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WangSYHHM06" style="ee" /></li>
+<li><cite key="conf/icse/KimKPCKG06" style="ee" /></li>
+<li><cite key="conf/icse/KobayashiKSP06" style="ee" /></li>
+</ul>
+<h2>Far east experience papers:
+evaluation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WashizakiKWNHHF06" style="ee" /></li>
+<li><cite key="conf/icse/PoonY06" style="ee" /></li>
+<li><cite key="conf/icse/NakamichiSSM06" style="ee" /></li>
+</ul>
+<h2>Far east experience papers:
+software process</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Komuro06" style="ee" /></li>
+<li><cite key="conf/icse/WangJGLLW06" style="ee" /></li>
+<li><cite key="conf/icse/OgasawaraIM06" style="ee" /></li>
+</ul>
+<h2>Far east experience papers:
+posters</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/AbeMKKH06" style="ee" /></li>
+<li><cite key="conf/icse/FurusawaCW06" style="ee" /></li>
+<li><cite key="conf/icse/JarzabekP06" style="ee" /></li>
+<li><cite key="conf/icse/LeeKC06" style="ee" /></li>
+<li><cite key="conf/icse/MitaniKMIHIBM06" style="ee" /></li>
+<li><cite key="conf/icse/MutchalintungkulOPSP06" style="ee" /></li>
+<li><cite key="conf/icse/NguyenBV06" style="ee" /></li>
+<li><cite key="conf/icse/SisonJORH06" style="ee" /></li>
+<li><cite key="conf/icse/WuWCZL06" style="ee" /></li>
+<li><cite key="conf/icse/ZhongZM06" style="ee" /></li>
+</ul>
+<h2>Education papers:
+advanced topics in software engineering education</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Venkatagiri06" style="ee" /></li>
+<li><cite key="conf/icse/RundleD06" style="ee" /></li>
+<li><cite key="conf/icse/PortK06" style="ee" /></li>
+</ul>
+<h2>Education papers:
+software engineering education fundamentals</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Stankovic06" style="ee" /></li>
+<li><cite key="conf/icse/BernhartGHZ06" style="ee" /></li>
+<li><cite key="conf/icse/EvansP06" style="ee" /></li>
+</ul>
+<h2>Education papers:
+distributed development</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RichardsonMMK06" style="ee" /></li>
+<li><cite key="conf/icse/DamianHA06" style="ee" /></li>
+</ul>
+<h2>Education papers:
+posters</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BowyerH06" style="ee" /></li>
+<li><cite key="conf/icse/CubranicSR06" style="ee" /></li>
+<li><cite key="conf/icse/El-Ramly06" style="ee" /></li>
+<li><cite key="conf/icse/HazzanD06" style="ee" /></li>
+<li><cite key="conf/icse/Filho06" style="ee" /></li>
+</ul>
+<h2>Software engineering:
+achievements &amp; challenges:
+ubiquitous and distributed systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Sakamura06" style="ee" /></li>
+<li><cite key="conf/icse/MattmannCMH06" style="ee" /></li>
+</ul>
+<h2>Software engineering:
+achievements &amp; challenges:
+domain-specific challenges</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SenguptaCS06" style="ee" /></li>
+<li><cite key="conf/icse/HanTS06" style="ee" /></li>
+<li><cite key="conf/icse/Bishop06" style="ee" /></li>
+</ul>
+<h2>Software engineering:
+achievements &amp; challenges:
+formal methods</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Abrial06" style="ee" /></li>
+</ul>
+<h2>Research demonstrations:
+verification and testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/FosterUMK06" style="ee" /></li>
+<li><cite key="conf/icse/DongHZQ06" style="ee" /></li>
+<li><cite key="conf/icse/DuarteCBM06" style="ee" /></li>
+</ul>
+<h2>Research demonstrations:
+development and transformation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KimKASCK06" style="ee" /></li>
+<li><cite key="conf/icse/CanforaSZ06" style="ee" /></li>
+<li><cite key="conf/icse/BoshernitsanG06" style="ee" /></li>
+</ul>
+<h2>Research demonstrations:
+data base and business process</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HalfondO06" style="ee" /></li>
+<li><cite key="conf/icse/ZouZ06" style="ee" /></li>
+<li><cite key="conf/icse/PadioleauSR06" style="ee" /></li>
+</ul>
+<h2>Informal tool demonstrations</h2>
+<ul class="publ-list">
+<li><cite key="conf/icse/Beyer06" style="ee" /></li>
+<li><cite key="conf/icse/DengSG06" style="ee" /></li>
+<li><cite key="conf/icse/JorgesMS06" style="ee" /></li>
+<li><cite key="conf/icse/JurjensF06" style="ee" /></li>
+<li><cite key="conf/icse/LiuYR06" style="ee" /></li>
+<li><cite key="conf/icse/MaOK06" style="ee" /></li>
+<li><cite key="conf/icse/MoriISI06" style="ee" /></li>
+<li><cite key="conf/icse/XieMY06" style="ee" /></li>
+<li><cite key="conf/icse/XiePM06" style="ee" /></li>
+</ul>
+<h2>Emerging results:
+architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BabarKG06" style="ee" /></li>
+<li><cite key="conf/icse/Grunske06" style="ee" /></li>
+<li><cite key="conf/icse/RoshandelBCMG06" style="ee" /></li>
+<li><cite key="conf/icse/WoollardM06" style="ee" /></li>
+</ul>
+<h2>Emerging results:
+formal methods and analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CsallnerS06" style="ee" /></li>
+<li><cite key="conf/icse/HuangS06" style="ee" /></li>
+<li><cite key="conf/icse/MaHK06" style="ee" /></li>
+<li><cite key="conf/icse/ManoliosV06" style="ee" /></li>
+<li><cite key="conf/icse/YamauchiWIV06" style="ee" /></li>
+</ul>
+<h2>Emerging results:
+metrics</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Dolins06" style="ee" /></li>
+<li><cite key="conf/icse/MutschlerBR06" style="ee" /></li>
+<li><cite key="conf/icse/JiamthubthugsinS06" style="ee" /></li>
+</ul>
+<h2>Emerging results:
+program analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/FrantzeskouSGK06" style="ee" /></li>
+<li><cite key="conf/icse/LiCSBTM06" style="ee" /></li>
+<li><cite key="conf/icse/MartinX06" style="ee" /></li>
+<li><cite key="conf/icse/Sindhgatta06" style="ee" /></li>
+<li><cite key="conf/icse/TwalaCS06" style="ee" /></li>
+<li><cite key="conf/icse/VerlekarA06" style="ee" /></li>
+</ul>
+<h2>Emerging results:
+requirements engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DamianLM06" style="ee" /></li>
+<li><cite key="conf/icse/MikulovicH06" style="ee" /></li>
+<li><cite key="conf/icse/NakagawaKH06" style="ee" /></li>
+<li><cite key="conf/icse/SongHMRNHG06" style="ee" /></li>
+</ul>
+<h2>Doctoral symposium:
+presentations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Anvik06" style="ee" /></li>
+<li><cite key="conf/icse/CeballosG06" style="ee" /></li>
+<li><cite key="conf/icse/Deng06" style="ee" /></li>
+<li><cite key="conf/icse/DubocRW06" style="ee" /></li>
+<li><cite key="conf/icse/Freese06" style="ee" /></li>
+<li><cite key="conf/icse/Hao06" style="ee" /></li>
+<li><cite key="conf/icse/Holmes06" style="ee" /></li>
+<li><cite key="conf/icse/Jansen06" style="ee" /></li>
+<li><cite key="conf/icse/Liu06" style="ee" /></li>
+<li><cite key="conf/icse/LiuLY06" style="ee" /></li>
+<li><cite key="conf/icse/Ruthruff06" style="ee" /></li>
+<li><cite key="conf/icse/Yin06" style="ee" /></li>
+<li><cite key="conf/icse/Zhao06" style="ee" /></li>
+</ul>
+<h2>Doctoral symposium:
+posters</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Ko06" style="ee" /></li>
+<li><cite key="conf/icse/Lange06" style="ee" /></li>
+<li><cite key="conf/icse/Xie06" style="ee" /></li>
+<li><cite key="conf/icse/Zimmermann06" style="ee" /></li>
+</ul>
+<h2>Workshops</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BruschiWM06" style="ee" /></li>
+<li><cite key="conf/icse/MehandjievBH06" style="ee" /></li>
+<li><cite key="conf/icse/ThompsonE06" style="ee" /></li>
+<li><cite key="conf/icse/Clements06" style="ee" /></li>
+<li><cite key="conf/icse/ChengGLMTFM06" style="ee" /></li>
+<li><cite key="conf/icse/KramerH06" style="ee" /></li>
+<li><cite key="conf/icse/ChulaniBVW06" style="ee" /></li>
+<li><cite key="conf/icse/DiehlGPH06" style="ee" /></li>
+<li><cite key="conf/icse/ChorenLGLGR06" style="ee" /></li>
+<li><cite key="conf/icse/HarrisonW06" style="ee" /></li>
+<li><cite key="conf/icse/BezivinFR06" style="ee" /></li>
+<li><cite key="conf/icse/ZhuHCL06" style="ee" /></li>
+<li><cite key="conf/icse/HallRCJ06" style="ee" /></li>
+<li><cite key="conf/icse/KruchtenHMMSE06" style="ee" /></li>
+<li><cite key="conf/icse/RapplPSS06" style="ee" /></li>
+<li><cite key="conf/icse/GuptaP06" style="ee" /></li>
+<li><cite key="conf/icse/NittoHHHPSZ06" style="ee" /></li>
+<li><cite key="conf/icse/KazmanS06" style="ee" /></li>
+<li><cite key="conf/icse/WhittleGM06" style="ee" /></li>
+</ul>
+<h2>Tutorials:
+full day tutorials</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Fischer06" style="ee" /></li>
+<li><cite key="conf/icse/PerrySE06" style="ee" /></li>
+<li><cite key="conf/icse/Firesmith06" style="ee" /></li>
+<li><cite key="conf/icse/PohlM06" style="ee" /></li>
+<li><cite key="conf/icse/BudgenB06" style="ee" /></li>
+<li><cite key="conf/icse/JarzabekP06a" style="ee" /></li>
+<li><cite key="conf/icse/GallL06" style="ee" /></li>
+<li><cite key="conf/icse/MaurerM06" style="ee" /></li>
+<li><cite key="conf/icse/Gomaa06" style="ee" /></li>
+</ul>
+<h2>Tutorials:
+half-day tutorials</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RashidGM06" style="ee" /></li>
+<li><cite key="conf/icse/Dong06" style="ee" /></li>
+<li><cite key="conf/icse/Lemos06" style="ee" /></li>
+<li><cite key="conf/icse/BaresiG06" style="ee" /></li>
+<li><cite key="conf/icse/Selic06" style="ee" /></li>
+<li><cite key="conf/icse/ChenWEF06" style="ee" /></li>
+<li><cite key="conf/icse/MaidenRR06" style="ee" /></li>
+<li><cite key="conf/icse/StrooperW06" style="ee" /></li>
+<li><cite key="conf/icse/ShaoHZ06" style="ee" /></li>
+<li><cite key="conf/icse/JuristoF06" style="ee" /></li>
+<li><cite key="conf/icse/Lau06" style="ee" /></li>
+</ul><footer> 

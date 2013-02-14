@@ -1,0 +1,92 @@
+<bht key="db/conf/wcre/wcre2009.bht" title="WCRE 2009"> <logo> 
+<h1>16. <ref href="db/conf/wcre/index.html">WCRE</ref> 2009:
+Lille, France</h1><hr> <cite key="conf/wcre/2009"> 
+<h2>Keynotes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Storey09" style="ee" /></li>
+<li><cite key="conf/wcre/Hainaut09" style="ee" /></li>
+</ul>
+<h2>WCRE 1999 Most Influential Paper</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/AnquetilL99b" style="ee" /></li>
+</ul>
+<h2>Mining Software Repositories</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/PentaG99a" style="ee" /></li>
+<li><cite key="conf/wcre/AlamAH99a" style="ee" /></li>
+<li><cite key="conf/wcre/ButlerWYS99a" style="ee" /></li>
+<li><cite key="conf/wcre/TangHZ99a" style="ee" /></li>
+</ul>
+<h2>Dynamic Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/PassingSLP99a" style="ee" /></li>
+<li><cite key="conf/wcre/AckermannLC99a" style="ee" /></li>
+<li><cite key="conf/wcre/LoRRV99a" style="ee" /></li>
+</ul>
+<h2>Empirical Software Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/KhomhPG99a" style="ee" /></li>
+<li><cite key="conf/wcre/BettenburgSIAZH99a" style="ee" /></li>
+<li><cite key="conf/wcre/AbebeHTM99a" style="ee" /></li>
+</ul>
+<h2>Remodularization and Reengineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/AbdeenDSA99a" style="ee" /></li>
+<li><cite key="conf/wcre/LavalDDB99a" style="ee" /></li>
+<li><cite key="conf/wcre/RatiuMJ99a" style="ee" /></li>
+<li><cite key="conf/wcre/Perez-CastilloGAP99a" style="ee" /></li>
+</ul>
+<h2>Change and Defect Proneness</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/DAmbrosLR99a" style="ee" /></li>
+<li><cite key="conf/wcre/VaucherKMG99a" style="ee" /></li>
+<li><cite key="conf/wcre/FerzundAW99a" style="ee" /></li>
+<li><cite key="conf/wcre/GatrellCH99a" style="ee" /></li>
+</ul>
+<h2>Static Analysis and Security</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/CooganDKT99a" style="ee" /></li>
+<li><cite key="conf/wcre/BogdanovW99a" style="ee" /></li>
+<li><cite key="conf/wcre/LetarteM99a" style="ee" /></li>
+</ul>
+<h2>Traceability</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/CapobiancoLOPP99a" style="ee" /></li>
+<li><cite key="conf/wcre/BacchelliDLR99a" style="ee" /></li>
+<li><cite key="conf/wcre/YangPZ99a" style="ee" /></li>
+</ul>
+<h2>Program Comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/VanyaKRV99a" style="ee" /></li>
+<li><cite key="conf/wcre/RothlisbergerND99a" style="ee" /></li>
+<li><cite key="conf/wcre/AriasAA99a" style="ee" /></li>
+</ul>
+<h2>Static Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/KrishnamoorthyDF99a" style="ee" /></li>
+<li><cite key="conf/wcre/SerebrenikRRB99a" style="ee" /></li>
+<li><cite key="conf/wcre/MerloL99a" style="ee" /></li>
+<li><cite key="conf/wcre/BouhissiM99a" style="ee" /></li>
+</ul>
+<h2>PhD Forum</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Revelle99a" style="ee" /></li>
+<li><cite key="conf/wcre/Perin99a" style="ee" /></li>
+<li><cite key="conf/wcre/Kpodjedo99a" style="ee" /></li>
+<li><cite key="conf/wcre/Amoui99a" style="ee" /></li>
+<li><cite key="conf/wcre/Khomh99a" style="ee" /></li>
+</ul>
+<h2>Tool Demonstrations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Perez-CastilloGCPP99a" style="ee" /></li>
+<li><cite key="conf/wcre/CostaJCP99a" style="ee" /></li>
+<li><cite key="conf/wcre/KawaguchiYUFKNI99a" style="ee" /></li>
+<li><cite key="conf/wcre/HigoK99a" style="ee" /></li>
+<li><cite key="conf/wcre/AnquetilRAAHPPP99a" style="ee" /></li>
+<li><cite key="conf/wcre/BernardiL99a" style="ee" /></li>
+</ul>
+<h2>Workshops</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/MoonenS99a" style="ee" /></li>
+<li><cite key="conf/wcre/DenierG99a" style="ee" /></li>
+</ul><footer> 

@@ -1,0 +1,55 @@
+<bht key="db/conf/wcre/wcre1997.bht" title="WCRE 1997"> <logo> 
+<h1>4. <ref href="db/conf/wcre/index.html">WCRE</ref> 1997:
+Amsterdam, The Netherlands</h1><hr> <editor>Ira D. Baxter</editor>, <editor>Alex Quilici</editor>, <editor>Chris Verhoef</editor> (Eds.):
+4th Working Conference on Reverse Engineering, WCRE '97, October 6-8, 1997, Amsterdam, The Netherlands. IEEE Computer Society Press, 1997, ISBN 0-8186-8162-4 
+<h2>Invited Lecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/BellayG97" style="ee" /></li>
+<li><cite key="conf/wcre/StoreyWM97" style="ee" /></li>
+</ul>
+<h2>Object and Module Identification</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/WiggertsBF97" style="ee" /></li>
+<li><cite key="conf/wcre/Wiggerts97" style="ee" /></li>
+<li><cite key="conf/wcre/Kontogiannis97" style="ee" /></li>
+</ul>
+<h2>Architectural Understanding</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/JerdingR97" style="ee" /></li>
+<li><cite key="conf/wcre/GirardKS97" style="ee" /></li>
+<li><cite key="conf/wcre/TzerposH97" style="ee" /></li>
+</ul>
+<h2>Program Understanding and Scalability</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/ReevesS97" style="ee" /></li>
+<li><cite key="conf/wcre/PalthepuGM97" style="ee" /></li>
+<li><cite key="conf/wcre/BaxterM97" style="ee" /></li>
+<li><cite key="conf/wcre/QuiliciWZ97" style="ee" /></li>
+<li><cite key="conf/wcre/DeursenWQ97" style="ee" /></li>
+</ul>
+<h2>Tool Support</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/HendrixCBM97" style="ee" /></li>
+<li><cite key="conf/wcre/BrandSV97" style="ee" /></li>
+</ul>
+<h2>Domain-Oriented Reengineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/MooreR97" style="ee" /></li>
+<li><cite key="conf/wcre/DeBaud97" style="ee" /></li>
+</ul>
+<h2>Database Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Blaha97" style="ee" /></li>
+<li><cite key="conf/wcre/Mfourga97" style="ee" /></li>
+<li><cite key="conf/wcre/HainautHHRE97" style="ee" /></li>
+</ul>
+<h2>Re-engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Sneed97" style="ee" /></li>
+<li><cite key="conf/wcre/BurdM97" style="ee" /></li>
+</ul>
+<h2>Enabling Technologies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Balmas97" style="ee" /></li>
+<li><cite key="conf/wcre/AprilMA97" style="ee" /></li>
+</ul><footer> 

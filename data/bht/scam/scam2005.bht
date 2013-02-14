@@ -1,0 +1,56 @@
+<bht key="db/conf/scam/scam2005.bht" title="Source Code Analysis and Manipulation 2005"> <logo></logo> 
+<h1>5. <ref href="db/conf/scam/index.html">SCAM</ref> 2005:
+Budapest, Hungary</h1><hr> <cite key="conf/scam/2005"> 
+<h2>Cover</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/X05" style="ee" /></li>
+<li><cite key="conf/scam/X05a" style="ee" /></li>
+</ul>
+<h2>Introduction</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/X05b" style="ee" /></li>
+<li><cite key="conf/scam/X05c" style="ee" /></li>
+<li><cite key="conf/scam/X05d" style="ee" /></li>
+</ul>
+<h2>Session 1:
+Slicing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/BinkleyH05" style="ee" /></li>
+<li><cite key="conf/scam/HongLS05" style="ee" /></li>
+<li><cite key="conf/scam/SzegediG05" style="ee" /></li>
+<li><cite key="conf/scam/BinkleyDGHKK05" style="ee" /></li>
+</ul>
+<h2>Session 2:
+Concept Location</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/Breu05" style="ee" /></li>
+<li><cite key="conf/scam/FluriGP05" style="ee" /></li>
+<li><cite key="conf/scam/Singer05" style="ee" /></li>
+</ul>
+<h2>Session 3:
+Program Transformations I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/ZhangBCD05" style="ee" /></li>
+<li><cite key="conf/scam/SchordanQ05" style="ee" /></li>
+<li><cite key="conf/scam/BermudoKH05" style="ee" /></li>
+</ul>
+<h2>Session 4:
+Pointer Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/ShiN05" style="ee" /></li>
+<li><cite key="conf/scam/JonesK05" style="ee" /></li>
+<li><cite key="conf/scam/BussEYW05" style="ee" /></li>
+</ul>
+<h2>Session 5:
+Empirical Studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/EnglishBCL05" style="ee" /></li>
+<li><cite key="conf/scam/CounsellST05" style="ee" /></li>
+</ul>
+<h2>Session 6:
+Program Transformations II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/XuD05" style="ee" /></li>
+<li><cite key="conf/scam/PowerH05" style="ee" /></li>
+<li><cite key="conf/scam/Anderson05" style="ee" /></li>
+</ul><footer> 

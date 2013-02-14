@@ -1,0 +1,229 @@
+<bht key="db/conf/icse/icse2010-2.bht" title="ICSE 2010"> <logo> 
+<h1>32. <ref href="db/conf/icse/index.html">ICSE</ref> 2010:
+Cape Town, South Africa</h1><hr> <cite key="conf/icse/2010-2"> 
+<h2>Software engineering in practice:
+Quality of service</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HuberBRSR10" style="ee" /></li>
+<li><cite key="conf/icse/GoldsteinSTU10" style="ee" /></li>
+</ul>
+<h2>Software engineering in practice:
+Certification, assessment &amp; governance</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/PaulischZ10" style="ee" /></li>
+<li><cite key="conf/icse/SalgerEH10" style="ee" /></li>
+<li><cite key="conf/icse/WangZ10" style="ee" /></li>
+</ul>
+<h2>Software engineering in practice:
+Model-driven development</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/AschauerDP10" style="ee" /></li>
+<li><cite key="conf/icse/KornstaedtR10" style="ee" /></li>
+<li><cite key="conf/icse/ClavreulBJ10" style="ee" /></li>
+</ul>
+<h2>Software engineering in practice:
+Quality assurance I:
+Static and dynamic analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/JurgensDFHSWDS10" style="ee" /></li>
+<li><cite key="conf/icse/WuYR10" style="ee" /></li>
+<li><cite key="conf/icse/NandaGSCSB10" style="ee" /></li>
+</ul>
+<h2>Software engineering in practice:
+Quality assurance II:
+Defect modeling, prediction &amp; testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ChiappiniCMRRSTV10" style="ee" /></li>
+<li><cite key="conf/icse/KlasEMHG10" style="ee" /></li>
+<li><cite key="conf/icse/GroceHS10" style="ee" /></li>
+</ul>
+<h2>Software engineering in practice:
+Innovation drivers &amp; cost models</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HarperZM10" style="ee" /></li>
+<li><cite key="conf/icse/CarriereKO10" style="ee" /></li>
+</ul>
+<h2>New ideas and emerging results</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/EsfahaniM10" style="ee" /></li>
+<li><cite key="conf/icse/CeccarelliCCP10" style="ee" /></li>
+<li><cite key="conf/icse/GuoSZS10" style="ee" /></li>
+<li><cite key="conf/icse/ErfurthR10" style="ee" /></li>
+<li><cite key="conf/icse/KumarSS10" style="ee" /></li>
+<li><cite key="conf/icse/KrkaBPGM10" style="ee" /></li>
+<li><cite key="conf/icse/MusilSWB10" style="ee" /></li>
+<li><cite key="conf/icse/CalikliBA10" style="ee" /></li>
+<li><cite key="conf/icse/ShonleY10" style="ee" /></li>
+<li><cite key="conf/icse/RungtaM10" style="ee" /></li>
+<li><cite key="conf/icse/BencomoWSFL10" style="ee" /></li>
+<li><cite key="conf/icse/DeursenMCZPG10" style="ee" /></li>
+<li><cite key="conf/icse/DeLineR10" style="ee" /></li>
+<li><cite key="conf/icse/SalgerE10" style="ee" /></li>
+<li><cite key="conf/icse/HussainC10" style="ee" /></li>
+<li><cite key="conf/icse/ChenM10" style="ee" /></li>
+<li><cite key="conf/icse/HaiducAM10" style="ee" /></li>
+<li><cite key="conf/icse/PhamNNWNN10" style="ee" /></li>
+<li><cite key="conf/icse/TreudeS10a" style="ee" /></li>
+</ul>
+<h2>Formal research demos:
+Collaborative software development</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HattoriL10" style="ee" /></li>
+<li><cite key="conf/icse/LimQF10a" style="ee" /></li>
+<li><cite key="conf/icse/BangPEMKRP10" style="ee" /></li>
+</ul>
+<h2>Formal research demos:
+Software maintenance</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DeissenboeckHHJ10" style="ee" /></li>
+<li><cite key="conf/icse/Reiss10" style="ee" /></li>
+<li><cite key="conf/icse/SavageRP10" style="ee" /></li>
+</ul>
+<h2>Formal research demos:
+Software components and reuse</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GrechanikFXMPC10a" style="ee" /></li>
+<li><cite key="conf/icse/LohK10" style="ee" /></li>
+<li><cite key="conf/icse/HenklerMSDN10" style="ee" /></li>
+</ul>
+<h2>Formal research demos:
+Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ZhangYZCY10" style="ee" /></li>
+<li><cite key="conf/icse/LewisW10" style="ee" /></li>
+<li><cite key="conf/icse/BaresiM10" style="ee" /></li>
+</ul>
+<h2>Formal research demos:
+Software development environments</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SeyffGM10" style="ee" /></li>
+<li><cite key="conf/icse/LunguL10" style="ee" /></li>
+<li><cite key="conf/icse/BragdonRZKCKCAL10a" style="ee" /></li>
+</ul>
+<h2>Informal research demos</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/LunaBGR10" style="ee" /></li>
+<li><cite key="conf/icse/DettenMT10" style="ee" /></li>
+<li><cite key="conf/icse/BianculliBD10" style="ee" /></li>
+<li><cite key="conf/icse/SongHCSM10" style="ee" /></li>
+<li><cite key="conf/icse/GenevesL10" style="ee" /></li>
+<li><cite key="conf/icse/KoegelH10" style="ee" /></li>
+<li><cite key="conf/icse/Hill10" style="ee" /></li>
+<li><cite key="conf/icse/DiosDSBCE10" style="ee" /></li>
+<li><cite key="conf/icse/HelmingK10" style="ee" /></li>
+<li><cite key="conf/icse/SongWXZM10" style="ee" /></li>
+<li><cite key="conf/icse/JilaniMLGM10" style="ee" /></li>
+<li><cite key="conf/icse/DoanLMK10" style="ee" /></li>
+<li><cite key="conf/icse/CarzanigaGPP10" style="ee" /></li>
+</ul>
+<h2>Software engineering in South Africa</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KourieW10" style="ee" /></li>
+</ul>
+<h2>Doctoral symposium:
+Early phase</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Staite10" style="ee" /></li>
+<li><cite key="conf/icse/May10" style="ee" /></li>
+<li><cite key="conf/icse/Lewis10" style="ee" /></li>
+<li><cite key="conf/icse/Magdaleno10" style="ee" /></li>
+<li><cite key="conf/icse/Marinho10" style="ee" /></li>
+<li><cite key="conf/icse/Caso10" style="ee" /></li>
+<li><cite key="conf/icse/Badreddin10" style="ee" /></li>
+<li><cite key="conf/icse/Meedeniya10" style="ee" /></li>
+<li><cite key="conf/icse/Zhang10" style="ee" /></li>
+<li><cite key="conf/icse/Ntshinga10" style="ee" /></li>
+<li><cite key="conf/icse/Pichler10" style="ee" /></li>
+<li><cite key="conf/icse/Wassermann10" style="ee" /></li>
+<li><cite key="conf/icse/Lima10" style="ee" /></li>
+<li><cite key="conf/icse/Rodrigues10" style="ee" /></li>
+<li><cite key="conf/icse/Filho10" style="ee" /></li>
+<li><cite key="conf/icse/Brondum10" style="ee" /></li>
+</ul>
+<h2>Doctoral symposium:
+Mature phase</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Chan10" style="ee" /></li>
+<li><cite key="conf/icse/Cruz10" style="ee" /></li>
+<li><cite key="conf/icse/Shaker10" style="ee" /></li>
+<li><cite key="conf/icse/Mattsson10" style="ee" /></li>
+<li><cite key="conf/icse/Cordeiro10" style="ee" /></li>
+<li><cite key="conf/icse/Hattori10" style="ee" /></li>
+<li><cite key="conf/icse/Ghezzi10" style="ee" /></li>
+<li><cite key="conf/icse/Bortis10" style="ee" /></li>
+<li><cite key="conf/icse/Treude10" style="ee" /></li>
+<li><cite key="conf/icse/Herzig10" style="ee" /></li>
+<li><cite key="conf/icse/Schroter10" style="ee" /></li>
+<li><cite key="conf/icse/Popescu10" style="ee" /></li>
+<li><cite key="conf/icse/Farias10" style="ee" /></li>
+<li><cite key="conf/icse/Nagappan10" style="ee" /></li>
+<li><cite key="conf/icse/Roy10" style="ee" /></li>
+<li><cite key="conf/icse/Ma10" style="ee" /></li>
+<li><cite key="conf/icse/Malik10" style="ee" /></li>
+</ul>
+<h2>Emerging faculty symposium</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MullerZ10" style="ee" /></li>
+</ul>
+<h2>Workshop introductions</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BajracharyaKY10" style="ee" /></li>
+<li><cite key="conf/icse/LewisMPSZ10" style="ee" /></li>
+<li><cite key="conf/icse/PankratiusP10" style="ee" /></li>
+<li><cite key="conf/icse/LeeMJ10" style="ee" /></li>
+<li><cite key="conf/icse/DittrichSKSSW10" style="ee" /></li>
+<li><cite key="conf/icse/LagoAK10" style="ee" /></li>
+<li><cite key="conf/icse/RubinBMMP10" style="ee" /></li>
+<li><cite key="conf/icse/OssherHSGE10" style="ee" /></li>
+<li><cite key="conf/icse/GeihsGR10" style="ee" /></li>
+<li><cite key="conf/icse/BudnikCK10" style="ee" /></li>
+<li><cite key="conf/icse/ChengLGGLMMPT10" style="ee" /></li>
+<li><cite key="conf/icse/EasterbrookMZ10" style="ee" /></li>
+<li><cite key="conf/icse/GhezziGM10" style="ee" /></li>
+<li><cite key="conf/icse/ClarkeW10" style="ee" /></li>
+<li><cite key="conf/icse/HolmesRWZ10" style="ee" /></li>
+<li><cite key="conf/icse/TreudeSED10" style="ee" /></li>
+<li><cite key="conf/icse/CanforaCMTZ10" style="ee" /></li>
+<li><cite key="conf/icse/KnutsonKPJ10" style="ee" /></li>
+<li><cite key="conf/icse/DubinskyKFBCP10" style="ee" /></li>
+<li><cite key="conf/icse/InoueJCK10" style="ee" /></li>
+<li><cite key="conf/icse/HallRZN10" style="ee" /></li>
+</ul>
+<h2>Tutorials</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SutcliffeT10" style="ee" /></li>
+<li><cite key="conf/icse/MedvidovicT10" style="ee" /></li>
+<li><cite key="conf/icse/RumpeSVW10" style="ee" /></li>
+<li><cite key="conf/icse/TaiNLK10" style="ee" /></li>
+<li><cite key="conf/icse/SridharanN10" style="ee" /></li>
+<li><cite key="conf/icse/Erdogmus10" style="ee" /></li>
+<li><cite key="conf/icse/HazzanD10a" style="ee" /></li>
+<li><cite key="conf/icse/TillmannHX10" style="ee" /></li>
+<li><cite key="conf/icse/Moody10" style="ee" /></li>
+<li><cite key="conf/icse/PankratiusTH10" style="ee" /></li>
+<li><cite key="conf/icse/Firesmith10" style="ee" /></li>
+<li><cite key="conf/icse/SharpdD10" style="ee" /></li>
+<li><cite key="conf/icse/Wieringa10" style="ee" /></li>
+<li><cite key="conf/icse/CohenU10" style="ee" /></li>
+<li><cite key="conf/icse/Kruchten10" style="ee" /></li>
+<li><cite key="conf/icse/DeissenboeckHJ10" style="ee" /></li>
+<li><cite key="conf/icse/BoehmL10" style="ee" /></li>
+<li><cite key="conf/icse/HassanX10" style="ee" /></li>
+</ul>
+<h2>Student research competition</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Caso10a" style="ee" /></li>
+<li><cite key="conf/icse/Elmas10" style="ee" /></li>
+<li><cite key="conf/icse/Hoste10" style="ee" /></li>
+<li><cite key="conf/icse/Schroter10a" style="ee" /></li>
+<li><cite key="conf/icse/Gysin10" style="ee" /></li>
+<li><cite key="conf/icse/Goldman10" style="ee" /></li>
+<li><cite key="conf/icse/Malavolta10" style="ee" /></li>
+<li><cite key="conf/icse/Rakamaric10" style="ee" /></li>
+<li><cite key="conf/icse/Soares10" style="ee" /></li>
+<li><cite key="conf/icse/Fritz10" style="ee" /></li>
+<li><cite key="conf/icse/Bragdon10" style="ee" /></li>
+<li><cite key="conf/icse/Rastkar10" style="ee" /></li>
+<li><cite key="conf/icse/DAmbros10" style="ee" /></li>
+<li><cite key="conf/icse/Popescu10a" style="ee" /></li>
+</ul><footer> 

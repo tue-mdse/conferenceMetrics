@@ -1,0 +1,119 @@
+<bht key="db/conf/icse/icse85.bht" title="ICSE 1985"> <logo> 
+<h1>8. <ref href="db/conf/icse/index.html">ICSE</ref> 1985:
+London, UK</h1>
+
+<cite key="conf/icse/1985">
+
+<h2>Environments:
+Life Cycle Support</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Rosenberg85" style="ee" /></li>
+<li><cite key="conf/icse/HorowitzW85" style="ee" /></li>
+<li><cite key="conf/icse/Madhavji85" style="ee" /></li>
+<li><cite key="conf/icse/Vefsnmo85" style="ee" /></li>
+</ul>
+<h2>Formal Methods</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/YellinM85" style="ee" /></li>
+<li><cite key="conf/icse/StempleS85" style="ee" /></li>
+<li><cite key="conf/icse/Chen85" style="ee" /></li>
+<li><cite key="conf/icse/VolpanoK85" style="ee" /></li>
+</ul>
+<h2>Environments:
+Extended Capabilities</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BuhrWKLL85" style="ee" /></li>
+<li><cite key="conf/icse/HendersonW85" style="ee" /></li>
+<li><cite key="conf/icse/WolfCW85" style="ee" /></li>
+<li><cite key="conf/icse/LudewigGHMMS85" style="ee" /></li>
+</ul>
+<h2>Software Design and Development</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MinskyL85" style="ee" /></li>
+<li><cite key="conf/icse/BarthGB85" style="ee" /></li>
+<li><cite key="conf/icse/StavelyBOT85" style="ee" /></li>
+<li><cite key="conf/icse/PottsBCM85" style="ee" /></li>
+</ul>
+<h2>Panel</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Belady85" style="ee" /></li>
+</ul>
+<h2>Ensuring Software Quality</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ParnasW85" style="ee" /></li>
+<li><cite key="conf/icse/CrawfordF85" style="ee" /></li>
+<li><cite key="conf/icse/SunazukaAY85" style="ee" /></li>
+</ul>
+<h2>Environment:
+Database Issues</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/PenedoS85" style="ee" /></li>
+<li><cite key="conf/icse/Meyer85" style="ee" /></li>
+<li><cite key="conf/icse/MorrisonDBBA85" style="ee" /></li>
+</ul>
+<h2>Panel</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KitchenhamR85" style="ee" /></li>
+</ul>
+<h2>Education and Technical Transfer</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Petschenik85" style="ee" /></li>
+<li><cite key="conf/icse/RedwineR85" style="ee" /></li>
+<li><cite key="conf/icse/Schaul85" style="ee" /></li>
+</ul>
+<h2>Rapid Prototyping</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Lee85" style="ee" /></li>
+<li><cite key="conf/icse/HooperEJ85" style="ee" /></li>
+<li><cite key="conf/icse/Tavendale85" style="ee" /></li>
+<li><cite key="conf/icse/BrunoM85" style="ee" /></li>
+</ul>
+<h2>Path Testing and Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WhiteS85" style="ee" /></li>
+<li><cite key="conf/icse/ClarkePRZ85" style="ee" /></li>
+<li><cite key="conf/icse/PeschSSS85" style="ee" /></li>
+<li><cite key="conf/icse/HedleyH85" style="ee" /></li>
+</ul>
+<h2>Software Management Concerns</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DeMarcoL85" style="ee" /></li>
+<li><cite key="conf/icse/Manley85" style="ee" /></li>
+<li><cite key="conf/icse/HattoriKW85" style="ee" /></li>
+<li><cite key="conf/icse/MiyazakiM85" style="ee" /></li>
+</ul>
+<h2>Panel</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Wileden85" style="ee" /></li>
+</ul>
+<h2>Testing and Debugging</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RamseyB85" style="ee" /></li>
+<li><cite key="conf/icse/GirgisW85" style="ee" /></li>
+<li><cite key="conf/icse/FrancescoLV85" style="ee" /></li>
+</ul>
+<h2>Defect Measurement</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/TakahashiK85" style="ee" /></li>
+<li><cite key="conf/icse/KnightA85" style="ee" /></li>
+<li><cite key="conf/icse/MillerS85" style="ee" /></li>
+</ul>
+<h2>Knowledge-Based Approaches</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ShimizuS85" style="ee" /></li>
+<li><cite key="conf/icse/Fukunaga85" style="ee" /></li>
+<li><cite key="conf/icse/StephensW85" style="ee" /></li>
+</ul>
+<h2>Metric Studies from the SEL</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CardPM85" style="ee" /></li>
+<li><cite key="conf/icse/KafuraC85" style="ee" /></li>
+<li><cite key="conf/icse/BasiliS85" style="ee" /></li>
+</ul>
+<h2>Panel</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Balzer85" style="ee" /></li>
+<li><cite key="conf/icse/Perlis85" style="ee" /></li>
+<li><cite key="conf/icse/Sussman85" style="ee" /></li>
+<li><cite key="conf/icse/Turski85" style="ee" /></li>
+</ul><footer> 

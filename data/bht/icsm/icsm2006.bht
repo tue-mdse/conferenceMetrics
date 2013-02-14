@@ -1,0 +1,176 @@
+<bht key="db/conf/icsm/icsm2006.bht" title="IEEE International Conference on Software Maintenance 2006"> <logo> 
+<h1><ref href="db/conf/icsm/index.html">ICSM</ref> 2006:
+Philadelphia, Pennsylvania, USA</h1><hr> <cite key="conf/icsm/2006"> 
+<h2>Introduction</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/X06" style="ee" /></li>
+<li><cite key="conf/icsm/X06a" style="ee" /></li>
+<li><cite key="conf/icsm/X06b" style="ee" /></li>
+<li><cite key="conf/icsm/X06c" style="ee" /></li>
+</ul>
+<h2>Session 1:
+Keynote 1</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Alexander06" style="ee" /></li>
+</ul>
+<h2>Session 2a:
+Interfaces</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/KimW06" style="ee" /></li>
+<li><cite key="conf/icsm/BoulangerR06" style="ee" /></li>
+<li><cite key="conf/icsm/DraganCM06" style="ee" /></li>
+</ul>
+<h2>Session 2b:
+Change Impact Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/ZalewskiS06" style="ee" /></li>
+<li><cite key="conf/icsm/ShenM06" style="ee" /></li>
+<li><cite key="conf/icsm/BreechTP06" style="ee" /></li>
+</ul>
+<h2>Session 2c:
+Industry 1</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/JiangGSEW06" style="ee" /></li>
+<li><cite key="conf/icsm/YaoMKB06" style="ee" /></li>
+<li><cite key="conf/icsm/Black06" style="ee" /></li>
+</ul>
+<h2>Session 3a:
+Runtime Integration</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/VandewoudeEBD06" style="ee" /></li>
+<li><cite key="conf/icsm/PrevitaliG06" style="ee" /></li>
+<li><cite key="conf/icsm/StanekKNC06" style="ee" /></li>
+</ul>
+<h2>Session 3b:
+Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Sneed06" style="ee" /></li>
+<li><cite key="conf/icsm/LiuGSLZS06" style="ee" /></li>
+<li><cite key="conf/icsm/TonellaAS06" style="ee" /></li>
+</ul>
+<h2>Session 3c:
+Panel 1</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Chikofsky06" style="ee" /></li>
+</ul>
+<h2>Session 4a:
+Open Source</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BuchtaPPR06" style="ee" /></li>
+<li><cite key="conf/icsm/XieM06" style="ee" /></li>
+<li><cite key="conf/icsm/BouktifAM06" style="ee" /></li>
+</ul>
+<h2>Session 4b:
+Configuration and Integration</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/JansenB06" style="ee" /></li>
+<li><cite key="conf/icsm/BakerHSS06" style="ee" /></li>
+<li><cite key="conf/icsm/OsterlieW06" style="ee" /></li>
+</ul>
+<h2>Session 4c:
+Working Session 1</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/MarcusLHP06" style="ee" /></li>
+</ul>
+<h2>Session 5:
+Keynote 2</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Notkin06" style="ee" /></li>
+</ul>
+<h2>Session 6a:
+Cross-Cutting</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/DucasseGK06" style="ee" /></li>
+<li><cite key="conf/icsm/CanforaCP06" style="ee" /></li>
+<li><cite key="conf/icsm/KuleszaSGCSL06" style="ee" /></li>
+</ul>
+<h2>Session 6b:
+UML Models</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BriandLS06" style="ee" /></li>
+<li><cite key="conf/icsm/SriplakichBG06" style="ee" /></li>
+<li><cite key="conf/icsm/PilskalnsUA06" style="ee" /></li>
+</ul>
+<h2>Session 6c:
+Industry 2</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/WissinkA06" style="ee" /></li>
+<li><cite key="conf/icsm/JaffriK06" style="ee" /></li>
+<li><cite key="conf/icsm/JansenR06" style="ee" /></li>
+</ul>
+<h2>Session:
+Working Lunch Tool Demos</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BaldassarreBCV06" style="ee" /></li>
+<li><cite key="conf/icsm/LuciaPOZ06" style="ee" /></li>
+<li><cite key="conf/icsm/AlsmadiM06" style="ee" /></li>
+</ul>
+<h2>Session 7a:
+Program Comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/NeginhalK06" style="ee" /></li>
+<li><cite key="conf/icsm/FisherCZ06" style="ee" /></li>
+<li><cite key="conf/icsm/LuciaOS06" style="ee" /></li>
+</ul>
+<h2>Session 7b:
+Concept Location</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/GoldHLM06" style="ee" /></li>
+<li><cite key="conf/icsm/KuhnG06" style="ee" /></li>
+<li><cite key="conf/icsm/Dugerdil06" style="ee" /></li>
+<li><cite key="conf/icsm/PoshyvanykPMXL06" style="ee" /></li>
+</ul>
+<h2>Session 7c:
+Dissertation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Hassan06" style="ee" /></li>
+<li><cite key="conf/icsm/Hou06" style="ee" /></li>
+<li><cite key="conf/icsm/Robles06" style="ee" /></li>
+<li><cite key="conf/icsm/Nguyen06" style="ee" /></li>
+<li><cite key="conf/icsm/Xie06" style="ee" /></li>
+</ul>
+<h2>Session 8a:
+Program Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/NgoT06" style="ee" /></li>
+<li><cite key="conf/icsm/LiuT06" style="ee" /></li>
+<li><cite key="conf/icsm/StreinLLL06" style="ee" /></li>
+</ul>
+<h2>Session 8b:
+Safety Security Faults</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/RompaeyBD06" style="ee" /></li>
+<li><cite key="conf/icsm/NeedhamJ06" style="ee" /></li>
+<li><cite key="conf/icsm/ByersASD06" style="ee" /></li>
+</ul>
+<h2>Session 8c:
+Panel 2</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Kajko-MattssonLSNCHNS06" style="ee" /></li>
+</ul>
+<h2>Session 9:
+Keynote 3</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Stallman06" style="ee" /></li>
+</ul>
+<h2>Session 10a:
+Reengineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/ZhangCZ06" style="ee" /></li>
+<li><cite key="conf/icsm/LuciaFSTV06" style="ee" /></li>
+<li><cite key="conf/icsm/HouH06" style="ee" /></li>
+<li><cite key="conf/icsm/XingS06" style="ee" /></li>
+</ul>
+<h2>Session 10b:
+Design Quality</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/PoshyvanykM06" style="ee" /></li>
+<li><cite key="conf/icsm/Robillard06" style="ee" /></li>
+<li><cite key="conf/icsm/BakotaFGRX06" style="ee" /></li>
+<li><cite key="conf/icsm/TomaszewskiGL06" style="ee" /></li>
+</ul>
+<h2>Session 10c:
+Working Session 2</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/KontogiannisLW06" style="ee" /></li>
+</ul><footer> 

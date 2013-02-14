@@ -1,0 +1,61 @@
+<bht key="db/conf/msr/msr2011.bht" title="Mining Software Repositories 2011"> <logo></logo> 
+<h1><ref href="db/conf/msr/index.html">MSR</ref> 2011:
+Waikiki, Honolulu, HI, USA</h1><hr> <cite key="conf/msr/2011"> 
+<h2>Keynotes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/Whitehead11" style="ee" /></li>
+<li><cite key="conf/msr/Zhou11" style="ee" /></li>
+</ul>
+<h2>Language evolution</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/ParninBM11" style="ee" /></li>
+<li><cite key="conf/msr/KarusG11" style="ee" /></li>
+<li><cite key="conf/msr/CallauRTR11" style="ee" /></li>
+<li><cite key="conf/msr/EshkevariAPOGA11" style="ee" /></li>
+</ul>
+<h2>Retrieval, refactoring, clones, readability</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/RaoK11" style="ee" /></li>
+<li><cite key="conf/msr/BiegelSHDD11" style="ee" /></li>
+<li><cite key="conf/msr/HemelKVD11" style="ee" /></li>
+<li><cite key="conf/msr/PosnettHD11" style="ee" /></li>
+</ul>
+<h2>Software quality</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/GigerPG11" style="ee" /></li>
+<li><cite key="conf/msr/ZamanAH11" style="ee" /></li>
+<li><cite key="conf/msr/KrishnanLG11" style="ee" /></li>
+<li><cite key="conf/msr/RotellaC11" style="ee" /></li>
+</ul>
+<h2>Developers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/PaganoM11" style="ee" /></li>
+<li><cite key="conf/msr/SinhaMS11" style="ee" /></li>
+<li><cite key="conf/msr/CanforaCCP11" style="ee" /></li>
+<li><cite key="conf/msr/EyolfsonTL11" style="ee" /></li>
+</ul>
+<h2>Development support</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/HindleEGM11" style="ee" /></li>
+<li><cite key="conf/msr/ThomasAHB11" style="ee" /></li>
+<li><cite key="conf/msr/DaviesGGH11" style="ee" /></li>
+<li><cite key="conf/msr/BradleyM11" style="ee" /></li>
+</ul>
+<h2>Short papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/BinkleyHL11" style="ee" /></li>
+<li><cite key="conf/msr/BhattacharyaN11" style="ee" /></li>
+<li><cite key="conf/msr/LiZ11" style="ee" /></li>
+<li><cite key="conf/msr/ZeltynTCDKKKW11" style="ee" /></li>
+<li><cite key="conf/msr/SadowskiLLZW11" style="ee" /></li>
+<li><cite key="conf/msr/HellerMRH11" style="ee" /></li>
+</ul>
+<h2>Mining challenge</h2> 
+<ul class="publ-list">
+<li><cite key="conf/msr/Schroter11" style="ee" /></li>
+<li><cite key="conf/msr/WangBD11" style="ee" /></li>
+<li><cite key="conf/msr/BernardiSZDP11" style="ee" /></li>
+<li><cite key="conf/msr/BaysalDG11" style="ee" /></li>
+<li><cite key="conf/msr/HirataM11" style="ee" /></li>
+<li><cite key="conf/msr/GermanD11" style="ee" /></li>
+</ul><footer> 

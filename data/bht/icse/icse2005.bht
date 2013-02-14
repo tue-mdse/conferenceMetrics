@@ -1,0 +1,254 @@
+<bht key="db/conf/icse/icse2005.bht" title="ICSE 2005"> <logo> 
+<h1>27. <ref href="db/conf/icse/index.html">ICSE</ref> 2005:
+St Louis, Missouri, USA</h1><hr> <cite key="conf/icse/2005"> 
+<h2>Keynote talks</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Cardelli05" style="ee" /></li>
+<li><cite key="conf/icse/Florida05" style="ee" /></li>
+<li><cite key="conf/icse/Gamma05" style="ee" /></li>
+</ul>
+<h2>State of the art</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Littlewood05" style="ee" /></li>
+<li><cite key="conf/icse/Fox05" style="ee" /></li>
+<li><cite key="conf/icse/WantP05" style="ee" /></li>
+<li><cite key="conf/icse/Kephart05" style="ee" /></li>
+</ul>
+<h2>Extending the discipline</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Herbsleb05" style="ee" /></li>
+<li><cite key="conf/icse/Fickas05" style="ee" /></li>
+<li><cite key="conf/icse/Twidale05" style="ee" /></li>
+<li><cite key="conf/icse/Ayton05" style="ee" /></li>
+</ul>
+<h2>State of the practice</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Siegel05" style="ee" /></li>
+<li><cite key="conf/icse/Hirsch05" style="ee" /></li>
+<li><cite key="conf/icse/Brechner05" style="ee" /></li>
+<li><cite key="conf/icse/Fielding05" style="ee" /></li>
+</ul>
+<h2>Most influential paper of ICSE 17</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/JacksonZ05" style="ee" /></li>
+</ul>
+<h2>Panel</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SullivanM05" style="ee" /></li>
+</ul>
+<h2>Research papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GriswoldN05" style="ee" /></li>
+</ul>
+<h3>Aspect-oriented software development</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KiczalesM05" style="ee" /></li>
+<li><cite key="conf/icse/RajanS05" style="ee" /></li>
+<li><cite key="conf/icse/CourbisF05" style="ee" /></li>
+</ul>
+<h3>Databases</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DengFC05" style="ee" /></li>
+<li><cite key="conf/icse/McClureK05" style="ee" /></li>
+<li><cite key="conf/icse/CookR05" style="ee" /></li>
+</ul>
+<h3>Tools &amp; environments</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MichailX05" style="ee" /></li>
+<li><cite key="conf/icse/HolmesM05" style="ee" /></li>
+<li><cite key="conf/icse/KoAM05" style="ee" /></li>
+</ul>
+<h3>Testing and analysis</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ErwigACK05" style="ee" /></li>
+<li><cite key="conf/icse/BryceCC05" style="ee" /></li>
+<li><cite key="conf/icse/MisurdaCRCS05" style="ee" /></li>
+</ul>
+<h3>Programming languages</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/TamaiUI05" style="ee" /></li>
+<li><cite key="conf/icse/DemskyR05" style="ee" /></li>
+<li><cite key="conf/icse/ChinKQPN05" style="ee" /></li>
+</ul>
+<h3>Change management</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/FislerKMT05" style="ee" /></li>
+<li><cite key="conf/icse/LagoV05" style="ee" /></li>
+<li><cite key="conf/icse/NguyenMBT05" style="ee" /></li>
+</ul>
+<h3>Software quality and process</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MockusZL05" style="ee" /></li>
+<li><cite key="conf/icse/LavazzaB05" style="ee" /></li>
+<li><cite key="conf/icse/Al-NaeemGBRB05" style="ee" /></li>
+</ul>
+<h3>Software evolution</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RountevC05" style="ee" /></li>
+<li><cite key="conf/icse/TilevichS05" style="ee" /></li>
+<li><cite key="conf/icse/HenkelD05" style="ee" /></li>
+</ul>
+<h3>Empirical software engineering</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/NagappanB05" style="ee" /></li>
+<li><cite key="conf/icse/YilmazKMPSGN05" style="ee" /></li>
+<li><cite key="conf/icse/MohagheghiAC05" style="ee" /></li>
+</ul>
+<h3>Security</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GanapathySJRB05" style="ee" /></li>
+<li><cite key="conf/icse/Jurjens05" style="ee" /></li>
+<li><cite key="conf/icse/AvotsDLL05" style="ee" /></li>
+</ul>
+<h3>Fault localization</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CleveZ05" style="ee" /></li>
+<li><cite key="conf/icse/RuthruffBR05" style="ee" /></li>
+</ul>
+<h3>Requirements and specifications</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Cleland-HuangSKBC05" style="ee" /></li>
+<li><cite key="conf/icse/KonradC05" style="ee" /></li>
+<li><cite key="conf/icse/LetierKMU05" style="ee" /></li>
+</ul>
+<h3>Empirical evaluation of testing</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/PretschnerPWKBSZS05" style="ee" /></li>
+<li><cite key="conf/icse/AndrewsBL05" style="ee" /></li>
+<li><cite key="conf/icse/LeonMP05" style="ee" /></li>
+</ul>
+<h3>Static and dynamic analysis</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CsallnerS05" style="ee" /></li>
+<li><cite key="conf/icse/ApiwattanapongOH05" style="ee" /></li>
+<li><cite key="conf/icse/FriasGPA05" style="ee" /></li>
+</ul>
+<h3>Empirical studies</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BasitRJ05" style="ee" /></li>
+<li><cite key="conf/icse/GoldenJB05" style="ee" /></li>
+<li><cite key="conf/icse/HostWT05" style="ee" /></li>
+</ul>
+<h2>Experience reports</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HeitmeyerP05" style="ee" /></li>
+</ul>
+<h3>Agile methods</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MelnikM05" style="ee" /></li>
+<li><cite key="conf/icse/Woit05" style="ee" /></li>
+<li><cite key="conf/icse/HulkkoA05" style="ee" /></li>
+</ul>
+<h3>Software architectures</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KimLKHB05" style="ee" /></li>
+<li><cite key="conf/icse/GortonZ05" style="ee" /></li>
+</ul>
+<h3>Product lines &amp; processes</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HerbslebPB05" style="ee" /></li>
+<li><cite key="conf/icse/VerlageK05" style="ee" /></li>
+<li><cite key="conf/icse/SchmidJKM05" style="ee" /></li>
+</ul>
+<h3>Requirements &amp; testing</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/EbertM05" style="ee" /></li>
+<li><cite key="conf/icse/MaidenR05" style="ee" /></li>
+<li><cite key="conf/icse/BernerWK05" style="ee" /></li>
+</ul>
+<h3>Prediction &amp; verification</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/NagappanB05a" style="ee" /></li>
+<li><cite key="conf/icse/MenziesPCHS05" style="ee" /></li>
+<li><cite key="conf/icse/BeekMLGFS05" style="ee" /></li>
+</ul>
+<h2>Education &amp; training track</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/InverardiJ05" style="ee" /></li>
+<li><cite key="conf/icse/ShawHO05" style="ee" /></li>
+<li><cite key="conf/icse/Tamai05" style="ee" /></li>
+<li><cite key="conf/icse/SampaioAVCFC05" style="ee" /></li>
+<li><cite key="conf/icse/Liu05" style="ee" /></li>
+<li><cite key="conf/icse/BlahaMSSV05" style="ee" /></li>
+<li><cite key="conf/icse/ErnstC05" style="ee" /></li>
+<li><cite key="conf/icse/SherrellS05" style="ee" /></li>
+<li><cite key="conf/icse/Vliet05" style="ee" /></li>
+<li><cite key="conf/icse/AtleeLLST05" style="ee" /></li>
+<li><cite key="conf/icse/KatiraWO05" style="ee" /></li>
+<li><cite key="conf/icse/ZeidE05" style="ee" /></li>
+<li><cite key="conf/icse/Filho05" style="ee" /></li>
+<li><cite key="conf/icse/Alzamil05" style="ee" /></li>
+<li><cite key="conf/icse/Olalekan05" style="ee" /></li>
+<li><cite key="conf/icse/Szyperski05" style="ee" /></li>
+<li><cite key="conf/icse/GhezziM05" style="ee" /></li>
+<li><cite key="conf/icse/PankratiusS05" style="ee" /></li>
+<li><cite key="conf/icse/HoekKR05" style="ee" /></li>
+<li><cite key="conf/icse/HawthorneP05" style="ee" /></li>
+<li><cite key="conf/icse/DubinskyH05" style="ee" /></li>
+<li><cite key="conf/icse/HazzanT05" style="ee" /></li>
+<li><cite key="conf/icse/Ciancarini05" style="ee" /></li>
+</ul>
+<h2>Doctoral symposium oral presentations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/McCareyC05" style="ee" /></li>
+<li><cite key="conf/icse/Jaufman05" style="ee" /></li>
+<li><cite key="conf/icse/Visaggio05" style="ee" /></li>
+<li><cite key="conf/icse/Guinea05" style="ee" /></li>
+<li><cite key="conf/icse/SaffE05" style="ee" /></li>
+<li><cite key="conf/icse/Konrad05" style="ee" /></li>
+<li><cite key="conf/icse/Georgas05" style="ee" /></li>
+<li><cite key="conf/icse/GeW05" style="ee" /></li>
+<li><cite key="conf/icse/Xing05" style="ee" /></li>
+</ul>
+<h2>Research demonstrations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ReissR05" style="ee" /></li>
+<li><cite key="conf/icse/RenRST05" style="ee" /></li>
+<li><cite key="conf/icse/ChungHKOSTCCHJ05" style="ee" /></li>
+<li><cite key="conf/icse/SaffE05a" style="ee" /></li>
+<li><cite key="conf/icse/BurmesterGHST05" style="ee" /></li>
+<li><cite key="conf/icse/LanzaDGP05" style="ee" /></li>
+<li><cite key="conf/icse/ChatleyUKM05" style="ee" /></li>
+<li><cite key="conf/icse/Abi-AntounAGSNT05" style="ee" /></li>
+</ul>
+<h2>Workshops</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DalalJP05" style="ee" /></li>
+<li><cite key="conf/icse/BruschiWM05" style="ee" /></li>
+<li><cite key="conf/icse/GarciaCLRHG05" style="ee" /></li>
+<li><cite key="conf/icse/Johnson05" style="ee" /></li>
+<li><cite key="conf/icse/Sullivan05" style="ee" /></li>
+<li><cite key="conf/icse/RobillardT05" style="ee" /></li>
+<li><cite key="conf/icse/JohnMT05" style="ee" /></li>
+<li><cite key="conf/icse/BudgenBKL05" style="ee" /></li>
+<li><cite key="conf/icse/WongVCB05" style="ee" /></li>
+<li><cite key="conf/icse/HassanHD05" style="ee" /></li>
+<li><cite key="conf/icse/LemosR05" style="ee" /></li>
+<li><cite key="conf/icse/Sayyad-ShirabadM05" style="ee" /></li>
+<li><cite key="conf/icse/AndrewsP05" style="ee" /></li>
+<li><cite key="conf/icse/FellerLFSH05" style="ee" /></li>
+<li><cite key="conf/icse/SalzmannSP05" style="ee" /></li>
+<li><cite key="conf/icse/ChungFM05" style="ee" /></li>
+<li><cite key="conf/icse/BontempsE05" style="ee" /></li>
+<li><cite key="conf/icse/RothermelE05" style="ee" /></li>
+<li><cite key="conf/icse/GarlanMLSMW05" style="ee" /></li>
+</ul>
+<h2>Tutorials</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Peine05" style="ee" /></li>
+<li><cite key="conf/icse/SterlingJ05" style="ee" /></li>
+<li><cite key="conf/icse/BoehmBT05" style="ee" /></li>
+<li><cite key="conf/icse/RockmanK05" style="ee" /></li>
+<li><cite key="conf/icse/Cleland-HuangD05" style="ee" /></li>
+<li><cite key="conf/icse/Crnkovic05" style="ee" /></li>
+<li><cite key="conf/icse/Zundorf05" style="ee" /></li>
+<li><cite key="conf/icse/Kuhne05" style="ee" /></li>
+<li><cite key="conf/icse/Diehl05" style="ee" /></li>
+<li><cite key="conf/icse/Firesmith05" style="ee" /></li>
+<li><cite key="conf/icse/Pretschner05" style="ee" /></li>
+<li><cite key="conf/icse/Tonella05" style="ee" /></li>
+<li><cite key="conf/icse/GortonL05" style="ee" /></li>
+<li><cite key="conf/icse/CortellessaMI05" style="ee" /></li>
+<li><cite key="conf/icse/Kiczales05" style="ee" /></li>
+<li><cite key="conf/icse/MaurerM05" style="ee" /></li>
+</ul><footer> 

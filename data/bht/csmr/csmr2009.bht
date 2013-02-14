@@ -1,0 +1,110 @@
+<bht key="db/conf/csmr/csmr2009.bht" title="CSMR 2009"> <logo> 
+<h1>13. <ref href="db/conf/csmr/index.html">CSMR</ref> 2009:
+Kaiserslautern, Germany</h1><hr> <cite key="conf/csmr/2009"> 
+<h2>Keynotes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Rombach09" style="ee" /></li>
+<li><cite key="conf/csmr/Gyimothy09" style="ee" /></li>
+<li><cite key="conf/csmr/Sneed09" style="ee" /></li>
+</ul>
+<h2>Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/MihanceaM09" style="ee" /></li>
+<li><cite key="conf/csmr/Lilienthal09" style="ee" /></li>
+<li><cite key="conf/csmr/PatelHR09" style="ee" /></li>
+</ul>
+<h2>Fault Detection and Security</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/NagyM09" style="ee" /></li>
+<li><cite key="conf/csmr/MarwedeRHH09" style="ee" /></li>
+<li><cite key="conf/csmr/SoriaPC09" style="ee" /></li>
+</ul>
+<h2>Reengineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/ElishE09" style="ee" /></li>
+<li><cite key="conf/csmr/RibeiroB09" style="ee" /></li>
+<li><cite key="conf/csmr/LuciaFST09" style="ee" /></li>
+</ul>
+<h2>Feature Identification</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/LuciaDGR09" style="ee" /></li>
+<li><cite key="conf/csmr/Trifu09" style="ee" /></li>
+<li><cite key="conf/csmr/TsantalisC09" style="ee" /></li>
+</ul>
+<h2>SOA and Migration</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/KokkoAS09" style="ee" /></li>
+<li><cite key="conf/csmr/FrancescomarinoMT09" style="ee" /></li>
+<li><cite key="conf/csmr/Teppe09" style="ee" /></li>
+</ul>
+<h2>Evolution</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Ghazarian09" style="ee" /></li>
+<li><cite key="conf/csmr/CapiluppiB09" style="ee" /></li>
+<li><cite key="conf/csmr/KpodjedoRGA09" style="ee" /></li>
+<li><cite key="conf/csmr/AbebeHMTA09" style="ee" /></li>
+</ul>
+<h2>Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/KellensSDJP09" style="ee" /></li>
+<li><cite key="conf/csmr/RompaeyD09" style="ee" /></li>
+<li><cite key="conf/csmr/GodeK09" style="ee" /></li>
+</ul>
+<h2>Short Papers 1 - Maintenance</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/NunesKSNGL09" style="ee" /></li>
+<li><cite key="conf/csmr/AversanoT09" style="ee" /></li>
+<li><cite key="conf/csmr/JoshiJ09" style="ee" /></li>
+<li><cite key="conf/csmr/FrankeJLUHEK09" style="ee" /></li>
+<li><cite key="conf/csmr/MendeKL09" style="ee" /></li>
+</ul>
+<h2>Short Papers 2 - Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/BittencourtG09" style="ee" /></li>
+<li><cite key="conf/csmr/GarciaPEM09" style="ee" /></li>
+<li><cite key="conf/csmr/AckermannLD09" style="ee" /></li>
+<li><cite key="conf/csmr/SoriaPC09a" style="ee" /></li>
+</ul>
+<h2>Workshops</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Penta09" style="ee" /></li>
+<li><cite key="conf/csmr/KoschkeJCI09" style="ee" /></li>
+<li><cite key="conf/csmr/TjortjisV09" style="ee" /></li>
+<li><cite key="conf/csmr/BernardiLC09" style="ee" /></li>
+</ul>
+<h2>European Projects Track</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Mens09" style="ee" /></li>
+<li><cite key="conf/csmr/RompaeyBDPPMDG09" style="ee" /></li>
+<li><cite key="conf/csmr/HerraizIR09" style="ee" /></li>
+<li><cite key="conf/csmr/BergelDDLBVBM09" style="ee" /></li>
+<li><cite key="conf/csmr/KnodelMLGMRS09" style="ee" /></li>
+<li><cite key="conf/csmr/LanzaGD09" style="ee" /></li>
+<li><cite key="conf/csmr/AntonellisAKMTTT09" style="ee" /></li>
+<li><cite key="conf/csmr/LuciaPLT09" style="ee" /></li>
+</ul>
+<h2>Industrial Track</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Teppe09a" style="ee" /></li>
+<li><cite key="conf/csmr/BurenR09" style="ee" /></li>
+<li><cite key="conf/csmr/Gimnich09" style="ee" /></li>
+<li><cite key="conf/csmr/SpekK09" style="ee" /></li>
+<li><cite key="conf/csmr/Chikofsky09" style="ee" /></li>
+<li><cite key="conf/csmr/Schulte-CoerneTQ09" style="ee" /></li>
+<li><cite key="conf/csmr/Lajios09" style="ee" /></li>
+<li><cite key="conf/csmr/MeinenO09" style="ee" /></li>
+</ul>
+<h2>Tools Track</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/DAmbros09" style="ee" /></li>
+<li><cite key="conf/csmr/DuszynskiKL09" style="ee" /></li>
+<li><cite key="conf/csmr/Laitila09" style="ee" /></li>
+<li><cite key="conf/csmr/EkstedtFJLSUB09" style="ee" /></li>
+<li><cite key="conf/csmr/LuciaFMST09" style="ee" /></li>
+<li><cite key="conf/csmr/BrandRS09" style="ee" /></li>
+</ul>
+<h2>Doctoral Symposium</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/ByelasT09" style="ee" /></li>
+<li><cite key="conf/csmr/Schwarz09" style="ee" /></li>
+</ul><footer> 

@@ -1,0 +1,63 @@
+<bht key="db/conf/wcre/wcre1995.bht" title="WCRE 1995"> <logo> 
+<h1>2. <ref href="db/conf/wcre/index.html">WCRE</ref> 1995:
+Toronto, Canada</h1><hr> <editor>Linda M. Wills</editor>, <editor>Philip Newcomb</editor>, <editor>Elliot J. Chikofsky</editor> (Eds.):
+2nd Working Conference on Reverse Engineering, WCRE '95, July 14-16, 1995, Toronto, Canada. IEEE Computer Society Press, 1995, ISBN 0-8186-7111-4 
+<h2>Panel:
+Generating Accessible Documentation from Legacy Systems</h2> 
+<h2>Analysis of Non-Code Sources</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Lutsky95"></li>
+<li><cite key="conf/wcre/LeiteC95"></li>
+<li><cite key="conf/wcre/ButlerGST95"></li>
+</ul>
+<h2>Transformation &amp; Translation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/NewcombM95"></li>
+<li><cite key="conf/wcre/ZoufalyASB95"></li>
+</ul>
+<h2>Tools &amp; Environments</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Newcomb95"></li>
+<li><cite key="conf/wcre/JarzabekK95"></li>
+<li><cite key="conf/wcre/WellsBM95"></li>
+<li><cite key="conf/wcre/ZigmanW95"></li>
+</ul>
+<h2>Detecting Duplication</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Baker95"></li>
+<li><cite key="conf/wcre/KontogiannisDBGM95"></li>
+</ul>
+<h2>Learning from the Reverse Engineering Process</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/FioreLV95"></li>
+</ul>
+<h2>Data Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/BlahaP95"></li>
+<li><cite key="conf/wcre/EdwardsM95"></li>
+<li><cite key="conf/wcre/HainautEHHR95"></li>
+<li><cite key="conf/wcre/Davis95"></li>
+</ul>
+<h2>Program Understanding</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/QuiliciC95"></li>
+<li><cite key="conf/wcre/RugaberSW95"></li>
+</ul>
+<h2>Formal Methods</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/CimitileLM95"></li>
+<li><cite key="conf/wcre/GannodC95"></li>
+<li><cite key="conf/wcre/TjandraB95"></li>
+</ul>
+<h2>Finding Objects in Procedural Programs</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/GallK95"></li>
+<li><cite key="conf/wcre/SneedN95"></li>
+<li><cite key="conf/wcre/YehHR95"></li>
+<li><cite key="conf/wcre/NewcombK95"></li>
+</ul>
+<h2>Architectural Discovery &amp; Evaluation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/HarrisYR95"></li>
+<li><cite key="conf/wcre/LakhotiaG95"></li>
+</ul><footer> 

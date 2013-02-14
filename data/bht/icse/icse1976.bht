@@ -1,0 +1,181 @@
+<bht key="db/conf/icse/icse76.bht" title="ICSE 1976"> <logo> 
+<h1>2. <ref href="db/conf/icse/index.html">ICSE</ref> 1976:
+San Francisco, CA, USA</h1>
+
+<cite key="conf/icse/1976">
+
+<h2>Requirements Definition</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RossS76" style="ee" /></li>
+<li><cite key="conf/icse/TeichroewH76" style="ee" /></li>
+<li><cite key="conf/icse/IrvineB76" style="ee" /></li>
+</ul>
+<h2>Program Synthesis Techniques</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Green76" style="ee" /></li>
+<li><cite key="conf/icse/BarstowK76" style="ee" /></li>
+<li><cite key="conf/icse/MannaW76" style="ee" /></li>
+</ul>
+<h2>Operating Systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KarpL76" style="ee" /></li>
+<li><cite key="conf/icse/Howard76" style="ee" /></li>
+<li><cite key="conf/icse/SaxenaB76" style="ee" /></li>
+</ul>
+<h2>Requirements Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DavisV76" style="ee" /></li>
+<li><cite key="conf/icse/BellT76" style="ee" /></li>
+<li><cite key="conf/icse/Alford76" style="ee" /></li>
+<li><cite key="conf/icse/BellBD76" style="ee" /></li>
+<li><cite key="conf/icse/BelfordBHS76" style="ee" /></li>
+<li><cite key="conf/icse/GauldingL76" style="ee" /></li>
+<li><cite key="conf/icse/Koppang76" style="ee" /></li>
+<li><cite key="conf/icse/Salter76" style="ee" /></li>
+<li><cite key="conf/icse/Cooper76" style="ee" /></li>
+<li><cite key="conf/icse/BensonM76" style="ee" /></li>
+<li><cite key="conf/icse/BalkovichE76" style="ee" /></li>
+</ul>
+<h2>Education</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/FreemanWF76" style="ee" /></li>
+</ul>
+<h2>Operating Systems and Networks</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ParnasHW76" style="ee" /></li>
+<li><cite key="conf/icse/PhillipsB76" style="ee" /></li>
+<li><cite key="conf/icse/BallFLRR76" style="ee" /></li>
+<li><cite key="conf/icse/Ravi76" style="ee" /></li>
+</ul>
+<h2>Performance Evaluation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Browne76" style="ee" /></li>
+<li><cite key="conf/icse/FerrariL76" style="ee" /></li>
+<li><cite key="conf/icse/BillawalaST76" style="ee" /></li>
+<li><cite key="conf/icse/Zelkowitz76" style="ee" /></li>
+</ul>
+<h2>Programmer's Workbench</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DolottaM76" style="ee" /></li>
+<li><cite key="conf/icse/Mashey76" style="ee" /></li>
+<li><cite key="conf/icse/MasheyS76" style="ee" /></li>
+<li><cite key="conf/icse/DolottaLMR76" style="ee" /></li>
+<li><cite key="conf/icse/KnudsenBS76" style="ee" /></li>
+<li><cite key="conf/icse/BianchiW76" style="ee" /></li>
+</ul>
+<h2>Software Design and Development</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Gries76" style="ee" /></li>
+</ul>
+<h2>Design Principles of Large Programs</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Black76" style="ee" /></li>
+<li><cite key="conf/icse/DreyfusK76" style="ee" /></li>
+<li><cite key="conf/icse/WhiteB76" style="ee" /></li>
+</ul>
+<h2>Programming Languages</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Bauer76" style="ee" /></li>
+<li><cite key="conf/icse/JonesL76" style="ee" /></li>
+<li><cite key="conf/icse/SilberschatzKB76" style="ee" /></li>
+<li><cite key="conf/icse/Feldman76" style="ee" /></li>
+</ul>
+<h2>Software Modeling</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Eswaran76" style="ee" /></li>
+<li><cite key="conf/icse/Gelenbe76" style="ee" /></li>
+<li><cite key="conf/icse/GoudaM76" style="ee" /></li>
+<li><cite key="conf/icse/Rubin76" style="ee" /></li>
+<li><cite key="conf/icse/Shooman76" style="ee" /></li>
+<li><cite key="conf/icse/Chandy76" style="ee" /></li>
+<li><cite key="conf/icse/Smith76" style="ee" /></li>
+</ul>
+<h2>Design Specifiaction and Management</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Jazayeri76" style="ee" /></li>
+<li><cite key="conf/icse/Chu76" style="ee" /></li>
+<li><cite key="conf/icse/TurnDR76" style="ee" /></li>
+<li><cite key="conf/icse/Stephenson76" style="ee" /></li>
+</ul>
+<h2>Programming Languages and Systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Wegner76" style="ee" /></li>
+<li><cite key="conf/icse/Wexelblat76" style="ee" /></li>
+<li><cite key="conf/icse/BalzerGW76" style="ee" /></li>
+<li><cite key="conf/icse/LewT76" style="ee" /></li>
+</ul>
+<h2>Software Design</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/LehmanP76" style="ee" /></li>
+</ul>
+<h2>Software Engineering in the Department of Defense</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Whitaker76" style="ee" /></li>
+<li><cite key="conf/icse/PollockM76" style="ee" /></li>
+<li><cite key="conf/icse/Carrow76" style="ee" /></li>
+<li><cite key="conf/icse/Greene76" style="ee" /></li>
+<li><cite key="conf/icse/Carlson76" style="ee" /></li>
+</ul>
+<h2>Software Verification and Validation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Denning76" style="ee" /></li>
+<li><cite key="conf/icse/Wilkes76" style="ee" /></li>
+<li><cite key="conf/icse/Mills76" style="ee" /></li>
+<li><cite key="conf/icse/ReynoldsY76" style="ee" /></li>
+</ul>
+<h2>Program Proving and Verification</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WulfLS76" style="ee" /></li>
+<li><cite key="conf/icse/GerhartY76" style="ee" /></li>
+<li><cite key="conf/icse/Chow76" style="ee" /></li>
+<li><cite key="conf/icse/BasuM76" style="ee" /></li>
+</ul>
+<h2>Theoretical Aspects of Software Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/McCabe76" style="ee" /></li>
+<li><cite key="conf/icse/Claybrook76" style="ee" /></li>
+<li><cite key="conf/icse/GuttagHM76" style="ee" /></li>
+</ul>
+<h2>Software Fault Tolerance</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/NeumannFLR76" style="ee" /></li>
+<li><cite key="conf/icse/YauCC76" style="ee" /></li>
+<li><cite key="conf/icse/ParnasW76" style="ee" /></li>
+<li><cite key="conf/icse/AndersonK76" style="ee" /></li>
+<li><cite key="conf/icse/WensleyGLS76" style="ee" /></li>
+</ul>
+<h2>Validation and Testing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Fabry76" style="ee" /></li>
+<li><cite key="conf/icse/Panzl76" style="ee" /></li>
+<li><cite key="conf/icse/PimontR76" style="ee" /></li>
+<li><cite key="conf/icse/Swanson76" style="ee" /></li>
+</ul>
+<h2>Data Bases</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HammerM76" style="ee" /></li>
+<li><cite key="conf/icse/KerschbergOP76" style="ee" /></li>
+<li><cite key="conf/icse/McLeod76" style="ee" /></li>
+<li><cite key="conf/icse/Stonebraker76" style="ee" /></li>
+<li><cite key="conf/icse/Hsiao76" style="ee" /></li>
+<li><cite key="conf/icse/LeeSM76" style="ee" /></li>
+<li><cite key="conf/icse/Miyamoto76" style="ee" /></li>
+<li><cite key="conf/icse/Kummel76" style="ee" /></li>
+</ul>
+<h2>Case Studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/AlsbergD76" style="ee" /></li>
+<li><cite key="conf/icse/WilhelmRCGLN76" style="ee" /></li>
+<li><cite key="conf/icse/MohanG76" style="ee" /></li>
+<li><cite key="conf/icse/ShankarC76" style="ee" /></li>
+<li><cite key="conf/icse/BoehmBL76" style="ee" /></li>
+<li><cite key="conf/icse/Voges76" style="ee" /></li>
+<li><cite key="conf/icse/EhrenbergerRO76" style="ee" /></li>
+</ul>
+<h2>Software Automated Tools</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HodgesR76" style="ee" /></li>
+<li><cite key="conf/icse/FosdickO76" style="ee" /></li>
+<li><cite key="conf/icse/JessopKRS76" style="ee" /></li>
+<li><cite key="conf/icse/RamamoorthyHC76" style="ee" /></li>
+</ul><footer> 

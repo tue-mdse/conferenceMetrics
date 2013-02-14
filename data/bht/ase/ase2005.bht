@@ -1,0 +1,131 @@
+<bht key="db/conf/kbse/ase2005.bht" title="ASE 2005"> <logo> 
+<h1>20. <ref href="db/conf/kbse/index.html">ASE</ref> 2005:
+Long Beach, CA, USA</h1><hr> <cite key="conf/kbse/2005"> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Fuggetta05" style="ee" /></li>
+<li><cite key="conf/kbse/Swartout05" style="ee" /></li>
+<li><cite key="conf/kbse/Kemmerer05" style="ee" /></li>
+</ul>
+<h2>Validation and verification I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/KashyapG05" style="ee" /></li>
+<li><cite key="conf/kbse/Betin-CanBLLT05" style="ee" /></li>
+<li><cite key="conf/kbse/ZhangC05" style="ee" /></li>
+</ul>
+<h2>Maintenance and evolution</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Reiss05" style="ee" /></li>
+<li><cite key="conf/kbse/DiaconescuM05" style="ee" /></li>
+<li><cite key="conf/kbse/XingS05" style="ee" /></li>
+</ul>
+<h2>Program understanding</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/LienhardDA05" style="ee" /></li>
+<li><cite key="conf/kbse/Milanova05" style="ee" /></li>
+<li><cite key="conf/kbse/KoschkeQ05" style="ee" /></li>
+</ul>
+<h2>Testing I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/HoffmanY05" style="ee" /></li>
+<li><cite key="conf/kbse/HennessyP05" style="ee" /></li>
+<li><cite key="conf/kbse/SaffAPE05" style="ee" /></li>
+</ul>
+<h2>Code generation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/EngelsE05" style="ee" /></li>
+<li><cite key="conf/kbse/EhrigEHT05" style="ee" /></li>
+<li><cite key="conf/kbse/SwintPJYKWCSM05" style="ee" /></li>
+</ul>
+<h2>Configuration management &amp; security</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Dolstra05" style="ee" /></li>
+<li><cite key="conf/kbse/WangRCW05" style="ee" /></li>
+<li><cite key="conf/kbse/HalfondO05" style="ee" /></li>
+</ul>
+<h2>Aspect oriented programming</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/ShepherdPPC05" style="ee" /></li>
+<li><cite key="conf/kbse/UbayashiMMT05" style="ee" /></li>
+</ul>
+<h2>Software visualization</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/MehraGH05" style="ee" /></li>
+<li><cite key="conf/kbse/LangelierSP05" style="ee" /></li>
+</ul>
+<h2>Validation and verification II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/BlewittBS05" style="ee" /></li>
+<li><cite key="conf/kbse/AgarwalSWS05" style="ee" /></li>
+<li><cite key="conf/kbse/ShankarASX05" style="ee" /></li>
+</ul>
+<h2>Testing II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/SprenkleGSP05" style="ee" /></li>
+<li><cite key="conf/kbse/GuptaHZG05" style="ee" /></li>
+<li><cite key="conf/kbse/JonesH05" style="ee" /></li>
+</ul>
+<h2>Short papers 1</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/XiaVM05" style="ee" /></li>
+<li><cite key="conf/kbse/NejatiC05" style="ee" /></li>
+<li><cite key="conf/kbse/HaoPZZMS05" style="ee" /></li>
+<li><cite key="conf/kbse/CassO05" style="ee" /></li>
+<li><cite key="conf/kbse/ErikssonMBB05" style="ee" /></li>
+<li><cite key="conf/kbse/FriasGSB05" style="ee" /></li>
+<li><cite key="conf/kbse/ChenM05" style="ee" /></li>
+<li><cite key="conf/kbse/GotliebDB05" style="ee" /></li>
+<li><cite key="conf/kbse/MokhtarLGI05" style="ee" /></li>
+<li><cite key="conf/kbse/LiuGH05" style="ee" /></li>
+<li><cite key="conf/kbse/VardhanV05" style="ee" /></li>
+<li><cite key="conf/kbse/CaiS05" style="ee" /></li>
+<li><cite key="conf/kbse/Mayer05" style="ee" /></li>
+<li><cite key="conf/kbse/LiuLWCC05" style="ee" /></li>
+<li><cite key="conf/kbse/XuN05" style="ee" /></li>
+<li><cite key="conf/kbse/WangR05" style="ee" /></li>
+<li><cite key="conf/kbse/SampaioCR05" style="ee" /></li>
+</ul>
+<h2>Short papers 2</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/CoppitL05" style="ee" /></li>
+<li><cite key="conf/kbse/EgyedBHG05" style="ee" /></li>
+<li><cite key="conf/kbse/CouchotGK05" style="ee" /></li>
+<li><cite key="conf/kbse/FredrikssonTC05" style="ee" /></li>
+<li><cite key="conf/kbse/GheyiMB05" style="ee" /></li>
+<li><cite key="conf/kbse/DominguezD05" style="ee" /></li>
+<li><cite key="conf/kbse/Tan05" style="ee" /></li>
+<li><cite key="conf/kbse/MenziesPCH05" style="ee" /></li>
+<li><cite key="conf/kbse/TibermacineFS05" style="ee" /></li>
+<li><cite key="conf/kbse/JurjensY05" style="ee" /></li>
+<li><cite key="conf/kbse/DenmatDR05" style="ee" /></li>
+<li><cite key="conf/kbse/HaydarBPS05" style="ee" /></li>
+<li><cite key="conf/kbse/InverardiMTA05" style="ee" /></li>
+<li><cite key="conf/kbse/RungtaM05" style="ee" /></li>
+<li><cite key="conf/kbse/VisserPP05" style="ee" /></li>
+<li><cite key="conf/kbse/KapfhammerSM05" style="ee" /></li>
+<li><cite key="conf/kbse/WardKA05" style="ee" /></li>
+</ul>
+<h2>Formal tool demo presentations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/GeW05" style="ee" /></li>
+<li><cite key="conf/kbse/FalbPRJAK05" style="ee" /></li>
+<li><cite key="conf/kbse/SimmondsB05" style="ee" /></li>
+<li><cite key="conf/kbse/HeartyFNC05" style="ee" /></li>
+</ul>
+<h2>Doctoral symposium</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/EasterbrookU05" style="ee" /></li>
+<li><cite key="conf/kbse/WuG05" style="ee" /></li>
+<li><cite key="conf/kbse/BryceC05" style="ee" /></li>
+<li><cite key="conf/kbse/Grov05" style="ee" /></li>
+<li><cite key="conf/kbse/LinG05" style="ee" /></li>
+<li><cite key="conf/kbse/Nejati05" style="ee" /></li>
+<li><cite key="conf/kbse/Zheng05" style="ee" /></li>
+</ul>
+<h2>Workshops</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/RudolphM05" style="ee" /></li>
+<li><cite key="conf/kbse/BlackK05" style="ee" /></li>
+<li><cite key="conf/kbse/MaleticACH05" style="ee" /></li>
+<li><cite key="conf/kbse/DenneyFHJ05" style="ee" /></li>
+<li><cite key="conf/kbse/ZismanE05" style="ee" /></li>
+</ul><footer> 

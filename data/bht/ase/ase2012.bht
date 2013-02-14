@@ -1,0 +1,119 @@
+<bht key="db/conf/kbse/ase2012.bht" title="ASE 2012"> <logo> 
+<h1>27. <ref href="db/conf/kbse/index.html">ASE</ref> 2012:
+Essen, Germany</h1><cite key="conf/kbse/2012"> 
+<h2>Keynotes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/HarmanLJWAC12" style="ee" /></li>
+<li><cite key="conf/kbse/JacobsonSJK12" style="ee" /></li>
+</ul>
+<h2>Debugging I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/YuLCZ12" style="ee" /></li>
+<li><cite key="conf/kbse/GongLJZ12" style="ee" /></li>
+<li><cite key="conf/kbse/GopinathZK12" style="ee" /></li>
+</ul>
+<h2>Debugging II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/ThungLLJRD12" style="ee" /></li>
+<li><cite key="conf/kbse/BissyandeRLM12" style="ee" /></li>
+<li><cite key="conf/kbse/NguyenNNLS12" style="ee" /></li>
+</ul>
+<h2>Privacy, Security, and Performance</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/XiaoTFHM12" style="ee" /></li>
+<li><cite key="conf/kbse/HaiducBOLM12" style="ee" /></li>
+<li><cite key="conf/kbse/AlmorsyGI12" style="ee" /></li>
+</ul>
+<h2>Configuration Management and QoS</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/RabiserGL12" style="ee" /></li>
+<li><cite key="conf/kbse/ApelLL12" style="ee" /></li>
+<li><cite key="conf/kbse/AminGC12" style="ee" /></li>
+</ul>
+<h2>Testing and Monitoring</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/ChenK12" style="ee" /></li>
+<li><cite key="conf/kbse/KahkonenSH12" style="ee" /></li>
+<li><cite key="conf/kbse/NoureddineBRS12" style="ee" /></li>
+</ul>
+<h2>Prediction</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/WangD0ZLM12" style="ee" /></li>
+<li><cite key="conf/kbse/SeoK12" style="ee" /></li>
+<li><cite key="conf/kbse/WestermannHKF12" style="ee" /></li>
+</ul>
+<h2>Validation, Verification, and Consistency</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/GhabiE12" style="ee" /></li>
+<li><cite key="conf/kbse/NijjarB12" style="ee" /></li>
+<li><cite key="conf/kbse/RederE12" style="ee" /></li>
+</ul>
+<h2>Re-engineering, Program Understanding, and Model Transformation (Short Papers)</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/AlmorsyGI12a" style="ee" /></li>
+<li><cite key="conf/kbse/IbrahimGHA12" style="ee" /></li>
+<li><cite key="conf/kbse/AbadiF12" style="ee" /></li>
+<li><cite key="conf/kbse/RubinC12" style="ee" /></li>
+<li><cite key="conf/kbse/MaruyamaKOH12" style="ee" /></li>
+<li><cite key="conf/kbse/FaunesSB12" style="ee" /></li>
+</ul>
+<h2>Testing and Code Analysis (Short Papers)</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/JamrozikFTH12" style="ee" /></li>
+<li><cite key="conf/kbse/AmalfitanoFTCM12" style="ee" /></li>
+<li><cite key="conf/kbse/LuciaLJB12" style="ee" /></li>
+<li><cite key="conf/kbse/HwangXKMT12" style="ee" /></li>
+<li><cite key="conf/kbse/Shang0X12" style="ee" /></li>
+</ul>
+<h2>Detection and Refactoring (Short Papers)</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/BartelKTM12" style="ee" /></li>
+<li><cite key="conf/kbse/MaigaABSGAA12" style="ee" /></li>
+<li><cite key="conf/kbse/NguyenNNNN12" style="ee" /></li>
+<li><cite key="conf/kbse/YuanG12" style="ee" /></li>
+<li><cite key="conf/kbse/SteimannP12" style="ee" /></li>
+<li><cite key="conf/kbse/LiT12" style="ee" /></li>
+</ul>
+<h2>Requirements Engineering and Model based Development (Short Papers)</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Lutz0D12" style="ee" /></li>
+<li><cite key="conf/kbse/DemuthLE12" style="ee" /></li>
+<li><cite key="conf/kbse/KehrerKPS12" style="ee" /></li>
+</ul>
+<h2>Defect Prediction and Recovery (Short Papers)</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/SharT12" style="ee" /></li>
+<li><cite key="conf/kbse/LuCC12" style="ee" /></li>
+<li><cite key="conf/kbse/DingFLLZSX12" style="ee" /></li>
+<li><cite key="conf/kbse/JongeV12" style="ee" /></li>
+</ul>
+<h2>Tool Demonstrations 1</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/KamalrudinGH12" style="ee" /></li>
+<li><cite key="conf/kbse/BauersfeldV12" style="ee" /></li>
+<li><cite key="conf/kbse/AchananuparpLTLL12" style="ee" /></li>
+<li><cite key="conf/kbse/BiallasBK12" style="ee" /></li>
+<li><cite key="conf/kbse/LedruVTB12" style="ee" /></li>
+<li><cite key="conf/kbse/SongT12" style="ee" /></li>
+<li><cite key="conf/kbse/FalconeC12" style="ee" /></li>
+<li><cite key="conf/kbse/OmoronyiaPSCDN12" style="ee" /></li>
+</ul>
+<h2>Tool Demonstrations 2</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/MorenoM12" style="ee" /></li>
+<li><cite key="conf/kbse/CicchettiCMPPZV12" style="ee" /></li>
+<li><cite key="conf/kbse/TamrawiNNN12" style="ee" /></li>
+<li><cite key="conf/kbse/HineSHV12" style="ee" /></li>
+<li><cite key="conf/kbse/DosingerMB12" style="ee" /></li>
+<li><cite key="conf/kbse/CamposRPA12" style="ee" /></li>
+<li><cite key="conf/kbse/AndersenNLLK12" style="ee" /></li>
+<li><cite key="conf/kbse/NguyenVLG12" style="ee" /></li>
+</ul>
+<h2>Doctoral Symposium</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Gabmeyer12" style="ee" /></li>
+<li><cite key="conf/kbse/Quesada12" style="ee" /></li>
+<li><cite key="conf/kbse/Yamamoto12" style="ee" /></li>
+<li><cite key="conf/kbse/Nogueira12" style="ee" /></li>
+<li><cite key="conf/kbse/Meananeatra12" style="ee" /></li>
+</ul><footer> 

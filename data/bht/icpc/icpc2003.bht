@@ -1,0 +1,80 @@
+<bht key="conf/iwpc/iwpc2003.bht" title="International Workshop on Program Comprehension 2003"> <logo></logo> 
+<h1>11. <ref href="db/conf/iwpc/index.html">IWPC</ref> 2003:
+Portland, Oregon, USA</h1><hr> <cite key="conf/iwpc/2003">  
+<h2>Keynote</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/Klint03" style="ee" /></li>
+</ul>
+<h2>Analysis Techniques</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/AntoniolPM03" style="ee" /></li>
+<li><cite key="conf/iwpc/DeanC03" style="ee" /></li>
+<li><cite key="conf/iwpc/KomondoorH03" style="ee" /></li>
+</ul>
+<h2>Program Understanding Tools and Technique</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/BiemanAY03" style="ee" /></li>
+<li><cite key="conf/iwpc/PinzgerOG03" style="ee" /></li>
+<li><cite key="conf/iwpc/LinosCBO03" style="ee" /></li>
+</ul>
+<h2>Dynamic Analysis Techniques</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/Reiss03" style="ee" /></li>
+<li><cite key="conf/iwpc/DuffyGM03" style="ee" /></li>
+<li><cite key="conf/iwpc/HeuzerothHHL03" style="ee" /></li>
+</ul>
+<h2>Program Comprehension Approache</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/MarcusFM03" style="ee" /></li>
+<li><cite key="conf/iwpc/RillingK03" style="ee" /></li>
+<li><cite key="conf/iwpc/TjortjisSL03" style="ee" /></li>
+</ul>
+<h2>Fact Extraction Techniques</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/CollardKM03" style="ee" /></li>
+<li><cite key="conf/iwpc/Cordy03" style="ee" /></li>
+<li><cite key="conf/iwpc/CoxC03" style="ee" /></li>
+</ul>
+<h2>Comprehension Frameworks and Evaluation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/BuckleyE03" style="ee" /></li>
+<li><cite key="conf/iwpc/KoU03" style="ee" /></li>
+<li><cite key="conf/iwpc/Walenstein03" style="ee" /></li>
+</ul>
+<h2>Keynote</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/Cordy03a" style="ee" /></li>
+</ul>
+<h2>Clustering Applications and Evaluation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/RiccaT03" style="ee" /></li>
+<li><cite key="conf/iwpc/ChiricotaJM03" style="ee" /></li>
+<li><cite key="conf/iwpc/WenT03" style="ee" /></li>
+</ul>
+<h2>Short Papers I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/ChanHMY03" style="ee" /></li>
+<li><cite key="conf/iwpc/GschwindOP03" style="ee" /></li>
+<li><cite key="conf/iwpc/GallagherL03" style="ee" /></li>
+</ul>
+<h2>Short Papers II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/GannodM03" style="ee" /></li>
+<li><cite key="conf/iwpc/IvkovicG03" style="ee" /></li>
+<li><cite key="conf/iwpc/NiereWW03" style="ee" /></li>
+</ul>
+<h2>Working Sessions</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/HuangT03" style="ee" /></li>
+<li><cite key="conf/iwpc/DeursenFKR03" style="ee" /></li>
+<li><cite key="conf/iwpc/LakhotiaLWY03" style="ee" /></li>
+</ul>
+<h2>Tool Demonstrations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/JacobD03" style="ee" /></li>
+<li><cite key="conf/iwpc/HopfnerSG03" style="ee" /></li>
+<li><cite key="conf/iwpc/BawaG03" style="ee" /></li>
+<li><cite key="conf/iwpc/BeyerL03" style="ee" /></li>
+<li><cite key="conf/iwpc/Zeller03" style="ee" /></li>
+<li><cite key="conf/iwpc/HennessyMP03" style="ee" /></li>
+</ul><footer> 

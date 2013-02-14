@@ -1,0 +1,51 @@
+<bht key="conf/iwpc/iwpc1998.bht" title="International Workshop on Program Comprehension 1998"> <logo></logo> 
+<h1>6. <ref href="db/conf/iwpc/index.html">IWPC</ref> 1998:
+Ischia, Italy</h1><hr> <cite key="conf/iwpc/1998">  
+<h2>Visualization</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/SchauerK98" style="ee" /></li>
+<li><cite key="conf/iwpc/BurkwaldERP98" style="ee" /></li>
+<li><cite key="conf/iwpc/YoungM98" style="ee" /></li>
+</ul>
+<h2>Architecture</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/MendoncaK98" style="ee" /></li>
+<li><cite key="conf/iwpc/LagueLBMD98" style="ee" /></li>
+<li><cite key="conf/iwpc/MancoridisMRCG98" style="ee" /></li>
+</ul>
+<h2>Integration Frameworks</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/WoodsOLGQ98" style="ee" /></li>
+<li><cite key="conf/iwpc/Kamp98" style="ee" /></li>
+<li><cite key="conf/iwpc/Lakhotia98" style="ee" /></li>
+</ul>
+<h2>Comprehension Strategies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/DetienneBW98" style="ee" /></li>
+<li><cite key="conf/iwpc/DeursenK98" style="ee" /></li>
+<li><cite key="conf/iwpc/ErdosS98" style="ee" /></li>
+</ul>
+<h2>Parsing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/BrandSV98" style="ee" /></li>
+<li><cite key="conf/iwpc/SomeL98" style="ee" /></li>
+<li><cite key="conf/iwpc/CifuentesS98" style="ee" /></li>
+</ul>
+<h2>Decomposition</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/CanforaCLL98" style="ee" /></li>
+<li><cite key="conf/iwpc/KorelR98" style="ee" /></li>
+<li><cite key="conf/iwpc/AntoniolFC98" style="ee" /></li>
+</ul>
+<h2>Empirical Studies</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/MayrhauserV98" style="ee" /></li>
+<li><cite key="conf/iwpc/SingerL98" style="ee" /></li>
+<li><cite key="conf/iwpc/SimCH98" style="ee" /></li>
+</ul>
+<h2>Program Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/iwpc/BechiniT98" style="ee" /></li>
+<li><cite key="conf/iwpc/BinkleyDJW98" style="ee" /></li>
+<li><cite key="conf/iwpc/MartinoMMV98" style="ee" /></li>
+</ul><footer> 

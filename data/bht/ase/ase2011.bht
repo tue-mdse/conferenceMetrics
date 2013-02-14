@@ -1,0 +1,169 @@
+<bht key="db/conf/kbse/ase2011.bht" title="ASE 2011"> <logo> 
+<h1>26. <ref href="db/conf/kbse/index.html">ASE</ref> 2011:
+Lawrence, KS, USA</h1><cite key="conf/kbse/2011"> 
+<h2>Keynotes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Witten11" style="ee" /></li>
+<li><cite key="conf/kbse/Dwyer11" style="ee" /></li>
+</ul>
+<h2>Testing I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/AlshahwanH11" style="ee" /></li>
+<li><cite key="conf/kbse/NguyenNNN11" style="ee" /></li>
+<li><cite key="conf/kbse/RobinsonEPAL11" style="ee" /></li>
+</ul>
+<h2>Testing II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/AnandH11" style="ee" /></li>
+<li><cite key="conf/kbse/ZhangED11" style="ee" /></li>
+<li><cite key="conf/kbse/BaarsHHLMTV11" style="ee" /></li>
+</ul>
+<h2>Testing III</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/ZhangZE11" style="ee" /></li>
+<li><cite key="conf/kbse/PanWX11" style="ee" /></li>
+<li><cite key="conf/kbse/Gonzalez-SanchezAGG11" style="ee" /></li>
+</ul>
+<h2>Software Model Checking</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/ParizekL11" style="ee" /></li>
+<li><cite key="conf/kbse/LeungwattanakitAHTY11" style="ee" /></li>
+<li><cite key="conf/kbse/BokorKSS11" style="ee" /></li>
+</ul>
+<h2>Analysis, Verification, and Validation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Ganai11" style="ee" /></li>
+<li><cite key="conf/kbse/IvancicBGSMTIM11" style="ee" /></li>
+<li><cite key="conf/kbse/LiXBLM11" style="ee" /></li>
+<li><cite key="conf/kbse/BotincanDDP11" style="ee" /></li>
+</ul>
+<h2>Models</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/KehrerKT11" style="ee" /></li>
+<li><cite key="conf/kbse/HegedusHRV11" style="ee" /></li>
+<li><cite key="conf/kbse/BrosigHK11" style="ee" /></li>
+</ul>
+<h2>Debugging</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/RabkinK11" style="ee" /></li>
+<li><cite key="conf/kbse/InsaS11" style="ee" /></li>
+<li><cite key="conf/kbse/ClarkCKJH11" style="ee" /></li>
+</ul>
+<h2>Documentation, Traceability, and Program Understanding</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/ChenG11" style="ee" /></li>
+<li><cite key="conf/kbse/WuLWXM11" style="ee" /></li>
+<li><cite key="conf/kbse/RasoolM11" style="ee" /></li>
+</ul>
+<h2>Software Maintenance I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/SunLKJ11" style="ee" /></li>
+<li><cite key="conf/kbse/NguyenNANN11" style="ee" /></li>
+<li><cite key="conf/kbse/YuTN11" style="ee" /></li>
+</ul>
+<h2>Software Maintenance II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/FilieriGLM11" style="ee" /></li>
+<li><cite key="conf/kbse/WongC11" style="ee" /></li>
+<li><cite key="conf/kbse/OverbeyJ11" style="ee" /></li>
+</ul>
+<h2>Product Lines, Knowledge Acquisition, and Software Processes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/PohlLP11" style="ee" /></li>
+<li><cite key="conf/kbse/GottipatiLJ11" style="ee" /></li>
+<li><cite key="conf/kbse/ChenHX11" style="ee" /></li>
+</ul>
+<h2>Prediction and Ecological Inference</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/MenziesBMZC11" style="ee" /></li>
+<li><cite key="conf/kbse/RathfelderKE11" style="ee" /></li>
+<li><cite key="conf/kbse/PosnettFD11" style="ee" /></li>
+</ul>
+<h2>Short Papers I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/ApelSWRB11" style="ee" /></li>
+<li><cite key="conf/kbse/KimmigMM11" style="ee" /></li>
+<li><cite key="conf/kbse/Groce11" style="ee" /></li>
+<li><cite key="conf/kbse/LozanoKM11" style="ee" /></li>
+<li><cite key="conf/kbse/ArcainiGR11" style="ee" /></li>
+<li><cite key="conf/kbse/PeiWFNM11" style="ee" /></li>
+<li><cite key="conf/kbse/ZhengT11" style="ee" /></li>
+<li><cite key="conf/kbse/WinbladhR11" style="ee" /></li>
+<li><cite key="conf/kbse/UjhelyiHV11" style="ee" /></li>
+<li><cite key="conf/kbse/ZhengMLXK11" style="ee" /></li>
+<li><cite key="conf/kbse/HuangNPGBT11" style="ee" /></li>
+<li><cite key="conf/kbse/GhabiE11" style="ee" /></li>
+<li><cite key="conf/kbse/BandyopadhyayG11" style="ee" /></li>
+<li><cite key="conf/kbse/AcherCLF11" style="ee" /></li>
+<li><cite key="conf/kbse/VakiliD11" style="ee" /></li>
+<li><cite key="conf/kbse/LiuZCXM11" style="ee" /></li>
+<li><cite key="conf/kbse/MalburgF11" style="ee" /></li>
+</ul>
+<h2>Short Papers II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/WeiRFPHSNM11" style="ee" /></li>
+<li><cite key="conf/kbse/MaderE11" style="ee" /></li>
+<li><cite key="conf/kbse/OsterSB11" style="ee" /></li>
+<li><cite key="conf/kbse/ServantJ11" style="ee" /></li>
+<li><cite key="conf/kbse/UddinDR11" style="ee" /></li>
+<li><cite key="conf/kbse/EdwardsBM11" style="ee" /></li>
+<li><cite key="conf/kbse/GanovKP11" style="ee" /></li>
+<li><cite key="conf/kbse/SurapaneniNMW11" style="ee" /></li>
+<li><cite key="conf/kbse/ZiftciK11" style="ee" /></li>
+<li><cite key="conf/kbse/BacchelliCLM11" style="ee" /></li>
+<li><cite key="conf/kbse/HidakaHIKN11" style="ee" /></li>
+<li><cite key="conf/kbse/ZhangMPL11" style="ee" /></li>
+<li><cite key="conf/kbse/ChakrabortyS11" style="ee" /></li>
+<li><cite key="conf/kbse/GoreRK11" style="ee" /></li>
+<li><cite key="conf/kbse/StehleLSRM11" style="ee" /></li>
+<li><cite key="conf/kbse/RobinsonNS11" style="ee" /></li>
+<li><cite key="conf/kbse/MarasCC11" style="ee" /></li>
+</ul>
+<h2>Short Papers III</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/TellB11" style="ee" /></li>
+<li><cite key="conf/kbse/DengJ11" style="ee" /></li>
+<li><cite key="conf/kbse/LutzJP11" style="ee" /></li>
+<li><cite key="conf/kbse/AlvesGJd11" style="ee" /></li>
+<li><cite key="conf/kbse/HillPV11" style="ee" /></li>
+<li><cite key="conf/kbse/SilvaBB11" style="ee" /></li>
+<li><cite key="conf/kbse/SagdeoAKV11" style="ee" /></li>
+<li><cite key="conf/kbse/SoltaniAHGB11" style="ee" /></li>
+<li><cite key="conf/kbse/GethersKDP11" style="ee" /></li>
+<li><cite key="conf/kbse/Halfond11" style="ee" /></li>
+<li><cite key="conf/kbse/KhalekNK11" style="ee" /></li>
+<li><cite key="conf/kbse/GarciaPMMC11" style="ee" /></li>
+<li><cite key="conf/kbse/WangLJLL11" style="ee" /></li>
+<li><cite key="conf/kbse/WelshSB11" style="ee" /></li>
+<li><cite key="conf/kbse/KamalrudinG11" style="ee" /></li>
+<li><cite key="conf/kbse/RamirezJCK11" style="ee" /></li>
+</ul>
+<h2>Tool Demonstrations</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/NguyenNNN11a" style="ee" /></li>
+<li><cite key="conf/kbse/XingXJ11" style="ee" /></li>
+<li><cite key="conf/kbse/BergmannHHRUV11" style="ee" /></li>
+<li><cite key="conf/kbse/MehlitzTU11" style="ee" /></li>
+<li><cite key="conf/kbse/MacleanIG11" style="ee" /></li>
+<li><cite key="conf/kbse/WangFWLXY11" style="ee" /></li>
+<li><cite key="conf/kbse/GanaiAWGB11" style="ee" /></li>
+<li><cite key="conf/kbse/AcherCLF11a" style="ee" /></li>
+<li><cite key="conf/kbse/ZurowskaD11" style="ee" /></li>
+<li><cite key="conf/kbse/KhalekYZMK11" style="ee" /></li>
+<li><cite key="conf/kbse/JustSK11" style="ee" /></li>
+<li><cite key="conf/kbse/LumpeMG11" style="ee" /></li>
+<li><cite key="conf/kbse/PietschYK11" style="ee" /></li>
+<li><cite key="conf/kbse/WesongaMR11" style="ee" /></li>
+<li><cite key="conf/kbse/Hall11" style="ee" /></li>
+<li><cite key="conf/kbse/NguyenSLD11" style="ee" /></li>
+</ul>
+<h2>Doctoral Symposium</h2> 
+<ul class="publ-list">
+<li><cite key="conf/kbse/Haiduc11" style="ee" /></li>
+<li><cite key="conf/kbse/SunL11" style="ee" /></li>
+<li><cite key="conf/kbse/Esfahani11" style="ee" /></li>
+<li><cite key="conf/kbse/Li11" style="ee" /></li>
+<li><cite key="conf/kbse/Vakili11" style="ee" /></li>
+<li><cite key="conf/kbse/Bandyopadhyay11" style="ee" /></li>
+<li><cite key="conf/kbse/Dautovic11" style="ee" /></li>
+</ul><footer> 

@@ -1,0 +1,44 @@
+<bht key="db/conf/scam/scam2009.bht" title="Source Code Analysis and Manipulation 2009"> <logo></logo> 
+<h1>9. <ref href="db/conf/scam/index.html">SCAM</ref> 2009:
+Edmonton, Alberta, Canada</h1><hr> <cite key="conf/scam/2009"> 
+<h2>Slicing &amp; Concurrency</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/LangeM09" style="ee" /></li>
+<li><cite key="conf/scam/Giffhorn09" style="ee" /></li>
+<li><cite key="conf/scam/Ward09" style="ee" /></li>
+</ul>
+<h2>Dependence Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/QianZX09" style="ee" /></li>
+<li><cite key="conf/scam/GutzmannKLL09" style="ee" /></li>
+<li><cite key="conf/scam/AlvesV09" style="ee" /></li>
+</ul>
+<h2>Clones</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/TiarksKF09" style="ee" /></li>
+<li><cite key="conf/scam/Gode09" style="ee" /></li>
+</ul>
+<h2>Code Tracing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/BinkleyH09" style="ee" /></li>
+<li><cite key="conf/scam/SpaccoW09" style="ee" /></li>
+<li><cite key="conf/scam/Prause09" style="ee" /></li>
+</ul>
+<h2>Tools Demos</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/GutzmannS09" style="ee" /></li>
+<li><cite key="conf/scam/CanetCM09" style="ee" /></li>
+<li><cite key="conf/scam/Ward09a" style="ee" /></li>
+</ul>
+<h2>Abstraction &amp; Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/HamiltonD09" style="ee" /></li>
+<li><cite key="conf/scam/AchenbachO09" style="ee" /></li>
+<li><cite key="conf/scam/DavidH09" style="ee" /></li>
+</ul>
+<h2>Analysis Frameworks</h2> 
+<ul class="publ-list">
+<li><cite key="conf/scam/AlikacemS09" style="ee" /></li>
+<li><cite key="conf/scam/KlintSV09" style="ee" /></li>
+<li><cite key="conf/scam/LammelZ09" style="ee" /></li>
+</ul><footer> 

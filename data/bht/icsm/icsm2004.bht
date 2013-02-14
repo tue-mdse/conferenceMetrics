@@ -1,0 +1,151 @@
+<bht key="db/conf/icsm/icsm2004.bht" title="IEEE International Conference on Software Maintenance 2004"> <logo> 
+<h1><ref href="db/conf/icsm/index.html">ICSM</ref> 2004:
+Chicago, IL, USA</h1><hr> <cite key="conf/icsm/2004">  
+<h2>Keynote Speakers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Woodworth04" style="ee" /></li>
+<li><cite key="conf/icsm/Basili04" style="ee" /></li>
+</ul>
+<h2>Full Papers</h2> 
+<h3>Regression Testing</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/MemonX04" style="ee" /></li>
+<li><cite key="conf/icsm/WhiteR04" style="ee" /></li>
+<li><cite key="conf/icsm/XieN04" style="ee" /></li>
+</ul>
+<h3>Reverse Engineering</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/GirbaDL04" style="ee" /></li>
+<li><cite key="conf/icsm/RivaSSX04" style="ee" /></li>
+<li><cite key="conf/icsm/FerencSG04" style="ee" /></li>
+</ul>
+<h3>Program Comprehension</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/SalahM04" style="ee" /></li>
+<li><cite key="conf/icsm/Rountev04" style="ee" /></li>
+<li><cite key="conf/icsm/RostkowyczRM04" style="ee" /></li>
+</ul>
+<h3>Testing</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/SampathMSP04" style="ee" /></li>
+<li><cite key="conf/icsm/GalliLNW04" style="ee" /></li>
+<li><cite key="conf/icsm/SatpathySR04" style="ee" /></li>
+</ul>
+<h3>Reengineering</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Zou04" style="ee" /></li>
+<li><cite key="conf/icsm/MendoncaMFA04" style="ee" /></li>
+<li><cite key="conf/icsm/WardZH04" style="ee" /></li>
+</ul>
+<h3>Slicing and Change Analysis</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Krinke04" style="ee" /></li>
+<li><cite key="conf/icsm/IshioKI04" style="ee" /></li>
+<li><cite key="conf/icsm/RaghavanRLPA04" style="ee" /></li>
+</ul>
+<h3>Source Code Analysis and Manipulation</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BruntinkDTE04" style="ee" /></li>
+<li><cite key="conf/icsm/MaleticC04" style="ee" /></li>
+<li><cite key="conf/icsm/TonellaC04" style="ee" /></li>
+</ul>
+<h3>Evolution I</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Kung04" style="ee" /></li>
+<li><cite key="conf/icsm/XingS04" style="ee" /></li>
+<li><cite key="conf/icsm/IvkovicK04" style="ee" /></li>
+</ul>
+<h3>Evolution II</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Sneed04" style="ee" /></li>
+<li><cite key="conf/icsm/JanssensMHV04" style="ee" /></li>
+<li><cite key="conf/icsm/HassanH04" style="ee" /></li>
+</ul>
+<h3>Configuration Management</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/NguyenMBT04" style="ee" /></li>
+<li><cite key="conf/icsm/LuciaFOT04" style="ee" /></li>
+<li><cite key="conf/icsm/German04" style="ee" /></li>
+</ul>
+<h3>Program Comprehension and Visualization</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/RysselbergheD04" style="ee" /></li>
+<li><cite key="conf/icsm/DangLMPPT04" style="ee" /></li>
+</ul>
+<h3>Metrics for Maintenance</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Marinescu04" style="ee" /></li>
+<li><cite key="conf/icsm/GirardVG04" style="ee" /></li>
+<li><cite key="conf/icsm/WenT04" style="ee" /></li>
+</ul>
+<h3>Empirical Study</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/BriandLYP04" style="ee" /></li>
+<li><cite key="conf/icsm/LuoJZMS04" style="ee" /></li>
+<li><cite key="conf/icsm/MantylaVL04" style="ee" /></li>
+</ul>
+<h2>Short Papers</h2> 
+<h3>Short Paper Session I</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/MerloAPR04" style="ee" /></li>
+<li><cite key="conf/icsm/EverittTT04" style="ee" /></li>
+<li><cite key="conf/icsm/WernickH04" style="ee" /></li>
+<li><cite key="conf/icsm/TahvildariK04" style="ee" /></li>
+<li><cite key="conf/icsm/Kajko-MattssonAL04" style="ee" /></li>
+</ul>
+<h3>Short Paper Session II</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/SkoglundR04" style="ee" /></li>
+<li><cite key="conf/icsm/BahsoonE04" style="ee" /></li>
+<li><cite key="conf/icsm/WillmorES04" style="ee" /></li>
+<li><cite key="conf/icsm/BreechDSP04" style="ee" /></li>
+<li><cite key="conf/icsm/DeelstraSNB04" style="ee" /></li>
+</ul>
+<h3>PhD Dissertation Session</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Krinke04a" style="ee" /></li>
+<li><cite key="conf/icsm/Marcus04" style="ee" /></li>
+<li><cite key="conf/icsm/Ricca04" style="ee" /></li>
+<li><cite key="conf/icsm/Tahvildari04" style="ee" /></li>
+</ul>
+<h2>Panels</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Tilley04" style="ee" /></li>
+<li><cite key="conf/icsm/Kajko-Mattsson04" style="ee" /></li>
+</ul>
+<h2>Industrial Applications</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Down04" style="ee" /></li>
+<li><cite key="conf/icsm/LauTMKILZZH04" style="ee" /></li>
+<li><cite key="conf/icsm/LamoreauxOP04" style="ee" /></li>
+<li><cite key="conf/icsm/SoodD04" style="ee" /></li>
+<li><cite key="conf/icsm/PazelVPTAC04" style="ee" /></li>
+</ul>
+<h2>Tools</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/Anderson04" style="ee" /></li>
+<li><cite key="conf/icsm/BaxterA04" style="ee" /></li>
+<li><cite key="conf/icsm/NguyenMBT04a" style="ee" /></li>
+<li><cite key="conf/icsm/ZageZ04" style="ee" /></li>
+<li><cite key="conf/icsm/FerencBG04" style="ee" /></li>
+<li><cite key="conf/icsm/Balmas04" style="ee" /></li>
+<li><cite key="conf/icsm/AbdelmoezSGAYBKM04" style="ee" /></li>
+<li><cite key="conf/icsm/IsnardPBGFCCS04" style="ee" /></li>
+</ul>
+<h2>Posters</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icsm/HuangHRC04" style="ee" /></li>
+<li><cite key="conf/icsm/Chiang04" style="ee" /></li>
+<li><cite key="conf/icsm/Chapin04" style="ee" /></li>
+<li><cite key="conf/icsm/Gueheneuc04" style="ee" /></li>
+<li><cite key="conf/icsm/FengZWW04" style="ee" /></li>
+<li><cite key="conf/icsm/Gustavsson04" style="ee" /></li>
+<li><cite key="conf/icsm/TeohW04" style="ee" /></li>
+<li><cite key="conf/icsm/LiM04" style="ee" /></li>
+<li><cite key="conf/icsm/ZhaoZHMS04" style="ee" /></li>
+<li><cite key="conf/icsm/BoldyreffNR04" style="ee" /></li>
+<li><cite key="conf/icsm/MohanGL04" style="ee" /></li>
+<li><cite key="conf/icsm/Granja-Alvarez04" style="ee" /></li>
+<li><cite key="conf/icsm/RillingMO04" style="ee" /></li>
+<li><cite key="conf/icsm/PinzgerFJG04" style="ee" /></li>
+</ul><footer> 

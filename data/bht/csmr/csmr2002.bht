@@ -1,0 +1,67 @@
+<bht key="db/conf/csmr/csmr2002.bht" title="CSMR 2002"> <logo> 
+<h1>6. <ref href="db/conf/csmr/index.html">CSMR</ref> 2002:
+Budapest, Hungary</h1><hr> <cite key="conf/csmr/2002">  
+<h2>Session 1:
+Software Maintenance</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/LuciaPSP02" style="ee" /></li>
+<li><cite key="conf/csmr/CarM02" style="ee" /></li>
+<li><cite key="conf/csmr/AversanoCLG02" style="ee" /></li>
+</ul>
+<h2>Session 2:
+Architectural Design Recovery</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/JahnkeWZ02" style="ee" /></li>
+<li><cite key="conf/csmr/RivaR02" style="ee" /></li>
+</ul>
+<h2>Session 3:
+Source Code Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/FerencB02" style="ee" /></li>
+<li><cite key="conf/csmr/RaysideK02" style="ee" /></li>
+<li><cite key="conf/csmr/HajnalF02" style="ee" /></li>
+</ul>
+<h2>Session 4:
+Metrics for Maintenance &amp; Reengineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/KollmannG02" style="ee" /></li>
+<li><cite key="conf/csmr/YuSM02" style="ee" /></li>
+<li><cite key="conf/csmr/GustafssonPNV02" style="ee" /></li>
+</ul>
+<h2>Session 5:
+Software Evolution &amp; Integration</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/AkkanenKN02" style="ee" /></li>
+<li><cite key="conf/csmr/JustoS02" style="ee" /></li>
+<li><cite key="conf/csmr/SametingerR02" style="ee" /></li>
+</ul>
+<h2>Session 6:
+Software Migration</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/MartinM02" style="ee" /></li>
+<li><cite key="conf/csmr/AlbaneseBGT02" style="ee" /></li>
+<li><cite key="conf/csmr/Zdun02" style="ee" /></li>
+</ul>
+<h2>Session 7:
+Programming Language Issues</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/BoulychevKT02" style="ee" /></li>
+<li><cite key="conf/csmr/Leitao02" style="ee" /></li>
+<li><cite key="conf/csmr/Raghavan02" style="ee" /></li>
+</ul>
+<h2>Session 8:
+Short Papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/Baburin02" style="ee" /></li>
+<li><cite key="conf/csmr/MolnarBS02" style="ee" /></li>
+<li><cite key="conf/csmr/Panteleymonov02" style="ee" /></li>
+<li><cite key="conf/csmr/DeursenV02" style="ee" /></li>
+</ul>
+<h2>Session 9:
+Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/csmr/YehK02" style="ee" /></li>
+<li><cite key="conf/csmr/TahvildariK02" style="ee" /></li>
+<li><cite key="conf/csmr/LuccaFPTC02" style="ee" /></li>
+<li><cite key="conf/csmr/Favre02" style="ee" /></li>
+</ul><footer> 

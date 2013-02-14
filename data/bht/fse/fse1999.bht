@@ -1,0 +1,67 @@
+<bht key="db/conf/esec/esec99.bht" title="7. ESEC / 7. SIGSOFT FSE 1999:
+Toulouse, France"> <logo> 
+<h1>7. <ref href="db/conf/esec/index.html">ESEC</ref> / 7. <ref href="db/conf/sigsoft/index.html">SIGSOFT FSE</ref> 1999:
+Toulouse, France</h1><hr>
+<cite key="conf/esec/1999">
+
+<h2>Invited Papers</h2> 
+<ul class="publ-list">
+<li><cite key="conf/esec/Beck99" style="ee" /></li>
+<li><cite key="conf/esec/CzarneckiE99" style="ee" /></li>
+</ul>
+<h2>Software Components</h2> 
+<ul class="publ-list">
+<li><cite key="conf/esec/HauswirthJ99" style="ee" /></li>
+<li><cite key="conf/esec/MascoloPR99" style="ee" /></li>
+<li><cite key="conf/esec/Gafni99" style="ee" /></li>
+</ul>
+<h2>Software Process</h2> 
+<ul class="publ-list">
+<li><cite key="conf/esec/WarboysBGKMMM99" style="ee" /></li>
+<li><cite key="conf/esec/JagerSW99" style="ee" /></li>
+<li><cite key="conf/esec/Padberg99" style="ee" /></li>
+</ul>
+<h2>Specification</h2> 
+<ul class="publ-list">
+<li><cite key="conf/esec/LevesonHR99" style="ee" /></li>
+<li><cite key="conf/esec/GargantiniH99" style="ee" /></li>
+<li><cite key="conf/esec/ThompsonHM99" style="ee" /></li>
+</ul>
+<h2>Program Analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/esec/SiffCBKR99" style="ee" /></li>
+<li><cite key="conf/esec/LiangH99" style="ee" /></li>
+<li><cite key="conf/esec/Ball99" style="ee" /></li>
+<li><cite key="conf/esec/RountevRL99" style="ee" /></li>
+</ul>
+<h2>Testing and Debugging</h2> 
+<ul class="publ-list">
+<li><cite key="conf/esec/Zeller99" style="ee" /></li>
+<li><cite key="conf/esec/JaramilloGS99" style="ee" /></li>
+<li><cite key="conf/esec/ChangR99" style="ee" /></li>
+<li><cite key="conf/esec/GyimothyBF99" style="ee" /></li>
+</ul>
+<h2>Java</h2> 
+<ul class="publ-list">
+<li><cite key="conf/esec/RobillardM99" style="ee" /></li>
+<li><cite key="conf/esec/NaumovichAC99" style="ee" /></li>
+<li><cite key="conf/esec/Bokowski99" style="ee" /></li>
+</ul>
+<h2>Architecture and Models</h2> 
+<ul class="publ-list">
+<li><cite key="conf/esec/Fierz99" style="ee" /></li>
+<li><cite key="conf/esec/WermelingerF99" style="ee" /></li>
+<li><cite key="conf/esec/FradetMP99" style="ee" /></li>
+</ul>
+<h2>Reuse</h2> 
+<ul class="publ-list">
+<li><cite key="conf/esec/JarzabekK99" style="ee" /></li>
+<li><cite key="conf/esec/BayerGWDA99" style="ee" /></li>
+<li><cite key="conf/esec/DossickK99" style="ee" /></li>
+</ul>
+<h2>Verification and Checking</h2> 
+<ul class="publ-list">
+<li><cite key="conf/esec/GrimaudLV99" style="ee" /></li>
+<li><cite key="conf/esec/BrabermanF99" style="ee" /></li>
+<li><cite key="conf/esec/GiannakopoulouMK99" style="ee" /></li>
+</ul><footer> 

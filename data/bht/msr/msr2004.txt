@@ -1,0 +1,75 @@
+Infrastructure and Extraction
+=============================
+
+Preprocessing CVS Data for Fine-Grained Analys..................................................................2	
+	Thomas Zimmermann and Peter Weißgerber
+The Perils and Pitfalls of Mining SourceForge...................................................................7
+	James Howison and Kevin Crowston
+Research Infrastructure for Empirical Science of F/OSS..........................................................12
+	Les Gasser, Gabriel Ripoche, and Robert J. Sandusky
+Mining CVS repositories, the softChange experience..............................................................17
+	Daniel German
+Text is Software Too............................................................................................22
+	Alexander Dekhtyar, Jane Huffman Hayes, and Tim Menzies
+
+Integration and Presentation
+=============================
+
+GluTheos: Automating the Retrieval and Analysis of Data from Publicly Available Software Repositories.............28
+	Gregorio Robles, Jesus M. González-Barahona, and Rishab Aiyer Ghosh
+Using CVS Historical Information to Understand How Students Develop Software....................32
+	Ying Liu, Eleni Stroulia, Kenny Wong, and Daniel German
+Database Techniques for the Analysis and Exploration of Software Repositories........................37
+	Omar Alonso, Premkumar T. Devanbu, and Michael Gertz
+Empirical Project Monitor: A Tool for Mining Multiple Project Data..........................................42
+	Masao Ohira, Reishi Yokomori, Makoto Sakai, Ken-ichi Matsumoto, Katsuro Inoue and Koji Torii
+
+System Understanding and Change Patterns
+==========================================
+
+Mining Version Control Systems for FACs (Frequently Applied Changes)..................................48
+	Filip Van Rysselberghe and Serge Demeyer
+Mining the Software Change Repository of a Legacy Telephony System.....................................53
+	Jelber Sayyad Shirabad, Timothy C. Lethbridge, and Stan Matwin
+Four Interesting Ways in Which History Can Teach Us About Software.....................................58
+	Michael Godfrey, Xinyi Dong, Cory Kapser, and Lijie Zou
+Predicting Source Code Changes by Mining Revision History..............................................63
+	Annie T.T. Ying, Gail C. Murphy, Raymond Ng, and Mark C. Chu-Carroll
+Mining Software Usage Data.............................................................................64
+	Mohammad El-Ramly and Eleni Stroulia
+
+Defect Analysis
+================
+
+Bug Driven Bug Finders..................................................................................70
+	Chadd Williams and Jeffrey K. Hollingsworth
+Mining Repositories to Assist in Project Planning and Resource Allocation.................................75
+	Tim Menzies, Justin S. Di Stefano, Chris Cunanan, and Robert (Mike) Chapman
+Bug Report Networks: Varieties, Strategies, and Impacts in a F/OSS Development Community..................80
+	Robert J. Sandusky, Les Gasser, and Gabriel Ripoche
+A Tool for Mining Defect-Tracking Systems to Predict Fault-Prone Files....................................85
+	Thomas J. Ostrand and Elaine J. Weyuker
+Towards Understanding the Rhetoric of Small Changes................................................................90
+	Ranjith Purushothaman and Dewayne E. Perry
+
+Process and Community Analysis
+===============================
+
+Data Mining for Software Process Discovery in Open Source Software Development Communities....................96
+	Chris Jensen and Walt Scacchi
+Applying Social Network Analysis to the Information in CVS Repositories...........................101
+	Luis Lopez-Fernandez, Gregorio Robles, and Jesus M. Gonzalez-Barahona
+Mining a Software Developer’s Local Interaction History.....................................................106
+	Kevin Schneider, Carl Gutwin, Reagan Penner, and David Paquette
+
+Software Reuse
+===============
+
+LASER: A Lexical Approach to Analogy in Software Reuse.................................................112
+	Rushikesh Amin, Mel Ó Cinnéide, and Tony Veale
+A Case Study on Recommending Reusable Software Components Using Collaborative Filtering................117
+	Frank McCarey, Mel Ó Cinnéide, and Nicholas Kushmerick
+Template Mining in Source-Code Digital Libraries.......................................................122
+	Yuhanis Yusof and Omer F. Rana
+Multi-Project Software Engineering: An Example.........................................................127
+	Pankaj K Garg, Thomas Gschwind, and Katsuro Inoue

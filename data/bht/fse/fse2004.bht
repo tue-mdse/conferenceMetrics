@@ -1,0 +1,55 @@
+<bht key="db/conf/sigsoft/fse2004.bht" title="SIGSOFT FSE 2004"> <logo> 
+<h1>12. <ref href="db/conf/sigsoft/index.html">SIGSOFT FSE</ref> 2004:
+Newport Beach, California, USA</h1><hr> <cite key="conf/sigsoft/2004"> 
+<h2>Program analysis</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/Wolf04" style="ee" /></li>
+<li><cite key="conf/sigsoft/Egyed04" style="ee" /></li>
+<li><cite key="conf/sigsoft/DingelL04" style="ee" /></li>
+<li><cite key="conf/sigsoft/PerkinsE04" style="ee" /></li>
+</ul>
+<h2>Modeling and requirements</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/UchitelCKM04" style="ee" /></li>
+<li><cite key="conf/sigsoft/UchitelC04" style="ee" /></li>
+<li><cite key="conf/sigsoft/LetierL04" style="ee" /></li>
+</ul>
+<h2>Error explanation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/ManevichSA04" style="ee" /></li>
+<li><cite key="conf/sigsoft/ChakiGS04" style="ee" /></li>
+<li><cite key="conf/sigsoft/KremenekAYE04" style="ee" /></li>
+<li><cite key="conf/sigsoft/Marks04" style="ee" /></li>
+</ul>
+<h2>Safety and security</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/ZitserLL04" style="ee" /></li>
+<li><cite key="conf/sigsoft/Capra04" style="ee" /></li>
+<li><cite key="conf/sigsoft/XuDS04" style="ee" /></li>
+</ul>
+<h2>Aspects</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/MeziniO04" style="ee" /></li>
+<li><cite key="conf/sigsoft/KrishnamurthiFG04" style="ee" /></li>
+<li><cite key="conf/sigsoft/RinardSB04" style="ee" /></li>
+<li><cite key="conf/sigsoft/WalkerV04" style="ee" /></li>
+<li><cite key="conf/sigsoft/LevesonW04" style="ee" /></li>
+</ul>
+<h2>Verification</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/GieseBSO04" style="ee" /></li>
+<li><cite key="conf/sigsoft/EdwardsJT04" style="ee" /></li>
+<li><cite key="conf/sigsoft/TanACZL04" style="ee" /></li>
+</ul>
+<h2>Development support</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/PanWZXY04" style="ee" /></li>
+<li><cite key="conf/sigsoft/SouzaRCMP04" style="ee" /></li>
+<li><cite key="conf/sigsoft/ZhangYF04" style="ee" /></li>
+</ul>
+<h2>Testing and reliability</h2> 
+<ul class="publ-list">
+<li><cite key="conf/sigsoft/OrsoSH04" style="ee" /></li>
+<li><cite key="conf/sigsoft/CabalT04" style="ee" /></li>
+<li><cite key="conf/sigsoft/LiSHRS04" style="ee" /></li>
+</ul><footer> 

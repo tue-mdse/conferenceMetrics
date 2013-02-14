@@ -1,0 +1,78 @@
+<bht key="db/conf/wcre/wcre2001.bht" title="WCRE 2001"> <logo> 
+<h1>8. <ref href="db/conf/wcre/index.html">WCRE</ref> 2001:
+Stuttgart, Germany</h1><hr> Proceedings of the Eighth Working Conference on Reverse Engineering (WCRE'01), 2-5 October 2001, Suttgart, Germany. IEEE Computer Society, online publication:
+<a href="http://computer.org/proceedings/wcre/1303/1303toc.htm">http://computer.org/proceedings/wcre/1303/1303toc.htm</a> 
+<h2>Pre-Processing and Parsing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/KullbachR01" style="ee" /></li>
+<li><cite key="conf/wcre/Moonen01" style="ee" /></li>
+</ul>
+<h2>Program Slicing</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/HarmanHDHLF01" style="ee" /></li>
+<li><cite key="conf/wcre/VillavicencioO01" style="ee" /></li>
+</ul>
+<h2>Standard Schemas and Schema Conversions</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/FerencSHKG01" style="ee" /></li>
+<li><cite key="conf/wcre/DeanMH01" style="ee" /></li>
+</ul>
+<h2>Requirement and Design Level</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/TahvildariKM01" style="ee" /></li>
+<li><cite key="conf/wcre/KollmannG01" style="ee" /></li>
+</ul>
+<h2>Clustering for Remodularization</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/MitchellM01" style="ee" /></li>
+<li><cite key="conf/wcre/SartipiK01" style="ee" /></li>
+<li><cite key="conf/wcre/GannodG01" style="ee" /></li>
+</ul>
+<h2>Data Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Huet01" style="ee" /></li>
+<li><cite key="conf/wcre/Blaha01" style="ee" /></li>
+<li><cite key="conf/wcre/Blaha01a" style="ee" /></li>
+</ul>
+<h2>Program Comprehension</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Rilling01" style="ee" /></li>
+<li><cite key="conf/wcre/Anquetil01" style="ee" /></li>
+<li><cite key="conf/wcre/Deursen01" style="ee" /></li>
+</ul>
+<h3>Wrapping</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Sneed01" style="ee" /></li>
+<li><cite key="conf/wcre/ThiranH01" style="ee" /></li>
+<li><cite key="conf/wcre/El-RamlyISSM01" style="ee" /></li>
+</ul>
+<h2>Reengineering for the Web</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/MancoridisSCGK01" style="ee" /></li>
+<li><cite key="conf/wcre/LuccaPAC01" style="ee" /></li>
+<li><cite key="conf/wcre/VanderdoncktBS01" style="ee" /></li>
+<li><cite key="conf/wcre/BoldyreffK01" style="ee" /></li>
+</ul>
+<h2>Workshop on Analysis, Slicing, and Transformation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Balmas01" style="ee" /></li>
+<li><cite key="conf/wcre/HarmanHMZ01" style="ee" /></li>
+<li><cite key="conf/wcre/BaxterM01" style="ee" /></li>
+<li><cite key="conf/wcre/Blasband01" style="ee" /></li>
+<li><cite key="conf/wcre/Krinke01" style="ee" /></li>
+<li><cite key="conf/wcre/Mine01" style="ee" /></li>
+</ul>
+<h2>Workshop on Data Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Davis01" style="ee" /></li>
+<li><cite key="conf/wcre/BychkovJ01" style="ee" /></li>
+<li><cite key="conf/wcre/AlhajjP01" style="ee" /></li>
+<li><cite key="conf/wcre/EmburyS01" style="ee" /></li>
+</ul>
+<h2>Workshop on Decompilation Techniques</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Guilfanov01" style="ee" /></li>
+<li><cite key="conf/wcre/MycroftOK01" style="ee" /></li>
+<li><cite key="conf/wcre/MiecznikowskiH01" style="ee" /></li>
+<li><cite key="conf/wcre/CifuentesWE01" style="ee" /></li>
+</ul><footer> 

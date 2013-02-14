@@ -1,0 +1,404 @@
+<bht key="db/conf/icse/icse2012.bht" title="ICSE 2012"> <logo> 
+<h1>34. <ref href="db/conf/icse/index.html">ICSE</ref> 2012:
+Zurich, Switzerland</h1><cite key="conf/icse/2012"> 
+<h2>Technical Research</h2> 
+<h3>Fault Handling</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GouesDFW12" style="ee" /></li>
+<li><cite key="conf/icse/ZhouZL12" style="ee" /></li>
+<li><cite key="conf/icse/XuanJRZ12" style="ee" /></li>
+<li><cite key="conf/icse/ServantJ12" style="ee" /></li>
+</ul>
+<h3>Code Generation and Recovery</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DagenaisR12" style="ee" /></li>
+<li><cite key="conf/icse/XiongHSC12" style="ee" /></li>
+<li><cite key="conf/icse/NguyenNNTNAN12" style="ee" /></li>
+<li><cite key="conf/icse/LongGCSR12" style="ee" /></li>
+</ul>
+<h3>Empirical Studies of Development</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RamasubbuB12" style="ee" /></li>
+<li><cite key="conf/icse/YuanPZ12" style="ee" /></li>
+<li><cite key="conf/icse/LavalleeR12" style="ee" /></li>
+<li><cite key="conf/icse/PankratiusSG12" style="ee" /></li>
+</ul>
+<h3>Performance Analysis</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/YanXR12" style="ee" /></li>
+<li><cite key="conf/icse/HanDGZX12" style="ee" /></li>
+<li><cite key="conf/icse/GrechanikFX12" style="ee" /></li>
+<li><cite key="conf/icse/SiegmundKKABRS12" style="ee" /></li>
+</ul>
+<h3>Defect Prediction</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/FraserA12" style="ee" /></li>
+<li><cite key="conf/icse/PetersM12" style="ee" /></li>
+<li><cite key="conf/icse/HataMK12" style="ee" /></li>
+</ul>
+<h3>Refactoring</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GeDM12" style="ee" /></li>
+<li><cite key="conf/icse/FosterGL12" style="ee" /></li>
+<li><cite key="conf/icse/VakilianCNRBJ12" style="ee" /></li>
+</ul>
+<h3>Human Aspects of Development</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GreilerDS12" style="ee" /></li>
+<li><cite key="conf/icse/RoehmTKM12" style="ee" /></li>
+<li><cite key="conf/icse/Duala-EkokoR12" style="ee" /></li>
+</ul>
+<h3>Bug Detection</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SamirniSAMTH12" style="ee" /></li>
+<li><cite key="conf/icse/PradelG12" style="ee" /></li>
+<li><cite key="conf/icse/LiuZ12" style="ee" /></li>
+<li><cite key="conf/icse/LiE12" style="ee" /></li>
+</ul>
+<h3>Multiversion Software</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/IfrahL12" style="ee" /></li>
+<li><cite key="conf/icse/InoueSXM12" style="ee" /></li>
+<li><cite key="conf/icse/GuimaraesS12" style="ee" /></li>
+<li><cite key="conf/icse/MengWZM12" style="ee" /></li>
+</ul>
+<h3>Similarity and Classiﬁcation</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/McMillanGP12" style="ee" /></li>
+<li><cite key="conf/icse/BacchelliSDL12" style="ee" /></li>
+<li><cite key="conf/icse/TianLL12" style="ee" /></li>
+<li><cite key="conf/icse/LuciaLJB12" style="ee" /></li>
+</ul>
+<h3>Analysis for Evolution</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MesbahM12" style="ee" /></li>
+<li><cite key="conf/icse/BhattacharyaINF12" style="ee" /></li>
+<li><cite key="conf/icse/GethersDKP12" style="ee" /></li>
+<li><cite key="conf/icse/HermansPD12" style="ee" /></li>
+</ul>
+<h3>Debugging</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CeccatoMMNT12" style="ee" /></li>
+<li><cite key="conf/icse/GoreR12" style="ee" /></li>
+<li><cite key="conf/icse/JinO12" style="ee" /></li>
+<li><cite key="conf/icse/RessiaBN12" style="ee" /></li>
+</ul>
+<h3>Human Aspects of Process</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/PlonkaSL12" style="ee" /></li>
+<li><cite key="conf/icse/DownsPH12" style="ee" /></li>
+<li><cite key="conf/icse/ZhouM12" style="ee" /></li>
+<li><cite key="conf/icse/LemosFSG12" style="ee" /></li>
+</ul>
+<h3>Models</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/YuLHHKM12" style="ee" /></li>
+<li><cite key="conf/icse/ReichertG12" style="ee" /></li>
+<li><cite key="conf/icse/RazaviK12" style="ee" /></li>
+<li><cite key="conf/icse/FamelisSC12" style="ee" /></li>
+</ul>
+<h3>Concurrency and Exceptions</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ZhengZ12" style="ee" /></li>
+<li><cite key="conf/icse/ZhangE12" style="ee" /></li>
+<li><cite key="conf/icse/CaiC12" style="ee" /></li>
+</ul>
+<h3>Software Architecture</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/YskoutSJ12" style="ee" /></li>
+<li><cite key="conf/icse/ZhengT12" style="ee" /></li>
+<li><cite key="conf/icse/MirakhorliSCC12" style="ee" /></li>
+</ul>
+<h3>Formal Veriﬁcation</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/TamrawiNNN12" style="ee" /></li>
+<li><cite key="conf/icse/BalasubramaniamJKMN12" style="ee" /></li>
+<li><cite key="conf/icse/CordyCPSHL12" style="ee" /></li>
+</ul>
+<h3>Invariant Generation</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/NguyenKWF12" style="ee" /></li>
+<li><cite key="conf/icse/SongT12" style="ee" /></li>
+<li><cite key="conf/icse/AlrajehKLRU12" style="ee" /></li>
+</ul>
+<h3>Regression Testing</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MarinescuC12" style="ee" /></li>
+<li><cite key="conf/icse/NistorLPGM12" style="ee" /></li>
+<li><cite key="conf/icse/HaoZWMR12" style="ee" /></li>
+</ul>
+<h3>Software Vulnerability</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MollerS12" style="ee" /></li>
+<li><cite key="conf/icse/DietzLRA12" style="ee" /></li>
+<li><cite key="conf/icse/ShahzadSL12" style="ee" /></li>
+</ul>
+<h3>API Learning</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BuseW12" style="ee" /></li>
+<li><cite key="conf/icse/HenssMM12" style="ee" /></li>
+<li><cite key="conf/icse/UddinDR12" style="ee" /></li>
+<li><cite key="conf/icse/PanditaXZXOP12" style="ee" /></li>
+</ul>
+<h3>Code Recommenders</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ZhangYZFZZO12" style="ee" /></li>
+<li><cite key="conf/icse/HindleBSGD12" style="ee" /></li>
+<li><cite key="conf/icse/McMillanHPCM12" style="ee" /></li>
+<li><cite key="conf/icse/OmarYLM12" style="ee" /></li>
+</ul>
+<h3>Test Automation</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/StaatsGH12" style="ee" /></li>
+<li><cite key="conf/icse/ThummalapentaSSC12" style="ee" /></li>
+<li><cite key="conf/icse/ZhouXZ12" style="ee" /></li>
+<li><cite key="conf/icse/SongPF12" style="ee" /></li>
+</ul>
+<h3>Validation of Speciﬁcation</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KumarKRL12" style="ee" /></li>
+<li><cite key="conf/icse/PradelJAG12" style="ee" /></li>
+<li><cite key="conf/icse/GhezziM12" style="ee" /></li>
+<li><cite key="conf/icse/AlkhalafBG12" style="ee" /></li>
+</ul>
+<h2>Keynotes</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Sassen12" style="ee" /></li>
+<li><cite key="conf/icse/Clesle12" style="ee" /></li>
+<li><cite key="conf/icse/Kramer12" style="ee" /></li>
+</ul>
+<h2>Software Engineering in Practice</h2> 
+<h3>Services and Analytics</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Chapman12" style="ee" /></li>
+<li><cite key="conf/icse/BianculliGPS12" style="ee" /></li>
+<li><cite key="conf/icse/PloomSG12" style="ee" /></li>
+<li><cite key="conf/icse/BuseZ12" style="ee" /></li>
+</ul>
+<h3>Mini-Tutorial:
+Software Analytics</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ZhangX12" style="ee" /></li>
+</ul>
+<h3>Invited Industrial Experts</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Braithwaite12" style="ee" /></li>
+<li><cite key="conf/icse/Wolff12" style="ee" /></li>
+<li><cite key="conf/icse/Sprenger12" style="ee" /></li>
+</ul>
+<h3>Formal Methods</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Schulte12" style="ee" /></li>
+<li><cite key="conf/icse/AndronickJKKSZZ12" style="ee" /></li>
+<li><cite key="conf/icse/IwamaNT12" style="ee" /></li>
+<li><cite key="conf/icse/EsteveKNPY12" style="ee" /></li>
+</ul>
+<h3>Goldﬁsh Bowl Panel:
+Software Development Analytics</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MenziesZ12" style="ee" /></li>
+</ul>
+<h3>Re-engineering</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BnayahuGNS12" style="ee" /></li>
+<li><cite key="conf/icse/NovaisNLCDGM12" style="ee" /></li>
+<li><cite key="conf/icse/SunSPR12" style="ee" /></li>
+</ul>
+<h3>Debugging</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DeLineBRJR12" style="ee" /></li>
+<li><cite key="conf/icse/ZimmermannNGM12" style="ee" /></li>
+<li><cite key="conf/icse/DangWZZN12" style="ee" /></li>
+</ul>
+<h3>Case Studies</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SillittiSV12" style="ee" /></li>
+<li><cite key="conf/icse/EderJJHVP12" style="ee" /></li>
+<li><cite key="conf/icse/Mendes12" style="ee" /></li>
+</ul>
+<h3>Testing</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Penix12" style="ee" /></li>
+<li><cite key="conf/icse/DevosPDBMA12" style="ee" /></li>
+<li><cite key="conf/icse/WagnerLHKTPSGS12" style="ee" /></li>
+<li><cite key="conf/icse/KimKKJ12" style="ee" /></li>
+</ul>
+<h2>Software Engineering Education</h2> 
+<h3>The Role of Software Projects in Software Engineering Education</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BavotaLFOZ12" style="ee" /></li>
+<li><cite key="conf/icse/KilamoHC12" style="ee" /></li>
+<li><cite key="conf/icse/SusB12" style="ee" /></li>
+</ul>
+<h3>Aspects of Teaching Software Engineering</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Cowling12" style="ee" /></li>
+<li><cite key="conf/icse/FuhrmanCA12" style="ee" /></li>
+<li><cite key="conf/icse/BudgenDBH12" style="ee" /></li>
+</ul>
+<h3>Software Engineering Education in Industry</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SamarthyamSGN12" style="ee" /></li>
+</ul>
+<h3>Teaching Distributed Software Engineering</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CrnkovicBZ12" style="ee" /></li>
+<li><cite key="conf/icse/CavrakOC12" style="ee" /></li>
+<li><cite key="conf/icse/RongZXS12" style="ee" /></li>
+<li><cite key="conf/icse/PentaAGGA12" style="ee" /></li>
+</ul>
+<h2>New Ideas and Emerging Results</h2> 
+<h3>NIER in Support of Software Engineers</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RoehmM12" style="ee" /></li>
+<li><cite key="conf/icse/MitchellS12" style="ee" /></li>
+<li><cite key="conf/icse/AtkinsonGK12" style="ee" /></li>
+<li><cite key="conf/icse/HaiducBOML12" style="ee" /></li>
+<li><cite key="conf/icse/DornT12" style="ee" /></li>
+<li><cite key="conf/icse/WrightP12" style="ee" /></li>
+<li><cite key="conf/icse/Corrigan12" style="ee" /></li>
+</ul>
+<h3>NIER for Mining Product and Process Data</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SchwarzLR12" style="ee" /></li>
+<li><cite key="conf/icse/SharT12" style="ee" /></li>
+<li><cite key="conf/icse/NguyenNDKS12" style="ee" /></li>
+<li><cite key="conf/icse/Hindle12" style="ee" /></li>
+<li><cite key="conf/icse/FengC12" style="ee" /></li>
+<li><cite key="conf/icse/ChatzigeorgiouM12" style="ee" /></li>
+<li><cite key="conf/icse/RogersGQB12" style="ee" /></li>
+</ul>
+<h3>NIER for Veriﬁcation and Evolution</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Murphy-Hill12" style="ee" /></li>
+<li><cite key="conf/icse/GreenwoodRW12" style="ee" /></li>
+<li><cite key="conf/icse/SingerS12" style="ee" /></li>
+<li><cite key="conf/icse/Cleland-HuangSKCLMGPHL12" style="ee" /></li>
+<li><cite key="conf/icse/KuhnS12" style="ee" /></li>
+<li><cite key="conf/icse/SongHLSLD12" style="ee" /></li>
+<li><cite key="conf/icse/BoosFJK12" style="ee" /></li>
+<li><cite key="conf/icse/AlshahwanH12" style="ee" /></li>
+<li><cite key="conf/icse/MusluBHEN12" style="ee" /></li>
+<li><cite key="conf/icse/PerrouinMCFKTBJ12" style="ee" /></li>
+<li><cite key="conf/icse/CasatiDDEFKMMOPQRSTV12" style="ee" /></li>
+<li><cite key="conf/icse/LutzLLKHMS12" style="ee" /></li>
+</ul>
+<h2>Formal Research Demonstrations</h2> 
+<h3>Formal Demos 1</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GuzziB12" style="ee" /></li>
+<li><cite key="conf/icse/SegallT12" style="ee" /></li>
+<li><cite key="conf/icse/KeenanCLCSMGPMHDMHH12" style="ee" /></li>
+<li><cite key="conf/icse/CookHSS12" style="ee" /></li>
+<li><cite key="conf/icse/PintoCG12" style="ee" /></li>
+<li><cite key="conf/icse/MarianiP12" style="ee" /></li>
+<li><cite key="conf/icse/NguyenNNN12" style="ee" /></li>
+<li><cite key="conf/icse/CunhaFMS12" style="ee" /></li>
+</ul>
+<h3>Formal Demos 2</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/TreudeGGS12" style="ee" /></li>
+<li><cite key="conf/icse/GhezziMS12" style="ee" /></li>
+<li><cite key="conf/icse/NguyenNNN12a" style="ee" /></li>
+<li><cite key="conf/icse/ReissBL12" style="ee" /></li>
+<li><cite key="conf/icse/RuscioPP12" style="ee" /></li>
+<li><cite key="conf/icse/BavotaLMOP12" style="ee" /></li>
+<li><cite key="conf/icse/GrossFZ12" style="ee" /></li>
+<li><cite key="conf/icse/JinMLR12" style="ee" /></li>
+</ul>
+<h2>Posters and Informal Demonstrations</h2> 
+<h3>Posters</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RubinovW12" style="ee" /></li>
+<li><cite key="conf/icse/NaganoNKAHUF12" style="ee" /></li>
+<li><cite key="conf/icse/PaganoJBRBM12" style="ee" /></li>
+<li><cite key="conf/icse/GambiT12" style="ee" /></li>
+<li><cite key="conf/icse/LeottaRRRAV12" style="ee" /></li>
+<li><cite key="conf/icse/CunhaFMS12a" style="ee" /></li>
+<li><cite key="conf/icse/CarzanigaGMP12" style="ee" /></li>
+<li><cite key="conf/icse/ForbesKR12" style="ee" /></li>
+</ul>
+<h3>Informal Demonstrations</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/VoelterP12" style="ee" /></li>
+<li><cite key="conf/icse/HuangLXW12" style="ee" /></li>
+<li><cite key="conf/icse/OuelletMSG12" style="ee" /></li>
+<li><cite key="conf/icse/SongT12a" style="ee" /></li>
+<li><cite key="conf/icse/KramerKKB12" style="ee" /></li>
+<li><cite key="conf/icse/WehrmakerGS12" style="ee" /></li>
+<li><cite key="conf/icse/ZhengT12a" style="ee" /></li>
+<li><cite key="conf/icse/AlvesSF12" style="ee" /></li>
+<li><cite key="conf/icse/AstromskisJM12" style="ee" /></li>
+<li><cite key="conf/icse/AntunesCG12" style="ee" /></li>
+<li><cite key="conf/icse/ZhangLY12" style="ee" /></li>
+<li><cite key="conf/icse/FranceBMCJ12" style="ee" /></li>
+</ul>
+<h2>Doctoral Symposium</h2> 
+<h3>Posters 1-12</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Tamburri12" style="ee" /></li>
+<li><cite key="conf/icse/Bavota12" style="ee" /></li>
+<li><cite key="conf/icse/Khoshnevis12" style="ee" /></li>
+<li><cite key="conf/icse/Chioasca12" style="ee" /></li>
+<li><cite key="conf/icse/Avancini12" style="ee" /></li>
+<li><cite key="conf/icse/Bailey12" style="ee" /></li>
+<li><cite key="conf/icse/Dilshener12" style="ee" /></li>
+<li><cite key="conf/icse/Kalumbilo12" style="ee" /></li>
+<li><cite key="conf/icse/Colanzi12" style="ee" /></li>
+<li><cite key="conf/icse/Wen12" style="ee" /></li>
+<li><cite key="conf/icse/Imtiaz12" style="ee" /></li>
+<li><cite key="conf/icse/Ghardallou12" style="ee" /></li>
+</ul>
+<h3>Presentations 1-4</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Bohme12" style="ee" /></li>
+<li><cite key="conf/icse/Westermann12" style="ee" /></li>
+<li><cite key="conf/icse/Motta12" style="ee" /></li>
+<li><cite key="conf/icse/Guzzi12" style="ee" /></li>
+</ul>
+<h3>Presentations 5-6</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Blincoe12" style="ee" /></li>
+<li><cite key="conf/icse/Rodes12" style="ee" /></li>
+</ul>
+<h3>Posters 13-25</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DIppolito12" style="ee" /></li>
+<li><cite key="conf/icse/Ressin12" style="ee" /></li>
+<li><cite key="conf/icse/Faghih12" style="ee" /></li>
+<li><cite key="conf/icse/Monteiro12" style="ee" /></li>
+<li><cite key="conf/icse/Jaafar12" style="ee" /></li>
+<li><cite key="conf/icse/Sheth12" style="ee" /></li>
+<li><cite key="conf/icse/Stolee12" style="ee" /></li>
+<li><cite key="conf/icse/Steele12" style="ee" /></li>
+<li><cite key="conf/icse/Mayerhofer12" style="ee" /></li>
+<li><cite key="conf/icse/Shang12" style="ee" /></li>
+<li><cite key="conf/icse/Zanetti12" style="ee" /></li>
+<li><cite key="conf/icse/Elyasov12" style="ee" /></li>
+<li><cite key="conf/icse/Schuchardt12" style="ee" /></li>
+</ul>
+<h2>ACM Student Research Competition</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Blincoe12a" style="ee" /></li>
+<li><cite key="conf/icse/Yu12" style="ee" /></li>
+<li><cite key="conf/icse/Johnson12" style="ee" /></li>
+<li><cite key="conf/icse/Kukreja12" style="ee" /></li>
+<li><cite key="conf/icse/Vetro12" style="ee" /></li>
+<li><cite key="conf/icse/Mendes12a" style="ee" /></li>
+<li><cite key="conf/icse/Thao12" style="ee" /></li>
+<li><cite key="conf/icse/Demuth12" style="ee" /></li>
+<li><cite key="conf/icse/Chowdhury12" style="ee" /></li>
+<li><cite key="conf/icse/Schwarz12" style="ee" /></li>
+<li><cite key="conf/icse/Gu12" style="ee" /></li>
+<li><cite key="conf/icse/Estefo12" style="ee" /></li>
+<li><cite key="conf/icse/Souza12" style="ee" /></li>
+<li><cite key="conf/icse/Camilli12" style="ee" /></li>
+<li><cite key="conf/icse/Butler12" style="ee" /></li>
+<li><cite key="conf/icse/Keivanloo12" style="ee" /></li>
+</ul>
+<h2>Invited Summaries</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Kajko-MattssonSGJSHMMEBS12" style="ee" /></li>
+<li><cite key="conf/icse/OrsoR12" style="ee" /></li>
+<li><cite key="conf/icse/LeitnerN12" style="ee" /></li>
+</ul><footer> 

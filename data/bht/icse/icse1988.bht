@@ -1,0 +1,106 @@
+<bht key="db/conf/icse/icse88.bht" title="ICSE 1988"> <logo> 
+<h1>10. <ref href="db/conf/icse/index.html">ICSE</ref> 1988:
+Singapore</h1>
+
+<cite key="conf/icse/1988">
+
+<h2>Technical Keynote</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Kishida88"></li>
+</ul>
+<h2>Parallel and Distributed Applications</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Itzigehl88" style="ee" /></li>
+<li><cite key="conf/icse/Satyanarayanan88" style="ee" /></li>
+<li><cite key="conf/icse/BarbacciWW88" style="ee" /></li>
+</ul>
+<h2>Management</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BoehmR88" style="ee" /></li>
+<li><cite key="conf/icse/Duncan88" style="ee" /></li>
+<li><cite key="conf/icse/Dixon88" style="ee" /></li>
+</ul>
+<h2>Environments</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/PerryK88" style="ee" /></li>
+<li><cite key="conf/icse/KishidaKMMOSSTW88" style="ee" /></li>
+<li><cite key="conf/icse/MullerK88" style="ee" /></li>
+</ul>
+<h2>Distributed System Design</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Fagerstrom88" style="ee" /></li>
+<li><cite key="conf/icse/Muhlhauser88" style="ee" /></li>
+<li><cite key="conf/icse/EvangelistSFG88" style="ee" /></li>
+</ul>
+<h2>Real Time</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HuangZC88" style="ee" /></li>
+<li><cite key="conf/icse/Hagemann88" style="ee" /></li>
+<li><cite key="conf/icse/OrrNTR88" style="ee" /></li>
+</ul>
+<h2>Plenary Session</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MurrayP88"></li>
+</ul>
+<h2>Software Quality Techniques</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/EmbleyW88" style="ee" /></li>
+<li><cite key="conf/icse/MathurK88" style="ee" /></li>
+<li><cite key="conf/icse/DucasseE88" style="ee" /></li>
+</ul>
+<h2>Process Models</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Williams88" style="ee" /></li>
+<li><cite key="conf/icse/JefferyB88" style="ee" /></li>
+<li><cite key="conf/icse/Fonorow88" style="ee" /></li>
+</ul>
+<h2>Environments Components</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Narayanaswamy88" style="ee" /></li>
+<li><cite key="conf/icse/Mano88" style="ee" /></li>
+<li><cite key="conf/icse/ZeilE88" style="ee" /></li>
+</ul>
+<h2>Panel</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Wasserman88" style="ee" /></li>
+</ul>
+<h2>Reuse</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/LieberherrR88" style="ee" /></li>
+<li><cite key="conf/icse/TarumiAO88" style="ee" /></li>
+<li><cite key="conf/icse/NotkinG88" style="ee" /></li>
+</ul>
+<h2>Specifying Concurrent Systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Hallman88" style="ee" /></li>
+<li><cite key="conf/icse/Roman88" style="ee" /></li>
+<li><cite key="conf/icse/ChiuL88" style="ee" /></li>
+</ul>
+<h2>Panel</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Williams88a"></li>
+</ul>
+<h2>Formal Methods</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CraigenKMNPS88" style="ee" /></li>
+<li><cite key="conf/icse/NakagawaFTS88" style="ee" /></li>
+<li><cite key="conf/icse/TerwilligerC88" style="ee" /></li>
+</ul>
+<h2>User Issues</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Baecker88" style="ee" /></li>
+<li><cite key="conf/icse/YoungTTK88" style="ee" /></li>
+<li><cite key="conf/icse/ChaLS88" style="ee" /></li>
+</ul>
+<h2>Automated Tools</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Benjamin88" style="ee" /></li>
+<li><cite key="conf/icse/HarelLNPPSS88" style="ee" /></li>
+<li><cite key="conf/icse/Sharp88" style="ee" /></li>
+</ul>
+<h2>Software Derivation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/icse/PottsB88" style="ee" /></li>
+<li><cite key="conf/icse/Johnson88" style="ee" /></li>
+<li><cite key="conf/icse/Barstow88" style="ee" /></li>
+</ul><footer> 

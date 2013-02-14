@@ -1,0 +1,153 @@
+<bht key="db/conf/icse/icse2009.bht" title="ICSE 2009"> <logo> 
+<h1>31. <ref href="db/conf/icse/index.html">ICSE</ref> 2009:
+Vancouver, BC, Canada</h1><hr> <cite key="conf/icse/2009"> 
+<h2>Research Papers</h2> 
+<h3>Collaborative Development</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/WolfSDN09" style="ee" /></li>
+<li><cite key="conf/icse/TreudeS09" style="ee" /></li>
+<li><cite key="conf/icse/SarmaMWH09" style="ee" /></li>
+</ul>
+<h3>Debugging</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ChilimbiLMNV09" style="ee" /></li>
+<li><cite key="conf/icse/WangCCZ09" style="ee" /></li>
+<li><cite key="conf/icse/SantelicesJYH09" style="ee" /></li>
+</ul>
+<h3>Software Quality and Metrics</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Mockus09" style="ee" /></li>
+<li><cite key="conf/icse/Hassan09" style="ee" /></li>
+<li><cite key="conf/icse/ComanSS09" style="ee" /></li>
+</ul>
+<h3>Dynamic Adaptation</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CalinescuK09" style="ee" /></li>
+<li><cite key="conf/icse/EpifaniGMT09" style="ee" /></li>
+<li><cite key="conf/icse/MorinBNJ09" style="ee" /></li>
+</ul>
+<h3>Program Analysis I</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/NandaS09" style="ee" /></li>
+<li><cite key="conf/icse/BuseW09" style="ee" /></li>
+<li><cite key="conf/icse/HangalL09" style="ee" /></li>
+</ul>
+<h3>Components</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ChangMP09" style="ee" /></li>
+<li><cite key="conf/icse/GeayPTRD09" style="ee" /></li>
+<li><cite key="conf/icse/GermanH09" style="ee" /></li>
+</ul>
+<h3>Web Applications</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KiezunGJE09" style="ee" /></li>
+<li><cite key="conf/icse/MesbahD09" style="ee" /></li>
+</ul>
+<h3>Development Tools</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ApelKL09" style="ee" /></li>
+<li><cite key="conf/icse/HillPV09" style="ee" /></li>
+<li><cite key="conf/icse/Reiss09" style="ee" /></li>
+</ul>
+<h3>Modeling</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ThumBK09" style="ee" /></li>
+<li><cite key="conf/icse/AlrajehKRU09" style="ee" /></li>
+<li><cite key="conf/icse/PhamNNAN09" style="ee" /></li>
+</ul>
+<h3>Maintenance</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Murphy-HillPB09" style="ee" /></li>
+<li><cite key="conf/icse/ArandaV09" style="ee" /></li>
+<li><cite key="conf/icse/KimN09" style="ee" /></li>
+</ul>
+<h3>Program Comprehension</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/DekelH09" style="ee" /></li>
+<li><cite key="conf/icse/PadioleauTZ09" style="ee" /></li>
+</ul>
+<h3>Code Generation and Transformation</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/RaysideBSNMJ09" style="ee" /></li>
+<li><cite key="conf/icse/WangZXMS09" style="ee" /></li>
+<li><cite key="conf/icse/WeimerNGF09" style="ee" /></li>
+</ul>
+<h3>Concurrency</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/Zhang09" style="ee" /></li>
+<li><cite key="conf/icse/NaikPSG09" style="ee" /></li>
+<li><cite key="conf/icse/DigME09" style="ee" /></li>
+</ul>
+<h3>Testing I</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GrechanikXF09" style="ee" /></li>
+<li><cite key="conf/icse/HsuO09" style="ee" /></li>
+</ul>
+<h3>Model Synthesis</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/GhezziMM09" style="ee" /></li>
+<li><cite key="conf/icse/DamasLRL09" style="ee" /></li>
+<li><cite key="conf/icse/CasoBGU09" style="ee" /></li>
+</ul>
+<h3>Testing II</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BurnimJS09" style="ee" /></li>
+<li><cite key="conf/icse/GaneshLR09" style="ee" /></li>
+</ul>
+<h3>Program Analysis II</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/JurgensDHW09" style="ee" /></li>
+<li><cite key="conf/icse/ThummalapentaX09" style="ee" /></li>
+<li><cite key="conf/icse/WlokaRTR09" style="ee" /></li>
+</ul>
+<h3>Development Paradigms and Software Process</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BirdNDGM09" style="ee" /></li>
+<li><cite key="conf/icse/RamasubbuB09" style="ee" /></li>
+<li><cite key="conf/icse/MenziesWBH09" style="ee" /></li>
+</ul>
+<h2>Formal Research Demonstrations</h2> 
+<h3>Software Development Assistance</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HumayounDC09" style="ee" /></li>
+<li><cite key="conf/icse/WangZXMS09a" style="ee" /></li>
+<li><cite key="conf/icse/ZhangHZM09" style="ee" /></li>
+</ul>
+<h3>Testing and Fault Localization</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/MarianiPP09" style="ee" /></li>
+<li><cite key="conf/icse/WlokaRT09" style="ee" /></li>
+</ul>
+<h3>Program Comprehension</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/BoccuzzoG09" style="ee" /></li>
+<li><cite key="conf/icse/TreudeS09a" style="ee" /></li>
+<li><cite key="conf/icse/GousiosS09" style="ee" /></li>
+</ul>
+<h3>Concurrency and Debugging</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/HaoZZSM09" style="ee" /></li>
+</ul>
+<h3>From Requirements to Architecture</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/KnaussLM09" style="ee" /></li>
+<li><cite key="conf/icse/GarlanS09" style="ee" /></li>
+</ul>
+<h3>Differences and Similarities</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/CanforaCP09" style="ee" /></li>
+<li><cite key="conf/icse/DagenaisR09" style="ee" /></li>
+<li><cite key="conf/icse/JurgensDH09" style="ee" /></li>
+</ul>
+<h3>Components and Features</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/SentillesPNNPC09" style="ee" /></li>
+<li><cite key="conf/icse/KastnerTSFLWA09" style="ee" /></li>
+<li><cite key="conf/icse/HenklerGHSAEHLSG09" style="ee" /></li>
+</ul>
+<h3>Web Services</h3> 
+<ul class="publ-list">
+<li><cite key="conf/icse/ShengPYWNM09" style="ee" /></li>
+<li><cite key="conf/icse/BianculliBDG09" style="ee" /></li>
+<li><cite key="conf/icse/CamaraMSCOCP09" style="ee" /></li>
+</ul><footer> 

@@ -1,0 +1,65 @@
+<bht key="db/conf/wcre/wcre1999.bht" title="WCRE 1999"> <logo> 
+<h1>6. <ref href="db/conf/wcre/index.html">WCRE</ref> 1999:
+Atlanta, Georgia, USA</h1><hr> Sixth Working Conference on Reverse Engineering, WCRE '99, 6-8 October, 1999, Atlanta, Georgia, USA. IEEE Computer Society Press, online publication:
+<a href="http://computer.org/proceedings/wcre/0303/0303toc.htm">http:
+//computer.org/proceedings/wcre/0303/0303toc.htm</a> 
+<h3>Architecture</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/WatersA99" style="ee" /></li>
+<li><cite key="conf/wcre/CarriereWK99" style="ee" /></li>
+<li><cite key="conf/wcre/FreitasL99" style="ee" /></li>
+</ul>
+<h3>Reengineering</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/LakhotiaD99" style="ee" /></li>
+<li><cite key="conf/wcre/SouderM99" style="ee" /></li>
+<li><cite key="conf/wcre/TuckerS99" style="ee" /></li>
+</ul>
+<h3>The Meta Level</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Cifuentes99" style="ee" /></li>
+<li><cite key="conf/wcre/GannodC99" style="ee" /></li>
+<li><cite key="conf/wcre/EbertKW99" style="ee" /></li>
+</ul>
+<h3>Techniques</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/GannodC99a" style="ee" /></li>
+<li><cite key="conf/wcre/CaprileT99" style="ee" /></li>
+<li><cite key="conf/wcre/SchlesingerR99" style="ee" /></li>
+</ul>
+<h3>Documentation</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/AntoniolCLM99" style="ee" /></li>
+<li><cite key="conf/wcre/ErdemJ99" style="ee" /></li>
+<li><cite key="conf/wcre/DucasseRN99" style="ee" /></li>
+</ul>
+<h3>Metrics</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/BurdM99" style="ee" /></li>
+<li><cite key="conf/wcre/DemeyerDL99" style="ee" /></li>
+<li><cite key="conf/wcre/TzerposH99" style="ee" /></li>
+</ul>
+<h3>Case Studies</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Blaha99" style="ee" /></li>
+<li><cite key="conf/wcre/Sneed99" style="ee" /></li>
+<li><cite key="conf/wcre/CimitileFV99" style="ee" /></li>
+</ul>
+<h3>Modularization</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Jermaine99" style="ee" /></li>
+<li><cite key="conf/wcre/AnquetilL99" style="ee" /></li>
+<li><cite key="conf/wcre/Koschke99" style="ee" /></li>
+</ul>
+<h3>Tools</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Balmas99" style="ee" /></li>
+<li><cite key="conf/wcre/CifuentesER99" style="ee" /></li>
+<li><cite key="conf/wcre/StrouliaEKSM99" style="ee" /></li>
+</ul>
+<h3>Java</h3> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Systa99" style="ee" /></li>
+<li><cite key="conf/wcre/KornCK99" style="ee" /></li>
+<li><cite key="conf/wcre/BalazinskaMDLK99" style="ee" /></li>
+</ul><footer> 

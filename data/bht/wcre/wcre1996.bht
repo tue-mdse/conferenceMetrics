@@ -1,0 +1,77 @@
+<bht key="db/conf/wcre/wcre1996.bht" title="WCRE 1996"> <logo> 
+<h1>3. <ref href="db/conf/wcre/index.html">WCRE</ref> 1996:
+Monterey, CA, USA</h1><hr> 3rd Working Conference on Reverse Engineering, WCRE '96, November 8-10, 1996, Monterey, CA, USA. IEEE Computer Society Press, 1996, ISBN 0-8186-7674-4 
+<h2>Experiments with Large Systems</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Neighbors96" style="ee" /></li>
+<li><cite key="conf/wcre/LewisM96" style="ee" /></li>
+</ul>
+<h2>Experiments for Evaluation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/WoodsQ96" style="ee" /></li>
+<li><cite key="conf/wcre/StoreyWFHHM96" style="ee" /></li>
+</ul>
+<h2>User Interface Migration</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Moore96" style="ee" /></li>
+</ul>
+<h2>Reverse Engineering Binary and Assembler Code</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Cifuentes96" style="ee" /></li>
+<li><cite key="conf/wcre/MorrisF96" style="ee" /></li>
+<li><cite key="conf/wcre/LakeB96" style="ee" /></li>
+<li><cite key="conf/wcre/RobertsPK96" style="ee" /></li>
+</ul>
+<h2>Object Model Transformation</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/BlahaP96" style="ee" /></li>
+</ul>
+<h2>Reengineering Infrastructure</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/RugaberW96" style="ee" /></li>
+</ul>
+<h2>Wrapping</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Sneed96" style="ee" /></li>
+</ul>
+<h2>Data Reverse Engineering</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/McAllister96" style="ee" /></li>
+<li><cite key="conf/wcre/HainautHREH96" style="ee" /></li>
+<li><cite key="conf/wcre/Davis96" style="ee" /></li>
+</ul>
+<h2>Visualizing Recovered Architectures</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/ChaseHRY96" style="ee" /></li>
+<li><cite key="conf/wcre/HoltP96" style="ee" /></li>
+</ul>
+<h2>Recovering Objects</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/Sneed96a" style="ee" /></li>
+<li><cite key="conf/wcre/PenteadoGM96" style="ee" /></li>
+<li><cite key="conf/wcre/BurdMW96" style="ee" /></li>
+</ul>
+<h2>Recognition</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/TonellaFAM96" style="ee" /></li>
+<li><cite key="conf/wcre/KramerP96" style="ee" /></li>
+</ul>
+<h2>Domain-Oriented Recovery</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/DeBaud96" style="ee" /></li>
+<li><cite key="conf/wcre/GravleyL96" style="ee" /></li>
+</ul><hr> 
+<h1>Addendum:
+Papers Reprinted from ICSM '96</h1> 
+<h2>Reverse Engineering I</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/YoungerLBB96" style="ee" /></li>
+<li><cite key="conf/wcre/GannodC96" style="ee" /></li>
+<li><cite key="conf/wcre/Abd-El-Hafiz96" style="ee" /></li>
+</ul>
+<h2>Reverse Engineering II</h2> 
+<ul class="publ-list">
+<li><cite key="conf/wcre/WildeC96" style="ee" /></li>
+<li><cite key="conf/wcre/FiutemTAM96" style="ee" /></li>
+<li><cite key="conf/wcre/Favre96" style="ee" /></li>
+</ul><footer> 
