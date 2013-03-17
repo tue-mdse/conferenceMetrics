@@ -56,3 +56,11 @@ Python scripts:
 - The database is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/)
 - Any rights in individual contents of the database (i.e., the data) are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/)
 - The tooling (e.g., Python scripts and R scripts) used are licensed under the [GNU Lesser General Public License](http://www.gnu.org/licenses/lgpl.txt) version 3
+
+## Citation information
+
+If you find the dataset or tooling useful in your research, please consider citing the following paper:
+
+> Bogdan Vasilescu, Alexander Serebrenik and Tom Mens, "Mining software engineering conference data", in _MSR '13: Proceedings of the 10th Working Conference on Mining Software Repositories_, May 18-–19, 2013. San Francisco, California, USA.
+
+Additionally, if you're interested in a "health assessment" of software engineering conferences, consider reading [this preprint](http://www.win.tue.nl/mdse/conferences/SCP13.pdf) submitted to Science of Computer Programming.

@@ -20,10 +20,10 @@ from sqlalchemy.orm import sessionmaker
 import os
 from unicodeMagic import UnicodeReader
 from unidecode import unidecode
-from initDB import Base
 from initDB import Paper, Person, Conference, PCMembership, SubmissionsCount
 from resetDB import cleanStart
 from initDB import initDB
+from initDB import Base
 
 
 dataPath = os.path.abspath("../../data")
