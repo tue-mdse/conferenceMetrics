@@ -1,3 +1,54 @@
+2013;Justyna Petke,Shin Yoo,Myra B. Cohen,Mark Harman;Efficiency and Early Fault Detection with Lower and Higher Strength Combinatorial Interaction Testing;;;;;selected
+2013;Azadeh Farzan,Andreas Holzer,Niloofar Razavi,Helmut Veith;Con2colic Testing;;;;;selected
+2013;Joxan Jaffar,Vijayaraghavan Murali,Jorge A. Navas;Boosting Concolic Testing via Interpolation;;;;;selected
+2013;Antonia Bertolino,Eda Marchetti,Andrea Morichetta;Adequate Monitoring of Service Compositions;;;;;selected
+2013;Marin Silic,Goran Delac,Sinisa Srbljic;Prediction of Atomic Web Services Reliability Based on K-Means Clustering;;;;;selected
+2013;Jorg Liebig,Alexander von Rhein,Christian Kastner,Sven Apel,Jens Dorre,Christian Lengauer;Scalable Analysis of Variable Software;;;;;selected
+2013;Guillaume Claret,Sriram K. Rajamani,Aditya V. Nori,Andy Gordon,Johannes Borgstrom;Bayesian Inference using Data Flow Analysis;;;;;selected
+2013;Kaituo Li,Christoph Reichenbach,Yannis Smaragdakis,Michal Young;Second-Order Constraints in Dynamic Invariant Inference;;;;;selected
+2013;Yunhui Zheng,Xiangyun Zhang,Vijay Ganesh;Z3-str: A Z3-Based String Solver for Web Application Analysis;;;;;selected
+2013;Dong Qiu,Bixin Li,Zhendong Su;An Empirical Analysis of the Co-evolution of Schema and Code in Database Applications;;;;;selected
+2013;Duy Cu Nguyen,Alessandro Marchetto,Paolo Tonella;Automated Oracles: An Empirical Study on Cost and Effectiveness;;;;;selected
+2013;Foyzur Rahman,Daryl Posnett,Israel Herraiz,Premkumar T. Devanbu;Sample Size vs. Bias in Defect Prediction;;;;;selected
+2013;Peng Liu,Julian Dolby,Charles Zhang;Finding Incorrect Compositions of Atomicity;;;;;selected
+2013;Omer Tripp,Noam Rinetzky;Tightfit: Adaptive Parallelization with Foresight;;;;;selected
+2013;Diptikalyan Saha,Pankaj Dhoolia,Gaurab Paul;Distributed Program Tracing;;;;;selected
+2013;Chris Hawblitzel,Shuvendu K. Lahiri,Kshama Pawar,Hammad Hashmi,Sedar Gokbulut,Lakshan Fernando,Dave Detlefs,Scott Wadsworth;Will You Still Compile Me Tomorrow? Static Cross-Version Compiler Validation;;;;;selected
+2013;Peter C. Rigby,Christian Bird;Convergent Contemporary Software Peer Review Practices;;;;;selected
+2013;Kelly Blincoe,Giuseppe Valetto,Daniela E. Herlea;Do All Task Dependencies Require Coordination? The Role of Task Properties in Identifying Critical Coordination Needs in Software Projects;;;;;selected
+2013;Aravind Machiry,Rohan Tahiliani,Mayur Naik;Dynodroid: An Input Generation System for Android Apps;;;;;selected
+2013;Paul Marinescu,Cristian Cadar;KATCH: High-Coverage Testing of Software Patches;;;;;selected
+2013;Aditya V. Nori,Rahul Sharma;Termination Proofs from Tests;;;;;selected
+2013;Chang Hwan Peter Kim,Darko Marinov,Sarfraz Khurshid,Don S. Batory,Sabrina Souto,Paulo Barros,Marcelo d'Amorim;SPLat: Lightweight Dynamic Analysis for Reducing Combinatorics in Testing Configurable Systems;;;;;selected
+2013;Khanh Nguyen,Guoqing (Harry) Xu;Cachetor: Detecting Cacheable Data to Remove Bloat;;;;;selected
+2013;Jingyue Wu,Gang Hu,Yang Tang,Junfeng Yang;Effective Dynamic Detection of Alias Analysis Errors;;;;;selected
+2013;Jean-Marc Davril,Edouard Delfosse,Negar Hariri,Mathieu Acher,Jane Cleland-Huang,Patrick Heymans;Feature Model Extraction from Large Collections of Informal Product Descriptions;;;;;selected
+2013;Julia Rubin-Mosin,Marsha Chechik;N-Way Model Merging;;;;;selected
+2013;Nishant Sinha,Rezwana Karim;Compiling Mockups to Flexible UIs;;;;;selected
+2013;Kivanc Muslu,Yuriy Brun,Michael D. Ernst,David Notkin;Making Offline Analyses Continuous;;;;;selected
+2013;Marcel Bohme,Bruno C. d. S. Oliveira,Abhik Roychoudhury;Regression Tests to Expose Change Interaction Errors;;;;;selected
+2013;Shuvendu K. Lahiri,Kenneth L. McMillan,Rahul Sharma,Chris Hawblitzel;Differential Assertion Checking;;;;;selected
+2013;Mark Grechanik,B. M. Mainul Hossain,Ugo A. Buy,Haisheng Wang;Preventing Database Deadlocks in Applications;;;;;selected
+2013;Joshua Garcia,Daniel Popescu,Gholamreza Safi,William G. J. Halfond,Nenad Medvidovic;Identifying Message Flow in Distributed Event-Based Systems;;;;;selected
+2013;Sugandha Lohar,Sorawit Amornborvornwong,Andrea Zisman,Jane Cleland-Huang;Improving Trace Accuracy through Data-Driven Configuration and Composition of Tracing Features;;;;;selected
+2013;Dirk Beyer,Stefan Lowe,Evgeny Novikov,Andreas Stahlbauer,Philipp Wendler;Precision Reuse for Efficient Regression Verification;;;;;selected
+2013;Fokion Zervoudakis,David S. Rosenblum,Sebastian G. Elbaum,Anthony Finkelstein;Cascading Verification: An Integrated Method for Domain-Specific Model Checking;;;;;selected
+2013;Pietro Braione,Giovanni Denaro,Mauro Pezze;Enhancing Symbolic Execution with Built-In Term Rewriting and Constrained Lazy Initialization;;;;;selected
+2013;Matthias Schur,Andreas Roth,Andreas Zeller;Mining Behavior Models from Enterprise Web Applications;;;;;selected
+2013;Joel Greenyer,Christian Brenner,Maxime Cordy,Patrick Heymans,Erika Gressi;Incrementally Synthesizing Controllers from Scenario-Based Product Line Specifications;;;;;selected
+2013;Shahar Maoz,Jan Oliver Ringert,Bernhard Rumpe;Synthesis of Component and Connector Models from Crosscutting Structural Views;;;;;selected
+2013;Tiantian Wang,Mark Harman,Yue Jia,Jens Krinke;Searching for Better Configurations: A Rigorous Approach to Clone Evaluation;;;;;selected
+2013;Meiyappan Nagappan,Thomas Zimmermann,Christian Bird;Diversity in Software Engineering Research;;;;;selected
+2013;Mario Linares Vasquez,Gabriele Bavota,Carlos Bernal-Cardenas,Massimiliano Di Penta,Rocco Oliveto,Denys Poshyvanyk;API Change and Fault Proneness: A Threat to the Success of Android Apps;;;;;selected
+2013;Koushik Sen,Swaroop Kalasapur,Tasneem Brutch,Simon Gibbs;Jalangi: A Selective Record-Replay and Dynamic Analysis Framework for JavaScript;;;;;selected
+2013;Magnus Madsen,V. Benjamin Livshits,Michael Fanning;Practical Static Analysis of JavaScript Applications in the Presence of Frameworks and Libraries;;;;;selected
+2013;Casper S. Jensen,Anders Moller,Zhendong Su;Server Interface Descriptions for Automated Testing of JavaScript Web Applications;;;;;selected
+2013;Martin Schaf,Daniel Schwartz-Narbonne,Thomas Wies;Explaining Inconsistent Code;;;;;selected
+2013;Tung Thanh Nguyen,Hoan Anh Nguyen,Hoan Anh Nguyen,Tien N. Nguyen;A Statistical Semantic Language Model for Source Code;;;;;selected
+2013;Alex Gyori,Lyle Franklin,Danny Dig,Jan Lahoda;Crossing the Gap from Imperative to Functional Programming through Refactoring;;;;;selected
+2013;Scott McPeak,Charles-Henri Gros,Murali Krishna Ramanathan;Scalable and Incremental Software Bug Detection;;;;;selected
+2013;Guangtai Liang,Qianxiang Wang,Tao Xie,Hong Mei;Inferring Project-Specific Bug Patterns for Detecting Sibling Bugs;;;;;selected
+2013;Chengnian Sun,Siau-Cheng Khoo;Mining Succinct Predicated Bug Signatures;;;;;selected
 2012;Mark Gabel,Zhendong Su;Testing mined specifications.;4;1;Program analysis;;selected
 2012;Zhendong Su,Taeho Kwon;Detecting and analyzing insecure component usage.;5;1;Program analysis;;selected
 2012;Somesh Jha,Patrick McDaniel,Damien Octeau;Retargeting Android applications to Java bytecode.;6;1;Program analysis;;selected

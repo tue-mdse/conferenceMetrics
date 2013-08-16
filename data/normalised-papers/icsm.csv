@@ -1,3 +1,39 @@
+2013;Amanda Schwartz,Hyunsook Do;A Fuzzy Expert System for Cost-Effective Regression Testing Strategies;;;;;selected
+2013;Tanja Toroi,Anu Valtanen,Lauri Vaatainen;Identifying Process Improvement Targets in Test Processes: A Case Study;;;;;selected
+2013;Mika Mantyla,Foutse Khomh,Bram Adams,Emelie Engstrom,Kai Petersen;On rapid releases and software testing;;;;;selected
+2013;Jan Harder;How multiple developers affect the evolution of code clones;;;;;selected
+2013;Wenyi Qian,Xin Peng,Zhenchang Xing,Stanislaw Jarzabek,Wenyun Zhao;Mining Logical Clones in Software: Revealing High-Level Business and Programming Rules;;;;;selected
+2013;Saman Bazrafshan,Rainer Koschke;An Empirical Study of Clone Removals;;;;;selected
+2013;Daqing Hou,Lingfeng Mo;Content Categorization of API Discussions;;;;;selected
+2013;Tyler McDonnell,Baishakhi Ray,Miryung Kim;An empirical study of API stability and adoption in the Android Ecosystem;;;;;selected
+2013;Hani Abdeen,Houari A. Sahraoui,Osama Shata;How we design interfaces, and how to assess it;;;;;selected
+2013;Kapil Anand,Khaled Elwazeer,Aparna Kotha,Matthew Smithson,Rajeev Barua,Angelos D. Keromytis;An Accurate Stack Memory Abstraction and Symbolic Analysis Framework for Executables;;;;;selected
+2013;Rui Xin,Shiqiu Huang,Chengcheng Xiang,Yudi Zheng,Zhengwei Qi;An Automation-assisted Empirical Study on Lock Usage for Concurrent Programs;;;;;selected
+2013;Mark D. Syer,Zhen Ming Jiang,Meiyappan Nagappan,Ahmed E. Hassan,Mohamed Nasser,Parminder Flora;Leveraging Performance Counters and Execution Logs to Diagnose Memory-Related Performance Issues;;;;;selected
+2013;Davy Landman,Paul Klint,Jurgen J. Vinju;Exploring the Limits of Domain Model Recovery;;;;;selected
+2013;Yvan Labiche,Bojana Kolbah,Hossein Mehrfard;Combining static and dynamic analyses to reverse-engineering scenario diagrams;;;;;selected
+2013;Mohd Hafeez Osman,Michel R. V. Chaudron,Peter van der Putten;An Analysis of Machine Learning Algorithms for Condensing Reverse Engineered Class Diagrams;;;;;selected
+2013;Hoan Anh Nguyen,Hung Nguyen,Tung Thanh Nguyen,Tien N. Nguyen;Output-oriented Refactoring in PHP-based Dynamic Web Applications;;;;;selected
+2013;Syed Muhammad Ali Shah,Jens Dietrich,Catherine McCartin;On the Automation of Dependency-Breaking Refactorings in Java;;;;;selected
+2013;Young-Woo Kwon,Eli Tilevich;Reducing the Energy Consumption of Mobile Applications Behind the Scenes;;;;;selected
+2013;Yuhua Qi,Xiaoguang Mao,Yan Lei;Efficient Automated Program Repair through Fault-Recorded Testing Prioritization;;;;;selected
+2013;Giuseppe Scanniello,Michele Risi;Dealing with Faults in Source Code: Abbreviated vs. Full-Word Identifier Names;;;;;selected
+2013;Yuan Tian,David Lo,Chengnian Sun;DRONE: Prediction Priority of Reported Bugs by Multi-Factor Analysis;;;;;selected
+2013;Gabriele Bavota,Gerardo Canfora,Massimiliano Di Penta,Rocco Oliveto,Sebastiano Panichella;An empirical investigation on documentation usage patterns in maintenance tasks;;;;;selected
+2013;Leo Pruijt,Christian Koppe,Sjaak Brinkkemper;Architecture Compliance Checking of Semantically Rich Modular Architectures: A Comparative Study of Tool Support;;;;;selected
+2013;Muhammad Asaduzzaman,Chanchal Kumar Roy,Kevin A. Schneider,Massimiliano Di Penta;LHDiff: A language-independent hybrid approach for tracking source code lines;;;;;selected
+2013;Tao Wang,Huaimin Wang,Gang Yin,Charles X. Ling,Xiang Li,Peng Zou;Mining Software Profile across Multiple Repositories for Hierarchical Categorization;;;;;selected
+2013;Xiaozhu Meng,Barton P. Miller,William Williams,Andrew R. Bernat;Mining Software Repositories for Accurate Authorship;;;;;selected
+2013;Francesca Arcelli Fontana,Vincenzo Ferme,Alessandro Marino,Bartosz Walter,Pawel Martenka;Investigating the impact of code smells on system's quality: an empirical study on systems of different application domains;;;;;selected
+2013;Seyyed Ehsan Salamati Taba,Foutse Khomh,Ying Zou,Ahmed E. Hassan,Meiyappan Nagappan;Predicting bugs using anti patterns;;;;;selected
+2013;Gabriele Bavota,Gerardo Canfora,Massimiliano Di Penta,Rocco Oliveto,Sebastiano Panichella;The evolution of project inter-dependencies in a software ecosystem: the case of Apache;;;;;selected
+2013;Sebastian Muller,Thomas Fritz;Stakeholders' Information Needs for Artifacts and their Dependencies in a Real World Context;;;;;selected
+2013;Nouh Alhindawi,Natalia Dragan,Michael L. Collard,Jonathan I. Maletic;Improving feature location by enhancing source code with stereotypes;;;;;selected
+2013;Tien-Duy B. Le,David Lo;Will Fault Localization Work For These Failures? An Automated Approach to Predict Effectiveness of Fault Localization Tools;;;;;selected
+2013;Tathagata Dasgupta,Mark Grechanik,Evan Moritz,Bogdan Dit,Denys Poshyvanyk;Enhancing software traceability by automatically expanding corpora with relevant documentation;;;;;selected
+2013;Bogdan Dit,Evan Moritz,Mario Linares Vasquez,Denys Poshyvanyk;Supporting and accelerating reproducible research in software maintenance using TraceLab component library;;;;;selected
+2013;Mohammad Gharehyazie,Daryl Posnett,Vladimir Filkov;Social Activities Rival Patch Submission For Prediction of Developer Initiation in OSS Projects;;;;;selected
+2013;Feng Zhang,Audris Mockus,Ying Zou,Foutse Khomh,Ahmed E. Hassan;How does context affect the distribution of software maintainability metrics?;;;;;selected
 2012;Mauro Pezze;From off-Line to continuous on-line maintenance.;2-3;2;;;
 2012;Lori L. Pollock;Leveraging natural language analysis of software: Achievements, challenges, and opportunities.;4;1;;;
 2012;Michael W. Godfrey,Lijie Zou;An industrial case study of Coman's automated task detection algorithm: What Worked, What Didn't, and Why.;6-14;9;;;selected

@@ -1,3 +1,39 @@
+2013;Ramin Shokripour,John Anvik,Zarinah Mohd Kasirun,Sima Zamani;Why so complicated? simple term filtering and weighting for location-based bug report assignment recommendation;;;;;selected
+2013;Debdoot Mukherjee,Malika Garg;Which work-item updates need your response;;;;;selected
+2013;Hoda Naguib,Nitesh Narayan,Bernd Brugge,Dina Helal;Bug report assignee recommendation using activity profiles;;;;;selected
+2013;Ryan Stevens,Jonathan Ganz,Vladimir Filkov,Premkumar T. Devanbu,Hao Chen;Asking for (and about) permissions used by Android apps;;;;;selected
+2013;Yujuan Jiang,Bram Adams,Daniel M. German;Will my patch make it? and how fast?. case study on the Linux kernel;;;;;selected
+2013;Sarah Nadi,Christian Dietrich,Reinhard Tartler,Richard C. Holt,Daniel Lohmann;Linux variability anomalies. what causes them and how do they get fixed;;;;;selected
+2013;Kim Sebastian Herzig,Andreas Zeller;The impact of tangled code changes;;;;;selected
+2013;Ripon Kumar Saha,Chanchal Kumar Roy,Kevin A. Schneider,Dewayne E. Perry;Understanding the evolution of type-3 clones. an exploratory study;;;;;selected
+2013;Shuai Xie,Foutse Khomh,Ying Zou;An empirical study of the fault-proneness of clone mutation and clone migration;;;;;selected
+2013;Santiago Gala-Perez,Gregorio Robles,Jesus M. Gonzalez-Barahona,Israel Herraiz;Intensive metrics for the study of the evolution of open source projects. case studies from apache software foundation projects;;;;;selected
+2013;Mehdi Amoui,Nilam Kaushik,Abraham Al-Dabbagh,Ladan Tahvildari,Shimin Li,Weining Liu;Search-based duplicate defect detection. an industrial experience;;;;;selected
+2013;Anahita Alipour,Abram Hindle,Eleni Stroulia;A contextual approach towards more accurate duplicate bug report detection;;;;;selected
+2013;Senthil Mani,Seema Nagar,Debdoot Mukherjee,Ramasuri Narayanam,Vibha Sinha,Amit Anil Nanavati;Bug resolution catalysts. identifying essential non-committers from bug repositories;;;;;selected
+2013;Miltiadis Allamanis,Charles A. Sutton;Mining source code repositories at massive scale using language modeling;;;;;selected
+2013;Adrian Nistor,Tian Jiang,Lin Tan;Discovering, reporting, and fixing performance bugs;;;;;selected
+2013;Shaohua Wang,Foutse Khomh,Ying Zou;Improving bug localization using correlations in crash reports;;;;;selected
+2013;Steven Raemaekers,Gabriela F. Nane,Arie van Deursen,Joost Visser;Testing principles, current practices, and effects of change localization;;;;;selected
+2013;Kevin Dullemond,Ben van Gameren,Margaret-Anne D. Storey,Arie van Deursen;Fixing the 'out of sight out of mind' problem. one year of mood-based microblogging in a distributed software team;;;;;selected
+2013;Anja Guzzi,Alberto Bacchelli,Michele Lanza,Martin Pinzger,Arie van Deursen;Communication in open source software development mailing lists;;;;;selected
+2013;Xin Xia,David Lo,Xinyu Wang,Bo Zhou;Tag recommendation in software information sites;;;;;selected
+2013;Bunyamin Sisman,Avinash C. Kak;Assisting code search with automatic query reformulation for bug localization;;;;;selected
+2013;Jue Wang,Yingnong Dang,Hongyu Zhang,Kai Chen,Tao Xie,Dongmei Zhang;Mining succinct and high-coverage API usage patterns from source code;;;;;selected
+2013;Wei Ming Khoo,Alan Mycroft,Ross Anderson;Rendezvous. a search engine for binary code;;;;;selected
+2013;Hadi Hemmati,Sarah Nadi,Olga Baysal,Oleksii Kononenko,Wei Wang,Reid Holmes,Michael W. Godfrey;The MSR cookbook. mining a decade of research;;;;;selected
+2013;Serge Demeyer,Alessandro Murgia,Kevin Wyckmans,Ahmed Lamkanfi;Happy birthday! a trend analysis on past MSR papers;;;;;selected
+2013;Giacomo Ghezzi,Harald Gall;Replicating mining studies with SOFAS;;;;;selected
+2013;Matthew J. Howard,Samir Gupta,Lori L. Pollock,K. Vijay-Shanker;Automatically mining software-based, semantically-similar words from comment-code mappings;;;;;selected
+2013;Michaela Greiler,Andy Zaidman,Arie van Deursen,Margaret-Anne D. Storey;Strategies for avoiding text fixture smells during software evolution;;;;;selected
+2013;Fayola Peters,Tim Menzies,Andrian Marcus;Better cross company defect prediction;;;;;selected
+2013;Wei Hu,Kenny Wong;Using citation influence to predict software defects;;;;;selected
+2013;Masateru Tsunoda,Koji Toda,Kyohei Fushida,Yasutaka Kamei,Meiyappan Nagappan,Naoyasu Ubayashi;Revisiting software development effort estimation based on early phase development activities;;;;;selected
+2013;Abdulkareem Alali,Brian Bartman,Christian D. Newman,Jonathan I. Maletic;A preliminary investigation of using age and distance measures in the detection of evolutionary couplings;;;;;selected
+2013;Qiang Fu,Jian-Guang Lou,Qingwei Lin,Rui Ding,Dongmei Zhang,Tao Xie;Contextual analysis of program logs for understanding system behaviors;;;;;selected
+2013;Lucas Batista Leite De Souza,Marcelo de Almeida Maia;Do software categories impact coupling metrics;;;;;selected
+2013;Romain Robbes,David Rothlisberger;Using developer interaction data to compare expertise metrics;;;;;selected
+2013;Claudia Iacob,Rachel Harrison;Retrieving and analyzing mobile apps feature requests from online reviews;;;;;selected
 2012;Dongmei Zhang;MSR 2012 keynote: Software analytics in practice - Approaches and experiences.;1;1;Keynote I;;
 2012;Krzysztof Czarnecki,Leonardo Teixeira Passos,Rafael Lotufo;Towards improving bug tracking systems with game mechanisms.;2-11;10;Software Repositories;;selected
 2012;Georgios Gousios,Diomidis Spinellis;GHTorrent: Github's data from a firehose.;12-21;10;Software Repositories;;selected

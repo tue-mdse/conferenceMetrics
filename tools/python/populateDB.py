@@ -90,7 +90,11 @@ for conferenceName in conferences:
             num_pages = 0
         session_h2 = unidecode(row[5]).strip()
         session_h3 = unidecode(row[6]).strip()
-        selected = row[7]
+        try:
+        	selected = row[7]
+        except:
+        	print row
+        	exit()
         
         '''Create new paper and add it to the session'''
         if selected == 'selected':

@@ -1,3 +1,32 @@
+2013;Shaowei Wang,David Lo,Lingxiao Jiang;Understanding Widespread Changes: A Taxonomic Study;;;;;selected
+2013;Fehmi Jaafar,Salima Hassaine,Yann-Gael Gueheneuc,Sylvie Hamel,Bram Adams;Program Evolution and Bug-proneness: An Empirical Study;;;;;selected
+2013;Yael Dubinsky,Julia Rubin-Mosin,Thorsten Berger,Slawomir Duszynski,Martin Becker,Krzysztof Czarnecki;An Exploratory Study of Cloning in Industrial Software Product Lines;;;;;selected
+2013;John Businge,Alexander Serebrenik,Mark van den Brand;Analyzing the Eclipse API Usage: Putting the Developer in the Loop;;;;;selected
+2013;Didi Surian,Yuan Tian,David Lo,Hong Cheng,Ee-Peng Lim;Predicting Project Outcome Leveraging Socio-Technical Network Patterns;;;;;selected
+2013;Luca Ponzanelli,Alberto Bacchelli,Michele Lanza;Leveraging Crowd Knowledge for Software Comprehension and Development;;;;;selected
+2013;Johannes Lerch,Mira Mezini;Finding Duplicates of Your Yet Unwritten Bug Report;;;;;selected
+2013;Markus Borg,Dietmar Pfahl,Per Runeson;Analysing Networks of Issue Reports;;;;;selected
+2013;Tegawende F. Bissyande,Ferdian Thung,Shaowei Wang,David Lo,Lingxiao Jiang,Laurent Reveillere;Empirical Evaluation of Bug Linking;;;;;selected
+2013;Quinten David Soetens,Serge Demeyer,Andy Zaidman;Change-Based Test Selection in the Presence of Developer Tests;;;;;selected
+2013;Mauricio Aniche,Gustavo Oliva,Marco Gerosa;What Do The Asserts in a Unit Test Tell Us About Code Quality? A Study on Open Source and Industrial Projects;;;;;selected
+2013;Etienne Duclos,Sebastien Le Digabel,Yann-Gael Gueheneuc,Bram Adams;ACRE: An Automated Aspect Creator for Testing C++ Applications;;;;;selected
+2013;Pamela Bhattacharya,Liudmila Ulanova,Iulian Neamtiu,Sai Charan Koduru;An Empirical Analysis of the Bug-fixing Process in Open Source Android Apps;;;;;selected
+2013;Roberto Minelli,Michele Lanza;Software Analytics for Mobile Applications - Insights & Lessons Learned;;;;;selected
+2013;Natalia Negara,Nikolaos Tsantalis,Eleni Stroulia;Feature detection in Ajax-enabled web applications;;;;;selected
+2013;Aminata Sabane,Massimiliano Di Penta,Giuliano Antoniol,Yann-Gael Gueheneuc;A Study on the Relation Between Antipatterns and the Cost of Class Unit Testing;;;;;selected
+2013;Isela Macia,Alessandro Garcia,Christina von Flach G. Chavez,Arndt von Staa;Enhancing the Detection of Code Anomalies with Architecture-Sensitive Strategies;;;;;selected
+2013;Venera Arnaoudova,Massimiliano Di Penta,Giuliano Antoniol,Yann-Gael Gueheneuc;A New Family of Software Anti-Patterns: Linguistic Anti-Patterns;;;;;selected
+2013;Annibale Panichella,Collin McMillan,Evan Moritz,Davide Palmieri,Rocco Oliveto,Denys Poshyvanyk,Andrea De Lucia;Using Structural Information and User Feedback to Improve IR-based Traceability Recovery;;;;;selected
+2013;Steffen Lehnert,Qurat-Ul-Ann Farooq,Matthias Riebisch;Rule-based Impact Analysis for Heterogeneous Software Artifacts;;;;;selected
+2013;Ali Ouni,Marouane Kessentini,Houari A. Sahraoui;Search-based Refactoring Using Recorded Code Changes;;;;;selected
+2013;Harry M. Sneed,Stephan Sneed;Migrating from AS400-COBOL to Java;;;;;selected
+2013;Daniel M. German,Bram Adams,Ahmed E. Hassan;Programming Language Ecosystems: the Evolution of R;;;;;selected
+2013;Adam Przybylek;Quasi-controlled experimentations on the impact of AOP on software evolvability;;;;;selected
+2013;Surafel Lemma Abebe,Paolo Tonella;Automated Identifier Completion and Replacement;;;;;selected
+2013;Venkata Krishna Suhas Nerella,Sanjay Madria,Thomas Weigert;An Approach for Optimization of Object Queries on Collections using Annotations;;;;;selected
+2013;Bernhard J. Berger,Karsten Sohr,Rainer Koschke;Extracting and Analyzing the Implemented Security Architecture of Business Applications;;;;;selected
+2013;Forster Thomas,Thorsten Keuler,Jens Knodel,Michael-Christian Becker;Dealing with Component Dependencies Hidden by Frameworks - An Industrial Experience Report;;;;;selected
+2013;Pooyan Jamshidi,Mohammad Ghafari,Aakash Ahmad,Claus Pahl;A Framework for Classifying and Comparing Architecture-Centric Software Evolution Research;;;;;selected
 2012;Harald Gall;Keynote 1: LGTM - Software Sensing and Bug Smelling.;3-4;2;Keynotes;;
 2012;Daniel Varro;Keynote 2: A Bridge Over Troubled Water - Synergies between Model Transformation and Software Maintenance Techniques.;5-6;2;Keynotes;;
 2012;Andy Zaidman,Victor Hurdugaci;Aiding Software Developers to Maintain Developer Tests.;11-20;10;Technical Sessions;Aiding Developers;selected

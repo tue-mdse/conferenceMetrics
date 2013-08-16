@@ -1,3 +1,28 @@
+2013;Daniel Struber,Gabriele Taentzer,Stefan Jurack,Tim Schafer;Towards a Distributed Modeling Process Based on Composite Models;;;;;selected
+2013;Rick Salay,Jan Gorzny,Marsha Chechik;Change Propagation due to Uncertainty Change;;;;;selected
+2013;Marco Autili,Davide Di Ruscio,Amleto Di Salle,Paola Inverardi,Massimo Tivoli;A Model-Based Synthesis Process for Choreography Realizability Enforcement;;;;;selected
+2013;Evelyn Nicole Haslinger,Roberto Erick Lopez-Herrejon,Alexander Egyed;On Extracting Feature Models from Sets of Valid Feature Combinations;;;;;selected
+2013;Birgit Hofer,Andre Riboira,Franz Wotawa,Rui Abreu,Elisabeth Getzner;On the Empirical Evaluation of Fault Localization Techniques for Spreadsheets;;;;;selected
+2013;Julia Rubin-Mosin,Marsha Chechik;Quality of Merge-Refactorings for Product Lines;;;;;selected
+2013;Arbi Bouchoucha,Houari A. Sahraoui,Pierre L'Ecuyer;Towards Understanding the Behavior of Classes Using Probabilistic Models of Program Inputs;;;;;selected
+2013;Massimiliano de Leoni,Marlon Dumas,Luciano Garcia-Banuelos;Discovering Branching Conditions from Business Process Execution Logs;;;;;selected
+2013;Hao Zhong,Suresh Thummalapenta,Tao Xie;Exposing Behavioral Differences in Cross-Language API Mapping Relations;;;;;selected
+2013;Dirk Beyer,Stefan Lowe;Explicit-State Software Model Checking Based on CEGAR and Interpolation;;;;;selected
+2013;John Lasseter,John Cipriano;Design Pattern-Based Extension of Class Hierarchies to Support Runtime Invariant Checks;;;;;selected
+2013;Lan Lin,Jesse H. Poore,Robert Eschbach,Robert M. Hierons,Christopher Robinson-Mallett;Augmenting Sequence Enumeration with String-Rewriting for Requirements Analysis and Behavioral Specification;;;;;selected
+2013;Rouwaida Abdallah,Arnaud Gotlieb,Loic Helouet,Claude Jard;Scenario Realizability with Constraint Optimization;;;;;selected
+2013;Omer Tripp,Marco Pistoia,Patrick Cousot,Radhia Cousot,Salvatore Guarnieri;Andromeda: Accurate and Scalable Security Analysis of Web Applications;;;;;selected
+2013;Matthias Gudemann,Pascal Poizat,Gwen Salaun,Alexandre Dumont;VerChor: A Framework for Verifying Choreographies;;;;;selected
+2013;Martin Nordio,Cristiano Calcagno,Carlo A. Furia;Javanni: A Verifier for JavaScript;;;;;selected
+2013;Ahlem Triki,Jacques Combaz,Saddek Bensalem,Joseph Sifakis;Model-Based Implementation of Parallel Real-Time Systems;;;;;selected
+2013;Wei Yang,Mukul R. Prasad,Tao Xie;A Grey-Box Approach for Automated GUI-Model Generation of Mobile Applications;;;;;selected
+2013;Francesco Bongiovanni,Ludovic Henrio;A Mechanized Model for CAN Protocols;;;;;selected
+2013;Julian C. Bradfield,Perdita Stevens;Enforcing QVT-R with mu-Calculus and Games;;;;;selected
+2013;Nuno Macedo,Alcino Cunha;Implementing QVT-R Bidirectional Model Transformations Using Alloy;;;;;selected
+2013;Mayur Bapodra,Reiko Heckel;Abstraction and Training of Stochastic Graph Transformation Systems;;;;;selected
+2013;Anirudh Santhiar,Omesh Pandita,Aditya Kanade;Discovering Math APIs by Mining Unit Tests;;;;;selected
+2013;Kazunori Sakamoto,Kaizu Tomohiro,Daigo Hamura,Hironori Washizaki,Yoshiaki Fukazawa;POGen: A Test Code Generator Based on Template Variable Coverage in Gray-Box Integration Testing for Web Applications;;;;;selected
+2013;Ana Cavalcanti,Robert M. Hierons;Testing with Inputs and Outputs in CSP;;;;;selected
 2012;Wil M. P. van der Aalst;Distributed Process Discovery and Conformance Checking.;1-25;25;Invited Talk;;
 2012;Patrizio Pelliccione,Davide Di Ruscio,Alfonso Pierantonio,Henry Muccini,Ivano Malavolta;Model-Driven Techniques to Enhance Architectural Languages Interoperability.;26-42;17;Software Architecture and Components;;selected
 2012;Ulrik Nyman,Axel Legay,Rolf Hennicker,Kim Guldstrand Larsen,Andrzej Wasowski,Alexandre David,Sebastian S. Bauer;Moving from Specifications to Contracts in Component-Based Design.;43-58;16;Software Architecture and Components;;selected

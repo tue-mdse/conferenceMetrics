@@ -1,3 +1,41 @@
+2013;Zachary P. Fry,Westley Weimer;Clustering Static Analysis Defect Reports to Reduce Maintenance Costs;;;;;selected
+2013;Cedric Teyton,Jean-Remy Falleri,Xavier Blanc;Automatic Discovery of Function Mappings Between Similar Libraries;;;;;selected
+2013;Jing Jiang,Li Zhang,Lei Li;Understanding project dissemination on a social coding site;;;;;selected
+2013;Raghavan Komondoor,Indrajit Bhattacharya,Deepak D'Souza,Sachin Kale;Using Relationships for Matching Textual Domain Models with Existing Code;;;;;selected
+2013;Ajay Bandi,Byron J. Williams,Edward Allen;Empirical Evidence of Code Decay: A Systematic Mapping Study;;;;;selected
+2013;Aiko Fallas Yamashita,Leon Moonen;Do Developers Care About Code Smells? - An Exploratory Survey;;;;;selected
+2013;Fabien Duchene,Sanjay Rawat,Jean-Luc Richier,Roland Groz;LigRE: Reverse-Engineering of Control and Data Flow Models for Black-Box XSS Detection;;;;;selected
+2013;Shivani Rao,Henry Medeiros,Avinash C. Kak;An Incremental Update Framework for Efficient Retrieval from Software Libraries for Bug Localization;;;;;selected
+2013;Cedric Teyton,Jean-Remy Falleri,Xavier Blanc;Find your Library Experts;;;;;selected
+2013;Andre Hora,Nicolas Anquetil,Stephane Ducasse,Marco Tulio de Oliveira Valente;Mining System Specific Rules from Change Patterns;;;;;selected
+2013;Ziying Dai,Xiaoguang Mao,Yan Lei,Liqian Chen;Leveraging Specifications of Subcomponents to Mine Precise Specifications of Composite Components;;;;;selected
+2013;Cristiano Amaral Maffort,Marco Tulio de Oliveira Valente,Nicolas Anquetil,Andre Hora,Mariza Andrade da Silva Bigonha;Heuristics for Discovering Architectural Violations;;;;;selected
+2013;Hani Abdeen,Houari A. Sahraoui,Osama Shata,Nicolas Anquetil,Stephane Ducasse;Towards Automatically Improving Package Structure While Respecting Original Design Decisions;;;;;selected
+2013;Ferdian Thung,David Lo,Julia L. Lawall;Automated Library Recommendation;;;;;selected
+2013;Xin Xia,David Lo,Xinyu Wang,Bo Zhou;Accurate Developer Recommendation for Bug Resolution;;;;;selected
+2013;Hongwei Li,Zhenchang Xing,Xin Peng,Wenyun Zhao;What Help do Developers Seek, When and How?;;;;;selected
+2013;Fasil Bantelay,Motahareh Bahrami Zanjani,Huzefa H. Kagdi;Comparing and Combining Evolutionary Couplings from Interactions and Commits;;;;;selected
+2013;Vitor Sales,Ricardo Terra,Luis Miranda,Marco Tulio de Oliveira Valente;Recommending Move Method Refactorings Using Dependency Sets;;;;;selected
+2013;Kaiping Liu,Hee Beng Kuan Tan,Hongyu Zhang;Has this Bug Been Reported?;;;;;selected
+2013;Mario Luca Bernardi,Marta Cimitile,Giuseppe A. Di Lucca;A Model-Based Graph-Matching Approach for Design Patterns Detection;;;;;selected
+2013;Xi Chen,Asia Slowinska,Herbert Bos;Who allocated my memory? Detecting custom memory allocators in C binaries;;;;;selected
+2013;Matthew Smithson,Khaled Elwazeer,Kapil Anand,Aparna Kotha,Rajeev Barua;Static Binary Rewriting without Supplemental Information : Overcoming the tradeoff between coverage and correctness;;;;;selected
+2013;Kelley Duran,Gabrielle Burns,Paul Snell;Lehman's Laws in Agile and Non-Agile Projects;;;;;selected
+2013;Olga Baysal,Oleksii Kononenko,Reid Holmes,Michael W. Godfrey;The Influence of Non-Technical Factors on Code Review;;;;;selected
+2013;Takashi Ishio,Shinpei Hayashi,Hiroshi Kazato,Tsuyoshi Oshima;On the Effectiveness of Accuracy of Automated Feature Location Technique;;;;;selected
+2013;Ferdian Thung,David Lo,Lingxiao Jiang;Automatic Recovery of Root Causes from Bug-Fixing Changes;;;;;selected
+2013;Andrea Avancini,Mariano Ceccato;Circe: A Grammar-Based Oracle for Testing Cross-Site Scripting in Web Applications;;;;;selected
+2013;Neil Walkinshaw,Ramsay Taylor,John Derrick;Inferring Extended Finite State Machine Models from Software Executions;;;;;selected
+2013;Istvan Haller,Asia Slowinska,Herbert Bos;MemPick: High-level data structure detection in C/C++ binaries;;;;;selected
+2013;Debarshi Chatterji,Jeffrey Carver,Nicholas A. Kraft,Jan Harder;Effects of Cloned Code on Software Maintainability: A Replicated Developer Study;;;;;selected
+2013;Mathieu Nayrolles,Naouel Moha,Petko Valtchev;Improving SOA Antipattern Detection in Service Based Systems by Mining Execution Traces;;;;;selected
+2013;Maurizio Leotta,Diego Clerissi,Filippo Ricca,Paolo Tonella;Capture-Replay vs. Programmable Web Testing: An Empirical Assessment During Test Case Evolution;;;;;selected
+2013;Brendan Cleary,Patrick Gorman,H. M. W. Verbeek,Margaret-Anne D. Storey,Martin Salois,Frederic Painchaud;Reconstructing Program Memory State from Multi-Gigabyte Instruction Traces to Support Interactive Analysis;;;;;selected
+2013;Fehmi Jaafar,Yann-Gael Gueheneuc,Sylvie Hamel,Foutse Khomh;Mining the Relationship Between Anti-patterns Dependencies and Fault-proneness;;;;;selected
+2013;Zephyrin Soh,Foutse Khomh,Yann-Gael Gueheneuc,Giuliano Antoniol,Bram Adams;On the Effect of Program Exploration on Maintenance Tasks;;;;;selected
+2013;Zephyrin Soh,Foutse Khomh,Yann-Gael Gueheneuc,Giuliano Antoniol;Towards Understanding How Developers Spend Their Effort During Maintenance Activities;;;;;selected
+2013;Nasir Ali,Ahmed E. Hassan;Leveraging Historical Co-Change Information for Requirements Traceability;;;;;selected
+2013;Zhenchang Xing,Yinxing Xue,Stanislaw Jarzabek;Distilling Useful Clones by Contextual Differencing;;;;;selected
 2012;Keith Gallagher,Jenifer Deignan,Cem Caner;The Law and Reverse Engineering.;3-4;2;;;
 2012;Nicolas Bettenburg,Alberto Bacchelli,Latifa Guerrouj;"Workshop on Mining Unstructured Data (MUD) ... Because ""Mining Unstructured Data is Like Fishing in Muddy Waters""!";5-6;2;;;
 2012;Barton P. Miller,Andrew R. Bernat;Structured Binary Editing with a CFG Transformation Algebra.;9-18;10;;;selected

@@ -1,3 +1,88 @@
+2013;Timothy Nelson,Salman Saghafi,Daniel J. Dougherty,Kathi Fisler,Shriram Krishnamurthi;Aluminum: principled scenario exploration through minimality;;;;;selected
+2013;Shahar Maoz,Yaniv Sa'ar;Counter play-out: executing unrealizable scenario-based specifications;;;;;selected
+2013;Ivan Beschastnikh,Yuriy Brun,Jenny Abrahamson,Michael D. Ernst,Arvind Krishnamurthy;Unifying FSM-inference algorithms through declarative specification;;;;;selected
+2013;Nadia Polikarpova,Carlo A. Furia,Yu Pei,Yi Wei,Bertrand Meyer;What good are strong specifications;;;;;selected
+2013;Pranav Garg,Franjo Ivancic,Gogul Balakrishnan,Naoto Maeda,Aarti Gupta;Feedback-directed unit test generation for C/C++ using concolic execution;;;;;selected
+2013;Domenico Cotroneo,Roberto Pietrantuono,Stefano Russo;A learning-based method for combining testing techniques;;;;;selected
+2013;Amanda Swearngin,Myra B. Cohen,Bonnie E. John,Rachel K. E. Bellamy;Human performance regression testing;;;;;selected
+2013;Suresh Thummalapenta,K. Vasanta Lakshmi,Saurabh Sinha,Nishant Sinha,Satish Chandra;Guided test generation for web applications;;;;;selected
+2013;Carlo Ghezzi,Leandro Sales Pinto,Paola Spoletini,Giordano Tamburrelli;Managing non-functional uncertainty via model-driven adaptivity;;;;;selected
+2013;Naeem Esfahani,Sam Malek,Kaveh Razavi;GuideArch: guiding the exploration of architectural solution space under uncertainty;;;;;selected
+2013;Christoph Dorn,Richard N. Taylor;Coupling software architecture and human architecture for collaboration-aware system adaptation;;;;;selected
+2013;Daniel Sykes,Domenico Corapi,Jeffrey N. Magee,Jeffrey Kramer,Alessandra Russo,Katsumi Inoue;Learning revised models for planning in adaptive systems;;;;;selected
+2013;Cong Tian,Zhenhua Duan;Detecting spurious counterexamples efficiently in abstract model checking;;;;;selected
+2013;Wei Le;Segmented symbolic analysis;;;;;selected
+2013;John Hatcliff,Robby,Patrice Chalin,Jason Belt;Explicating symbolic execution (xSymExe): an evidence-based verification framework;;;;;selected
+2013;Michael W. Whalen,Gregory R. Gay,Dongjiang You,Mats Per Erik Heimdahl,Matthew Staats;Observable modified Condition/Decision coverage;;;;;selected
+2013;Raphael Pham,Leif Singer,Olga Liskin,Fernando Marques Figueira Filho,Kurt Schneider;Creating a shared understanding of testing culture on a social coding site;;;;;selected
+2013;Ella Bounimova,Patrice Godefroid,David A. Molnar;Billions and billions of constraints: whitebox fuzz testing in production;;;;;selected
+2013;Paola Inverardi,Massimo Tivoli;Automatic synthesis of modular connectors via composition of protocol mediation patterns;;;;;selected
+2013;Fabienne Boyer,Olivier Gruber,Damien Pous;Robust reconfigurations of component assemblies;;;;;selected
+2013;Yun Young Lee,Nicholas Y. Chen,Ralph E. Johnson;Drag-and-drop refactoring: intuitive and efficient program transformation;;;;;selected
+2013;Lorenzo Gomez,Iulian Neamtiu,Tanzirul Azim,Todd D. Millstein;RERAN: timing- and touch-sensitive record and replay for Android;;;;;selected
+2013;Amruta Gokhale,Vinod Ganapathy,Yogesh Padmanaban;Inferring likely mappings between APIs;;;;;selected
+2013;Shuai Hao,Ding Li,William G. J. Halfond,Ramesh Govindan;Estimating mobile application energy consumption using program analysis;;;;;selected
+2013;Mohammad Mahdi Hassan,Jamie Andrews;Comparing multi-point stride coverage and dataflow coverage;;;;;selected
+2013;Dale Blue,Itai Segall,Rachel Tzoref-Brill,Aviad Zlotnick;Interaction-based test-suite minimization;;;;;selected
+2013;Lingming Zhang,Dan Hao,Lu Zhang,Gregg Rothermel,Hong Mei;Bridging the gap between the total and additional test-case prioritization strategies;;;;;selected
+2013;William N. Sumner,Xiangyun Zhang;Comparative causality: explaining the differences between executions;;;;;selected
+2013;Michael Pradel,Thomas R. Gross;Automatic testing of sequential and concurrent substitutability;;;;;selected
+2013;Felienne Hermans,Ben Sedee,Martin Pinzger,Arie van Deursen;Data clone detection and visualization in spreadsheets;;;;;selected
+2013;Marcel Bohme,Bruno C. d. S. Oliveira,Abhik Roychoudhury;Partition-based regression verification;;;;;selected
+2013;Sai Zhang,Michael D. Ernst;Automated diagnosis of software configuration errors;;;;;selected
+2013;Daniel Marino,Christian Hammer,Julian Dolby,Mandana Vaziri,Frank Tip,Jan Vitek;Detecting deadlock in programs with data-centric synchronization;;;;;selected
+2013;Weiyi Shang,Zhen Ming Jiang,Hadi Hemmati,Bram Adams,Ahmed E. Hassan,T. Patrick Martin;Assisting developers of big data analytics applications when deploying on hadoop clouds;;;;;selected
+2013;Jerome Vouillon,Roberto Di Cosmo;Broken sets in software repository evolution;;;;;selected
+2013;Robert Dyer,Hoan Anh Nguyen,Hridesh Rajan,Tien N. Nguyen;Boa: a language and infrastructure for analyzing ultra-large-scale software repositories;;;;;selected
+2013;Na Meng,Miryung Kim,Kathryn S. McKinley;LASE: locating and applying systematic edits by learning from examples;;;;;selected
+2013;Soren Frey,Florian Fittkau,Wilhelm Hasselbring;Search-based genetic optimization for deployment and reconfiguration of software in the cloud;;;;;selected
+2013;Annibale Panichella,Bogdan Dit,Rocco Oliveto,Massimiliano Di Penta,Denys Poshyvanyk,Andrea De Lucia;How to effectively use topic models for software engineering tasks? an approach based on genetic algorithms;;;;;selected
+2013;Emerson R. Murphy-Hill,Thomas Zimmermann,Christian Bird,Nachiappan Nagappan;The design of bug fixes;;;;;selected
+2013;Gerald Bortis,Andre van der Hoek;PorchLight: a tag-based approach to bug triaging;;;;;selected
+2013;Yit Phang Khoo,Jeffrey S. Foster,Michael W. Hicks;Expositor: scriptable time-travel debugging with first-class traces;;;;;selected
+2013;Jonathan Bell,Nikhil Sarda,Gail E. Kaiser;Chronicler: lightweight recording to reproduce field failures;;;;;selected
+2013;Foyzur Rahman,Premkumar T. Devanbu;How, and why, process metrics are better;;;;;selected
+2013;Daniela E. Herlea,Remko Helms,Irwin Kwan,Sabrina Marczak,Benjamin Koelewijn;The role of domain knowledge and cross-functional communication in socio-technical coordination;;;;;selected
+2013;Daryl Posnett,Raissa M. D'Souza,Premkumar T. Devanbu,Vladimir Filkov;Dual ecological measures of focus in software development;;;;;selected
+2013;Filomena Ferrucci,Mark Harman,Jian Ren,Federica Sarro;Not going to take this anymore: multi-objective overtime planning for software engineering projects;;;;;selected
+2013;Thomas Bartenstein,Yu David Liu;Green streams for data-intensive software;;;;;selected
+2013;Tian Huat Tan,Etienne Andre,Jun Sun,Yang Liu,Jin Song Dong,Manman Chen;Dynamic synthesis of local time requirement for service composition;;;;;selected
+2013;Alexander Wert,Jens Happe,Lucia Kapova Happe;Supporting swift reaction;;;;;selected
+2013;Adrian Nistor,Linhai Song,Darko Marinov,Shan Lu;Toddler: detecting performance problems via similar memory-access patterns;;;;;selected
+2013;Chris Lewis,Zhongpeng Lin,Caitlin Sadowski,Xiaoyan Zhu,Rong Ou,Jim Whitehead;Does bug prediction support human developers? findings from a google case study;;;;;selected
+2013;Jaechang Nam,Sinno Jialin Pan,Sunghun Kim;Transfer defect learning;;;;;selected
+2013;Kim Sebastian Herzig,Sascha Just,Andreas Zeller;It's not a bug, it's a feature;;;;;selected
+2013;Maxime Cordy,Pierre-Yves Schobbens,Patrick Heymans,Axel Legay;Beyond boolean product-line model checking: dealing with feature attributes and multi-features;;;;;selected
+2013;Sven Apel,Alexander von Rhein,Philipp Wendler,Armin Grosslinger,Dirk Beyer;Strategies for product-line verification: case studies and experiments;;;;;selected
+2013;Abdel Salam Sayyad,Tim Menzies,Hany H. Ammar;On the value of user preferences in search-based software engineering: a case study in software product lines;;;;;selected
+2013;Nan Niu,Anas Mahmoud,Zhangji Chen,Gary Bradshaw;Departures from optimality: understanding human analyst's information foraging in assisted requirements tracing;;;;;selected
+2013;Laura V. Galvis Carreno,Kristina Winbladh;Analysis of user comments: an approach for software requirements evolution;;;;;selected
+2013;Emmanuel Letier,William Heaven;Requirements modelling by synthesis of deontic input-output automata;;;;;selected
+2013;Esteban Pavese,Victor A. Braberman,Sebastian Uchitel;Automated reliability estimation over partial systematic explorations;;;;;selected
+2013;Petr Hosek,Cristian Cadar;Safe software updates via multi-version execution;;;;;selected
+2013;Antonio Filieri,Corina S. Pasareanu,Willem Visser;Reliability analysis in symbolic pathfinder;;;;;selected
+2013;Inah Omoronyia,Luca Cavallaro,Mazeiar Salehie,Liliana Pasquale,Bashar Nuseibeh;Engineering adaptive privacy: on the role of privacy awareness requirements;;;;;selected
+2013;Lwin Khin Shar,Hee Beng Kuan Tan,Lionel C. Briand;Mining SQL injection and cross site scripting vulnerabilities using hybrid program analysis;;;;;selected
+2013;Yunhui Zheng,Xiangyun Zhang;Path sensitive static analysis of web applications for remote code execution vulnerability detection;;;;;selected
+2013;Mohamed Almorsy,John Grundy,Amani S. Ibrahim;Automated software architecture security risk analysis using formalized signatures;;;;;selected
+2013;Brittany Johnson,Yoonki Song,Emerson R. Murphy-Hill,Robert W. Bowdidge;Why don't software developers use static analysis tools to find bugs;;;;;selected
+2013;Aiko Fallas Yamashita,Leon Moonen;Exploring the impact of inter-smell relations on software maintainability: an empirical study;;;;;selected
+2013;Gabriele Bavota,Bogdan Dit,Rocco Oliveto,Massimiliano Di Penta,Denys Poshyvanyk,Andrea De Lucia;An empirical study on the developers' perception of software coupling;;;;;selected
+2013;Shauvik Roy Choudhary,Mukul R. Prasad,Alessandro Orso;X-PERT: accurate identification of cross-browser issues in web applications;;;;;selected
+2013;Alberto Bacchelli,Christian Bird;Expectations, outcomes, and challenges of modern code review;;;;;selected
+2013;Marian Petre;UML in practice;;;;;selected
+2013;Bakhtiar Khan Kasi,Anita Sarma;Cassandra: proactive conflict minimization through optimized task scheduling;;;;;selected
+2013;Alex Potanin,Monique Damitio,James S. Noble;Are your incoming aliases really necessary? counting the cost of object ownership;;;;;selected
+2013;Asger Feldthaus,Max Schafer,Manu Sridharan,Julian Dolby,Frank Tip;Efficient construction of approximate call graphs for JavaScript IDE services;;;;;selected
+2013;Jinshui Wang,Xin Peng,Zhenchang Xing,Wenyun Zhao;Improving feature location practice with multi-faceted interactive exploration;;;;;selected
+2013;Hoang D. T. Nguyen,Dawei Qi,Abhik Roychoudhury,Satish Chandra;SemFix: program repair via semantic analysis;;;;;selected
+2013;Antonio Carzaniga,Alessandra Gorla,Andrea Mattavelli,Nicolo Perino,Mauro Pezze;Automatic recovery from runtime failures;;;;;selected
+2013;Zack Coker,Munawar Hafiz;Program transformations to fix C integers;;;;;selected
+2013;Dongsun Kim,Jaechang Nam,Jaewoo Song,Sunghun Kim;Automatic patch generation learned from human-written patches;;;;;selected
+2013;Nicholas Sawadsky,Gail C. Murphy,Rahul Jiresal;Reverb: recommending code-related web pages;;;;;selected
+2013;Andreas Scharf,Till Amma;Dynamic injection of sketching features into GEF based diagram editors;;;;;selected
+2013;Peter C. Rigby,Martin P. Robillard;Discovering essential code elements in informal documentation;;;;;selected
+2013;Sonia Haiduc,Gabriele Bavota,Andrian Marcus,Rocco Oliveto,Andrea De Lucia,Tim Menzies;Automatic query reformulations for text retrieval in software engineering;;;;;selected
 2012;Claire Le Goues,Westley Weimer,Stephanie Forrest,Michael Dewey-Vogt;A systematic study of automated program repair: Fixing 55 out of 105 bugs for $8 each.;3-13;11;Technical Research;Fault Handling;selected
 2012;Jian Zhou,Hongyu Zhang,David Lo;Where should the bugs be fixed? More accurate information retrieval-based bug localization based on bug reports.;14-24;11;Technical Research;Fault Handling;selected
 2012;He Jiang,Zhilei Ren,Weiqin Zou,Jifeng Xuan;Developer prioritization in bug repositories.;25-35;11;Technical Research;Fault Handling;selected
