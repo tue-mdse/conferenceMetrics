@@ -24,39 +24,42 @@ class ConferenceMetrics():
         self.session = session
         self.name = conference
         
-        """Helper data structures"""
-        self.authorsPerYear = self.__extractAuthors();  """Look up the authors that published in a particular year"""
-        self.papersPerYear = self.__extractPapers();    """Look up the papers (paper = list of authors) published in a particular year"""
-        self.pcPerYear = self.__extractPC();            """Look up the PC members for a particular year"""
+        # Helper data structures
+        (self.authorsPerYear, self.yearsPerAuthor) = self.__extractAuthors();  # Look up the authors that published in a particular year
+        self.papersPerYear = self.__extractPapers();    # Look up the papers (paper = list of authors) published in a particular year
+        self.pcPerYear = self.__extractPC();            # Look up the PC members for a particular year
+        self.coreAuthors = self.__computeCore(self.yearsPerAuthor)
         
-        """Metrics"""
-        self.AP = self.__computeAP();   """Number of accepted papers per year"""
-        self.SP = self.__computeSP();   """Number of submissions per year"""
-        self.RA = self.__computeRA();   """Acceptance rate: #acc/#subm"""
-        self.RL = self.__computeRL();   """Review load: #subm/#PCmem"""
-        self.A = self.__computeA();     """Number of authors per year"""
-        self.C = self.__computeC();     """Number of PC members per year"""
+        # Metrics
+        self.AP = self.__computeAP();   # Number of accepted papers per year
+        self.SP = self.__computeSP();   # Number of submissions per year
+        self.RA = self.__computeRA();   # Acceptance rate: #acc/#subm
+        self.RL = self.__computeRL();   # Review load: #subm/#PCmem
+        self.A = self.__computeA();     # Number of authors per year
+        self.C = self.__computeC();     # Number of PC members per year
         
-        self.CnA4 = self.__computeCnA(4);   """Number of PC members for a given year that have never been authors between y-n and y-1"""
-        self.RCnA4 = self.__computeRCnA(4); """Wild-Card Ratio: %PC members for a given year that have never been authors between y-n and y-1 (sliding window)"""
+        self.CnA4 = self.__computeCnA(4);   # Number of PC members for a given year that have never been authors between y-n and y-1
+        self.RCnA4 = self.__computeRCnA(4); # Wild-Card Ratio: %PC members for a given year that have never been authors between y-n and y-1 (sliding window)
         
-        self.APC0 = self.__computeAPC(0);   """Number of papers published in a given year that have at least one PC member from y-n..y as author"""
+        self.APC0 = self.__computeAPC(0);   # Number of papers published in a given year that have at least one PC member from y-n..y as author
         
-        self.RAC0 = self.__computeRAC(0);   """Inbreeding ratio (IR): fraction of papers published in a given year that have at least one PC member from y-n..y as author"""
+        self.RAC0 = self.__computeRAC(0);   # Inbreeding ratio (IR): fraction of papers published in a given year that have at least one PC member from y-n..y as author
         self.RAC4 = self.__computeRAC(4)
         
-        self.NC1 = self.__computeNC(1);     """PC Turnover: number of PC members for a given year that have not been on the PC between y-n and y-1"""
+        self.NC1 = self.__computeNC(1);     # PC Turnover: number of PC members for a given year that have not been on the PC between y-n and y-1
         self.NC4 = self.__computeNC(4)
-        self.RNC1 = self.__computeRNC(1);   """PC Turnover Ratio: fraction of PC members for a given year that have not been on the PC between y-n and y-1"""
+        self.RNC1 = self.__computeRNC(1);   # PC Turnover Ratio: fraction of PC members for a given year that have not been on the PC between y-n and y-1
         self.RNC4 = self.__computeRNC(4)
         
-        self.NA1 = self.__computeNA(1);     """Author Turnover: number of authors for a given year that have not been author between y-n and y-1"""
+        self.NA1 = self.__computeNA(1);     # Author Turnover: number of authors for a given year that have not been author between y-n and y-1
         self.NA4 = self.__computeNA(4);
-        self.RNA1 = self.__computeRNA(1);   """Author Turnover Ratio: fraction of authors for a given year that have not been author between y-n and y-1"""
+        self.RNA1 = self.__computeRNA(1);   # Author Turnover Ratio: fraction of authors for a given year that have not been author between y-n and y-1
         self.RNA4 = self.__computeRNA(4);
         
-        self.PNA4 = self.__computePNA(4);   """Number of papers published in a given year for which none of the co-authors has published here between y-n and y-1"""
-        self.RPNA4 = self.__computeRPNA(4); """Fraction of the papers published in a given year for which none of the co-authors has published here between y-n and y-1"""
+        self.PNA4 = self.__computePNA(4);   # Number of papers published in a given year for which none of the co-authors has published here between y-n and y-1
+        self.RPNA4 = self.__computeRPNA(4); # Fraction of the papers published in a given year for which none of the co-authors has published here between y-n and y-1
+        
+        self.SR4 = self.__computeSR(4); # Sustainability ratio
 
             
     def getMetric(self, metric, k=None):
@@ -156,11 +159,20 @@ class ConferenceMetrics():
                     return self.RPNA4
                 else:
                     return self.__computeRPNA(k)
+                    
+        elif metric == 'SR':
+            if k is not None:
+                if k == 4:
+                    return self.SR4
+                else:
+                    return self.__computeSR(k)
+
 
             
     def __extractAuthors(self):
         """Look up the authors that published in a particular year"""
         d = {}
+        y = {}
         for paper in self.session.query(Paper).\
                             join(Conference).\
                             filter(Conference.acronym == self.name).\
@@ -170,7 +182,51 @@ class ConferenceMetrics():
                 d[year] = set()
             for author in paper.authors:
                 d[year].add(author.name)
-        return d
+                if y.has_key(author.name):
+                    y[author.name].add(year)
+                else:
+                    y[author.name] = set([year])
+                
+        return (d, y)
+            
+            
+            
+    def __computeCore(self, yearsPerName):
+        """Compute core persons (authors, PC members = frequent flyers)"""
+        corePeople = {}
+        """Core people stretch up to five years in the past, given a certain edition of the conference.
+        Conditions for authors:
+        - she has (co)authored papers in at least 3 out of the 5 most recent editions, or
+        - she has (co)authored papers in at least 2 out the the 3 most recent editions
+        Analogously for PC members
+        => I can only compute core people starting with the second edition of the conference."""
+        years = set()
+        for name in yearsPerName.keys():
+            years.update(yearsPerName[name])
+        years = sorted(years, key = lambda year: -year)
+        # at least 2 out the the 3 most recent editions
+        for idx1, year in enumerate(years[:-1]):
+            idx2 = idx1 + 3
+            for name in yearsPerName.keys():
+                if len(yearsPerName[name].intersection(set(years[idx1:idx2]))) >= 2:
+                    try:
+                        corePeople[year].add(name)
+                    except:
+                        corePeople[year] = set()
+                        corePeople[year].add(name)
+        # at least 3 out of the 5 most recent editions
+        for idx1, year in enumerate(years[:-2]):
+            idx2 = idx1 + 5
+            for name in yearsPerName.keys():
+                if len(yearsPerName[name].intersection(set(years[idx1:idx2]))) >= 3:
+                    try:
+                        corePeople[year].add(name)
+                    except:
+                        corePeople[year] = set()
+                        corePeople[year].add(name)
+            
+        return corePeople
+            
             
     
     def __extractPapers(self):
@@ -382,5 +438,29 @@ class ConferenceMetrics():
             d[year] = float(before[year])/ float(len(papers[year]))
         return d
 
-    
 
+    def __computeSR(self, k):
+        """Sustainability ratio"""
+        core = self.coreAuthors
+        if self.name == 'WCRE':
+            print core[2000]
+        
+        pc = self.pcPerYear
+        sr = {}
+        years = sorted(set(core.keys()).intersection(pc.keys()))
+        for year in years[k:]:
+            previous = set()
+            for y in [y for y in years[years.index(year)-k: years.index(year)]]:
+                previous.update(pc[y])
+            unsungHeroes = set(core[year]).difference(previous)
+            if self.name == 'WCRE':
+                if year == 2000:
+                    print
+                    print pc[year]
+                    print
+                    print unsungHeroes
+            sr[year] = float(len(unsungHeroes)) / float(len(pc[year]))
+        return sr
+    
+    
+    
