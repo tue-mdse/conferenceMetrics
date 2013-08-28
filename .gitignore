@@ -4,3 +4,5 @@
 *.pyc
 
 tools/r/.Rhistory
+
+data/bht2csv/hack/csmr_papers.csv
