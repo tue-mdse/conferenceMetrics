@@ -69,10 +69,10 @@ conferences = sys.argv[1:]
 unknowns = set()
 
 for conference in conferences:
-    g = open(os.path.join(dataPath, 'bht2csv', '%s_papers_2013n.csv' % conference), 'wb')
+    g = open(os.path.join(dataPath, 'bht2csv', 'misc', '%s_papers_2013n.csv' % conference), 'wb')
     writer = UnicodeWriter(g)
 
-    f1 = open(os.path.join(dataPath, 'bht2csv', '%s_papers_2013.csv' % conference), 'rb')
+    f1 = open(os.path.join(dataPath, 'bht2csv', 'misc', '%s_papers_2013.csv' % conference), 'rb')
     reader1 = UnicodeReader(f1)    
     for row in reader1:
         year = row[0]

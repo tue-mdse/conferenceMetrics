@@ -886,7 +886,8 @@ nameMap = {
 'Hany Ammar':'Hany H. Ammar',
 'Hoang Duong Thien Nguyen':'Hoang D. T. Nguyen',
 'Lucia Happe':'Lucia Kapova Happe',
-
+'Bindu Madhavi Padmanabhuni':'Bindu Padmanabhuni',
+'Marcelo D\'Amorim':'Marcelo d\'Amorim',
 }
 
 
