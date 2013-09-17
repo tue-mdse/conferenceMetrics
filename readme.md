@@ -33,11 +33,27 @@ In some cases the DBLP data also contains the session title(s) for a given paper
 
 ## Using the database
 
+### Directly
+
 Most simply, you can import the [SQL dump](https://github.com/tue-mdse/conferenceMetrics/blob/master/data/conferences.sql.gz) into your favourite database management system (tested on MySQL) and start querying.
 
-Alternatively, you can take a look at how the database was created using MySQL, Python and SQLAlchemy, and use these mechanisms also for querying. This will allow you to easily extend the database or update its schema. This assumes you have a MySQL server running, and SQLAlchemy installed.
+### Via Python
 
-Python scripts:
+Alternatively, you can take a look at how the database was created using MySQL, Python and SQLAlchemy, and use these mechanisms also for querying. This will allow you to easily extend the database or update its schema.
+
+#### Dependencies and installation instructions 
+If you take this path, make sure you have Python and a MySQL server installed before attempting anything.
+Thanks a lot to [Leon Moonen](http://leonmoonen.com) for spelling out the exact steps 
+(tested on his OS X 10.8.5 machine with Python 2.7.2).
+
+- Install Unidecode: `easy_install Unidecode`
+- Install SQLAlchemy: `easy_install SQLAlchemy`
+- Make sure that **mysql bin** dir is in **path** (or next step will fail on mysql_config)
+- Make sure that **mysql lib** dir is in **dynamic library** (or next step will fail on loading the library)
+- Install MySQL-Python: `easy_install mysql-python`
+- Tweek `populateDB.py` for your particular MySQL user and password (the script assumes user *root* with empty password)
+
+#### Python scripts
 
 - `initDB.py`: declares the database schema using Python classes (will be automatically mapped to tables by SQLAlchemy).
 - `populateDB.py`: reads data about the papers and programme committees for each conference and loads it into the database.
