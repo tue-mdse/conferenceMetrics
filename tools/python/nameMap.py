@@ -888,6 +888,13 @@ nameMap = {
 'Lucia Happe':'Lucia Kapova Happe',
 'Bindu Madhavi Padmanabhuni':'Bindu Padmanabhuni',
 'Marcelo D\'Amorim':'Marcelo d\'Amorim',
+'Andreas Falkner':'Andreas A. Falkner',
+'Arvind Sujeeth':'Arvind K. Sujeeth',
+'Flavio Medeiros':'Flavio M. Medeiros',
+'Hyoukjoong Lee':'HyoukJoong Lee',
+'Kevin Brown':'Kevin J. Brown',
+'Raquel Pillat':'Raquel M. Pillat',
+'Sergiy Kolesnikov':'Sergiy S. Kolesnikov',
 }
 
 

@@ -35,15 +35,15 @@ http://shine.icomp.ufam.edu.br/index.php'''
 impact = {
     'ICSE':117, 
     'ICSM':53, 
-    'CSMR':40,
     'WCRE':43,
-    'ICPC':43,
-    'ASE':55,
-    'FSE':49,
-    'FASE':42,
-    'GPCE':37,
-    'SCAM':15,
+    'CSMR':40,
     'MSR':32,
+    'GPCE':37,
+    'FASE':42,
+    'ICPC':43,
+    'FSE':59,
+    'SCAM':15,
+    'ASE':55,
 }
 
 

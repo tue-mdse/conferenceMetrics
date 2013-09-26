@@ -120,5 +120,8 @@ tabulate2CSV(os.path.join(metricsPath, 'RNC4.csv'), 'RNC', 4)
 tabulate2CSV(os.path.join(metricsPath, 'RNA1.csv'), 'RNA', 1)
 tabulate2CSV(os.path.join(metricsPath, 'RNA4.csv'), 'RNA', 4)
 tabulate2CSV(os.path.join(metricsPath, 'RPNA4.csv'), 'RPNA', 4)
+tabulate2CSV(os.path.join(metricsPath, 'PNA4.csv'), 'PNA', 4)
+tabulate2CSV(os.path.join(metricsPath, 'SR4.csv'), 'SR', 4)
         
 scatterPlot(os.path.join(metricsPath, 'RAC0-RNC1.csv'), 'RAC', 'RNC', 0, 1)
+

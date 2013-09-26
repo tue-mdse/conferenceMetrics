@@ -29,6 +29,7 @@ class ConferenceMetrics():
         self.papersPerYear = self.__extractPapers();    # Look up the papers (paper = list of authors) published in a particular year
         self.pcPerYear = self.__extractPC();            # Look up the PC members for a particular year
         self.coreAuthors = self.__computeCore(self.yearsPerAuthor)
+        self.twiceAuthors = self.__computeTwiceAuthors(self.yearsPerAuthor)
         
         # Metrics
         self.AP = self.__computeAP();   # Number of accepted papers per year
@@ -167,7 +168,11 @@ class ConferenceMetrics():
                 else:
                     return self.__computeSR(k)
                     
- 
+        elif metric == 'SRv2':
+            if k is not None:
+                return self.__computeSRv2(k)
+
+
             
     def __extractAuthors(self):
         """Look up the authors that published in a particular year"""
@@ -227,6 +232,26 @@ class ConferenceMetrics():
             
         return corePeople
             
+            
+
+    def __computeTwiceAuthors(self, yearsPerName):
+        twiceAuthors = {}
+        years = set()
+        for name in yearsPerName.keys():
+            years.update(yearsPerName[name])
+        years = sorted(years, key = lambda year: -year)
+        # at least 2 out the the 5 most recent editions
+        for idx1, year in enumerate(years[:-4]):
+            idx2 = idx1 + 5
+            for name in yearsPerName.keys():
+                if len(yearsPerName[name].intersection(set(years[idx1:idx2]))) >= 2:
+                    try:
+                        twiceAuthors[year].add(name)
+                    except:
+                        twiceAuthors[year] = set()
+                        twiceAuthors[year].add(name)
+        return twiceAuthors
+
     
     def __extractPapers(self):
         """Look up the papers (paper = list of authors) published in a particular year"""
@@ -440,7 +465,10 @@ class ConferenceMetrics():
 
     def __computeSR(self, k):
         """Sustainability ratio"""
-        core = self.coreAuthors        
+        core = self.coreAuthors
+        if self.name == 'ICPC':
+            print core[2013]
+        
         pc = self.pcPerYear
         sr = {}
         years = sorted(set(core.keys()).intersection(pc.keys()))
@@ -449,7 +477,34 @@ class ConferenceMetrics():
             for y in [y for y in years[years.index(year)-k: years.index(year)+1]]:
                 previous.update(pc[y])
             unsungHeroes = set(core[year]).difference(previous)
+            # if self.name == 'ICPC':
+#                 if year == 2013 or year == 2012:
+#                     print 
+#                     print year
+#                     print unsungHeroes
             sr[year] = float(len(unsungHeroes)) / float(len(pc[year]))
         return sr
     
     
+    def __computeSRv2(self, k):
+        twice = self.twiceAuthors
+#         if self.name == 'WCRE':
+#             print core[2000]
+        
+        pc = self.pcPerYear
+        sr = {}
+        years = sorted(set(twice.keys()).intersection(pc.keys()))
+        for year in years[k:]:
+            previous = set()
+            previous.update(pc[year])
+            for y in [y for y in years[years.index(year)-k: years.index(year)]]:
+                previous.update(pc[y])
+            unsungHeroes = set(twice[year]).difference(previous)
+            if self.name == 'ICPC':
+                if year == 2013:
+                    print
+                    print twice[year]
+                    print previous
+                    print unsungHeroes
+            sr[year] = float(len(unsungHeroes)) / float(len(pc[year]))
+        return sr

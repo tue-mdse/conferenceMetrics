@@ -1,3 +1,46 @@
+2013;Jianmei Guo,Krzysztof Czarnecki,Sven Apel,Norbert Siegmund,Andrzej Wasowski;Variability-Aware Performance Prediction: A Statistical Learning Approach;;;;;selected
+2013;Zhihong Xu,Martin Hirzel,Gregg Rothermel,Kun-Lung Wu;Testing Properties of Dataflow Program Operators;;;;;selected
+2013;Sai Zhang,Yuyin Sun;Automatically Synthesizing SQL Queries from Input-Output Examples;;;;;selected
+2013;Patrick O'Neil Meredith,Grigore Rosu;Efficient Parametric Runtime Verification with Deterministic String Rewriting;;;;;selected
+2013;Erik Osterlund,Welf Lowe;Dynamicly Transforming Data Structures;;;;;selected
+2013;Xusheng Xiao,Sihan Li,Tao Xie,Nikolai Tillmann;Characteristic Studies of Loop Problems for Structural Test Generation via Symbolic Execution;;;;;selected
+2013;Tian Jiang,Lin Tan,Sunghun Kim;Personalized Defect Prediction;;;;;selected
+2013;Yonghwi Kwon,Xiangyun Zhang,Dongyan Xu;PIEtrace: Platform Independent Executable Trace;;;;;selected
+2013;Westley Weimer,Zachary P. Fry,Stephanie Forrest;Leveraging Program Equivalence for Adaptive Program Repair: Models and First Results;;;;;selected
+2013;Malay K. Ganai;Efficient Data Race Prediction with Incremental Reasoning on Time-Stamped Lock History;;;;;selected
+2013;Jeffrey M. Barnes,Ashutosh Pandey,David Garlan;Automated Planning for Software Architecture Evolution;;;;;selected
+2013;Cyrille Valentin Artho,Masami Hagiya,Richard Potter,Yoshinori Tanabe,Franz Weitl,Mitsuharu Yamamoto;Software Model Checking for Distributed Systems with Selector-Based, Non-blocking Communication;;;;;selected
+2013;Shao Jie Zhang,Jun Sun,Chengnian Sun,Yang Liu,Junwei Ma,Jin Song Dong;Constraint-Based Automatic Symmetry Detection;;;;;selected
+2013;Kaituo Li,Christoph Reichenbach,Yannis Smaragdakis,Yanlei Diao,Christoph Csallner;SEDGE: Symbolic Example Data Generation for Dataflow Programs;;;;;selected
+2013;Mahinthan Chandramohan,Hee Beng Kuan Tan,Lionel C. Briand,Lwin Khin Shar,Bindu Padmanabhuni;A Scalable Approach for Malware Detection through Bounded Feature Space Behavior Modeling;;;;;selected
+2013;Hao Xiao,Jun Sun,Yang Liu,Shang-Wei Lin,Chengnian Sun;TzuYu: Learning Stateful Typestates;;;;;selected
+2013;Domenico Cotroneo,Domenico Di Leo,Francesco Fucci,Roberto Natella;SABRINE: StAte-Based Robustness testIng of operatiNg systEms;;;;;selected
+2013;Yuta Maezawa,Hironori Washizaki,Yoshinori Tanabe,Shinichi Honiden;Automated Verification of Pattern-Based Interaction Invariants in Ajax Applications;;;;;selected
+2013;Dirk Fahland,David Lo,Shahar Maoz;Mining Branching-Time Scenarios;;;;;selected
+2013;Jose Campos,Rui Abreu,Gordon Fraser,Marcelo d'Amorim;Entropy-Based Test Generation for Improved Fault Localization;;;;;selected
+2013;Richard Pohl,Vanessa Stricker,Klaus Pohl;Measuring the Structural Complexity of Feature Models;;;;;selected
+2013;Nicholas Y. Chen,Ralph E. Johnson;JFlow: Practical Refactorings for Flow-Based Parallelism;;;;;selected
+2013;Fabio Palomba,Gabriele Bavota,Massimiliano Di Penta,Rocco Oliveto,Andrea De Lucia,Denys Poshyvanyk;Detecting Bad Smells in Source Code using Change History Information;;;;;selected
+2013;Benedek Izso,Zoltan Szatmari,Gabor Bergmann,Akos Horvath,Istvan Rath;A Benchmark Evaluation of Metrics for Graph Query Performance Prediction;;;;;selected
+2013;Baishakhi Ray,Miryung Kim,Suzette Person,Neha Rungta;Detecting and Characterizing Semantic Inconsistencies in Ported Code;;;;;selected
+2013;Yongzheng Wu,Jun Sun,Yang Liu,Jin Song Dong;Automatically Partition Software into Least Privilege Components using Dynamic Data Dependency Analysis;;;;;selected
+2013;Yu Huang,Eric Mercer,Jay McCarthy;Proving MCAPI Executions Are Correct using SMT;;;;;selected
+2013;Radu Vanciu,Marwan Abi-Antoun;Finding Architectural Flaws using Constraints;;;;;selected
+2013;Timo Kehrer,Udo Kelter,Gabriele Taentzer;Consistency-Preserving Edit Scripts in Model Versioning;;;;;selected
+2013;Samira Tasharofi,Michael Pradel,Yu Lin,Ralph E. Johnson;Bita: Coverage-Guided, Automatic Testing of Actor Programs;;;;;selected
+2013;Vijay Krishna Palepu,Guoqing (Harry) Xu,James A. Jones;Improving Efficiency of Dynamic Analysis with Dynamic Dependence Summaries;;;;;selected
+2013;Hung Viet Nguyen,Hoan Anh Nguyen,Tung Thanh Nguyen,Hoan Anh Nguyen,Tien N. Nguyen;Dangling References in Multi-configuration and Dynamic PHP-Based Web Applications;;;;;selected
+2013;Chia Yuan Cho,Vijay D'Silva,Dawn Xiaodong Song;Blitz: Compositional Bounded Model Checking for Real-World Programs;;;;;selected
+2013;Hoan Anh Nguyen,Hoan Anh Nguyen,Tung Thanh Nguyen,Tien N. Nguyen,Hridesh Rajan;A Study of Repetitiveness of Code Changes in Software Evolution;;;;;selected
+2013;Nicolas Rosner,Junaid H. Siddiqui,Nazareno Aguirre,Sarfraz Khurshid,Marcelo Fabiun Frias;Ranger: Parallel Analysis of Alloy Models by Range Partitioning;;;;;selected
+2013;Lu Zhang,Arijit Chattopadhyay,Chao Wang;Round-Up: Runtime Checking Quasi Linearizability of Concurrent Data Structures;;;;;selected
+2013;Ferdian Thung,Shaowei Wang,David Lo,Julia L. Lawall;Automatic Recommendation of API Methods from Feature Requests;;;;;selected
+2013;Ripon Saha,Matthew Lease,Sarfraz Khurshid,Dewayne E. Perry;Improving Bug Localization using Structured Information Retrieval;;;;;selected
+2013;Abdel Salam Sayyad,Joseph Ingram,Tim Menzies,Hany H. Ammar;Scalable Product Line Configuration: A Straw to Break the Camel’s Back;;;;;selected
+2013;Chaorong Guo,Jian Zhang,Jun Yan,Zhiqiang Zhang,Yanli Zhang;Characterizing and Detecting Resource Leaks in Android Applications;;;;;selected
+2013;Peter Ohmann,Ben Liblit;Lightweight Control-Flow Instrumentation and Postmortem Analysis in Support of Debugging;;;;;selected
+2013;Lingming Zhang,Milos Gligoric,Darko Marinov,Sarfraz Khurshid;Operator-Based and Random Mutant Selection: Better Together;;;;;selected
+2013;William N. Sumner,Xiangyun Zhang;Identifying Execution Points for Dynamic Analyses;;;;;selected
 2012;William B. Langdon,David Robert White,Yue Jia,John Andrew Clark,Mark Harman,Andrea Arcuri;The GISMOE challenge: constructing the pareto program surface using genetic programming to find better programs (keynote paper).;1-14;14;Keynotes;;
 2012;Mira Kajko-Mattsson,Ivar Jacobson,Ian Spence,Pontus Johnson;Re-founding software engineering - SEMAT at the age of three (keynote abstract).;15-19;5;Keynotes;;
 2012;Jin Chen,Mengxiang Lin,Kai Yu,Xiangyun Zhang;Practical isolation of failure-inducing changes for debugging regression faults.;20-29;10;Debugging I;;selected

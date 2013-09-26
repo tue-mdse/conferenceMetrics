@@ -1,3 +1,23 @@
+2013;Lukas Marek,Stephen Kell,Yudi Zheng,Lubomir Bulej,Petr Tuma,Walter Binder,Danilo Ansaloni,Aibek Sarimbekov,Andreas Sewe;ShadowVM: Robust and Comprehensive Dynamic Program Analysis for the Java Platform;;;;;selected
+2013;Marko Martin,Mira Mezini,Sebastian Thore Erdweg;Template Constructors for Reusable Object Initialization;;;;;selected
+2013;Deepak Dhungana,Andreas A. Falkner,Alois Haselboeck;Generation of Conjoint Domain Models for System-of-Systems;;;;;selected
+2013;Darya Kurilova,Derek Rayside;On the Simplicity of Synthesizing Linked Data Structure Operations;;;;;selected
+2013;Kyoungho An,Takayuki Kuroda,Aniruddha S. Gokhale,Sumant Tambe,Andrea Sorbini;Model-driven Generative Framework for Automated OMG DDS Performance Testing in the Cloud;;;;;selected
+2013;Norbert Siegmund,Alexander von Rhein,Sven Apel;Family-Based Performance Measurement;;;;;selected
+2013;Sandro Schulze,Jorg Liebig,Janet Siegmund,Sven Apel;Does the Discipline of Preprocessor Annotations Matter? A Controlled Experiment;;;;;selected
+2013;Robert Dyer,Hridesh Rajan,Tien N. Nguyen;Declarative Visitors to Ease Fine-grained Source Code Mining with Full History on Billions of AST Nodes;;;;;selected
+2013;Georg Ofenbeck,Tiark Rompf,Alen Stojanov,Martin Odersky,Markus Puschel;Spiral in Scala: Towards the Systematic Construction of Generators for Performance Libraries;;;;;selected
+2013;Matthew Flatt;Submodules in Racket: You Want it When, Again?;;;;;selected
+2013;Arvind K. Sujeeth,Austin Gibbons,Kevin J. Brown,HyoukJoong Lee,Tiark Rompf,Martin Odersky,Oyekunle A. Olukotun;Forge: Generating a High Performance DSL Implementation from a Declarative Specification;;;;;selected
+2013;Julien Richard-Foy,Olivier Barais,Jean-Marc Jezequel;Efficient High-Level Abstractions for Web Programming;;;;;selected
+2013;Dean Kramer,Samia Oussena,Tony Clark,Peter Komisarczuk;Using Document-Oriented GUIs in Dynamic Software Product Lines;;;;;selected
+2013;Sergiy S. Kolesnikov,Alexander von Rhein,Claus Hunsen,Sven Apel;A Comparison of Product-based, Feature-based, and Family-based Type Checking;;;;;selected
+2013;Sebastian Thore Erdweg,Felix Rieger;A Framework for Extensible Languages;;;;;selected
+2013;Flavio M. Medeiros,Marcio de Medeiros Ribeiro,Rohit Gheyi;Investigating Preprocessor-Based Syntax Errors;;;;;selected
+2013;Yuriy Solodkyy,Gabriel Dos Reis,Bjarne Stroustrup;Open Pattern Matching for C++;;;;;selected
+2013;Peter Chapin,Christian Skalka,Scott Smith,Michael Watson;Scalaness/nesT: Type Specialized Staged Programming for Sensor Networks;;;;;selected
+2013;Prodromos Gerakios,Aggelos Biboudis,Yannis Smaragdakis;Reified Type Parameters Using Java Annotations;;;;;selected
+2013;Fabio Basso,Raquel M. Pillat;Supporting Large Scale Model Transformation Reuse;;;;;selected
 2012;Luca Padovani,Ina Schaefer,Ferruccio Damiani;A formal foundation for dynamic delta-oriented software product lines.;1-10;10;"Software product lines; features";;selected
 2012;Thomas Thum,Sven Apel,Martin Hentschel,Ina Schaefer;Family-based deductive verification of software product lines.;11-20;10;"Software product lines; features";;selected
 2012;Jorn Plonnigs,Uwe Ryssel,Klaus Kabitzsch;Reasoning of feature models from derived features.;21-30;10;"Software product lines; features";;selected
