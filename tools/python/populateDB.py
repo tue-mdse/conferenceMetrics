@@ -25,6 +25,8 @@ from resetDB import cleanStart
 from initDB import initDB
 from initDB import Base
 
+from nameMap import nameMap
+
 
 dataPath = os.path.abspath("../../data")
 
@@ -106,6 +108,10 @@ for conferenceName in conferences:
         # Add the authors
         for author_name in author_names:
             try:
+                author_name = nameMap[author_name]
+            except:
+                pass
+            try:
                 # I already have this author in the database
                 author = session.query(Person).\
                         filter_by(name=author_name).\
@@ -120,7 +126,6 @@ for conferenceName in conferences:
 
 # --- Update 8/12/2013 ---
 # Record also the role of PC members (PC Chair or General Chair)
-from nameMap import nameMap
 f = open(os.path.join(dataPath, 'SE-conf-roles.csv'), 'rb')
 reader = UnicodeReader(f)
 header = reader.next()
@@ -171,9 +176,9 @@ for conferenceName in conferences:
     f = open(os.path.join(dataPath, 'normalised-pc', '%s.csv' % acronym.lower()), 'rb')
     reader = UnicodeReader(f)
 
-    #####
+    # --- Update 8/12/2013 ---
     withRole = set([(name, year) for (name, conf, year) in roles.keys() if conf==acronym])
-    #####
+    # -----------------------
     
     for row in reader:
         # Deconstruct each row
@@ -181,8 +186,7 @@ for conferenceName in conferences:
         role = row[1]
         pcMemberName = row[2].strip()
         
-        # --- Update 8/12/2013 ---
-        
+        # --- Update 8/12/2013 ---        
         if roles.has_key((pcMemberName, acronym, year)):
             role = roles[(pcMemberName, acronym, year)]
             try:
@@ -220,7 +224,9 @@ for conferenceName in conferences:
                 membership.conference = conference
                 session.add(membership)
       
-    print sorted(withRole)          
+    # --- Update 8/12/2013 ---
+    print sorted(withRole)
+    # -----------------------
 
 
 print 'Loading acceptance ratios:'
