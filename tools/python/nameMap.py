@@ -197,6 +197,7 @@ nameMap = {
 'David ROSENBLUM':'David S. Rosenblum',
 'David Weiss':'David M. Weiss',
 'David Wile':'David S. Wile',
+'Dave Wile':'David S. Wile',
 'Dawson Engler':'Dawson R. Engler',
 'Debra Richardson':'Debra J. Richardson',
 'Dennis Smith':'Dennis B. Smith',
@@ -895,6 +896,8 @@ nameMap = {
 'Kevin Brown':'Kevin J. Brown',
 'Raquel Pillat':'Raquel M. Pillat',
 'Sergiy Kolesnikov':'Sergiy S. Kolesnikov',
+'Chris Welty':'Christopher A. Welty',
+'Ernst Tyugu':'Enn Tyugu',
 }
 
 

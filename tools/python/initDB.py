@@ -79,11 +79,11 @@ class PCMembership(Base):
     person_id = Column(Integer, ForeignKey('persons.id'))
     conference_id = Column(Integer, ForeignKey('conferences.id'))
     year = Column(Integer)
-    track = Column(String(100))
+    role = Column(String(100))
     
-    def __init__(self, year, track):
+    def __init__(self, year, role):
         self.year = year
-        self.track = track
+        self.role = role
     
     conference = relationship(Conference, backref="pc_membership")
     pcmember = relationship(Person, backref="pc_membership")    

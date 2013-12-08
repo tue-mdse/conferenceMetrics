@@ -2,6 +2,7 @@
 
 import os
 import sys
+from nameMagic import normaliseName, directLookup, reverseLookup
 sys.path.append('..')
 # from folderUtils import MyFolder
 from dictUtils import MyDict
@@ -11,53 +12,6 @@ from nameMap import nameMap
 
 
 dataPath = os.path.abspath("../../../data")
-
-
-# This is the list of DBLP author names (>1.1M people)
-# 335078;M. G. J. van den Brand, Mark G. J. van den Brand, Mark van den Brand
-f = open(os.path.join(dataPath, "dblp-author-aliases-stripped.csv"), "rb")
-reader1 = UnicodeReader(f)
-
-# Read the list into a map
-# reverseLookup['M. G. J. van den Brand'] 
-# 	= reverseLookup['Mark G. J. van den Brand'] 
-# 	= reverseLookup['Mark van den Brand']
-# 	= 335078
-reverseLookup = MyDict()
-# Choose a unique spelling for each name
-# directLookup['M. G. J. van den Brand'] 
-# 	= directLookup['Mark G. J. van den Brand'] 
-# 	= directLookup['Mark van den Brand']
-# 	= 'Mark van den Brand'
-directLookup = MyDict()
-for row in reader1:
-    aid = int(row[0])
-    aliases = [name.strip() for name in row[1].split(',')]
-    for name in aliases:
-        reverseLookup[name] = aid
-	directLookup[aid] = aliases[-1]
-
-
-# Normalizes a name using the different aliases 
-# used by the same person on DBLP
-def normaliseName(name):
-    # Strip out accents and other unicode
-    name = unidecode(name).strip()
-    
-    try:
-        name = nameMap[name]
-    except:
-        pass
-    
-    # If on DBLP, use consistent name
-    try:
-        aid = reverseLookup[name]
-        name = directLookup[aid]
-    except:
-    	unknowns.add(name)
-#         pass
-    
-    return name
 
 
 
@@ -90,7 +44,7 @@ soFarSoGood = set()
 uselessData = MyDict()
 # for each name in the DBLP data
 for key in reverseLookup.keys():
-	# record a version of the name without initials
+    # record a version of the name without initials
     s = " ".join([p.lower() for p in key.split() if len(p) > 1 and p.find('.') == -1])
     uselessData[key] = s
 
@@ -99,9 +53,9 @@ for name in sorted(unknowns):
     longParts = [p.lower() for p in name.split() if len(p) > 1 and p.find('.') == -1]
     # if the name contains at least two parts of sufficient length
     if len(longParts) > 1:
-    	# check against each of the DBLP names
+        # check against each of the DBLP names
         for key in reverseLookup.keys():
-        	# retrieve the version without initials
+            # retrieve the version without initials
             s = uselessData[key]
             # check that the name starts and ends with the same parts
             if s.startswith(longParts[0]) and s.endswith(" %s" % longParts[-1]):
@@ -125,7 +79,7 @@ unknowns.difference_update(soFarSoGood)
 # for each of the remaining unknowns check if it is of the form 
 # 'J. McHugh' ('John McHugh') - common especially for older editions
 for name in sorted(unknowns):
-	# split into parts
+    # split into parts
     parts2 = [p.lower() for p in name.split() if len(p)]
     parts = []
     # strip dots
@@ -134,7 +88,7 @@ for name in sorted(unknowns):
     
     # if exactly two parts
     if len(parts) == 2:
-    	# if the first part is a letter
+        # if the first part is a letter
         if len(parts[0]) == 1:
             initial = parts[0][0]
             lastName = parts[1]
@@ -160,12 +114,12 @@ print
 
 # Try more heuristics (with less confidence than before)
 for name in sorted(unknowns):
-	# split into name parts of length at least two and ignore parts containing dot
+    # split into name parts of length at least two and ignore parts containing dot
     longParts = set([p for p in name.split() if len(p) > 1 and p.find('.') == -1])
     # if there are at least two parts
     if len(longParts) > 1:
-    	# match against DBLP names containing the same name parts, 
-    	# potentially in a different order
+        # match against DBLP names containing the same name parts, 
+        # potentially in a different order
         for key in reverseLookup.keys():
             s = set([p for p in key.split() if len(p) > 1 and p.find('.') == -1])
             if len(s) > 1:
