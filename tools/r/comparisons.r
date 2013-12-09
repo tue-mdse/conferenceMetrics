@@ -1,8 +1,9 @@
 # List of edges for the ~T graphs, and results of wide-narrow comparison
 
-metric = "C"
+#metric = "C"
 
 root <- "/Users/bogdanv/github/conferenceMetrics/"
+outPath <- "/Users/bogdanv/icse-harmful/grlz/camera-ready/graphs/"
 
 analysis <- function(metric){
   metrics <- read.csv(paste(root, "metrics/", metric, ".csv", sep=""), sep=";")
@@ -58,11 +59,14 @@ analysis <- function(metric){
   #head(res$Analysis)
   #head(rownames(res$Analysis))
   
+  filename = paste(outPath, "tld_edges_", metric, ".csv", sep="")
+  
   s_xy <- subset(res$Analysis, Upper < 0)
   names <- strsplit(rownames(s_xy), " - ")
   if (length(names) > 0){
     for (i in 1:length(names)){
       cat(paste("(\"",names[[i]][2],"\",",sep=""), paste("\"",names[[i]][1],"\")",sep=""), "\n")
+      cat(paste(names[[i]][2],names[[i]][1],sep=";"), file=filename, sep="\n", append=TRUE)
     }
   }
   
@@ -71,6 +75,7 @@ analysis <- function(metric){
   if (length(names) > 0){
     for (i in 1:length(names)){
       cat(paste("(\"",names[[i]][1],"\",",sep=""), paste("\"",names[[i]][2],"\")",sep=""), "\n")
+      cat(paste(names[[i]][1],names[[i]][2],sep=";"), file=filename, sep="\n", append=TRUE)
     }
   }
   
