@@ -50,6 +50,12 @@ make_scatter_plot <- function(filename1, metric1, filename2, metric2, xmax, ymax
     
     x = c()
     y = c()
+  
+    xn = c()
+    yn = c()
+  
+    xw = c()
+    yw = c()
     
     for (i in 1:length(conferences)){
       c = conferences[i]
@@ -62,6 +68,15 @@ make_scatter_plot <- function(filename1, metric1, filename2, metric2, xmax, ymax
       
       x = c(x, data[[paste(c,"_1", sep="")]])
       y = c(y, data[[paste(c,"_2", sep="")]])
+      
+      if (c %in% wide.confs){
+        xw = c(xw, x)
+        yw = c(yw, y)
+      }else{
+        xn = c(xn, x)
+        yn = c(yn, y)
+      }
+      
       ct = cor.test(data[[paste(c,"_1", sep="")]], data[[paste(c,"_2", sep="")]])
       #print(names(ct))
       print(paste(conferences[i], ct$estimate, ct$p.value))
@@ -83,6 +98,12 @@ make_scatter_plot <- function(filename1, metric1, filename2, metric2, xmax, ymax
   dev.off()
   
   print(cor.test(x,y))
+  
+  print("narrow")
+  print(cor.test(xn,yn))
+  
+  print("wide")
+  print(cor.test(xw,yw))
   
 }
 
