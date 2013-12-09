@@ -14,7 +14,8 @@ from nameMagic import normaliseName, directLookup, reverseLookup
 
 dataPath = os.path.abspath("../../../data")
 
-
+#print normaliseName(u'Liz Burd')
+#exit()
 
 conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase']
 

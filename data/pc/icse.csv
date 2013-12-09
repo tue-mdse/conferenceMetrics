@@ -1,3 +1,4 @@
+2013;main;David Notkin;University of Washington at Seattle, USA
 2013;main;Betty H.C. Cheng;Michigan State University;United States of America
 2013;main;Klaus Pohl;University of Duisburg-Essen;Germany;
 2013;main;Lionel Briand;University of Luxembourg;Luxembourg
@@ -47,6 +48,9 @@
 2013;main;André van der Hoek;University of California, Irvine;United States of America
 2013;main;Willem Visser;Stellenbosch University;South Africa
 2013;main;Jon Whittle;Lancaster University;United Kingdom
+2012;main;Mauro Pezze;University of Lugano and University of Milano Bicocca;Switzerland, Italy
+2012;main;Martin Glinz;University of Zurich, Switzerland
+2012;main;Gail C. Murphy;University of British Columbia;Canada
 2012;main;Giuliano Antoniol;École Polytechnique de Montréal, Canada
 2012;main;Leonardo Mariani;University of Milan - Bicocca
 2012;main;Jo Atlee;University of Waterloo, Canada
@@ -220,6 +224,7 @@
 2012;nier;Massimo Tivoli;Universita dell’Aquila, Italy
 2012;nier;Apostolos Zarras;University of Ioannina, Greece
 2012;nier;Benjamin Zorn;Microsoft Research, USA
+2011;main;Richard N. Taylor;University of California at Irvine, USA
 2011;main;Don Batory;University of Texas at Austin, USA
 2011;main;Lionel Briand;Simula Research Laboratory, Norway
 2011;main;Gerardo Canfora;University of Sannio, Italy
@@ -466,6 +471,10 @@
 2011;nier;Mary Shaw;Carnegie Mellon University, USA
 2011;nier;Kevin Sullivan;University of Virginia, USA
 2011;nier;Pamela Zave;AT&T Research Labs, USA
+2010;main;Sebastian Uchitel;University of Buenos Aires, Argentina and Imperial College London, UK
+2010;main;Prem Devanbu;University of California at Davis, USA
+2010;main;Judith Bishop;University of Pretoria, South Africa
+2010;main;Jeffrey Kramer;Imperial College London, UK
 2010;main;Joanne M. Atlee;University of Waterloo, Canada
 2010;main;Antonia Bertolino;ISTI-CNR, Italy
 2010;main;Victor Braberman;Universidad de Buenos Aires, Argentina
@@ -681,6 +690,9 @@
 2010;nier;Hans van Vliet;Vrije Universiteit, The Netherlands
 2010;nier;Eran Yahav;IBM Research, USA
 2010;nier;Yun Yang;Swinburne University of Technology, Australia
+2009;main;Stephen Fickas;University of Oregon, USA
+2009;main;Paola Inverardi;Universita dell’Aquila, Italy
+2009;main;Joanne M. Atlee;University of Waterloo, Canada
 2009;main;Antonia Bertolino;ISTI-CNR, Italy
 2009;main;Lionel Briand;Simula Research Laboratory & University of Oslo, Norway
 2009;main;Betty Cheng;Michigan State University, USA
@@ -895,6 +907,9 @@
 2009;nier-external;Dietrich Travkin;
 2009;nier-external;Sebastian Uchitel;
 2009;nier-external;Eugenio Zimeo;
+2008;main;Wilhelm Schafer;University of Paderborn, Germany
+2008;main;Volker Gruhn;University of Leipzig, Germany
+2008;main;Matthew B. Dwyer;University of Nebraska - Lincoln, USA
 2008;main;Joanne M. Atlee;University of Waterloo, Canada
 2008;main;Antonia Bertolino;ISTI-CNR, Italy
 2008;main;Bernd Bruegge;Technische Universitaet Muenchen, Germany
@@ -1097,6 +1112,7 @@
 2008;external;Ye Yang;
 2008;external;Yunwen Ye;
 2008;external;Yijun Yu;
+2007;main;John C. Knight;University of Virginia, USA
 2007;main;Wolfgang Emmerich;University College London, UK
 2007;main;Gregg Rothermel;University of Nebraska - Lincoln, USA
 2007;main;Joanne M. Atlee;University of Waterloo, Canada
@@ -1226,6 +1242,7 @@
 2007;external;Vincent Wolff-Marting;
 2007;external;Guoqing Xu;
 2007;external;Apostolos Zarras;
+2006;main;Leon J. Osterweil;University of Massachusetts, USA
 2006;main;Dieter Rombach;Technische Universität Kaiserslautern, Germany
 2006;main;Mary Lou Soffa;University of Virginia, USA
 2006;main;George Avrunin;University of Massachusetts, USA
@@ -1683,6 +1700,7 @@
 2006;external;Hong Zhu;
 2006;external;Wolf Zimmermann;
 2006;external;Andrea Zisman;
+2005;main;Gruia-Catalin Roman;Washington University in St. Louis, USA
 2005;main;William Griswold;University of California San Diego, USA
 2005;main;Bashar Nuseibeh;The Open University, UK
 2005;main;Jonathan Aldrich;Carnegie Mellon University, USA
@@ -1794,6 +1812,9 @@
 2005;external;Michael W. Whalen;
 2005;external;Chang Xu;
 2005;external;Sergio Yovine;
+2004;main;Jacky Estublier;Grenoble University, France
+2004;main;David Rosenblum;University College London, UK
+2004;main;Anthony Finkelstein;University College London, UK
 2004;main;Kenneth M. Anderson;USA
 2004;main;Annie Anton;USA
 2004;main;Antonia Bertolino;Italy
@@ -1931,6 +1952,7 @@
 2004;external;Ting Yu;
 2004;external;Apostolos Zarras;
 2004;external;Olivier Zendra;
+2003;main;Lori A. Clarke;USA
 2003;main;Laura Dillon;Michigan State University, USA
 2003;main;Walter Tichy;University of Karlsruhe, Germany
 2003;main;Annie Anton;North Carolina State University, USA
@@ -2054,6 +2076,9 @@
 2003;external;Fancong Zeng;
 2003;external;Tao Zhang;
 2003;external;Dong Zhou;
+2002;main;Will Tracz;Lockheed Martin Federal Systems, USA
+2002;main;Michal Young;University of Oregon, USA
+2002;main;Jeff Magee;Imperial College London, UK
 2002;main;George Avrunin;University of Massachusetts, USA
 2002;main;Shing-Chi Cheung;Hong Kong University of Science and Technology, Hong Kong
 2002;main;Lori A. Clarke;University of Massachusetts, USA
@@ -2099,6 +2124,7 @@
 2002;main;Jack Wileden;University of Massachusetts, USA
 2002;main;Alexander L. Wolf;University of Colorado, USA
 2002;main;D.Yankelevich;Pragma Consultores
+2001;main;Hausi A. Muller;University of Victoria, Canada
 2001;main;Mary Jean Harrold;Georgia Institute of Technology, USA
 2001;main;Wilhelm Schafer;University of Paderborn, Germany
 2001;main;Joanne M. Atlee;University of Waterloo, Canada
@@ -2200,6 +2226,7 @@
 2001;external;Yong Xia;University of Zurich, Switzerland
 2001;external;Apostolos Zarras;IRISA, France
 2001;external;Gabi Zodik;IBM Haifa Research Lab, Israel
+2000;main;Carlo Ghezzi;Italy
 2000;main;Mehdi Jazayeri;Technical University of Vienna, Austria
 2000;main;Alexander L. Wolf;University of Colorado at Boulder, USA
 2000;main;Kenneth M. Anderson;University of Colorado at Boulder, USA
