@@ -146,7 +146,10 @@ for row in reader:
     except:
         pass
     role = row[5]
-    if '?' not in name:
+    if role == 'Organiser':
+        role = 'PC member main track'
+    
+    if '?' not in name and role != 'Challenge Chair' and role != 'Data Chair':
         roles[(name, conf, year)] = role
     
 #Conference;Year;First Name;Last Name;Sex;Role
