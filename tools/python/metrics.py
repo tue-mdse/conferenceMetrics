@@ -29,6 +29,7 @@ class ConferenceMetrics():
         self.papersPerYear = self.__extractPapers();    # Look up the papers (paper = list of authors) published in a particular year
         self.pcPerYear = self.__extractPC();            # Look up the PC members for a particular year
         self.coreAuthors = self.__computeCore(self.yearsPerAuthor)
+        self.members = self.__computeMembers();         # Conference members per year (union of authors and PC members)
         
         # Metrics
         self.AP = self.__computeAP();   # Number of accepted papers per year
@@ -37,6 +38,7 @@ class ConferenceMetrics():
         self.RL = self.__computeRL();   # Review load: #subm/#PCmem
         self.A = self.__computeA();     # Number of authors per year
         self.C = self.__computeC();     # Number of PC members per year
+        self.CM = self.__computeCM();     # Number of community members per year
         
         self.CnA4 = self.__computeCnA(4);   # Number of PC members for a given year that have never been authors between y-n and y-1
         self.RCnA4 = self.__computeRCnA(4); # Wild-Card Ratio: %PC members for a given year that have never been authors between y-n and y-1 (sliding window)
@@ -46,7 +48,7 @@ class ConferenceMetrics():
         self.RAC0 = self.__computeRAC(0);   # Inbreeding ratio (IR): fraction of papers published in a given year that have at least one PC member from y-n..y as author
         self.RAC4 = self.__computeRAC(4)
         
-        self.NC1 = self.__computeNC(1);     # PC Turnover: number of PC members for a given year that have not been on the PC between y-n and y-1
+        self.NC1 = self.__computeNC(1);     # ([N]ew [C]ommittee) PC Turnover: number of PC members for a given year that have not been on the PC between y-n and y-1
         self.NC4 = self.__computeNC(4)
         self.RNC1 = self.__computeRNC(1);   # PC Turnover Ratio: fraction of PC members for a given year that have not been on the PC between y-n and y-1
         self.RNC4 = self.__computeRNC(4)
@@ -60,7 +62,18 @@ class ConferenceMetrics():
         self.RPNA4 = self.__computeRPNA(4); # Fraction of the papers published in a given year for which none of the co-authors has published here between y-n and y-1
         
         self.SR4 = self.__computeSR(4); # Sustainability ratio
-
+        
+        self.SC1 = self.__computeSC(1);     # ([S]ame [C]ommittee) = number of PC members for a given year that have also served on the PC between y-n and y-1
+        self.SymRelC1 = self.__computeSymRelC(1); # Relative number of PC members in common (symmetric version) = Absolute number of PC members in common / Size of the union of PC(c,y) and PC(c,y-1)
+        self.AsymRelC1 = self.__computeAsymRelC(1); # Relative number of recurrent PC members (asymmetric version) = Absolute number of PC members in common / Size of PC(c,y) = percentage of PC members for c in year y that were also PC member in year y-1
+        
+        self.SA1 = self.__computeSA(1);     # ([S]ame [A]uthors)
+        self.SymRelA1 = self.__computeSymRelA(1); # 
+        self.AsymRelA1 = self.__computeAsymRelA(1); #
+        
+        self.SCM1 = self.__computeSCM(1);     # ([S]ame [C]onference[M]embers)
+        self.SymRelCM1 = self.__computeSymRelCM(1); # 
+        self.AsymRelCM1 = self.__computeAsymRelCM(1) #
             
     def getMetric(self, metric, k=None):
         if metric == 'AP':
@@ -80,6 +93,9 @@ class ConferenceMetrics():
         
         elif metric == 'C':
             return self.C
+        
+        elif metric == 'CM':
+            return self.CM
         
         elif metric == 'CnA':
             if k is not None and k == 4:
@@ -118,6 +134,71 @@ class ConferenceMetrics():
                     return self.NC4
                 else:
                     return self.__computeNC(k)
+                
+        elif metric == 'SC':
+            if k is not None:
+                if k == 1:
+                    return self.SC1
+                else:
+                    return self.__computeSC(k)
+                
+        elif metric == 'SymRelC':
+            if k is not None:
+                if k == 1:
+                    return self.SymRelC1
+                else:
+                    return self.__computeSymRelC(k)
+            
+        elif metric == 'AsymRelC':
+            if k is not None:
+                if k == 1:
+                    return self.AsymRelC1
+                else:
+                    return self.__computeAsymRelC(k)
+                
+        elif metric == 'SA':
+            if k is not None:
+                if k == 1:
+                    return self.SA1
+                else:
+                    return self.__computeSA(k)
+                
+        elif metric == 'SymRelA':
+            if k is not None:
+                if k == 1:
+                    return self.SymRelA1
+                else:
+                    return self.__computeSymRelA(k)
+            
+        elif metric == 'AsymRelA':
+            if k is not None:
+                if k == 1:
+                    return self.AsymRelA1
+                else:
+                    return self.__computeAsymRelA(k)
+                
+        
+        elif metric == 'SCM':
+            if k is not None:
+                if k == 1:
+                    return self.SCM1
+                else:
+                    return self.__computeSCM(k)
+                
+        elif metric == 'SymRelCM':
+            if k is not None:
+                if k == 1:
+                    return self.SymRelCM1
+                else:
+                    return self.__computeSymRelCM(k)
+            
+        elif metric == 'AsymRelCM':
+            if k is not None:
+                if k == 1:
+                    return self.AsymRelCM1
+                else:
+                    return self.__computeAsymRelCM(k)        
+        
             
         elif metric == 'RNC':
             if k is not None:
@@ -190,6 +271,16 @@ class ConferenceMetrics():
         return (d, y)
             
             
+            
+    def __computeMembers(self):
+        """Conference members for conference c for a given year:
+        = union of conference authors and PC members"""
+        d = {}
+        for year in set(self.authorsPerYear.keys()).intersection(set(self.pcPerYear.keys())):
+            d[year] = self.authorsPerYear[year].union(self.pcPerYear[year])
+        return d
+
+
             
     def __computeCore(self, yearsPerName):
         """Compute core persons (authors, PC members = frequent flyers)"""
@@ -273,6 +364,14 @@ class ConferenceMetrics():
         return d
 
 
+    def __computeCM(self):
+        """Number of community members per year"""
+        d = {}
+        for year in self.members.keys():
+            d[year] = len(self.members[year])
+        return d
+    
+
     def __computeSP(self):
         '''Compute the number of submissions per conference per year'''
         d = {}
@@ -317,7 +416,7 @@ class ConferenceMetrics():
         return d        
 
 
-    def __absWindow(self, data, k):
+    def __absWindowDiff(self, data, k):
         d = {}
         years = sorted(data.keys())
         for year in years[k:]:
@@ -327,8 +426,19 @@ class ConferenceMetrics():
             d[year] = len(data[year].difference(previous))
         return d
 
+
+    def __absWindowIntersect(self, data, k):
+        d = {}
+        years = sorted(data.keys())
+        for year in years[k:]:
+            previous = set()
+            for y in [y for y in years[years.index(year)-k: years.index(year)]]:
+                previous.update(data[y])
+            d[year] = len(data[year].intersection(previous))
+        return d
     
-    def __ratioWindow(self, data, k):
+    
+    def __ratioWindowDiff(self, data, k):
         d = {}
         years = sorted(data.keys())
         for year in years[k:]:
@@ -336,6 +446,28 @@ class ConferenceMetrics():
             for y in [y for y in years[years.index(year)-k: years.index(year)]]:
                 previous.update(data[y])
             d[year] = float(len(data[year].difference(previous))) / float(len(data[year]))
+        return d
+    
+    
+    def __ratioWindowIntersectAsym(self, data, k):
+        d = {}
+        years = sorted(data.keys())
+        for year in years[k:]:
+            previous = set()
+            for y in [y for y in years[years.index(year)-k: years.index(year)]]:
+                previous.update(data[y])
+            d[year] = float(len(data[year].intersection(previous))) / float(len(data[year]))
+        return d
+    
+    
+    def __ratioWindowIntersectSym(self, data, k):
+        d = {}
+        years = sorted(data.keys())
+        for year in years[k:]:
+            previous = set()
+            for y in [y for y in years[years.index(year)-k: years.index(year)]]:
+                previous.update(data[y])
+            d[year] = float(len(data[year].intersection(previous))) / float(len(previous))
         return d
 
 
@@ -393,22 +525,62 @@ class ConferenceMetrics():
             
     def __computeNA(self, k):
         """Author Turnover: number of authors for a given year that have not been author between y-n and y-1"""
-        return self.__absWindow(self.authorsPerYear, k)
+        return self.__absWindowDiff(self.authorsPerYear, k)
 
 
     def __computeRNA(self, k):
         """Author Turnover Ratio: fraction of authors for a given year that have not been author between y-n and y-1"""
-        return self.__ratioWindow(self.authorsPerYear, k)
+        return self.__ratioWindowDiff(self.authorsPerYear, k)
 
 
     def __computeNC(self, k):
         """PC Turnover: number of PC members for a given year that have not been on the PC between y-n and y-1"""
-        return self.__absWindow(self.pcPerYear, k)
+        return self.__absWindowDiff(self.pcPerYear, k)
+
+
+    def __computeSC(self, k):
+        """Absolute number of PC members in common in successive versions of the conference 
+        = Size of the intersection of PC(c,y) and PC(c,y-k)"""
+        return self.__absWindowIntersect(self.pcPerYear, k)
+    
+    
+    def __computeSymRelC(self, k):
+        """Relative number of PC members in common (symmetric version) 
+        = Absolute number of PC members in common / Size of the union of PC(c,y) and PC(c,y-k)"""
+        return self.__ratioWindowIntersectSym(self.pcPerYear, k)
+    
+    
+    def __computeAsymRelC(self, k):
+        """Relative number of recurrent PC members (asymmetric version) 
+        = Absolute number of PC members in common / Size of PC(c,y) 
+        = percentage of PC members for c in year y that were also PC member in year y-1"""
+        return self.__ratioWindowIntersectAsym(self.pcPerYear, k)
+
+
+
+    def __computeSA(self, k):
+        return self.__absWindowIntersect(self.authorsPerYear, k)
+    
+    def __computeSymRelA(self, k):
+        return self.__ratioWindowIntersectSym(self.authorsPerYear, k)
+    
+    def __computeAsymRelA(self, k):
+        return self.__ratioWindowIntersectAsym(self.authorsPerYear, k)
+
+
+    def __computeSCM(self, k):
+        return self.__absWindowIntersect(self.members, k)
+    
+    def __computeSymRelCM(self, k):
+        return self.__ratioWindowIntersectSym(self.members, k)
+    
+    def __computeAsymRelCM(self, k):
+        return self.__ratioWindowIntersectAsym(self.members, k)
 
 
     def __computeRNC(self, k):
         """PC Turnover Ratio: fraction of PC members for a given year that have not been on the PC between y-n and y-1"""
-        return self.__ratioWindow(self.pcPerYear, k)
+        return self.__ratioWindowDiff(self.pcPerYear, k)
 
 
     def __computePNA(self, k):

@@ -122,6 +122,19 @@ tabulate2CSV(os.path.join(metricsPath, 'RNA4.csv'), 'RNA', 4)
 tabulate2CSV(os.path.join(metricsPath, 'RPNA4.csv'), 'RPNA', 4)
 tabulate2CSV(os.path.join(metricsPath, 'PNA4.csv'), 'PNA', 4)
 tabulate2CSV(os.path.join(metricsPath, 'SR4.csv'), 'SR', 4)
-        
+
 scatterPlot(os.path.join(metricsPath, 'RAC0-RNC1.csv'), 'RAC', 'RNC', 0, 1)
 
+tabulate2CSV(os.path.join(metricsPath, 'CM.csv'), 'CM', datatype='int')
+
+tabulate2CSV(os.path.join(metricsPath, 'SC1.csv'), 'SC', 1, datatype='int')
+tabulate2CSV(os.path.join(metricsPath, 'SymRelC1.csv'), 'SymRelC', 1)
+tabulate2CSV(os.path.join(metricsPath, 'AsymRelC1.csv'), 'AsymRelC', 1)
+        
+tabulate2CSV(os.path.join(metricsPath, 'SA1.csv'), 'SA', 1, datatype='int')
+tabulate2CSV(os.path.join(metricsPath, 'SymRelA1.csv'), 'SymRelA', 1)
+tabulate2CSV(os.path.join(metricsPath, 'AsymRelA1.csv'), 'AsymRelA', 1)
+
+tabulate2CSV(os.path.join(metricsPath, 'SCM1.csv'), 'SCM', 1, datatype='int')
+tabulate2CSV(os.path.join(metricsPath, 'SymRelCM1.csv'), 'SymRelCM', 1)
+tabulate2CSV(os.path.join(metricsPath, 'AsymRelCM1.csv'), 'AsymRelCM', 1)
