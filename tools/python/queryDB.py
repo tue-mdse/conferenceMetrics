@@ -138,3 +138,84 @@ tabulate2CSV(os.path.join(metricsPath, 'AsymRelA1.csv'), 'AsymRelA', 1)
 tabulate2CSV(os.path.join(metricsPath, 'SCM1.csv'), 'SCM', 1, datatype='int')
 tabulate2CSV(os.path.join(metricsPath, 'SymRelCM1.csv'), 'SymRelCM', 1)
 tabulate2CSV(os.path.join(metricsPath, 'AsymRelCM1.csv'), 'AsymRelCM', 1)
+
+print
+from itertools import combinations
+
+for c,d in combinations(sorted(conferences), 2):
+    print c,d
+
+    pc_c = metrics[c].pcPerYear
+    pc_d = metrics[d].pcPerYear
+    
+    a_c = metrics[c].authorsPerYear
+    a_d = metrics[d].authorsPerYear
+    
+    cm_c = metrics[c].membersPerYear
+    cm_d = metrics[d].membersPerYear
+
+    allYears = set(cm_c.keys()).intersection(cm_d.keys())
+
+    outPath = os.path.join(metricsPath, 'pairwise', '%s_%s.csv' % (c,d))
+    f = open(outPath, 'wb')
+    writer = UnicodeWriter(f)
+    header = ['YEAR',
+              'PC1',
+              'PC2', 
+              'PC1_INT_PC2',
+              'PC1_UNI_PC2',
+              'PC1_INT_PC2__REL__PC1_UNI_PC2',
+              'PC1_INT_PC2__REL__PC1',
+              'PC1_INT_PC2__REL__PC2',
+              'A1',
+              'A2', 
+              'A1_INT_A2',
+              'A1_UNI_A2',
+              'A1_INT_A2__REL__A1_UNI_A2',
+              'A1_INT_A2__REL__A1',
+              'A1_INT_A2__REL__A2',
+              'CM1',
+              'CM2', 
+              'CM1_INT_CM2',
+              'CM1_UNI_CM2',
+              'CM1_INT_CM2__REL__CM1_UNI_CM2',
+              'CM1_INT_CM2__REL__CM1',
+              'CM1_INT_CM2__REL__CM2']
+    writer.writerow(header)
+
+    for year in reversed(sorted(allYears)):
+        pc_c_int_pc_d = pc_c[year].intersection(pc_d[year])
+        pc_c_uni_pc_d = pc_c[year].union(pc_d[year])
+        
+        a_c_int_a_d = a_c[year].intersection(a_d[year])
+        a_c_uni_a_d = a_c[year].union(a_d[year])
+        
+        cm_c_int_cm_d = cm_c[year].intersection(cm_d[year])
+        cm_c_uni_cm_d = cm_c[year].union(cm_d[year])
+        
+        row = [str(year),
+               '%d' % len(pc_c[year]),
+               '%d' % len(pc_d[year]),
+               '%d' % len(pc_c_int_pc_d),
+               '%d' % len(pc_c_uni_pc_d),
+               '%.03f' % (float(len(pc_c_int_pc_d))/float(len(pc_c_uni_pc_d))),
+               '%.03f' % (float(len(pc_c_int_pc_d))/float(len(pc_c[year]))),
+               '%.03f' % (float(len(pc_c_int_pc_d))/float(len(pc_d[year]))),
+               '%d' % len(a_c[year]),
+               '%d' % len(a_d[year]),
+               '%d' % len(a_c_int_a_d),
+               '%d' % len(a_c_uni_a_d),
+               '%.03f' % (float(len(a_c_int_a_d))/float(len(a_c_uni_a_d))),
+               '%.03f' % (float(len(a_c_int_a_d))/float(len(a_c[year]))),
+               '%.03f' % (float(len(a_c_int_a_d))/float(len(a_d[year]))),
+               '%d' % len(cm_c[year]),
+               '%d' % len(cm_d[year]),
+               '%d' % len(cm_c_int_cm_d),
+               '%d' % len(cm_c_uni_cm_d),
+               '%.03f' % (float(len(cm_c_int_cm_d))/float(len(cm_c_uni_cm_d))),
+               '%.03f' % (float(len(cm_c_int_cm_d))/float(len(cm_c[year]))),
+               '%.03f' % (float(len(cm_c_int_cm_d))/float(len(cm_d[year])))]
+        
+        writer.writerow(row)
+    f.close() 
+

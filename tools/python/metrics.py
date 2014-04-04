@@ -29,7 +29,7 @@ class ConferenceMetrics():
         self.papersPerYear = self.__extractPapers();    # Look up the papers (paper = list of authors) published in a particular year
         self.pcPerYear = self.__extractPC();            # Look up the PC members for a particular year
         self.coreAuthors = self.__computeCore(self.yearsPerAuthor)
-        self.members = self.__computeMembers();         # Conference members per year (union of authors and PC members)
+        self.membersPerYear = self.__computeMembers();         # Conference members per year (union of authors and PC members)
         
         # Metrics
         self.AP = self.__computeAP();   # Number of accepted papers per year
@@ -367,8 +367,8 @@ class ConferenceMetrics():
     def __computeCM(self):
         """Number of community members per year"""
         d = {}
-        for year in self.members.keys():
-            d[year] = len(self.members[year])
+        for year in self.membersPerYear.keys():
+            d[year] = len(self.membersPerYear[year])
         return d
     
 
@@ -569,13 +569,13 @@ class ConferenceMetrics():
 
 
     def __computeSCM(self, k):
-        return self.__absWindowIntersect(self.members, k)
+        return self.__absWindowIntersect(self.membersPerYear, k)
     
     def __computeSymRelCM(self, k):
-        return self.__ratioWindowIntersectSym(self.members, k)
+        return self.__ratioWindowIntersectSym(self.membersPerYear, k)
     
     def __computeAsymRelCM(self, k):
-        return self.__ratioWindowIntersectAsym(self.members, k)
+        return self.__ratioWindowIntersectAsym(self.membersPerYear, k)
 
 
     def __computeRNC(self, k):
