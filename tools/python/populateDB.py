@@ -32,7 +32,7 @@ dataPath = os.path.abspath("../../data")
 
 conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase']
 
-# Conference impact computed for the entire period 2000-2012
+# Conference impact computed for the entire period 2000-2013
 # http://shine.icomp.ufam.edu.br/index.php
 impact = {
     'ICSE':117, 
@@ -132,8 +132,10 @@ header = reader.next()
 roles = {}
 
 def confName(conf):
-    if confName == 'ESEC/FSE':
+    if conf == 'ESEC/FSE':
         return 'FSE'
+    elif conf == 'CSMR-WCRE':
+        return 'CSMR'
     else:
         return conf
      

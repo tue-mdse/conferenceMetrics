@@ -35,9 +35,11 @@ class Person(Base):
     __tablename__ = 'persons'
     id = Column(Integer, primary_key=True)
     name = Column(String(100))
+    gender = Column(String(10))
     
-    def __init__(self, name):
+    def __init__(self, name, gender=None):
         self.name = name
+        self.gender = gender
 
     def __repr__(self):
         return "<Person('%s')>" % (self.name)
