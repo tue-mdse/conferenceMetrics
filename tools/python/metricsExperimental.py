@@ -466,8 +466,8 @@ class ConferenceMetrics():
     def __computeSR(self, k):
         """Sustainability ratio"""
         core = self.coreAuthors
-        if self.name == 'ICPC':
-            print core[2013]
+#        if self.name == 'ICPC':
+#            print core[2013]
         
         pc = self.pcPerYear
         sr = {}
@@ -477,11 +477,11 @@ class ConferenceMetrics():
             for y in [y for y in years[years.index(year)-k: years.index(year)+1]]:
                 previous.update(pc[y])
             unsungHeroes = set(core[year]).difference(previous)
-            # if self.name == 'ICPC':
-#                 if year == 2013 or year == 2012:
-#                     print 
-#                     print year
-#                     print unsungHeroes
+            if self.name == 'CSMR' or self.name == 'WCRE':
+                if year == 2014 or year == 2013 or year == 2012:
+                    print 
+                    print year
+                    print unsungHeroes
             sr[year] = float(len(unsungHeroes)) / float(len(pc[year]))
         return sr
     

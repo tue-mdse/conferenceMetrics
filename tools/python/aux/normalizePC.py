@@ -4,10 +4,10 @@ import os
 import sys
 sys.path.append('..')
 # from folderUtils import MyFolder
-from dictUtils import MyDict
+#from dictUtils import MyDict
 from unicodeMagic import UnicodeReader, UnicodeWriter
-from unidecode import unidecode
-from nameMap import nameMap
+#from unidecode import unidecode
+#from nameMap import nameMap
 from nameMagic import normaliseName, directLookup, reverseLookup
 
 
@@ -18,7 +18,6 @@ dataPath = os.path.abspath("../../../data")
 #exit()
 
 conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase']
-
 
 for conference in conferences:
     g = open(os.path.join(dataPath, 'normalised-pc', '%s.csv' % conference), 'wb')
