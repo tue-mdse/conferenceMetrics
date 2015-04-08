@@ -77,6 +77,9 @@ Thanks a lot to [Leon Moonen](http://leonmoonen.com) for spelling out the exact 
 
 If you find the dataset or tooling useful in your research, please consider citing the following paper:
 
-> Bogdan Vasilescu, Alexander Serebrenik and Tom Mens, "Mining software engineering conference data", in _MSR '13: Proceedings of the 10th Working Conference on Mining Software Repositories_, May 18-–19, 2013. San Francisco, California, USA.
+> Bogdan Vasilescu, Alexander Serebrenik, and Tom Mens, ["Mining software engineering conference data"](http://bvasiles.github.io/papers/msr13.pdf), in _MSR '13: Proceedings of the 10th Working Conference on Mining Software Repositories_, May 18-–19, 2013. San Francisco, California, USA; pages 373–376, ACM.
 
-Additionally, if you're interested in a "health assessment" of software engineering conferences, consider reading [this preprint](http://www.win.tue.nl/mdse/conferences/SCP13.pdf) submitted to Science of Computer Programming.
+Additionally, if you're interested in a "health assessment" of software engineering conferences, consider reading our Science of Computer Programming
+paper:
+
+> Bogdan Vasilescu, Alexander Serebrenik, Tom Mens, Mark van den Brand, and Ekaterina Pek, ["How healthy are software engineering conferences?"](http://bvasiles.github.io/papers/scico13.pdf), Science of Computer Programming 89, Part C, (2014), 251–272.
